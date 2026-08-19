@@ -67,6 +67,11 @@ def pret_text(raw):
     titlu = raw.get("public_title") or ""
     if " - CHF" in titlu:
         return titlu.split(" - ", 1)[1]
+    # ~16% din anunturi nu au pret public; portalul scrie "auf Anfrage".
+    # E o formulare utila in sine, deci o aratam in loc de camp gol.
+    coada = titlu.rsplit(" - ", 1)[-1] if " - " in titlu else ""
+    if "anfrage" in coada.lower() or "demande" in coada.lower():
+        return coada
     for key, sufix in (("rent_gross", "brutto"), ("rent_net", "netto")):
         if raw.get(key):
             return "CHF %s %s" % (format(int(raw[key]), ",d").replace(",", "'"), sufix)
