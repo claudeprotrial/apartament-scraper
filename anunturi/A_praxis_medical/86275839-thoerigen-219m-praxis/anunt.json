@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1636.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/auf-anfrage-3367-thorigen/86275839/",
+    "descarcat": "2026-08-17 12:36",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke",
+        "arztpraxis"
+      ],
+      "kw_praxis_slabe": [
+        "<type>",
+        "therapie"
+      ],
+      "kw_business": [
+        "büro"
+      ],
+      "kw_retail": [
+        "bar",
+        "bäckerei"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 4
+  },
+  "raw": {
+    "pk": 86275839,
+    "slug": "auf-anfrage-3367-thorigen",
+    "url": "/de/wohnung/auf-anfrage-3367-thorigen/86275839/",
+    "short_url": "/86275839/",
+    "submit_url": "/de/listing/86275839/submit/",
+    "status": "act",
+    "created": "2026-08-15T04:22:51.981081+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "PRACTICE",
+    "reference": "..1412636",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "1412636",
+    "alternative_reference": null,
+    "price_display": 2555,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-15T04:22:53.150644+02:00",
+    "rent_net": 2555,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "219m² Praxis",
+    "public_title": "Auf Anfrage, 3367 Thörigen - CHF 2’555 exkl. NK pro Monat",
+    "pitch_title": "219m² Praxis in Thörigen mieten",
+    "description_title": "MODERN, GROSSZÜGIG UND FLEXIBEL",
+    "description": "Diese kernsanierte und barrierefreie Praxis in Thörigen (3367) bietet mehrere lichtdurchflutete Zimmer (nach Ausbauwunsch) in einem modernen Gebäude - ideal für Hausarztpraxis, Therapie, Physio oder ein stilvolles Büro. Dank Erstbezug geniessen Sie volle Gestaltungsfreiheit: Ausbau, Materialien und Raumaufteilung können nach Ihren Bedürfnissen mitbestimmt werden. Top-Lage an der stark frequentierten Lindenstrasse mit separatem Eingang und bester Sichtbarkeit. Attraktiv für eine Hausarztpraxis: Medikamentenverkauf möglich, da keine Apotheke im Dorf. Aussenparkplätze optional.   \n  \nDieses BETTERHOMES-Angebot zeichnet sich durch folgende Vorteile aus:   \n\\- Erstbezug nach Kernsanierung   \n  \n\\- lichtdurchflutete Räume in modernem Gebäude   \n  \n\\- volle Gestaltungsfreiheit und Mitsprache bei Ausbau   \n  \n\\- individuelle Raumaufteilung möglich   \n  \n\\- vielseitige Nutzungsmöglichkeiten im Medizin- und Gesundheitsbereich, aber auch als Büro   \n  \n\\- Standortvorteil für eine Hausarztpraxis: Medikamentenverkauf möglich aufgrund fehlender Apotheke im Dorf   \n  \n\\- Beste Sichtbarkeit und separater Eingang an stark frequentierter Lindenstrasse   \n  \n\\- komfortabel und barrierefrei   \n  \n\\- separater Notausgang für zusätzliche Sicherheit   \n  \n\\- Aussenparkplätze optional vorhanden (CHF 55.-/mtl.)   \n  \n\\- und, und, und ...   \n  \n  \nInteressiert? Kontaktieren Sie uns für eine unverbindliche Besichtigung  auch Online-Besichtigung möglich!   \n  \nNichts Passendes gefunden? Über 2'000 weitere Angebote unter: www.betterhomes.ch - der Immobilienfairmittler®   \n  \nSelber eine Immobilie zu vermarkten?   \nProfitieren Sie von unserem Know-how: https://www.betterhomes.ch/de/profitieren   \n  \nSie möchten eine Immobilie schätzen lassen?   \nErfahren Sie jetzt ihren Wert über unsere Gratis-Schätzung, sofort und unverbindlich!   \nhttps://www.betterhomes.ch/de/knowledge/estimation   \n  \n  \nMehr Details   \nLage: zentral, ländlich   \nZustand: neu   \n  \nBäder / Nasszellen: 2 (2x WC / Lavabo)   \nÖffentliche Verkehrsmittel: Bus, 50 m   \nSchulen: -   \nGeschäfte: Bäckerei, 50 m / Metzgerei, 50 m / Coop, 2.5 km",
+    "surface_living": null,
+    "surface_property": 0,
+    "surface_usable": 219,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 219,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Auf Anfrage",
+    "zipcode": 3367,
+    "city": "Thörigen",
+    "public_address": "Auf Anfrage, 3367 Thörigen",
+    "latitude": 47.1630398,
+    "longitude": 7.742035699999999,
+    "year_built": 2025,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.betterhomes.ch/de/immobilie-suchen/detail/objectId/42be5026c4fd6cc6da98cfa5df2a90f8",
+    "live_viewing_url": null,
+    "cover_image": 48968318,
+    "images": [
+      {
+        "pk": 48968318,
+        "caption": "",
+        "url": "/media/ff/2026/08/zr054z5h9q8vvpzlku5it5m4utpm1xiu0sxpte8ibu89nqauqj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/zr054z5h9q8vvpzlku5it5m4utpm1xiu0sxpte8ibu89nqauqj.jpg?alias=thumb_m&signature=F17_K6Z_syeWNq0j1toXccS8vB0Xs9swyT4xIAQNAzA",
+        "url_listing_search": "/thumb/ff/2026/08/zr054z5h9q8vvpzlku5it5m4utpm1xiu0sxpte8ibu89nqauqj.jpg?alias=listing_search&signature=T9XbCNGS1lI4n7Ih5ozWlb676m3ObBCb3TIKcPYG5WI",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48968319,
+        "caption": "",
+        "url": "/media/ff/2026/08/a0p5vpgq3s2l7na53j1oo0wjq7696lquaxyhvkbf5hyets32b3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/a0p5vpgq3s2l7na53j1oo0wjq7696lquaxyhvkbf5hyets32b3.jpg?alias=thumb_m&signature=5WQk7_jr_TD_84ZGlg6FwVyUB4o3_1OjpoOtKlz9J84",
+        "url_listing_search": "/thumb/ff/2026/08/a0p5vpgq3s2l7na53j1oo0wjq7696lquaxyhvkbf5hyets32b3.jpg?alias=listing_search&signature=KtpYMj1o61s5QHpkFdwoHVT5BEhMhX1cIJfGWM_KP8g",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48968320,
+        "caption": "",
+        "url": "/media/ff/2026/08/kddnpsrbtwu2uxiu2x3kn0w22cocsezroyin01vxwz081tzmd9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/kddnpsrbtwu2uxiu2x3kn0w22cocsezroyin01vxwz081tzmd9.jpg?alias=thumb_m&signature=Wvofayc-RaxOOwrl6s6Q0sVCZil-mc2j_2cgPMZna3U",
+        "url_listing_search": "/thumb/ff/2026/08/kddnpsrbtwu2uxiu2x3kn0w22cocsezroyin01vxwz081tzmd9.jpg?alias=listing_search&signature=uu2MSzN6vdrVs3nHIMFqMiksITfGdbMzi8-MLA69FUc",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48968321,
+        "caption": "",
+        "url": "/media/ff/2026/08/cesmasa5pyqurqpq0ysr105m5hhc37qp390fczfzc1y8uatni3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/cesmasa5pyqurqpq0ysr105m5hhc37qp390fczfzc1y8uatni3.jpg?alias=thumb_m&signature=4Zz5SBSpu_8pY2-GL5kBSKIab3Sd-tTUv-9Pxzb3XU4",
+        "url_listing_search": "/thumb/ff/2026/08/cesmasa5pyqurqpq0ysr105m5hhc37qp390fczfzc1y8uatni3.jpg?alias=listing_search&signature=MQmoEwuGCgXK19llty6sQKpuvq7mVBaHvzl1dmnToWY",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "BETTERHOMES (Schweiz) AG",
+      "name_2": null,
+      "street": "Weltpoststrasse 3E",
+      "zipcode": "3015",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png",
+        "url_org_logo_m": "/thumb/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png?alias=org_logo_m&signature=huwCQjEiPzMWjK8iEAg-X9wK_Gf3W-DAREVe4V8_TuQ"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "219m² Praxis in Thörigen mieten",
+    "livingspace": 219
+  }
+}

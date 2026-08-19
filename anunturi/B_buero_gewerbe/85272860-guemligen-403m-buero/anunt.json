@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1620.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bahnhofstrasse-4-3073-gumligen/85272860/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "büroräume",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 85272860,
+    "slug": "bahnhofstrasse-4-3073-gumligen",
+    "url": "/de/wohnung/bahnhofstrasse-4-3073-gumligen/85272860/",
+    "short_url": "/85272860/",
+    "submit_url": "/de/listing/85272860/submit/",
+    "status": "act",
+    "created": "2025-09-04T09:20:15.322147+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "",
+    "alternative_reference": "",
+    "price_display": 240,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-09-04T09:20:17.262401+02:00",
+    "rent_net": 240,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "403m² Büro",
+    "public_title": "Bahnhofstrasse 4, 3073 Gümligen - CHF 240 exkl. NK pro m² / Jahr",
+    "pitch_title": "403m² Büro in Gümligen mieten",
+    "description_title": "Helle Büro- und Arbeitsräume für höchste Ansprüche !",
+    "description": "Nach Vereinbarung vermieten wir diese sehr schönen Büroräume an bester Lage in Gümligen mit folgenden Vorzügen:  \n  \n\n*   Moderne helle Räumlichkeiten mit viel Gestaltungsmöglichkeiten\n*   Raumlüftung mit Möglichkeit zur Klimatisierung\n*   intelligente Beleuchtung bereits vorhanden\n*   Verpflegungsmöglichkeiten im EG der Liegenschaft und in der direkten Umgebung\n*   Gute Verkehrsinfrastruktur ÖV (S-Bahn / Bus / Tram => HB Bern 10 Min.)\n*   Gute Verkehrsinfrastruktur motorisierter Individualverkehr (Autobahnauffahrt A6 => 5 Min.)\n*   Parkmöglichkeiten nebst Einstellhalle in unmittelbarer Nähe vorhanden\n*   Miete von Teilflächen möglich\n\nWir freuen uns auf Ihre Kontaktaufnahme und stehen für eine unverbindliche Präsentation und Beratung jederzeit sehr gerne zur Verfügung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 403,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 403,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "garage"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bahnhofstrasse 4",
+    "zipcode": 3073,
+    "city": "Gümligen",
+    "public_address": "Bahnhofstrasse 4, 3073 Gümligen",
+    "latitude": 46.9346091,
+    "longitude": 7.5062321,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "https://youtu.be/lGR-qaHlMgw",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 28288315,
+    "images": [
+      {
+        "pk": 28288315,
+        "caption": "",
+        "url": "/media/ff/2025/09/5rplxk7yfgqsmzz5gv57gydbph6jhpun0rznvbqibykxa4c1r4.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/5rplxk7yfgqsmzz5gv57gydbph6jhpun0rznvbqibykxa4c1r4.jpg?alias=thumb_m&signature=0l3Q6Tsz0cbKOociMIEluCzJghrJfJT6_e20aNZUk_g",
+        "url_listing_search": "/thumb/ff/2025/09/5rplxk7yfgqsmzz5gv57gydbph6jhpun0rznvbqibykxa4c1r4.jpg?alias=listing_search&signature=UPjYDEcctAgOw62PvkjTaXfeDjYLehpk2u6U1SPmaPU",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288316,
+        "caption": "",
+        "url": "/media/ff/2025/09/01he7nhj5953n2hqst4yedfvfwkkspcvdmop32odeu81kbud53.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/01he7nhj5953n2hqst4yedfvfwkkspcvdmop32odeu81kbud53.jpg?alias=thumb_m&signature=j5mqRxBnIfVEyGJJHlJ32kT8IceXnwUmhpBnW0Xlar4",
+        "url_listing_search": "/thumb/ff/2025/09/01he7nhj5953n2hqst4yedfvfwkkspcvdmop32odeu81kbud53.jpg?alias=listing_search&signature=_QX2JE23SEIm2w6txXJajNDtxngtGNLPTmuyyeZWaVE",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288317,
+        "caption": "",
+        "url": "/media/ff/2025/09/x115bxgk8trg55waykwcmrx67pjdsf3jhahf4xtmol83hgb9cu.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/x115bxgk8trg55waykwcmrx67pjdsf3jhahf4xtmol83hgb9cu.jpg?alias=thumb_m&signature=tHSqnWwdzKS-Wwz3l39VFLbS9P3XkQjH7rYsgOAvgpQ",
+        "url_listing_search": "/thumb/ff/2025/09/x115bxgk8trg55waykwcmrx67pjdsf3jhahf4xtmol83hgb9cu.jpg?alias=listing_search&signature=kMuo2ygx_d5zsUzlDL4slWOxkpXhdUClgNqOnO5Aa2w",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 28288318,
+        "caption": "",
+        "url": "/media/ff/2025/09/jjr7b8j4hi2krpocql909kup94o87eesua00n4pjfq64byam1q.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/jjr7b8j4hi2krpocql909kup94o87eesua00n4pjfq64byam1q.jpg?alias=thumb_m&signature=uVpM7Hz7HSoC_FDspZnu6dsEjgpNIsrxHtxkw6P5AhE",
+        "url_listing_search": "/thumb/ff/2025/09/jjr7b8j4hi2krpocql909kup94o87eesua00n4pjfq64byam1q.jpg?alias=listing_search&signature=NbZ7xTpG5Vof_Y_QTY9vgEa5iF2OOFiahmcvvXar9ek",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288319,
+        "caption": "",
+        "url": "/media/ff/2025/09/0g28qjvpg7b9l6loo8ewym9brgojg69zswqvef8mr6adxvvfl0.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/0g28qjvpg7b9l6loo8ewym9brgojg69zswqvef8mr6adxvvfl0.jpg?alias=thumb_m&signature=axDliBlguunag4GvsEUUYfEMc9fnDg3MV2mHlqYSBcc",
+        "url_listing_search": "/thumb/ff/2025/09/0g28qjvpg7b9l6loo8ewym9brgojg69zswqvef8mr6adxvvfl0.jpg?alias=listing_search&signature=RxNhjSQVg_VLZQ8yOeLOW02a8ie_3Mlca-Q40BcmOug",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288320,
+        "caption": "",
+        "url": "/media/ff/2025/09/tc8g9jpwqf88fq3ezah8paran54g63rrprx16d8o73j4slybi3.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/tc8g9jpwqf88fq3ezah8paran54g63rrprx16d8o73j4slybi3.jpg?alias=thumb_m&signature=IhQYJRpaLBYbgKRilnqkxfoFgCHW6O-FExquh8IMSXE",
+        "url_listing_search": "/thumb/ff/2025/09/tc8g9jpwqf88fq3ezah8paran54g63rrprx16d8o73j4slybi3.jpg?alias=listing_search&signature=Ks97RF4zPX4T1LcD34V_cQJSxC-29jGgLMZmsTvJ7Fg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288321,
+        "caption": "",
+        "url": "/media/ff/2025/09/k16vdw2xzwkse79rv3so7ydkba147a158hem4vv0chmxaxnz67.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/k16vdw2xzwkse79rv3so7ydkba147a158hem4vv0chmxaxnz67.jpg?alias=thumb_m&signature=s7biPtuYNDpYL39yMePUnqlV8hZStcKXI8YXap0XyIo",
+        "url_listing_search": "/thumb/ff/2025/09/k16vdw2xzwkse79rv3so7ydkba147a158hem4vv0chmxaxnz67.jpg?alias=listing_search&signature=47V6WopMCmCgzzyjDHGYsznoMyi5WuE0tuXX5t1IMAI",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288322,
+        "caption": "",
+        "url": "/media/ff/2025/09/kfdp5bidv0fh5oobn6ugs59jfg9pnn3pn7ma72yd9wv5cp8buw.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/kfdp5bidv0fh5oobn6ugs59jfg9pnn3pn7ma72yd9wv5cp8buw.jpg?alias=thumb_m&signature=CCzJGjZskL1IzJLung4oMldwjI2ZAcU8yJTjxyAZabo",
+        "url_listing_search": "/thumb/ff/2025/09/kfdp5bidv0fh5oobn6ugs59jfg9pnn3pn7ma72yd9wv5cp8buw.jpg?alias=listing_search&signature=xI6-Zef-Y4Sf51AafXup_i8xlAYljvjvPkKdT7IedVc",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288323,
+        "caption": "",
+        "url": "/media/ff/2025/09/mwoe2k8sw8cpfk1oupof5zywxw2qxfg5tpo5vtr2rwjitqhqr7.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/mwoe2k8sw8cpfk1oupof5zywxw2qxfg5tpo5vtr2rwjitqhqr7.jpg?alias=thumb_m&signature=Mt03CfzGsoPuLVDxLwgyqlB27LxrbGF-pvxwy83Ng6c",
+        "url_listing_search": "/thumb/ff/2025/09/mwoe2k8sw8cpfk1oupof5zywxw2qxfg5tpo5vtr2rwjitqhqr7.jpg?alias=listing_search&signature=azEd5-WA-12Q3dsV7WDpOmBNRboe27OrtRy8Loyt1MQ",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288324,
+        "caption": "",
+        "url": "/media/ff/2025/09/wm7qs8glc4s4o1ikzjr8q1gdeyvbejl1hfkldiahnym1q33l1i.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/wm7qs8glc4s4o1ikzjr8q1gdeyvbejl1hfkldiahnym1q33l1i.jpg?alias=thumb_m&signature=dbY0Me5w10pltAoK9p0g8Xpw3nIKSH_o_hHzF8URchY",
+        "url_listing_search": "/thumb/ff/2025/09/wm7qs8glc4s4o1ikzjr8q1gdeyvbejl1hfkldiahnym1q33l1i.jpg?alias=listing_search&signature=LVVzd5xWMs1Xa73x7jPl8NZNoQn4cMOqzPrvitn-G-E",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288325,
+        "caption": "",
+        "url": "/media/ff/2025/09/narey1kbti2bq2gtdarpsxxu1u9rvoj65fg84fww8f8eq0ddji.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/narey1kbti2bq2gtdarpsxxu1u9rvoj65fg84fww8f8eq0ddji.jpg?alias=thumb_m&signature=Uq5Rg5pu-mb1EmgzDdTT5_8-3wDFcacWYnuWmCj6HFo",
+        "url_listing_search": "/thumb/ff/2025/09/narey1kbti2bq2gtdarpsxxu1u9rvoj65fg84fww8f8eq0ddji.jpg?alias=listing_search&signature=WhWvLN0GCbCbqsF59pZyTpmbFj0fhNZiw2BNDvchn_c",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 28288326,
+        "caption": "",
+        "url": "/media/ff/2025/09/8x0p30pdnseq01b8gciyf1xgv5nvak224pv1jukdm7px6hyos4.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/8x0p30pdnseq01b8gciyf1xgv5nvak224pv1jukdm7px6hyos4.jpg?alias=thumb_m&signature=ojbpfF81jWAxgJV5pA-eQESIvIsa0XBOyxp0eAGHw1U",
+        "url_listing_search": "/thumb/ff/2025/09/8x0p30pdnseq01b8gciyf1xgv5nvak224pv1jukdm7px6hyos4.jpg?alias=listing_search&signature=zj84ak_YhErnm8jj1ntjwgBoZWA_dmMZhrPS3mdLUJM",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      563512,
+      563513
+    ],
+    "agency": {
+      "name": "Elron Immobilien AG",
+      "name_2": "",
+      "street": "Worbstrasse 46",
+      "zipcode": "3074",
+      "city": "Muri b. Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2019/10/84miedsuwbwqae25hrirjx5d2500fi85ihcu1f1g2cx2oiccdn.jpg",
+        "url_org_logo_m": "/thumb/org/2019/10/84miedsuwbwqae25hrirjx5d2500fi85ihcu1f1g2cx2oiccdn.jpg?alias=org_logo_m&signature=jvVlBl6XgS6a5BdfmLDPnkd2nRGtdsKE-tHsUPxK8hk"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "403m² Büro in Gümligen mieten",
+    "livingspace": 403
+  }
+}

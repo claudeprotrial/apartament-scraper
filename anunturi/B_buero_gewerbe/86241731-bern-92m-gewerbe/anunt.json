@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1628.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/freiestrasse-54-3012-bern/86241731/",
+    "descarcat": "2026-08-17 12:37",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "ladenlokal",
+        "schaufenster",
+        "verkaufsfläche"
+      ],
+      "kw_wohnen": [
+        "studio"
+      ]
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 86241731,
+    "slug": "freiestrasse-54-3012-bern",
+    "url": "/de/wohnung/freiestrasse-54-3012-bern/86241731/",
+    "short_url": "/86241731/",
+    "submit_url": "/de/listing/86241731/submit/",
+    "status": "act",
+    "created": "2026-08-03T16:00:19.431404+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..mgzri.4pn7q",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "mgzri.4pn7q",
+    "alternative_reference": null,
+    "price_display": 2890,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-03T16:00:19.559925+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 2890,
+    "short_title": "92m² Gewerbe",
+    "public_title": "Freiestrasse 54, 3012 Bern - CHF 2’890",
+    "pitch_title": "92m² Gewerbe in Bern mieten",
+    "description_title": "Attraktives Ladenlokal mit grosser Schaufensterfront – 92 m²",
+    "description": "An gut sichtbarer Lage erwartet Sie dieses vielseitig nutzbare Ladenlokal im Erdgeschoss mit einer Fläche von rund 92 m². Die grosszügige Schaufensterfront bietet ideale Voraussetzungen für eine ansprechende Präsentation Ihres Angebots und sorgt gleichzeitig für viel natürliches Tageslicht im Innenraum. \n\nDer offene und flexibel gestaltbare Grundriss eignet sich hervorragend für verschiedene Nutzungsmöglichkeiten – sei es als Verkaufsfläche, Dienstleistungsbetrieb, Studio oder modernes Büro. Eine eigene Toilette ergänzt das praktische Raumangebot und bietet zusätzlichen Komfort. \n\nDank der attraktiven Lage in einem beliebten Quartier profitieren Sie von hoher Sichtbarkeit, Laufkundschaft sowie einer ausgezeichneten Erreichbarkeit mit den öffentlichen Verkehrsmitteln und dem Auto. \n\nHighlights \n\n  * Rund 92 m² Nutzfläche im Erdgeschoss \n\n  * Grosszügige Schaufensterfront mit optimaler Werbewirkung \n\n  * Heller, offener und flexibel nutzbarer Grundriss \n\n  * Ideal für Verkauf, Dienstleistungen, Studio oder Büro \n\n  * Eigene Toilette vorhanden \n\n  * Gut frequentierte Lage mit hoher Sichtbarkeit \n\n  * Hervorragende Anbindung an den öffentlichen Verkehr und das Strassennetz \n\n\n\n\nVereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den vielseitigen Möglichkeiten dieser attraktiven Gewerbefläche.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 92,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 92,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "ramp"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Freiestrasse 54",
+    "zipcode": 3012,
+    "city": "Bern",
+    "public_address": "Freiestrasse 54, 3012 Bern",
+    "latitude": 46.9543758,
+    "longitude": 7.426076399999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48616353,
+    "images": [
+      {
+        "pk": 48616353,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358011/image/874a24ee8fa349a908cd393d6a565e80.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358011/image/874a24ee8fa349a908cd393d6a565e80.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358011/image/874a24ee8fa349a908cd393d6a565e80.jpg",
+        "ordering": 1,
+        "width": 800,
+        "height": 533
+      },
+      {
+        "pk": 48616354,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358011/image/84f37b913f982a36a92b1d6464f5aca6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358011/image/84f37b913f982a36a92b1d6464f5aca6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358011/image/84f37b913f982a36a92b1d6464f5aca6.jpg",
+        "ordering": 2,
+        "width": 800,
+        "height": 599
+      },
+      {
+        "pk": 48616355,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358011/image/319547c3da5b8d8792c07056d4950118.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358011/image/319547c3da5b8d8792c07056d4950118.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358011/image/319547c3da5b8d8792c07056d4950118.jpg",
+        "ordering": 3,
+        "width": 800,
+        "height": 599
+      },
+      {
+        "pk": 48616356,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358011/image/2a0147d6f72685950fffbd5df0242df9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358011/image/2a0147d6f72685950fffbd5df0242df9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358011/image/2a0147d6f72685950fffbd5df0242df9.jpg",
+        "ordering": 4,
+        "width": 800,
+        "height": 533
+      },
+      {
+        "pk": 48616357,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358011/image/0b3716e2c10634b812611d19ec5eda39.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358011/image/0b3716e2c10634b812611d19ec5eda39.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358011/image/0b3716e2c10634b812611d19ec5eda39.jpg",
+        "ordering": 5,
+        "width": 800,
+        "height": 599
+      },
+      {
+        "pk": 48616358,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358011/image/00ef3ad9f9372bdb3c0ecd04394dca45.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358011/image/00ef3ad9f9372bdb3c0ecd04394dca45.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358011/image/00ef3ad9f9372bdb3c0ecd04394dca45.jpg",
+        "ordering": 6,
+        "width": 800,
+        "height": 533
+      },
+      {
+        "pk": 48616359,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358011/image/a1d0eac890a4b52dd23fa6b9067ede3a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358011/image/a1d0eac890a4b52dd23fa6b9067ede3a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358011/image/a1d0eac890a4b52dd23fa6b9067ede3a.jpg",
+        "ordering": 7,
+        "width": 800,
+        "height": 533
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Zollinger Immobilien AG",
+      "name_2": null,
+      "street": "Worbstrasse 237",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg?alias=org_logo_m&signature=bqUx0fqWBn032MT4NRiX3mBqMrEcMeT7q4Hwua2TyN0"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003358011",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "92m² Gewerbe in Bern mieten",
+    "livingspace": 92
+  }
+}

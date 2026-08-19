@@ -1,0 +1,153 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1687.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/auf-anfrage-3011-bern/86275884/",
+    "descarcat": "2026-08-17 12:30",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "agentur",
+        "bürofläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 4
+  },
+  "raw": {
+    "pk": 86275884,
+    "slug": "auf-anfrage-3011-bern",
+    "url": "/de/wohnung/auf-anfrage-3011-bern/86275884/",
+    "short_url": "/86275884/",
+    "submit_url": "/de/listing/86275884/submit/",
+    "status": "act",
+    "created": "2026-08-15T04:24:29.480052+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..1412704",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "1412704",
+    "alternative_reference": null,
+    "price_display": 3830,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-15T04:24:30.589973+02:00",
+    "rent_net": 3450,
+    "rent_charges": 380,
+    "rent_gross": 3830,
+    "short_title": "Büro",
+    "public_title": "Auf Anfrage, 3011 Bern - CHF 3’830 inkl. NK pro Monat",
+    "pitch_title": "Büro in Bern mieten",
+    "description_title": "GROSSZÜGIG UND ZENTRAL, ERSTE 3 MONATE GRATIS",
+    "description": "Diese grosszügige, gepflegte Bürofläche in 3011 Bern überzeugt mit 5 Zimmern auf ca. 153 m² in sehr zentraler Lage nahe Bahnhof Bern. Ideal für Teams, Agenturen, Beratungen oder Praxen, die kurze Wege und ein repräsentatives Umfeld schätzen. Ein Pausenraum mit Dusche sorgt für Komfort im Arbeitsalltag, die kleine Kochecke für unkomplizierte Verpflegung. Auf Wunsch ist die Übernahme von Mobiliar möglich.   \n  \nDieses BETTERHOMES-Angebot zeichnet sich durch folgende Vorteile aus:   \n\\- sehr zentrale Lage nähe Bahnhof Bern   \n  \n\\- grosszügige und gepflegte Räumlichkeiten   \n  \n\\- mit Pausenraum und Dusche   \n  \n\\- kleine Küchenecke   \n  \n\\- Übernahme von Mobiliar möglich   \n  \n\\- und, und, und ...   \n  \n  \nInteressiert? Kontaktieren Sie uns für eine unverbindliche Besichtigung  auch Online-Besichtigung möglich!   \n  \nNichts Passendes gefunden? Über 2'000 weitere Angebote unter: www.betterhomes.ch - der Immobilienfairmittler®   \n  \nSelber eine Immobilie zu vermarkten?   \nProfitieren Sie von unserem Know-how: https://www.betterhomes.ch/de/profitieren   \n  \nSie möchten eine Immobilie schätzen lassen?   \nErfahren Sie jetzt ihren Wert über unsere Gratis-Schätzung, sofort und unverbindlich!   \nhttps://www.betterhomes.ch/de/knowledge/estimation   \n  \n  \nMehr Details   \nLage: sehr zentral   \nZustand: gut   \n  \nBäder / Nasszellen: 3 (1 x Dusche / Lavabo, 2 x WC / Lavabo)   \nÖffentliche Verkehrsmittel: Bahn, 100 m   \nGeschäfte: Coop, 30 m / Div. Geschäfte, in unmittelbarer Umgebung",
+    "surface_living": null,
+    "surface_property": 153,
+    "surface_usable": 0,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 0,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Auf Anfrage",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Auf Anfrage, 3011 Bern",
+    "latitude": 46.94923499999999,
+    "longitude": 7.443910799999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.betterhomes.ch/de/immobilie-suchen/detail/objectId/82b3618a8979a0793766562749dfc438",
+    "live_viewing_url": null,
+    "cover_image": 48968489,
+    "images": [
+      {
+        "pk": 48968489,
+        "caption": "",
+        "url": "/media/ff/2026/08/1pmkf2c5gp6alj2ze9p3jwhl3u182usbitmmj0kngnw5z3i46y.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/1pmkf2c5gp6alj2ze9p3jwhl3u182usbitmmj0kngnw5z3i46y.jpg?alias=thumb_m&signature=RYHL23T8O3HVHapi5e07JC1dW-16Tu3oeJCKHPCAo0E",
+        "url_listing_search": "/thumb/ff/2026/08/1pmkf2c5gp6alj2ze9p3jwhl3u182usbitmmj0kngnw5z3i46y.jpg?alias=listing_search&signature=PpQHrssNq4OiNrqBlmFSQttlKiG1_TAKLi52xmvYwyY",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48968490,
+        "caption": "",
+        "url": "/media/ff/2026/08/ao9d87d6yy8zugewxsa8d6ptl1zq8ctdhx121taa4fgqm97hyi.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/ao9d87d6yy8zugewxsa8d6ptl1zq8ctdhx121taa4fgqm97hyi.jpg?alias=thumb_m&signature=9ZuHrDFSYMsK1x_DdqkgAhPMaC3kMylpsXmhshV9jxE",
+        "url_listing_search": "/thumb/ff/2026/08/ao9d87d6yy8zugewxsa8d6ptl1zq8ctdhx121taa4fgqm97hyi.jpg?alias=listing_search&signature=GoQr11tV8oYpYYX8SgIMbf6u30OEEyPwqSv9EgQs8IA",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48968491,
+        "caption": "",
+        "url": "/media/ff/2026/08/yuh1xm7vs790origi7cj6bupeqy8dveszb4ihri1rk9dzc2bf1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/yuh1xm7vs790origi7cj6bupeqy8dveszb4ihri1rk9dzc2bf1.jpg?alias=thumb_m&signature=S21gfYwXu1777UmQQiqwh3wMS4MlavWjlajuBAAm5Z0",
+        "url_listing_search": "/thumb/ff/2026/08/yuh1xm7vs790origi7cj6bupeqy8dveszb4ihri1rk9dzc2bf1.jpg?alias=listing_search&signature=29eEfXY2m4JX2pjfCVNaG0sGtoA8b_aImgyIAD8sRtE",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48968492,
+        "caption": "",
+        "url": "/media/ff/2026/08/mp5pe2k8dgktuarm9oan9snux2regrvwc8kjc4v9wm1bojll4s.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/mp5pe2k8dgktuarm9oan9snux2regrvwc8kjc4v9wm1bojll4s.jpg?alias=thumb_m&signature=blecAu45jJIVkCwObAoork-O98eYingMvsG8zlP3OU4",
+        "url_listing_search": "/thumb/ff/2026/08/mp5pe2k8dgktuarm9oan9snux2regrvwc8kjc4v9wm1bojll4s.jpg?alias=listing_search&signature=iV5OymnUJQRVJPO2J5QgOSFCHVMaiTwgbBKX4v28eMU",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "BETTERHOMES (Schweiz) AG",
+      "name_2": null,
+      "street": "Weltpoststrasse 3E",
+      "zipcode": "3015",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png",
+        "url_org_logo_m": "/thumb/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png?alias=org_logo_m&signature=huwCQjEiPzMWjK8iEAg-X9wK_Gf3W-DAREVe4V8_TuQ"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Büro in Bern mieten",
+    "livingspace": 0
+  }
+}

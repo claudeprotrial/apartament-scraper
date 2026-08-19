@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1658.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/industrie-neuhof-78-3422-kirchberg-be/85891457/",
+    "descarcat": "2026-08-17 12:33",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "gewerbe"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 13
+  },
+  "raw": {
+    "pk": 85891457,
+    "slug": "industrie-neuhof-78-3422-kirchberg-be",
+    "url": "/de/wohnung/industrie-neuhof-78-3422-kirchberg-be/85891457/",
+    "short_url": "/85891457/",
+    "submit_url": "/de/listing/85891457/submit/",
+    "status": "act",
+    "created": "2026-03-23T14:46:37.228913+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "664.1725632.ab221d04-26bc-11f1-89d7-069ae14c7a06",
+    "ref_property": "664",
+    "ref_house": "1725632",
+    "ref_object": "ab221d04-26bc-11f1-89d7-069ae14c7a06",
+    "alternative_reference": null,
+    "price_display": 220,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-03-23T14:46:39.847632+01:00",
+    "rent_net": 220,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "904m² Gewerbe",
+    "public_title": "Industrie Neuhof 78, 3422 Kirchberg BE - CHF 220 exkl. NK pro m² / Jahr",
+    "pitch_title": "904m² Gewerbe in Kirchberg BE mieten",
+    "description_title": "904 m2 Gewerbe-/Bürofläche",
+    "description": "**Moderne Büroflächen in etablierter Gewerbelage**   \n  \nAn der Industrie Neuhof 78 in Kirchberg stehen attraktive Büroflächen zur Vermietung bereit. Die Liegenschaften befinden sich in einem gut eingespielten Gewerbequartier und richten sich an Unternehmen, die Wert auf eine professionelle Adresse, flexible Raumaufteilung und eine hervorragende Verkehrsanbindung legen.   \n  \n**Lage & Erreichbarkeit **   \n  \nKirchberg liegt im Herzen des Kantons Bern und bietet eine der besten Verkehrslagen der Region. Die Autobahn A1 ist in wenigen Minuten erreichbar und verbindet den Standort direkt mit Bern, Biel, Solothurn und Zürich. Für Mitarbeitende, die mit dem öffentlichen Verkehr anreisen, steht der Bahnhof Kirchberg-Alchenflüh in der Nähe zur Verfügung, von wo aus regelmässige Verbindungen in die Region bestehen. Grosszügige Parkplätze direkt am Gebäude sorgen dafür, dass auch Besucher und Kundinnen unkompliziert und kostenlos parkieren können.   \n  \n**Die Büroflächen**   \n  \nIm 3. Obergeschoss des Gebäudes erwarten Sie exklusive, private Büroflächen, die ausschliesslich über einen persönlichen Schlüssel und separaten Eingang zugänglich sind. Das gesamte Stockwerk steht Ihnen zur alleinigen Nutzung zur Verfügung, diskret, sicher und vollständig auf Ihre Bedürfnisse ausgerichtet. Die hellen, autonomen Bürozimmer sind entlang zwei parallel verlaufender Korridore angeordnet. Dank grosszügiger Fensterfronten auf beiden Gebäudeseiten profitieren alle Räume von natürlichem Tageslicht und einer angenehmen, produktiven Arbeitsatmosphäre. Im zentralen Bereich zwischen den Bürozimmern und den Korridoren befinden sich die gemeinschaftlichen Einrichtungen: zwei separate WC-Anlagen sowie ein Putzraum. Alles ist zentral gelegen, gepflegt und für alle Nutzer des Stockwerks bequem erreichbar.   \n  \n**Infrastruktur & Umfeld **   \n  \nDie Lage im Industriegebiet Neuhof bietet eine ruhige, konzentrierte Arbeitsatmosphäre fernab von städtischem Lärm und Trubel. Dennoch fehlt es nicht an Versorgung: Restaurants, Einkaufsmöglichkeiten und weitere Dienstleister befinden sich in unmittelbarer Nähe und machen den Arbeitsalltag angenehm. Das Gewerbequartier ist seit Jahren gewachsen und beherbergt eine Vielzahl etablierter Unternehmen, ein Umfeld, das Seriosität und Stabilität ausstrahlt.   \n  \n**Warum Kirchberg?**   \n  \nDer Kanton Bern bietet Unternehmen stabile und verlässliche Rahmenbedingungen. Kirchberg als Gewerbestandort verbindet die Nähe zur Bundesstadt mit einem deutlich günstigeren Kostenniveau, sowohl bei den Mietpreisen als auch im allgemeinen Betrieb. Wer in Kirchberg mietet, gewinnt Fläche, Flexibilität und eine hervorragende Anbindung, ohne die hohen Kosten eines Stadtstandorts tragen zu müssen.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 904,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 904,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Industrie Neuhof 78",
+    "zipcode": 3422,
+    "city": "Kirchberg BE",
+    "public_address": "Industrie Neuhof 78, 3422 Kirchberg BE",
+    "latitude": 47.0995666,
+    "longitude": 7.5695144,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "https://youtu.be/K5SPVXVofQU?si=Bt7gjscIZ54zk8ZQ",
+    "tour_url": "https://my.matterport.com/show/?m=5XXVJdnKXu9",
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 34625882,
+    "images": [
+      {
+        "pk": 34625882,
+        "caption": "",
+        "url": "/media/ff/2026/03/w2uwt1xgh2ex73e7qvn0882lwnh7576c7gkispzzijjc16e95s.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/w2uwt1xgh2ex73e7qvn0882lwnh7576c7gkispzzijjc16e95s.jpg?alias=thumb_m&signature=XfRTtyjuy2qYfO5J1mFb8KVgvUu4jgnOmioN3VGbatU",
+        "url_listing_search": "/thumb/ff/2026/03/w2uwt1xgh2ex73e7qvn0882lwnh7576c7gkispzzijjc16e95s.jpg?alias=listing_search&signature=ADFxlMBOsDKJ6Qnpm-421lCTaqll4JENlkbhVXCnAbc",
+        "ordering": 1,
+        "width": 1500,
+        "height": 845
+      },
+      {
+        "pk": 34625883,
+        "caption": "",
+        "url": "/media/ff/2026/03/s9t8hpu3v8586f8g54kud9ftiw69ou4kj3eijn3qmlicm6xpbg.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/s9t8hpu3v8586f8g54kud9ftiw69ou4kj3eijn3qmlicm6xpbg.jpg?alias=thumb_m&signature=Z-K6TLUGIopMqA2czzVg-0xjKXN6hawUhmYXJDDdwTc",
+        "url_listing_search": "/thumb/ff/2026/03/s9t8hpu3v8586f8g54kud9ftiw69ou4kj3eijn3qmlicm6xpbg.jpg?alias=listing_search&signature=7PLCO-sBJF4es0IL_Jr1Zkg08rx6wae5IDC6uq01_sI",
+        "ordering": 2,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 34625884,
+        "caption": "",
+        "url": "/media/ff/2026/03/s4c8lhsb4xd6vdqkrke6qsjg5yyfr9ntkp9ehak52mxtzqvqeq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/s4c8lhsb4xd6vdqkrke6qsjg5yyfr9ntkp9ehak52mxtzqvqeq.jpg?alias=thumb_m&signature=yhutnDimhS3sPsOszt5SlNDao8JJPuUiwEpRHWvRG_4",
+        "url_listing_search": "/thumb/ff/2026/03/s4c8lhsb4xd6vdqkrke6qsjg5yyfr9ntkp9ehak52mxtzqvqeq.jpg?alias=listing_search&signature=opv_CzQCPFqJ9V_5MaqDljAATQB0mtB_qHrIMpcLNhs",
+        "ordering": 3,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 34625885,
+        "caption": "",
+        "url": "/media/ff/2026/03/8qgubl1s8td3kdgs4kaufjh35efz2j735w8lhmtwbmngmv7a5f.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/8qgubl1s8td3kdgs4kaufjh35efz2j735w8lhmtwbmngmv7a5f.jpg?alias=thumb_m&signature=fhKxwKcxF45CFctGnLcNOSKEMvdVdEH0ODsiyAueo-U",
+        "url_listing_search": "/thumb/ff/2026/03/8qgubl1s8td3kdgs4kaufjh35efz2j735w8lhmtwbmngmv7a5f.jpg?alias=listing_search&signature=ijyg0onOwPReMfDYWfRUjfsLp4BYdFBwO-dOAwFukUo",
+        "ordering": 4,
+        "width": 1500,
+        "height": 843
+      },
+      {
+        "pk": 34625886,
+        "caption": "",
+        "url": "/media/ff/2026/03/ugj0cjlue87hc47f6x645tmp8bjqq80didyyy31pyck5h4edey.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/ugj0cjlue87hc47f6x645tmp8bjqq80didyyy31pyck5h4edey.jpg?alias=thumb_m&signature=6uY822clSFW6AiUD9iU85rg408pwK_AO5TpfJw1Cl-A",
+        "url_listing_search": "/thumb/ff/2026/03/ugj0cjlue87hc47f6x645tmp8bjqq80didyyy31pyck5h4edey.jpg?alias=listing_search&signature=ROIjxJNcCboK7PdJTkulYVEJx_-xGVZhxKqFuv1ZQ94",
+        "ordering": 5,
+        "width": 1500,
+        "height": 843
+      },
+      {
+        "pk": 34625887,
+        "caption": "",
+        "url": "/media/ff/2026/03/n3j27zktf7mhjb9hfcd1ccug0ypmd1cq7ifpd1znjaqzmsu1ip.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/n3j27zktf7mhjb9hfcd1ccug0ypmd1cq7ifpd1znjaqzmsu1ip.jpg?alias=thumb_m&signature=CEyX9uG8Yiv1gErC96N0N_xXaZgQUxF3ZhaWXJpq0FE",
+        "url_listing_search": "/thumb/ff/2026/03/n3j27zktf7mhjb9hfcd1ccug0ypmd1cq7ifpd1znjaqzmsu1ip.jpg?alias=listing_search&signature=tCfhOC8lWvqAd5sUKl6uA15OokMWfw01eQh-U0CbZkM",
+        "ordering": 6,
+        "width": 1500,
+        "height": 843
+      },
+      {
+        "pk": 34625888,
+        "caption": "",
+        "url": "/media/ff/2026/03/8kz7obj82dv5kgzymt6pk3p4rtjfj74nthg4b01vy4gs1kydm0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/8kz7obj82dv5kgzymt6pk3p4rtjfj74nthg4b01vy4gs1kydm0.jpg?alias=thumb_m&signature=cTcEc2qinBzgv9nev5Mu4AGuxfKhtsIeAXHpYYppa7U",
+        "url_listing_search": "/thumb/ff/2026/03/8kz7obj82dv5kgzymt6pk3p4rtjfj74nthg4b01vy4gs1kydm0.jpg?alias=listing_search&signature=ZCnfnUaYah83flQ0i0Z3I89Z6PwUfL8w_p8oiBH7XQE",
+        "ordering": 7,
+        "width": 1500,
+        "height": 843
+      },
+      {
+        "pk": 34625889,
+        "caption": "",
+        "url": "/media/ff/2026/03/27ztc1lw54v2w16rjoxgat9z48vdbvri4r2o375sv6ucfe9osa.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/27ztc1lw54v2w16rjoxgat9z48vdbvri4r2o375sv6ucfe9osa.jpg?alias=thumb_m&signature=7hpT2J1WCT-7DypmCZCsgpAGPjL3ldvUF8JrK6p4kpk",
+        "url_listing_search": "/thumb/ff/2026/03/27ztc1lw54v2w16rjoxgat9z48vdbvri4r2o375sv6ucfe9osa.jpg?alias=listing_search&signature=_yvyJ857eU1p-f_CyGNp6mGnVvQZs4idWT1llF22GK8",
+        "ordering": 8,
+        "width": 1500,
+        "height": 843
+      },
+      {
+        "pk": 34625890,
+        "caption": "",
+        "url": "/media/ff/2026/03/5xsq1vw2neaj290spgfzhephq8nruede79gk4ga2q8syb5sfog.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/5xsq1vw2neaj290spgfzhephq8nruede79gk4ga2q8syb5sfog.jpg?alias=thumb_m&signature=4ZABpRyunGcY9KV5Co65-lkDoiaGTcIdmi_JjeyCX0Y",
+        "url_listing_search": "/thumb/ff/2026/03/5xsq1vw2neaj290spgfzhephq8nruede79gk4ga2q8syb5sfog.jpg?alias=listing_search&signature=i_Pmr8kC71JgZwvWj3XN1FWM5TlmATkOe_F-8HGNd_I",
+        "ordering": 9,
+        "width": 1500,
+        "height": 843
+      },
+      {
+        "pk": 34625891,
+        "caption": "",
+        "url": "/media/ff/2026/03/lj5xj55ll5gtceo27h3fou5j19zrm2grtbzdwem3033vcc30g9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/lj5xj55ll5gtceo27h3fou5j19zrm2grtbzdwem3033vcc30g9.jpg?alias=thumb_m&signature=hXFH7-5MqYXCIgc0r_x4_5xVUT1nawcA0m_JGP0PfCo",
+        "url_listing_search": "/thumb/ff/2026/03/lj5xj55ll5gtceo27h3fou5j19zrm2grtbzdwem3033vcc30g9.jpg?alias=listing_search&signature=WlI5MGMm1loq_9RsMpYF98BjTzRfUTgSu6hdLuj0wZs",
+        "ordering": 10,
+        "width": 1500,
+        "height": 843
+      },
+      {
+        "pk": 34625892,
+        "caption": "",
+        "url": "/media/ff/2026/03/0gkg29ais73t3t3xgggtz8a1ef1gom8pcclkl1ysc999gw9rmg.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/0gkg29ais73t3t3xgggtz8a1ef1gom8pcclkl1ysc999gw9rmg.jpg?alias=thumb_m&signature=4uQOP6hQGJVNBqlovCYsvf-E9vtNkRD4rY-e43xcvtc",
+        "url_listing_search": "/thumb/ff/2026/03/0gkg29ais73t3t3xgggtz8a1ef1gom8pcclkl1ysc999gw9rmg.jpg?alias=listing_search&signature=de6uq-1NXy3a3-R_RLF3QqaDsvhXu6P3J1G1shohfGU",
+        "ordering": 11,
+        "width": 1500,
+        "height": 843
+      },
+      {
+        "pk": 34625893,
+        "caption": "",
+        "url": "/media/ff/2026/03/buggrjpx75m75yp1rglxvr3hkzwch655zyuylr5rizwr6kvrbp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/buggrjpx75m75yp1rglxvr3hkzwch655zyuylr5rizwr6kvrbp.jpg?alias=thumb_m&signature=YmKOB7R_hlrohBI-gOaUP4u7pSvtPXmgB7z46ZFkVHs",
+        "url_listing_search": "/thumb/ff/2026/03/buggrjpx75m75yp1rglxvr3hkzwch655zyuylr5rizwr6kvrbp.jpg?alias=listing_search&signature=FONCEq79vjiHDoQX1E9x8T97Sds18AH2Dn4Djy-7Pic",
+        "ordering": 12,
+        "width": 1500,
+        "height": 845
+      },
+      {
+        "pk": 34625894,
+        "caption": "",
+        "url": "/media/ff/2026/03/xu746qdpdznl96t8c3dp8284sjtzeao4ks4ky77p9uto1t4i4h.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/xu746qdpdznl96t8c3dp8284sjtzeao4ks4ky77p9uto1t4i4h.jpg?alias=thumb_m&signature=XTicJpc25gqErgCXemBcaKVIc5gXtlaMN-KVaDzYWzM",
+        "url_listing_search": "/thumb/ff/2026/03/xu746qdpdznl96t8c3dp8284sjtzeao4ks4ky77p9uto1t4i4h.jpg?alias=listing_search&signature=KxJnEDQtEu0BGjjTpC1p5rrIOX6KA3X7olog3Nppic4",
+        "ordering": 13,
+        "width": 1500,
+        "height": 844
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Agentur Wyss AG",
+      "name_2": null,
+      "street": "Wyniengstrasse 6",
+      "zipcode": "3400",
+      "city": "Burgdorf",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/06/r770rqgkfbw0bmh3wuk2ok9f7jmxp8vnnkssbl43seqz89unrt.png",
+        "url_org_logo_m": "/thumb/org/2023/06/r770rqgkfbw0bmh3wuk2ok9f7jmxp8vnnkssbl43seqz89unrt.png?alias=org_logo_m&signature=hhrxHnWnEQjewkxqqLQTyjKgKiWtfSA-wI2Rm-KEMpg"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "904m² Gewerbe in Kirchberg BE mieten",
+    "livingspace": 904
+  }
+}

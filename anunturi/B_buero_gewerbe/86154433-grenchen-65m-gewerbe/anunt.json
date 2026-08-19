@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1672.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/kapellstrasse-26-2540-grenchen/86154433/",
+    "descarcat": "2026-08-17 12:32",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "gewerbefläche",
+        "gewerberaum"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 86154433,
+    "slug": "kapellstrasse-26-2540-grenchen",
+    "url": "/de/wohnung/kapellstrasse-26-2540-grenchen/86154433/",
+    "short_url": "/86154433/",
+    "submit_url": "/de/listing/86154433/submit/",
+    "status": "act",
+    "created": "2026-06-30T16:38:56.834689+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..sucld.ddtbg",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "sucld.ddtbg",
+    "alternative_reference": null,
+    "price_display": 700,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-30T16:38:57.384202+02:00",
+    "rent_net": 540,
+    "rent_charges": 160,
+    "rent_gross": 700,
+    "short_title": "65m² Gewerbe",
+    "public_title": "Kapellstrasse 26, 2540 Grenchen - CHF 700",
+    "pitch_title": "65m² Gewerbe in Grenchen mieten",
+    "description_title": "Büro-/Gewerberaum mit 65m2 Mietfläche im 2.OG",
+    "description": "Das EBOSA-Areal in Grenchen verfügt im Ganzen über 18'000m2 Gewerbeflächen, welche sich für verschiedenste Nutzungen eignen und auch über eine eigene Mensa, welche durch den Verein Netzwerke Grenchen bewirtschaftet wird. \n\nZur Zeit vermieten wir einen hellen Büro-/Gewerberaum **65m2 im 2.Obergeschoss ohne Aufzug** . Nicht zu unterschätzen ist auch die zentrale Lage des EBOSA-Areals in der Stadt Grenchen. Der Bahnhof der Stadt ist eifach zu Fuss erreichbar. Die Kapellstrasse mündet in die Verkehrsachse Bielstrasse, von welcher aus die Autobahn bequem in 3-4 Minuten zu erreichen ist. Auch ist Grenchen die ideale Umgebung dank des Flughafens und renomierten Unternehmen mit internationaler Bedeutung. \n\nWeitere Pluspunkt sind: \n\n  * Nettomietzins CHF 540.00 pro Monat \n\n  * HK/NK-Akonto CHF 160.00 pro Monat \n\n  * Lino-Bodenbelag \n\n  * neuere Fenster mit IV-Verglasung \n\n  * lichturchflutete Räumlichkeiten \n\n  * Beleuchtung und Standard-Elektroinstallation installiert \n\n  * Mitbenützung allg. WC-Anlagen \n\n  * 2 vollamtliche Hauswarte vor Ort \n\n  * Besucherparkplätze \n\n  * im Areal vorhandene Mensa \n\n  * Parkplätze können dazu gemietet werden \n\n  * Zentrumsnahe lage \n\n  * Restaurants, Einkaufsläden, Praxen, usw. in unmittelbarer Nähe \n\n\n\n\nGerne stehen wir Ihnen für weitere Auskünfte und/oder einer individuellen Besichtigung zur Verfügung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 65,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 65,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Kapellstrasse 26",
+    "zipcode": 2540,
+    "city": "Grenchen",
+    "public_address": "Kapellstrasse 26, 2540 Grenchen",
+    "latitude": 47.1957127,
+    "longitude": 7.396931899999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47735673,
+    "images": [
+      {
+        "pk": 47735673,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/bc85dd13b14f653f1e7c8f234434f764.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/bc85dd13b14f653f1e7c8f234434f764.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/bc85dd13b14f653f1e7c8f234434f764.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 47735674,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/f5c78bf54344746a9b2df13ac0c2aa13.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/f5c78bf54344746a9b2df13ac0c2aa13.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/f5c78bf54344746a9b2df13ac0c2aa13.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 47735675,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/05871a6dbf7b1587c29e6f2cee0ca9d4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/05871a6dbf7b1587c29e6f2cee0ca9d4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/05871a6dbf7b1587c29e6f2cee0ca9d4.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 47735676,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/7324bbeb8a2f13e907ff7aa7a73a6967.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/7324bbeb8a2f13e907ff7aa7a73a6967.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/7324bbeb8a2f13e907ff7aa7a73a6967.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 47735677,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/dfba01f7646b10ee74afec21b7a65ddc.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/dfba01f7646b10ee74afec21b7a65ddc.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/dfba01f7646b10ee74afec21b7a65ddc.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 47735678,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/c863a3a9e352ff3db9dd8c216484bee1.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/c863a3a9e352ff3db9dd8c216484bee1.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/c863a3a9e352ff3db9dd8c216484bee1.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 675
+      },
+      {
+        "pk": 47735679,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/f6ca818d9fcec1953dc92324a58ca196.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/f6ca818d9fcec1953dc92324a58ca196.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/f6ca818d9fcec1953dc92324a58ca196.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 675
+      },
+      {
+        "pk": 47735680,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/d801d3c1ddb6c4b27e81f9bb3d5a2034.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/d801d3c1ddb6c4b27e81f9bb3d5a2034.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/d801d3c1ddb6c4b27e81f9bb3d5a2034.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 675
+      },
+      {
+        "pk": 47735681,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003279107/image/d5c315e9fade369ec44bc17553ef1f14.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003279107/image/d5c315e9fade369ec44bc17553ef1f14.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003279107/image/d5c315e9fade369ec44bc17553ef1f14.jpg",
+        "ordering": 9,
+        "width": 615,
+        "height": 407
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Roth Immobilien Management AG",
+      "name_2": null,
+      "street": "Florastrasse 30",
+      "zipcode": "2502",
+      "city": "Biel",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/iw5l9vv2w7tckb7bon12gpj30dtbab0m6kmzd3ua06s6j3uslw.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/iw5l9vv2w7tckb7bon12gpj30dtbab0m6kmzd3ua06s6j3uslw.jpg?alias=org_logo_m&signature=lbecF4iza-ejEjxDvzGn1mA2-CKHd2mJi_XUg5xTK4Y"
+      }
+    },
+    "reserved": false,
+    "state": "SO",
+    "country": "CH",
+    "smg_id": "4003279107",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "65m² Gewerbe in Grenchen mieten",
+    "livingspace": 65
+  }
+}

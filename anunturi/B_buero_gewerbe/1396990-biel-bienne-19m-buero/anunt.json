@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1652.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/reitschulstrasse-5-2502-bielbienne/1396990/",
+    "descarcat": "2026-08-17 12:34",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büroräume",
+        "gewerberäume",
+        "grossraumbüro",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 1396990,
+    "slug": "reitschulstrasse-5-2502-bielbienne",
+    "url": "/de/wohnung/reitschulstrasse-5-2502-bielbienne/1396990/",
+    "short_url": "/1396990/",
+    "submit_url": "/de/listing/1396990/submit/",
+    "status": "act",
+    "created": "2024-11-19T09:42:28.993228+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..i4wpa.1u2bx",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "i4wpa.1u2bx",
+    "alternative_reference": null,
+    "price_display": 380,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2024-11-19T09:42:29.471779+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 380,
+    "short_title": "19m² Büro",
+    "public_title": "Reitschulstrasse 5, 2502 Biel/Bienne - CHF 380",
+    "pitch_title": "19m² Büro in Biel/Bienne mieten",
+    "description_title": "*GELEGENHEIT* diverse neu sanierte Büroräume von 14 - 40m2",
+    "description": "**Ob Home-Office oder Grossraumbüro für Firmen, wir bieten optimale Gewerberäume an idealer Lage im Stadtzentrum** Sie suchen geeignete Räumlichkeiten für Ihre Produktion oder Ihren Gewerbebetrieb, wollen eine Praxis oder einen Schulungsraum eröffnen oder suchen hohe, helle Räume für Ihr neues Büro. \n\nDas Gebäude am Neumarktplatz in BIEL/BIENNE ist vielseitig nutzbar. **Es besteht die Möglichkeit mehrere oder einzelne Räume zu mieten. Von 14 - 40m2 Einzelgrösse koennen wir Ihnen diverse Räume von 2. - 5. Obergeschoss anbieten) Die Räume bieten Gemeinschafts WC-Anlagen und Küchen.** Die Liegenschaft befindet sich im Stadtzentrum von Biel. \n\nBiel ist die grösste zweisprachige Stadt der Schweiz und nach Bern die zweitgrösste Stadt des Kantons Bern. Mit 50''''852 Einwohnern rangiert sie auf dem zehnten Platz der grössten Schweizer Städte. In der Agglomeration Biel leben je nach Berechnungsmethode zwischen 94''''000 und 114''''000 Menschen. Biel ist sowohl für das Seeland als auch für den Berner Jura und für Teile des Kantons Solothurn das regionale und wirtschaftliche Zentrum. Ebenfalls verfügt sie seit alters her über mehrere Fachhochschulen und ist aufgrund dessen eine Hochschulstadt. Biel ist, vor Le Locle, Grenchen und La Chaux-de-Fonds, das wichtigste Zentrum der Uhrenindustrie der Schweiz und wird unter anderem aufgrund des Hauptsitzes der Swatch Group und des Produktionsbetriebes von Rolex als Uhrenweltmetropole bezeichnet.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 19,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 19,
+    "number_of_rooms": null,
+    "floor": 5,
+    "attributes": [
+      {
+        "name": "view"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Reitschulstrasse 5",
+    "zipcode": 2502,
+    "city": "Biel/Bienne",
+    "public_address": "Reitschulstrasse 5, 2502 Biel/Bienne",
+    "latitude": 47.1408376,
+    "longitude": 7.248719599999998,
+    "year_built": null,
+    "year_renovated": 2022,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48136991,
+    "images": [
+      {
+        "pk": 48136991,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002759233/image/3d12162431480bec5d637114c427b204.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002759233/image/3d12162431480bec5d637114c427b204.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002759233/image/3d12162431480bec5d637114c427b204.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48136992,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002759233/image/30f4183bb4f26044cdd5c85ae31e412a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002759233/image/30f4183bb4f26044cdd5c85ae31e412a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002759233/image/30f4183bb4f26044cdd5c85ae31e412a.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48136993,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002759233/image/153d4936e48088b8dd50714ba9dd11ae.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002759233/image/153d4936e48088b8dd50714ba9dd11ae.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002759233/image/153d4936e48088b8dd50714ba9dd11ae.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1124
+      },
+      {
+        "pk": 48136994,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002759233/image/274401d6b1a1d9f90c23557344b4edd0.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002759233/image/274401d6b1a1d9f90c23557344b4edd0.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002759233/image/274401d6b1a1d9f90c23557344b4edd0.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48136995,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002759233/image/534ade9cc4e4d5dd106f7671f1e671b2.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002759233/image/534ade9cc4e4d5dd106f7671f1e671b2.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002759233/image/534ade9cc4e4d5dd106f7671f1e671b2.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48136996,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002759233/image/92660429aadb5ffb1254dade020dbeb8.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002759233/image/92660429aadb5ffb1254dade020dbeb8.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002759233/image/92660429aadb5ffb1254dade020dbeb8.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48136997,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002759233/image/ca35d89953123952825c1d9ed05cd2e2.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002759233/image/ca35d89953123952825c1d9ed05cd2e2.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002759233/image/ca35d89953123952825c1d9ed05cd2e2.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "PS Immobilien AG",
+      "name_2": null,
+      "street": "Paul-Emile Brandt-Strasse 2",
+      "zipcode": "2502",
+      "city": "Biel/Bienne",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/knbwu3twpw9a6bvrzdxpzp0zdcmht9krydfes0guypwwtvxnns.png",
+        "url_org_logo_m": "/thumb/org/2026/07/knbwu3twpw9a6bvrzdxpzp0zdcmht9krydfes0guypwwtvxnns.png?alias=org_logo_m&signature=Qhc9Bh18X67wgS1rPC6_XBAn8T8qS6--jp9a9-R_aKg"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4002759233",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "19m² Büro in Biel/Bienne mieten",
+    "livingspace": 19
+  }
+}

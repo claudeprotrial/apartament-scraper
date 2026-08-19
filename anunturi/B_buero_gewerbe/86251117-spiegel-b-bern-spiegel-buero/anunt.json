@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1629.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/chasseralstrasse-156-3095-spiegel-b-bern-spiegel/86251117/",
+    "descarcat": "2026-08-17 12:37",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büroräume",
+        "dienstleistung",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 13
+  },
+  "raw": {
+    "pk": 86251117,
+    "slug": "chasseralstrasse-156-3095-spiegel-b-bern-spiegel",
+    "url": "/de/wohnung/chasseralstrasse-156-3095-spiegel-b-bern-spiegel/86251117/",
+    "short_url": "/86251117/",
+    "submit_url": "/de/listing/86251117/submit/",
+    "status": "act",
+    "created": "2026-08-06T08:02:56.950740+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..ZO2479",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "ZO2479",
+    "alternative_reference": null,
+    "price_display": 3818,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-06T08:02:57.146616+02:00",
+    "rent_net": 3129,
+    "rent_charges": 689,
+    "rent_gross": 3818,
+    "short_title": "Büro",
+    "public_title": "Chasseralstrasse 156, 3095 Spiegel b. Bern / Spiegel - CHF 3’818",
+    "pitch_title": "Büro in Spiegel b. Bern / Spiegel mieten",
+    "description_title": "Büroräumlichkeiten im Spiegel in Bern!",
+    "description": "Attraktive Büro Gewerbefläche an der Chasseralstrasse 156 in Spiegel bei Bern. Die Liegenschaft bietet vielseitige Nutzungsmöglichkeiten und eignet sich ideal für Büros, Dienstleistungsbetriebe oder Praxen.   \nIm Erdgeschoss befinden sich drei abschliessbare Büroräume, ein separater Serverraum, eine kompakte Teeküche sowie ein kleiner Garderobenbereich. Das Untergeschoss umfasst zwei WC Anlagen, einen ehemaligen Banktresor sowie zwei zusätzliche Räume für Lagerzwecke.   \nDie Lage überzeugt durch die Nähe zur Stadt Bern, eine gute Erreichbarkeit mit Auto und ÖV sowie eine sehr praktische Umgebung im Alltag. Migros und Restaurant befinden sich direkt nebenan.   \n  \nHighlights:   \n\\- ehemalige Bankfläche mit solider Infrastruktur   \n\\- Tresorraum mit erhöhter Sicherheit   \n\\- ruhiges Umfeld mit gleichzeitiger Kundennähe   \n\\- gute Sichtbarkeit und einfache Auffindbarkeit   \n\\- kurze Wege ins Zentrum von Bern   \n\\- Parkplatz bei der Liegenschaft   \n  \nGerne geben wir Ihnen weitere Informationen oder zeigen Ihnen die Räumlichkeiten bei einer Besichtigung. Wir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Chasseralstrasse 156",
+    "zipcode": 3095,
+    "city": "Spiegel b. Bern / Spiegel",
+    "public_address": "Chasseralstrasse 156, 3095 Spiegel b. Bern / Spiegel",
+    "latitude": 46.9263579,
+    "longitude": 7.433877099999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48712174,
+    "images": [
+      {
+        "pk": 48712174,
+        "caption": "Bild 6",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/9729ec1fb4bf7d8ff1be8fd651c41ecf.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/9729ec1fb4bf7d8ff1be8fd651c41ecf.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/9729ec1fb4bf7d8ff1be8fd651c41ecf.jpg",
+        "ordering": 1,
+        "width": 1200,
+        "height": 882
+      },
+      {
+        "pk": 48712175,
+        "caption": "Bild 2",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/aa879632ceff39f61f30e43bc9928307.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/aa879632ceff39f61f30e43bc9928307.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/aa879632ceff39f61f30e43bc9928307.jpg",
+        "ordering": 2,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48712176,
+        "caption": "Bild 7",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/34856c2354f46b48a925300cc3c44ad9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/34856c2354f46b48a925300cc3c44ad9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/34856c2354f46b48a925300cc3c44ad9.jpg",
+        "ordering": 3,
+        "width": 1200,
+        "height": 929
+      },
+      {
+        "pk": 48712177,
+        "caption": "Bild 5",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/72f004fe8acc4b19890b0960b25892c9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/72f004fe8acc4b19890b0960b25892c9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/72f004fe8acc4b19890b0960b25892c9.jpg",
+        "ordering": 4,
+        "width": 1200,
+        "height": 831
+      },
+      {
+        "pk": 48712178,
+        "caption": "Bild 11",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/396fa798e2a502b3fec50c44888fab30.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/396fa798e2a502b3fec50c44888fab30.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/396fa798e2a502b3fec50c44888fab30.jpg",
+        "ordering": 5,
+        "width": 1200,
+        "height": 908
+      },
+      {
+        "pk": 48712179,
+        "caption": "Bild 4",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/c65596b994b9670018d54b185b613662.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/c65596b994b9670018d54b185b613662.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/c65596b994b9670018d54b185b613662.jpg",
+        "ordering": 6,
+        "width": 1200,
+        "height": 868
+      },
+      {
+        "pk": 48712180,
+        "caption": "Bild 3",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/8069e1c614882acfe783b8ad9c0a46b1.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/8069e1c614882acfe783b8ad9c0a46b1.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/8069e1c614882acfe783b8ad9c0a46b1.jpg",
+        "ordering": 7,
+        "width": 1200,
+        "height": 864
+      },
+      {
+        "pk": 48712181,
+        "caption": "Bild 8",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/dbbe3153e455ac951f73bfc9bc8482af.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/dbbe3153e455ac951f73bfc9bc8482af.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/dbbe3153e455ac951f73bfc9bc8482af.jpg",
+        "ordering": 8,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48712182,
+        "caption": "Bild 9",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/7f2c9b5a273bf32de0a4bc84f3e9962c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/7f2c9b5a273bf32de0a4bc84f3e9962c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/7f2c9b5a273bf32de0a4bc84f3e9962c.jpg",
+        "ordering": 9,
+        "width": 1200,
+        "height": 816
+      },
+      {
+        "pk": 48712183,
+        "caption": "Bild 12",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/839ad73f9d01f495626a562b07eef926.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/839ad73f9d01f495626a562b07eef926.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/839ad73f9d01f495626a562b07eef926.jpg",
+        "ordering": 10,
+        "width": 1200,
+        "height": 881
+      },
+      {
+        "pk": 48712184,
+        "caption": "Bild 10",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/cdae4d97d0299536187e2a407cb73f09.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/cdae4d97d0299536187e2a407cb73f09.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/cdae4d97d0299536187e2a407cb73f09.jpg",
+        "ordering": 11,
+        "width": 1200,
+        "height": 864
+      },
+      {
+        "pk": 48712185,
+        "caption": "Bild 13",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/a3b81cb641ba6ed2c88984867a45b1c2.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/a3b81cb641ba6ed2c88984867a45b1c2.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/a3b81cb641ba6ed2c88984867a45b1c2.jpg",
+        "ordering": 12,
+        "width": 1200,
+        "height": 843
+      },
+      {
+        "pk": 48712186,
+        "caption": "Bild 14",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003364241/image/7bd63a046d4dc9a87afcd1261f436252.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003364241/image/7bd63a046d4dc9a87afcd1261f436252.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003364241/image/7bd63a046d4dc9a87afcd1261f436252.jpg",
+        "ordering": 13,
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Zollinger Immobilien AG",
+      "name_2": null,
+      "street": "Worbstrasse 237",
+      "zipcode": "3073",
+      "city": "Muri bei Bern / Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg?alias=org_logo_m&signature=bqUx0fqWBn032MT4NRiX3mBqMrEcMeT7q4Hwua2TyN0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003364241",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Büro in Spiegel b. Bern / Spiegel mieten",
+    "livingspace": null
+  }
+}

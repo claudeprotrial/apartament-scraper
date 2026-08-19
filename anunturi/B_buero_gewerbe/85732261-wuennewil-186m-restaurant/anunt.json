@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1672.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/dorfstrasse-40-3184-wunnewil/85732261/",
+    "descarcat": "2026-08-17 12:31",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "office"
+      ],
+      "kw_retail": [
+        "<type>",
+        "bar",
+        "gastronomie",
+        "laden",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 15
+  },
+  "raw": {
+    "pk": 85732261,
+    "slug": "dorfstrasse-40-3184-wunnewil",
+    "url": "/de/wohnung/dorfstrasse-40-3184-wunnewil/85732261/",
+    "short_url": "/85732261/",
+    "submit_url": "/de/listing/85732261/submit/",
+    "status": "act",
+    "created": "2026-01-28T17:29:31.150781+01:00",
+    "offer_type": "RENT",
+    "object_category": "GASTRO",
+    "object_type": "RESTAURANT",
+    "reference": "",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "",
+    "alternative_reference": "",
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2026-02-02T11:55:05.358450+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "186m² Restaurant",
+    "public_title": "Dorfstrasse 40, 3184 Wünnewil - auf Anfrage",
+    "pitch_title": "186m² Restaurant in Wünnewil mieten",
+    "description_title": "Restaurant an bester Lage in Wünnewil",
+    "description": "**Die Lage**  \nDas Restaurant befindet sich in Wünnewil-Flamatt, auf halbem Weg zwischen Bern und Freiburg, und vereint ländliche Ruhe mit hervorragender Erreichbarkeit. Die Gemeinde liegt im deutschsprachigen Teil des Kantons Freiburg, nahe der Grenze zum Kanton Bern. Dank der Nähe zur Autobahn A12 sowie zur Bahnlinie Bern–Freiburg ist der Standort optimal angebunden. Die abwechslungsreiche Umgebung mit Hügeln, Flusslandschaften und Landwirtschaft verleiht dem Ort seinen charmanten, naturnahen Charakter. Einkaufsmöglichkeiten, öffentliche Verkehrsmittel und das Dorfzentrum sind gut erreichbar, was Wünnewil zu einem attraktiven Treffpunkt für Gäste aus der Region macht.  \n  \n**Das Restaurant**  \nDas Restaurant befindet sich an bevorzugter Lage an der Dorfstrasse 40 in Wünnewil und zeichnet sich durch eine durchdachte Raumaufteilung sowie eine funktionale und zugleich einladende Ausstattung aus.  \n  \nErdgeschoss:  \nIm Erdgeschoss steht den Gästen ein grosszügiger Innenbereich mit Sitzplätzen für rund 45 Personen zur Verfügung. Ergänzt wird dieser durch eine kleine Terrasse entlang der Hauptstrasse, die insbesondere in den wärmeren Monaten zum Verweilen einlädt. Eine weitläufige und repräsentative Bar beziehungsweise Theke bildet das zentrale Element des Gastraums. Darüber hinaus verfügt diese Etage über ein modernes Office sowie eine zweckmässig eingerichtete Küche, welche einen reibungslosen Gastronomiebetrieb gewährleistet.  \n  \nUntergeschoss:  \nDas Untergeschoss bietet zusätzliche infrastrukturelle Vorteile; Eine weitere Bar erweitert die Nutzungsmöglichkeiten des Lokals, während separate Damen- und Herrentoiletten den Komfort für Gäste und Personal sicherstellen. Abgerundet wird das Raumangebot durch einen grosszügigen, unbeheizten Lagerraum, der vielfältige Lagermöglichkeiten bietet.  \n  \nDas Restaurant wird im Rohbauzustand vermietet. Es besteht jedoch die Möglichkeit, das vorhandene Mobiliar sowie das Inventar käuflich zu erwerben.  \n  \n**Die Zusatzräume**  \nEs gibt eine gemeinsame Waschküche in der Liegenschaft.  \n  \n**Die Parkplatzmöglichkeiten**  \nBei der Liegenschaft gibt es ca. 10 Parkplätze die von den Gästen genutzt werden können.",
+    "surface_living": null,
+    "surface_property": 444,
+    "surface_usable": 186,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 186,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "balconygarden"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": true,
+    "is_swap": false,
+    "street": "Dorfstrasse 40",
+    "zipcode": 3184,
+    "city": "Wünnewil",
+    "public_address": "Dorfstrasse 40, 3184 Wünnewil",
+    "latitude": 46.87491560000001,
+    "longitude": 7.274127999999999,
+    "year_built": 1975,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 33215223,
+    "images": [
+      {
+        "pk": 33215223,
+        "caption": null,
+        "url": "/media/ff/2026/01/xtr2qp9v8l9fkr2soxz1ehb8jrb7dw1lerq601kaz3s7o0pmyl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/xtr2qp9v8l9fkr2soxz1ehb8jrb7dw1lerq601kaz3s7o0pmyl.jpg?alias=thumb_m&signature=xCSTCNZDIQxmsmGH6qY4Jq1dJti8fd3QKyoOx18jcIc",
+        "url_listing_search": "/thumb/ff/2026/01/xtr2qp9v8l9fkr2soxz1ehb8jrb7dw1lerq601kaz3s7o0pmyl.jpg?alias=listing_search&signature=Fkb9JsW8NIujqLOmiBMUREo6rhASP6DquvXjsl2r36M",
+        "ordering": 1,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215292,
+        "caption": null,
+        "url": "/media/ff/2026/01/ds8t0srvccq3dmgrojqtr46jfczvdfzqcj48tntext7he3ury4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/ds8t0srvccq3dmgrojqtr46jfczvdfzqcj48tntext7he3ury4.jpg?alias=thumb_m&signature=qADgefhb3TwByceuJZ39lai-WmnJjw6Kj8QGZN8diDk",
+        "url_listing_search": "/thumb/ff/2026/01/ds8t0srvccq3dmgrojqtr46jfczvdfzqcj48tntext7he3ury4.jpg?alias=listing_search&signature=HHgIhi_KgK1IAaiEK3huQijCtbV0r7IBk-IitQf6kw0",
+        "ordering": 2,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215293,
+        "caption": null,
+        "url": "/media/ff/2026/01/vnqjm9blogria6gvqdfjoz43pqrlnubhi9xuahh9gmps6d9hd4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/vnqjm9blogria6gvqdfjoz43pqrlnubhi9xuahh9gmps6d9hd4.jpg?alias=thumb_m&signature=upg7eePiLQVyUDSpj1P885Ithj3MqtHJR6wmNIsIsck",
+        "url_listing_search": "/thumb/ff/2026/01/vnqjm9blogria6gvqdfjoz43pqrlnubhi9xuahh9gmps6d9hd4.jpg?alias=listing_search&signature=CzCd92zc64Lw5Juy0V7v_6C6ZsOK6hmzONPZgnhHKNI",
+        "ordering": 3,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215383,
+        "caption": null,
+        "url": "/media/ff/2026/01/73o618h1dro6hzzwy7h2i92k77wi72msgz4z18btq8hxycb35m.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/73o618h1dro6hzzwy7h2i92k77wi72msgz4z18btq8hxycb35m.jpg?alias=thumb_m&signature=Y4k0zZVMXekNytV-ZzdyY_9CFcpc7-ePEz18Suu80ew",
+        "url_listing_search": "/thumb/ff/2026/01/73o618h1dro6hzzwy7h2i92k77wi72msgz4z18btq8hxycb35m.jpg?alias=listing_search&signature=Yzlzf8q61MD_gJuC57-Awlt6relVp3jFTSKNCpbAWSQ",
+        "ordering": 4,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215399,
+        "caption": null,
+        "url": "/media/ff/2026/01/5acw1cvvsf2j94ria943nlll2lz16mid45j476l5q0noni9kp9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/5acw1cvvsf2j94ria943nlll2lz16mid45j476l5q0noni9kp9.jpg?alias=thumb_m&signature=S0GtGIZDCNGbmNjGjl2JWXSO9k5urr5msPK_7TA3JMY",
+        "url_listing_search": "/thumb/ff/2026/01/5acw1cvvsf2j94ria943nlll2lz16mid45j476l5q0noni9kp9.jpg?alias=listing_search&signature=Q_rhfUqPG6bPUyFR9mozqlwzN7ywb5hAg6fB18slOZ8",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215486,
+        "caption": null,
+        "url": "/media/ff/2026/01/a2ywbtu6oojao2en4jr6zpiy5t621g21l6wz1jt8pt5apcokos.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/a2ywbtu6oojao2en4jr6zpiy5t621g21l6wz1jt8pt5apcokos.jpg?alias=thumb_m&signature=N8u1nZrQfnAho9f0-63ewG7LgJ2EBRyIov8MDaurs9A",
+        "url_listing_search": "/thumb/ff/2026/01/a2ywbtu6oojao2en4jr6zpiy5t621g21l6wz1jt8pt5apcokos.jpg?alias=listing_search&signature=MM-IT6puhuQg28DdBPvbB7fNgxNT_Ohtci7CnxkkX5g",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215488,
+        "caption": null,
+        "url": "/media/ff/2026/01/gp92dr5z41i70cqthsvuj763z8leqk9kz70wmalejtztsrkd2m.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/gp92dr5z41i70cqthsvuj763z8leqk9kz70wmalejtztsrkd2m.jpg?alias=thumb_m&signature=aiaWDM5en9ClHyTaZd_YCV5gSmB3AsBJ7e3GWbCsojI",
+        "url_listing_search": "/thumb/ff/2026/01/gp92dr5z41i70cqthsvuj763z8leqk9kz70wmalejtztsrkd2m.jpg?alias=listing_search&signature=D-VjN1Vg0f_lwn30jlVHxA8xW9u09AYVnsW7E1hJLHI",
+        "ordering": 7,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215487,
+        "caption": null,
+        "url": "/media/ff/2026/01/au3cqgojucqs1lg4w32zizbpeqc2u09cn1pmc8rh9atezhufgf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/au3cqgojucqs1lg4w32zizbpeqc2u09cn1pmc8rh9atezhufgf.jpg?alias=thumb_m&signature=1h3jorTu9EpNq7JmM6hV3z7nBVoZ7NSvsbtvnqfwVzU",
+        "url_listing_search": "/thumb/ff/2026/01/au3cqgojucqs1lg4w32zizbpeqc2u09cn1pmc8rh9atezhufgf.jpg?alias=listing_search&signature=95zxhIBfyEtO3x2vL57NX5T0K33HVGYM8HXAUIdKasQ",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215494,
+        "caption": null,
+        "url": "/media/ff/2026/01/0lh92us2sif63qayq98sebwmy6bocgaahaht3c75ycrvm8w6af.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/0lh92us2sif63qayq98sebwmy6bocgaahaht3c75ycrvm8w6af.jpg?alias=thumb_m&signature=72jf5kLmQSkcBCA29T6NE6CVjHzaAXLeyZzgPwgxlCk",
+        "url_listing_search": "/thumb/ff/2026/01/0lh92us2sif63qayq98sebwmy6bocgaahaht3c75ycrvm8w6af.jpg?alias=listing_search&signature=O-6CYcj1ecqYMJFOQixX3ami2HFFbvbzrciaOG9EuNo",
+        "ordering": 9,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33215210,
+        "caption": null,
+        "url": "/media/ff/2026/01/4jawidx91kxe4gtdn68b6wf55oye2illj9dy44ums8ikez8edw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/4jawidx91kxe4gtdn68b6wf55oye2illj9dy44ums8ikez8edw.jpg?alias=thumb_m&signature=Qus27NlJtLEj4ttMdgcO3o6aYa5Z_HXdtYawdd2Q_Ao",
+        "url_listing_search": "/thumb/ff/2026/01/4jawidx91kxe4gtdn68b6wf55oye2illj9dy44ums8ikez8edw.jpg?alias=listing_search&signature=9Xq4fwchD-fc-UT7V37ER6uFnIk3htlCmUfIYvQgYzI",
+        "ordering": 10,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33216094,
+        "caption": null,
+        "url": "/media/ff/2026/01/spd0xxonee4wt1r96naunjghqchrkr9bbgrg1ftwmrhry4rgrf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/spd0xxonee4wt1r96naunjghqchrkr9bbgrg1ftwmrhry4rgrf.jpg?alias=thumb_m&signature=_FaZ6wDYtxd_WgvQvetVOwjBBN08Ka4v1wcNotd0A10",
+        "url_listing_search": "/thumb/ff/2026/01/spd0xxonee4wt1r96naunjghqchrkr9bbgrg1ftwmrhry4rgrf.jpg?alias=listing_search&signature=oOUwfRHXB21udXqE0pPYe_DcOD5d0i2BNIqlv7z2PfE",
+        "ordering": 11,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33216222,
+        "caption": null,
+        "url": "/media/ff/2026/01/0zn0q9z1dx7g4gi92gxjl63pilgigj57wu227kq6s3modw1r4s.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/0zn0q9z1dx7g4gi92gxjl63pilgigj57wu227kq6s3modw1r4s.jpg?alias=thumb_m&signature=27k2VfILsVzE5LAf_sU9J8OFjw3xBj0owd9fgznBFCA",
+        "url_listing_search": "/thumb/ff/2026/01/0zn0q9z1dx7g4gi92gxjl63pilgigj57wu227kq6s3modw1r4s.jpg?alias=listing_search&signature=-kFu7W31sjPwW_aKpV7CjXrBI0Ifjp2_KlXnF7bgtpo",
+        "ordering": 12,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33216226,
+        "caption": null,
+        "url": "/media/ff/2026/01/o5rlbf55wihf7zbwv7i1azljo0osq9zm9dxq8fdtvl4wh58duj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/o5rlbf55wihf7zbwv7i1azljo0osq9zm9dxq8fdtvl4wh58duj.jpg?alias=thumb_m&signature=-tHvBCdaeLN-GAsupZuKdT8FknRRCx_ZTQZLUiymHEU",
+        "url_listing_search": "/thumb/ff/2026/01/o5rlbf55wihf7zbwv7i1azljo0osq9zm9dxq8fdtvl4wh58duj.jpg?alias=listing_search&signature=BFfJwFYpLDpvXeTw7seExQC72EDB8e76EVaYmrpKaPE",
+        "ordering": 13,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33216309,
+        "caption": null,
+        "url": "/media/ff/2026/01/ehciu7eodvy9ryc6qvbrn3j8buyl0r06canypy0xu1pwqb04np.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/ehciu7eodvy9ryc6qvbrn3j8buyl0r06canypy0xu1pwqb04np.jpg?alias=thumb_m&signature=V-v8IZeB-5RAfN4cT-Qk8srxM6qhyFHcC0mafYITdbk",
+        "url_listing_search": "/thumb/ff/2026/01/ehciu7eodvy9ryc6qvbrn3j8buyl0r06canypy0xu1pwqb04np.jpg?alias=listing_search&signature=o7klivqLDtG6TeFNrewlzN--YvmS5wKVis3Vz6JhHhk",
+        "ordering": 14,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 33216311,
+        "caption": null,
+        "url": "/media/ff/2026/01/nus8y0k8b5ha0v33hi5b7268m4uom7y1qe5bu8s9m4p02dc08b.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/nus8y0k8b5ha0v33hi5b7268m4uom7y1qe5bu8s9m4p02dc08b.jpg?alias=thumb_m&signature=8HSU8uxobdPFaTOU_fjWNX4GuxyKQmhY7IXMNboAN3M",
+        "url_listing_search": "/thumb/ff/2026/01/nus8y0k8b5ha0v33hi5b7268m4uom7y1qe5bu8s9m4p02dc08b.jpg?alias=listing_search&signature=28pFwmGA-_s8nKCcf8TnVMVRworFFgbyYCZqEQK450A",
+        "ordering": 15,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      666576
+    ],
+    "agency": {
+      "name": "Casareo AG",
+      "name_2": "",
+      "street": "Freiburgstrasse 16",
+      "zipcode": "3178",
+      "city": "Bösingen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2024/08/x6q38jyo51j7bu50yer9kjx10ava8orr8fkqlrecn76bh6fgq0.jpg",
+        "url_org_logo_m": "/thumb/org/2024/08/x6q38jyo51j7bu50yer9kjx10ava8orr8fkqlrecn76bh6fgq0.jpg?alias=org_logo_m&signature=lYpA3JwNkiYYQRpoKQSpaWbgeu9tA3m6ea9ztil4WUA"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "186m² Restaurant in Wünnewil mieten",
+    "livingspace": 186
+  }
+}

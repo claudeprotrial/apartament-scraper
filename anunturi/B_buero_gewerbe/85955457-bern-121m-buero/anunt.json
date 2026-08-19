@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1791.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/papiermuhlestrasse-73-3014-bern/85955457/",
+    "descarcat": "2026-08-17 12:25",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "dienstleistung",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "gastronomie"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 3
+  },
+  "raw": {
+    "pk": 85955457,
+    "slug": "papiermuhlestrasse-73-3014-bern",
+    "url": "/de/wohnung/papiermuhlestrasse-73-3014-bern/85955457/",
+    "short_url": "/85955457/",
+    "submit_url": "/de/listing/85955457/submit/",
+    "status": "act",
+    "created": "2026-04-14T17:37:29.937806+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "VM100.100.0321072.3",
+    "ref_property": "VM100",
+    "ref_house": "100.0321072",
+    "ref_object": "3",
+    "alternative_reference": "",
+    "price_display": 200,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-04-14T17:44:06.345467+02:00",
+    "rent_net": 200,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "121m² Büro",
+    "public_title": "Papiermühlestrasse 73, 3014 Bern - CHF 200 exkl. NK pro m² / Jahr",
+    "pitch_title": "121m² Büro in Bern mieten",
+    "description_title": "Ihr neuer Businessstandort im Wankdorf Center",
+    "description": "**Attraktive Büro- und Gewerbeflächen im Wankdorf Center Bern – flexibel kombinierbar**  \nIm etablierten Wankdorf Center in 3014 Bern vermieten wir drei vielseitig nutzbare Büro- und Gewerbeflächen an hervorragend erschlossener Lage. Der Standort vereint Arbeiten, Einkaufen und Freizeit und bietet ein dynamisches Umfeld für Unternehmen verschiedenster Branchen.  \n  \n**Flächenangebot**  \nEs stehen folgende Flächen zur Verfügung:  \n  \n\n*   **Sempachstrasse 22, 3014 Bern – Erdgeschoss:** ca. 165.36 m² (inkl. Teeküche)\n*   **Sempachstrasse 22, 3014 Bern – 1. Obergeschoss:** ca. 107.35 m²\n*   **Papiermühlestrasse 73, 3014 Bern – 4. Obergeschoss:** ca. 120.87 m² (Teeküche zur Mitbenützung)\n\nDie Flächen an der **Sempachstrasse** können **ideal miteinander kombiniert und gemeinsam genutzt** werden. Dadurch ergeben sich attraktive Möglichkeiten für grössere Nutzungskonzepte oder wachsende Unternehmen.  \n  \n**Nutzung & Ausbau**  \nDie Flächen eignen sich optimal für:  \n  \n\n*   Büro- und Verwaltungsnutzung\n*   Dienstleistungsunternehmen\n*   Praxis- oder Schulungsräume\n\n**Highlights**  \n  \n\n*   Flexible Flächengrössen und Kombinationsmöglichkeiten\n*   Attraktives, etabliertes Geschäftsumfeld\n*   Vielfältige Infrastruktur direkt im Center (Einkauf, Gastronomie, Fitness etc.)\n*   Repräsentativer Standort im wirtschaftsstarken Wankdorf-Gebiet\n*   Gute Raumhöhen (ca. 2.40 m)\n*   Parkmöglichkeiten im Center vorhanden\n\n**Lage & Erreichbarkeit**  \n  \n\n*   Hervorragende ÖV-Anbindung (Tram, Bus, S-Bahn, RBS)\n*   Bahnhof Bern in wenigen Minuten erreichbar\n*   Direkter Anschluss an die Autobahnen A1 und A6\n*   Stark frequentierte Lage mit teils hoher Visibilität\n\n**Konditionen**  \n  \n\n*   Mietzins: nach Absprache\n*   Bezug: ab sofort oder nach Vereinbarung\n*   Mietdauer: ab 5 Jahre oder nach Vereinbarung\n\n**Mietzins:**  \nKontaktieren Sie uns gerne für Angaben zu den Konditionen.  \n  \nDer Nettomietzins von CHF 200 pro m²/Jahr (zzgl. NK) im ersten Jahr basiert auf einer 5-jährigen Vertragsdauer und versteht sich als Rabattierung für das erste Jahr.  \nAuch nach Ablauf der Rabattierung im ersten Jahr können wir Ihnen weiterhin attraktive Mietzinse anbieten; je nach Mietdauer, Ausbau & Fläche, die Sie wünschen.  \n  \n**Kontakt:**  \nFür weitere Informationen oder zur Vereinbarung eines Besichtigungstermins stehen wir Ihnen gerne zur Verfügung. Zögern Sie nicht, uns zu kontaktieren!  \n  \n**Nutzen Sie die Gelegenheit, Ihr Unternehmen an einem gut erreichbaren und dynamischen Standort im Wankdorf Center zu etablieren!**  \n  \n_\\*Die aufgeführten Impressionen (Fotos und Visualisierungen) sind urheberrechtlich geschützt und dürfen nicht von Dritten verwendet werden. Die Flächen werden ohne Einrichtung vermietet._",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 121,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 121,
+    "number_of_rooms": null,
+    "floor": 4,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Papiermühlestrasse 73",
+    "zipcode": 3014,
+    "city": "Bern",
+    "public_address": "Papiermühlestrasse 73, 3014 Bern",
+    "latitude": 46.9625796,
+    "longitude": 7.4637628,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "https://vimeo.com/1177376824?share=copy&fl=sv&fe=ci",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 35167650,
+    "images": [
+      {
+        "pk": 35167650,
+        "caption": null,
+        "url": "/media/ff/2026/04/4gpxwmnaum4t6xhj4zbqfhw94zfkosx6jzqozwfmlh8o6bhcz5.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/4gpxwmnaum4t6xhj4zbqfhw94zfkosx6jzqozwfmlh8o6bhcz5.jpg?alias=thumb_m&signature=Xco9mMR7XgL0pfVGIbPqk44BGMnT-VieR_vz8IDUd1E",
+        "url_listing_search": "/thumb/ff/2026/04/4gpxwmnaum4t6xhj4zbqfhw94zfkosx6jzqozwfmlh8o6bhcz5.jpg?alias=listing_search&signature=vzM0RVvLJPzNDRHXVlWYtnkc0eiKIoMgmtX3dgzUezE",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1006
+      },
+      {
+        "pk": 35167651,
+        "caption": null,
+        "url": "/media/ff/2026/04/s3hqiofrbzqq9a9qxig9lh4tdzt1yampi8fham39gumqvvglk5.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/s3hqiofrbzqq9a9qxig9lh4tdzt1yampi8fham39gumqvvglk5.jpg?alias=thumb_m&signature=1kMRAjP9V2_drdHmPnde_z3soERNtyu1Z6HE5sMRWrs",
+        "url_listing_search": "/thumb/ff/2026/04/s3hqiofrbzqq9a9qxig9lh4tdzt1yampi8fham39gumqvvglk5.jpg?alias=listing_search&signature=t_KmIgHDGo2B31X58aOjjVBee_31bJ_Av5pRD52Clxw",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 35167656,
+        "caption": null,
+        "url": "/media/ff/2026/04/p5cd2719v545ky142fng5d0spukhuzte2u0eackb0knugr5cjb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/p5cd2719v545ky142fng5d0spukhuzte2u0eackb0knugr5cjb.jpg?alias=thumb_m&signature=V5SJVgvZmn39oKmL-WF45LarlrWcpBWin6-glp9_oCw",
+        "url_listing_search": "/thumb/ff/2026/04/p5cd2719v545ky142fng5d0spukhuzte2u0eackb0knugr5cjb.jpg?alias=listing_search&signature=cUdMmZPgodMoXeCsDDiBSHYHz2QuxQ6qLm6siWcUW4Y",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      710691
+    ],
+    "agency": {
+      "name": "",
+      "name_2": "",
+      "street": "",
+      "zipcode": null,
+      "city": "",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png",
+        "url_org_logo_m": "/thumb/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png?alias=org_logo_m&signature=AShB2wTW9RgBQlL5EayIx5KA4p6RhJExHnOr31HV8GA"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "121m² Büro in Bern mieten",
+    "livingspace": 121
+  }
+}

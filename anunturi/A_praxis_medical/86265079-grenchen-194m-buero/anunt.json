@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1628.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/solothurnstrasse-96-2540-grenchen/86265079/",
+    "descarcat": "2026-08-17 12:37",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "physiotherapie",
+        "praxisfläche"
+      ],
+      "kw_praxis_slabe": [
+        "massage"
+      ],
+      "kw_business": [
+        "<type>",
+        "agentur",
+        "büro-",
+        "kanzlei",
+        "office",
+        "praxisfläche",
+        "showroom"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 86265079,
+    "slug": "solothurnstrasse-96-2540-grenchen",
+    "url": "/de/wohnung/solothurnstrasse-96-2540-grenchen/86265079/",
+    "short_url": "/86265079/",
+    "submit_url": "/de/listing/86265079/submit/",
+    "status": "act",
+    "created": "2026-08-11T23:31:56.091501+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": ".52540SO901.6a15526ce7a3ea8dcf967135",
+    "ref_property": "",
+    "ref_house": "52540SO901",
+    "ref_object": "6a15526ce7a3ea8dcf967135",
+    "alternative_reference": null,
+    "price_display": 1800,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-11T23:31:56.193799+02:00",
+    "rent_net": 1500,
+    "rent_charges": 300,
+    "rent_gross": 1800,
+    "short_title": "194m² Büro",
+    "public_title": "Solothurnstrasse 96, 2540 Grenchen - CHF 1’800",
+    "pitch_title": "194m² Büro in Grenchen mieten",
+    "description_title": "Flexible Büro-/Praxisfläche mit Parkplatz in Grenchen, 194 m²",
+    "description": "An repräsentativer Lage an der Solothurnstrasse 96 in Grenchen erwartet Sie eine helle, ebenerdige Büro-/Praxisfläche mit klarer, funktionaler Architektur. Der Mix aus grosszügigem Open Space und separaten Zimmern erlaubt eine vielseitige Nutzung - ideal für Agentur, Kanzlei, Praxis, Showroom oder Beratung. Ein privater Aussenparkplatz ist inklusive.   \n  \n**Highlights**\n\n  * Erdgeschoss mit verglastem Eingang und direktem Zugang von aussen \n  * Ca. 194 m² flexibel nutzbare Fläche: Open Space plus abtrennbare Räume \n  * Abgehängte Decke mit Langfeldleuchten, pflegeleichter Plattenboden \n  * Glas-Trennwände, Fenster mit Lamellenstoren; zahlreiche Steckdosen/IT-Anschlüsse \n  * Einbauschränke und lange Arbeits-/Ablageflächen \n  * Separates WC \n  * Heizung: Gas \n  * Privater Aussenparkplatz (1) im Mietpreis inbegriffen \n\n**Lage**\n\n  * Solothurnstrasse 96, 2540 Grenchen (SO) \n  * Repräsentative Strassenlage im Wohn-/Geschäftshaus \n  * Zwei Bahnhöfe (Grenchen Süd/Nord) im Halbstundentakt; Biel/Solothurn ca. 10-12 Min. \n  * A1 (Solothurn-Ost) ca. 15 Min., A5 (Biel) ca. 20 Min. \n\n**Miete & Verfügbarkeit **\n\n  * Nettomiete: CHF 1'500/Monat \n  * Nebenkosten: CHF 300/Monat \n  * Bruttomiete: CHF 1'800/Monat \n  * Verfügbar ab: 01.10.2026 \n\n**Geeignet für**\n\n  * Agentur, Kanzlei, Backoffice \n  * Praxis (Physiotherapie, Massage, Coaching) \n  * Showroom und Beratungsfläche",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 194,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 194,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Solothurnstrasse 96",
+    "zipcode": 2540,
+    "city": "Grenchen",
+    "public_address": "Solothurnstrasse 96, 2540 Grenchen",
+    "latitude": 47.1934822,
+    "longitude": 7.4042766,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2026-10-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://easyhomes.avendo.ch/immo/52540SO901?utm_source=smg&utm_medium=referral&utm_campaign=platform_listings",
+    "live_viewing_url": null,
+    "cover_image": 48867819,
+    "images": [
+      {
+        "pk": 48867819,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h436906/4003377092/image/d50091a6332058a950ab4c0aacf118f6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h436906/4003377092/image/d50091a6332058a950ab4c0aacf118f6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h436906/4003377092/image/d50091a6332058a950ab4c0aacf118f6.jpg",
+        "ordering": 1,
+        "width": 515,
+        "height": 697
+      },
+      {
+        "pk": 48867820,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h436906/4003377092/image/505503f20a89ab4d3675e8677e4507ec.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h436906/4003377092/image/505503f20a89ab4d3675e8677e4507ec.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h436906/4003377092/image/505503f20a89ab4d3675e8677e4507ec.jpg",
+        "ordering": 2,
+        "width": 1273,
+        "height": 844
+      },
+      {
+        "pk": 48867821,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h436906/4003377092/image/365ea3890ae543e57a0c715b5da9a95d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h436906/4003377092/image/365ea3890ae543e57a0c715b5da9a95d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h436906/4003377092/image/365ea3890ae543e57a0c715b5da9a95d.jpg",
+        "ordering": 3,
+        "width": 1273,
+        "height": 845
+      },
+      {
+        "pk": 48867822,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h436906/4003377092/image/b56fc407897f4ef8f185589f4071a384.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h436906/4003377092/image/b56fc407897f4ef8f185589f4071a384.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h436906/4003377092/image/b56fc407897f4ef8f185589f4071a384.jpg",
+        "ordering": 4,
+        "width": 1273,
+        "height": 846
+      },
+      {
+        "pk": 48867823,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h436906/4003377092/image/15fcef6e0b23ea49a7722f0f3070267f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h436906/4003377092/image/15fcef6e0b23ea49a7722f0f3070267f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h436906/4003377092/image/15fcef6e0b23ea49a7722f0f3070267f.jpg",
+        "ordering": 5,
+        "width": 1536,
+        "height": 1024
+      },
+      {
+        "pk": 48867824,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h436906/4003377092/image/848dcffc0528b01f71d62ac47f698fff.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h436906/4003377092/image/848dcffc0528b01f71d62ac47f698fff.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h436906/4003377092/image/848dcffc0528b01f71d62ac47f698fff.jpg",
+        "ordering": 6,
+        "width": 1272,
+        "height": 843
+      },
+      {
+        "pk": 48867825,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h436906/4003377092/image/bedb65e83c73ea72870f259ce1d4fd09.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h436906/4003377092/image/bedb65e83c73ea72870f259ce1d4fd09.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h436906/4003377092/image/bedb65e83c73ea72870f259ce1d4fd09.jpg",
+        "ordering": 7,
+        "width": 1536,
+        "height": 1024
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Easyhomes Immobilien AG",
+      "name_2": null,
+      "street": "Neueneggstrasse 4",
+      "zipcode": "3175",
+      "city": "Flamatt",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/08/8t7wrrk5zys98xkso9damvk2k7782i17phpai853rfbgq9wzzb.jpg",
+        "url_org_logo_m": "/thumb/org/2026/08/8t7wrrk5zys98xkso9damvk2k7782i17phpai853rfbgq9wzzb.jpg?alias=org_logo_m&signature=t6ay9YPwqy-e-1nyYOTLu4HIEIh8lWOnf76ADg5u4k4"
+      }
+    },
+    "reserved": false,
+    "state": "SO",
+    "country": "CH",
+    "smg_id": "4003377092",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "194m² Büro in Grenchen mieten",
+    "livingspace": 194
+  }
+}

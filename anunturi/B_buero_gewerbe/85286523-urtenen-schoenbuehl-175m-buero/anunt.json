@@ -1,0 +1,189 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1652.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/solothurnstrasse-43-3322-urtenen-schonbuhl/85286523/",
+    "descarcat": "2026-08-17 12:34",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisfläche"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "shop"
+      ],
+      "kw_wohnen": [
+        "mietwohnung"
+      ]
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 85286523,
+    "slug": "solothurnstrasse-43-3322-urtenen-schonbuhl",
+    "url": "/de/wohnung/solothurnstrasse-43-3322-urtenen-schonbuhl/85286523/",
+    "short_url": "/85286523/",
+    "submit_url": "/de/listing/85286523/submit/",
+    "status": "act",
+    "created": "2025-09-08T13:12:27.715650+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "1351.01.01001",
+    "ref_property": "1351",
+    "ref_house": "01",
+    "ref_object": "01001",
+    "alternative_reference": null,
+    "price_display": 180,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-09-08T13:12:27.831466+02:00",
+    "rent_net": 150,
+    "rent_charges": 30,
+    "rent_gross": 180,
+    "short_title": "175m² Büro",
+    "public_title": "Solothurnstrasse 43, 3322 Urtenen-Schönbühl - CHF 180 inkl. NK pro m² / Jahr",
+    "pitch_title": "175m² Büro in Urtenen-Schönbühl mieten",
+    "description_title": "Ihre Suche endet hier - DIE Fläche für Ihren Erfolg!",
+    "description": "Wir vermieten per sofort oder nach Vereinbarung eine attraktive und hochwertige Büro-/Praxisfläche im Herzen von Urtenen-Schönbühl. \n\n  \n\n\n**Die Highlights in Kürze**\n\n  * Neuwertiger, moderner Ausbau mit Teeküche, Sanitäranlagen und Klimatisierung \n  * Individuelle Raumgestaltung möglich \n  * Flexible Grundrissplanung \n  * Helle, lichtdurchflutete Flächen \n  * Einbauschränke und Archiv für zusätzlichen Stauraum \n  * Lift mit direktem Zugang zur Einstellhalle (Einstellplätze können dazu gemietet werden) \n  * Besucherparkplätze für Ihre Kunden \n\n\n\n**  \n**\n\n**Die Lage**\n\n  * Der Bahnhof Urtenen befindet sich in Gehdistanz \n  * Der Autobahnanschluss Schönbühl (A6) liegt nur 5 Fahrminuten entfernt \n  * Diverse Einkaufs- und Verpflegungsmöglichkeiten befinden sich in nächster Nähe \n  * Das Shoppyland Schönbühl kann bequem mit dem Auto erreicht werden (rund 5 Fahrminuten) \n\n\n\n  \n\n\nSind Sie bereit für einen Neuanfang? Gerne stehen wir Ihnen für Fragen oder eine unverbindliche Besichtigung zur Verfügung. Wir freuen uns auf Sie. \n\n  \n\n\n**Achtung. Eigenwerbung** : Sie ziehen in eine Mietwohnung und benötigen Unterstützung für den bestmöglichen Verkauf Ihrer Immobilie? Kontaktieren Sie die Dr.Meyer Immobilien AG für eine unverbindliche Offerte - **wir sind gut darin** .",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 175,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 175,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Solothurnstrasse 43",
+    "zipcode": 3322,
+    "city": "Urtenen-Schönbühl",
+    "public_address": "Solothurnstrasse 43, 3322 Urtenen-Schönbühl",
+    "latitude": 47.0258449,
+    "longitude": 7.5011959,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 28716954,
+    "images": [
+      {
+        "pk": 28716954,
+        "caption": "231009_174820_DM18185_bearbeitet.jpg",
+        "url": "/media/ff/2025/09/7e2ymjhy5c7438oy7pefcoc6y4hnx0aobyy4infrpls034krck.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/7e2ymjhy5c7438oy7pefcoc6y4hnx0aobyy4infrpls034krck.jpg?alias=thumb_m&signature=fX_NBTw6-4vbDQDICENXV6BY4fd9w9adQO5moYLfrfo",
+        "url_listing_search": "/thumb/ff/2025/09/7e2ymjhy5c7438oy7pefcoc6y4hnx0aobyy4infrpls034krck.jpg?alias=listing_search&signature=Dpm6w6qCwxftBJKxVh3n9ueNzH9UF-FwDAHY8lzP4tQ",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 28716955,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/r0h1tz8ymb450cosiq4amxyq3dn7idgcx8wd3kqxngtw9g9m82.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/r0h1tz8ymb450cosiq4amxyq3dn7idgcx8wd3kqxngtw9g9m82.jpg?alias=thumb_m&signature=rcKFmqiSxxqSOGGEnSu50CGKS3NdopyBPNS5RpeG_Pg",
+        "url_listing_search": "/thumb/ff/2025/09/r0h1tz8ymb450cosiq4amxyq3dn7idgcx8wd3kqxngtw9g9m82.jpg?alias=listing_search&signature=SxMfe78e9UXWcRagaBr4BJuLVDTOMnbwdM-g6mVzrYg",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 28716956,
+        "caption": "_DM29657_bearbeitet.jpg",
+        "url": "/media/ff/2025/09/ilr8jr4sq092af4eu5zdlyhgd2s9kt8bi1832wo1221hlr7p1o.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/ilr8jr4sq092af4eu5zdlyhgd2s9kt8bi1832wo1221hlr7p1o.jpg?alias=thumb_m&signature=GaoQ4jRidmbGybnrCwzidygyvTLwSiQlJjAclCm0YLc",
+        "url_listing_search": "/thumb/ff/2025/09/ilr8jr4sq092af4eu5zdlyhgd2s9kt8bi1832wo1221hlr7p1o.jpg?alias=listing_search&signature=breE1LUcUOhyTgbpDeYnQVXSV39WYGx899WaVc3pHow",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 28716957,
+        "caption": "_DM29668_bearbeitet.jpg",
+        "url": "/media/ff/2025/09/njl1g8al66uajgrt00g4knw98xwqrsyn5nsm4lxv2b3xhgb1w7.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/njl1g8al66uajgrt00g4knw98xwqrsyn5nsm4lxv2b3xhgb1w7.jpg?alias=thumb_m&signature=sKyQBC-SzCyQFG8ig5KWqGL7t8lOb16tAwnuGhLtSLk",
+        "url_listing_search": "/thumb/ff/2025/09/njl1g8al66uajgrt00g4knw98xwqrsyn5nsm4lxv2b3xhgb1w7.jpg?alias=listing_search&signature=QFPuDhoBqeyHxC_HlNar0HRuAy3RGJ7k_qithKAjJnE",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 28716958,
+        "caption": "_DM29646_bearbeitet.jpg",
+        "url": "/media/ff/2025/09/700il8pcgcipnoer4z4mkt8s3n9b3pns0pnv2z1yp95s02btbw.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/700il8pcgcipnoer4z4mkt8s3n9b3pns0pnv2z1yp95s02btbw.jpg?alias=thumb_m&signature=w58HTzUQpgdRG1CKLFiAu2NwyVSvcdnfsZCOBI4WF3Y",
+        "url_listing_search": "/thumb/ff/2025/09/700il8pcgcipnoer4z4mkt8s3n9b3pns0pnv2z1yp95s02btbw.jpg?alias=listing_search&signature=hkqeBYbWzXyU6lsHgXmPpH_WwHdMGJ8b-I5D7aaNRCI",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 28716959,
+        "caption": "_DM29658_bearbeitet.jpg",
+        "url": "/media/ff/2025/09/9ywetkx5hdfxsd1dsty6qmj4m3nmy4lg5kfxssl8r553ltz3yp.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/9ywetkx5hdfxsd1dsty6qmj4m3nmy4lg5kfxssl8r553ltz3yp.jpg?alias=thumb_m&signature=YDtClxGEAcndDPjKkvNL5ReBQLjrauEVdzvt5S_FTeg",
+        "url_listing_search": "/thumb/ff/2025/09/9ywetkx5hdfxsd1dsty6qmj4m3nmy4lg5kfxssl8r553ltz3yp.jpg?alias=listing_search&signature=SxQ8Ddj_bNcPF3xCVod9Yp3qS1PNH7wtrQU9HnN4Hys",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 28716960,
+        "caption": "_DM29673_bearbeitet.jpg",
+        "url": "/media/ff/2025/09/3ljm1d5yu565cqju1sc9aywsws6ar85gam1b1lprl6blr5hoea.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/3ljm1d5yu565cqju1sc9aywsws6ar85gam1b1lprl6blr5hoea.jpg?alias=thumb_m&signature=Rh67VJo_3Al08W2AOwyxVbMcA8ybKbQV-89hWwqhTek",
+        "url_listing_search": "/thumb/ff/2025/09/3ljm1d5yu565cqju1sc9aywsws6ar85gam1b1lprl6blr5hoea.jpg?alias=listing_search&signature=LI1xSYQxdbuIb-0LNWe-Ar6_4fAL-z2hZT-y8WBUiEM",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Dr.Meyer Immobilien AG",
+      "name_2": null,
+      "street": "Morgenstrasse 83A",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png",
+        "url_org_logo_m": "/thumb/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png?alias=org_logo_m&signature=ELJVfbZ9i264CGjnir9SWpQCju4MUITBGC0sqvZAlz0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "175m² Büro in Urtenen-Schönbühl mieten",
+    "livingspace": 175
+  }
+}

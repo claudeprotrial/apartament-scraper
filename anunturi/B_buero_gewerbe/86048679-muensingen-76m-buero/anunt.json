@@ -1,0 +1,200 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1640.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/belpbergstrasse-34b-3110-munsingen/86048679/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "arztpraxis"
+      ],
+      "kw_praxis_slabe": [
+        "beauty",
+        "kosmetik"
+      ],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerberaum",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden"
+      ],
+      "kw_wohnen": [
+        "studio"
+      ]
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 86048679,
+    "slug": "belpbergstrasse-34b-3110-munsingen",
+    "url": "/de/wohnung/belpbergstrasse-34b-3110-munsingen/86048679/",
+    "short_url": "/86048679/",
+    "submit_url": "/de/listing/86048679/submit/",
+    "status": "act",
+    "created": "2026-05-20T17:25:31.909669+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "21540..2001",
+    "ref_property": "21540",
+    "ref_house": "",
+    "ref_object": "2001",
+    "alternative_reference": null,
+    "price_display": 995,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-05-20T17:25:32.720418+02:00",
+    "rent_net": 775,
+    "rent_charges": 220,
+    "rent_gross": 995,
+    "short_title": "76m² Büro",
+    "public_title": "Belpbergstrasse 34b, 3110 Münsingen - CHF 995 inkl. NK pro Monat",
+    "pitch_title": "76m² Büro in Münsingen mieten",
+    "description_title": "Moderner Gewerberaum in Münsingen gesucht?",
+    "description": "Wir vermieten per 01.10.2026 oder nach Vereinbarung einen heller Raum (73 m2) mit Tageslicht auf Strassenniveau. Das Objekt bietet folgende Vorzüge:   \n  \n\\- Ausbau mit einem hellen Parkettboden   \n\\- kleines Badezimmer mit Toilette   \n\\- Quartier mit vielen Familien und Ihren neuen Kunden   \n  \nDieser Raum eignet sich ideal für ein Verkaufsladen sowie für eine Arztpraxis, ein Kosmetik- oder Beauty-Studio und weitere Dienstleistungsangebote.   \n  \nMünsingen liegt im idyllischen Aaretal zwischen Thun und Bern und zählt über 10000 Einwohner. Die Gemeinde vereint Industrie, Gewerbe und Landwirtschaft und überzeugt trotz moderner Neubauten mit sichtbarem ländlichem Charme.   \nDas Objekt befindet sich in einem familienfreundlichen Quartier mit entsprechendem Kundenpotenzial.   \n  \nHaben wir Ihr Interesse geweckt? Gerne Können Sie uns kontaktieren, um einen Besichtigungstermin zu vereinbaren.   \n  \n  \nLinks   \nwww.niederer.com   \nwww.terra-domus.ch   \nwww.muensingen.ch   \nwww.be.ch",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 76,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 76,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Belpbergstrasse 34b",
+    "zipcode": 3110,
+    "city": "Münsingen",
+    "public_address": "Belpbergstrasse 34b, 3110 Münsingen",
+    "latitude": 46.8686042,
+    "longitude": 7.5547963,
+    "year_built": 2002,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2026-10-01",
+    "video_url": null,
+    "tour_url": "https://www.niederer.com/360/Belpbergstrasse_34B_M%C3%BCnsingen_Gewerbe_EG/2001/Index.html",
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48177544,
+    "images": [
+      {
+        "pk": 48177544,
+        "caption": "IMG_9878 haus",
+        "url": "/media/ff/2026/07/r6bu34y7nbpzaurcl90dw9l2s2ucjfzzib3q7wmhysxhnfxrcd.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/r6bu34y7nbpzaurcl90dw9l2s2ucjfzzib3q7wmhysxhnfxrcd.jpg?alias=thumb_m&signature=aWIZxmg4oPATpfxDZ3lAELn2rzSYT4NdBs69U1Gfw2c",
+        "url_listing_search": "/thumb/ff/2026/07/r6bu34y7nbpzaurcl90dw9l2s2ucjfzzib3q7wmhysxhnfxrcd.jpg?alias=listing_search&signature=FDAB99j4Hi3n3g0gTntukcVoA4fJL5pU878A4GODu0o",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35970573,
+        "caption": "Eingang",
+        "url": "/media/ff/2026/05/itrkg23yybfoxasrpcr354o81qzjgr2w9vbhudlpaxtiizp6y5.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/itrkg23yybfoxasrpcr354o81qzjgr2w9vbhudlpaxtiizp6y5.jpg?alias=thumb_m&signature=CNoV1rRUb_v37lHCQjh-ysQYjFFSkQvwr17Ouek2ky4",
+        "url_listing_search": "/thumb/ff/2026/05/itrkg23yybfoxasrpcr354o81qzjgr2w9vbhudlpaxtiizp6y5.jpg?alias=listing_search&signature=gVAmwipp3DTqwo4nkxtWk_8HKNzoC-zRXawawC7GgP8",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35970568,
+        "caption": "Sicht Richtung Fenster/Eingang",
+        "url": "/media/ff/2026/05/k9kytubwnvw8mq8wj9e0owwtfyz4j1zstkrfnc2q7erpeq7lxk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/k9kytubwnvw8mq8wj9e0owwtfyz4j1zstkrfnc2q7erpeq7lxk.jpg?alias=thumb_m&signature=qNOdF53zO0IhV6VyaMA8E_LpQyHFNdT4qucHiOUA_O4",
+        "url_listing_search": "/thumb/ff/2026/05/k9kytubwnvw8mq8wj9e0owwtfyz4j1zstkrfnc2q7erpeq7lxk.jpg?alias=listing_search&signature=5AODyFoYFxxJR49w2iHCEmoUZyytcdSuUT1axIdBzbg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35970569,
+        "caption": "Sicht vom Eingang",
+        "url": "/media/ff/2026/05/asytfhy9uiz1a4xi6ho1sg7pw19e02fwwm3aizkh8ysunz3jb8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/asytfhy9uiz1a4xi6ho1sg7pw19e02fwwm3aizkh8ysunz3jb8.jpg?alias=thumb_m&signature=ghmprEd8_pkk79qMkDBBisGfjPc76NeyThkUZTY3Auk",
+        "url_listing_search": "/thumb/ff/2026/05/asytfhy9uiz1a4xi6ho1sg7pw19e02fwwm3aizkh8ysunz3jb8.jpg?alias=listing_search&signature=0OhitoK2PBsgHuB9SlZLVTBJCFbIQmSoXPq4dIiSv0A",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35970570,
+        "caption": "Abgetrennter Raum",
+        "url": "/media/ff/2026/05/7hv8ejmfv2jq9ljteib2021mi8jlvb15mwjtmy9a5z3z1pcjgw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/7hv8ejmfv2jq9ljteib2021mi8jlvb15mwjtmy9a5z3z1pcjgw.jpg?alias=thumb_m&signature=9nAIEDB2LQPnQXtAkVujjrohXN0MKmZ4TlesNqO6W5s",
+        "url_listing_search": "/thumb/ff/2026/05/7hv8ejmfv2jq9ljteib2021mi8jlvb15mwjtmy9a5z3z1pcjgw.jpg?alias=listing_search&signature=R5zHJ-dGkEgmhEa25Fpr-etYichHFOSXmbkKt06yo8g",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35970571,
+        "caption": "IMG_9873",
+        "url": "/media/ff/2026/05/ltyb69o8ajd52sv0z0714501yz3qjp2h2jpw8k6xwv4243jrlx.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/ltyb69o8ajd52sv0z0714501yz3qjp2h2jpw8k6xwv4243jrlx.jpg?alias=thumb_m&signature=4ZNcIj-gddo1kFetaD9OItqEg_qJs3PujlYLThbwg9s",
+        "url_listing_search": "/thumb/ff/2026/05/ltyb69o8ajd52sv0z0714501yz3qjp2h2jpw8k6xwv4243jrlx.jpg?alias=listing_search&signature=7gmbT0E9qbRqrrIFz-gwRAlxWRRpbNRutIMYR7MGyzo",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35970572,
+        "caption": "Toilette",
+        "url": "/media/ff/2026/05/cmtrfyhz8n02rh9tnsy5q5dq0v48xwytnxyvx5rhg64q1sns0y.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/cmtrfyhz8n02rh9tnsy5q5dq0v48xwytnxyvx5rhg64q1sns0y.jpg?alias=thumb_m&signature=27S65L3ZCFP-Gx6ZRiddeZucDbhzcCqkO-TRsJrCGjE",
+        "url_listing_search": "/thumb/ff/2026/05/cmtrfyhz8n02rh9tnsy5q5dq0v48xwytnxyvx5rhg64q1sns0y.jpg?alias=listing_search&signature=e5iVa9sYHMWoJ4x_a6RxahHE41ziBCICgAAy3N39-tQ",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35970574,
+        "caption": "Grundriss",
+        "url": "/media/ff/2026/05/e7qgm1lcjvscm0wrt3tw71c975nlfihyuhkypfo9w2y69c4t9p.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/e7qgm1lcjvscm0wrt3tw71c975nlfihyuhkypfo9w2y69c4t9p.jpg?alias=thumb_m&signature=MGAytEbyLPNKp6ezV_BRekPzQpMy8-K3tXa-V_GJDH0",
+        "url_listing_search": "/thumb/ff/2026/05/e7qgm1lcjvscm0wrt3tw71c975nlfihyuhkypfo9w2y69c4t9p.jpg?alias=listing_search&signature=ofZ5zl5paCc5VcFj4jRh5ujbgvgudj6ZX-0eZpFxAHI",
+        "ordering": 8,
+        "width": 512,
+        "height": 465
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Niederer AG Filiale Thun",
+      "name_2": null,
+      "street": null,
+      "zipcode": null,
+      "city": null,
+      "country": null,
+      "logo": {
+        "url": "/media/org/2026/06/c8bhqvpwkv27fesj4lzq775nz2tgvwz6j3sybnsship0mvbgei.png",
+        "url_org_logo_m": "/thumb/org/2026/06/c8bhqvpwkv27fesj4lzq775nz2tgvwz6j3sybnsship0mvbgei.png?alias=org_logo_m&signature=h6SZb92TBVjwM10UFqti3MFMIKPMbQuo48SfR3xAVlw"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "76m² Büro in Münsingen mieten",
+    "livingspace": 76
+  }
+}

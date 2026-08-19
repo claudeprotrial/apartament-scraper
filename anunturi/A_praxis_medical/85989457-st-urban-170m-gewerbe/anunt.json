@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1716.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/obertor-6-4915-st-urban/85989457/",
+    "descarcat": "2026-08-17 12:29",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen",
+        "praxisräumlichkeiten"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "büro-",
+        "büroräume",
+        "gewerbe",
+        "gewerblich"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 17
+  },
+  "raw": {
+    "pk": 85989457,
+    "slug": "obertor-6-4915-st-urban",
+    "url": "/de/wohnung/obertor-6-4915-st-urban/85989457/",
+    "short_url": "/85989457/",
+    "submit_url": "/de/listing/85989457/submit/",
+    "status": "act",
+    "created": "2026-04-27T18:10:18.444844+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..g0i3f.w7zbm",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "g0i3f.w7zbm",
+    "alternative_reference": null,
+    "price_display": 1980,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-04-27T18:10:32.409444+02:00",
+    "rent_net": 1710,
+    "rent_charges": 270,
+    "rent_gross": 1980,
+    "short_title": "170m² Gewerbe",
+    "public_title": "Obertor 6, 4915 St. Urban - CHF 1’980",
+    "pitch_title": "170m² Gewerbe in St. Urban mieten",
+    "description_title": "Repräsentative 6.5-Zimmer Büroräume / Atelier / Praxis in historischem Klostergebäude",
+    "description": "***** Beachten sie den 360°-Rundgang oben *****\n\nEntdecken Sie diese grosszügigen Büro- / Gewerbe- / Atelier- oder Praxisräumlichkeiten mit 6.5 Zimmern und 170 m² Nutzfläche in der Umgebung des ehemaligen Klosters in St. Urban. \n\nVerfügbar ab sofort oder nach Vereinbarung. \n\nDie Räumlichkeiten verfügen über: \n\n  * Grosszügige und helle Räume mit Parkett \n\n  * 3 Meter Raumhöhe \n\n  * WC Anlage mit 2 WCs / Lavabo / Spiegel \n\n  * Steckdosen in sämtlichen Räumen \n\n  * Flexible Räumlichkeiten \n\n\n\n\nAussenparkplätze können für CHF 60.00 / Monat dazu gemietet werden. \n\n**Lage und Anbindung:** Die Räumlichkeiten befinden sich in ruhiger Lage und sind dennoch hervorragend angebunden. Der Bahnhof St. Urban ist nur 8 Gehminuten entfernt, die Bushaltestelle \"Klinik\" erreichen Sie in 2 Minuten zu Fuss. Das Schulhaus liegt 6 Gehminuten entfernt. \n\nDie Lage ist sonnig und bietet eine ruhige Arbeitsatmosphäre. \n\nDiese vielseitigen Räumlichkeiten eignen sich ideal für verschiedene Bürokonzepte, Praxen oder andere gewerbliche Nutzungen. Die Kombination aus historischem Charme und praktischer Ausstattung macht diese Immobilie zu einer attraktiven Lösung für Ihr Unternehmen.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 170,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 170,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "balconygarden"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Obertor 6",
+    "zipcode": 4915,
+    "city": "St. Urban",
+    "public_address": "Obertor 6, 4915 St. Urban",
+    "latitude": 47.2304422,
+    "longitude": 7.8402278,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": "https://my.matterport.com/show/?m=NXpE5VgpuoQ",
+    "website_url": "https://www.negri-immobilien.ch",
+    "live_viewing_url": null,
+    "cover_image": 47215240,
+    "images": [
+      {
+        "pk": 47215240,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/fcdaa2422643b2e26470f31ab0e18ff3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/fcdaa2422643b2e26470f31ab0e18ff3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/fcdaa2422643b2e26470f31ab0e18ff3.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47215244,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/d14fa4c6f20c4be0d7f62379d4df34f3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/d14fa4c6f20c4be0d7f62379d4df34f3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/d14fa4c6f20c4be0d7f62379d4df34f3.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215250,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/47d837852a64fecc401659272e23b37d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/47d837852a64fecc401659272e23b37d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/47d837852a64fecc401659272e23b37d.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215254,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/dfe0b4f1afe877ecfb22c14806040d9a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/dfe0b4f1afe877ecfb22c14806040d9a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/dfe0b4f1afe877ecfb22c14806040d9a.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215293,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/ca45d1f0c602db81c5e0db16db38d9c8.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/ca45d1f0c602db81c5e0db16db38d9c8.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/ca45d1f0c602db81c5e0db16db38d9c8.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215302,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/adfc887e0ebfa91bdecdd1eef10da101.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/adfc887e0ebfa91bdecdd1eef10da101.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/adfc887e0ebfa91bdecdd1eef10da101.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215310,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/9f8d2d09a7a178f6ee1b19b4c312fc78.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/9f8d2d09a7a178f6ee1b19b4c312fc78.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/9f8d2d09a7a178f6ee1b19b4c312fc78.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215319,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/5f0891af9e4a61d02c9925875ea8ec40.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/5f0891af9e4a61d02c9925875ea8ec40.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/5f0891af9e4a61d02c9925875ea8ec40.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215324,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/614c74b4147cceaef57b0553efaf1703.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/614c74b4147cceaef57b0553efaf1703.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/614c74b4147cceaef57b0553efaf1703.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215331,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/27c28629c931e206847d2773e1c912fe.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/27c28629c931e206847d2773e1c912fe.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/27c28629c931e206847d2773e1c912fe.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 2250
+      },
+      {
+        "pk": 47215334,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/adc3453f97a4f4a094af91bc658c2f90.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/adc3453f97a4f4a094af91bc658c2f90.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/adc3453f97a4f4a094af91bc658c2f90.jpg",
+        "ordering": 11,
+        "width": 1500,
+        "height": 2250
+      },
+      {
+        "pk": 47215338,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/80fb5cd5809eb2177bc8b8f9eaf5129f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/80fb5cd5809eb2177bc8b8f9eaf5129f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/80fb5cd5809eb2177bc8b8f9eaf5129f.jpg",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215343,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/6bf135cb8125c6a2e5bde0f32b253953.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/6bf135cb8125c6a2e5bde0f32b253953.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/6bf135cb8125c6a2e5bde0f32b253953.jpg",
+        "ordering": 13,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215348,
+        "caption": "An empty room with wooden floors and beige walls. There are two doors, one open and one closed, and a power outlet on the wall. The room has a ceiling with a pipe and a square hole in the floor.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/e8b62bd2a4701a9477d198d939ad7f1f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/e8b62bd2a4701a9477d198d939ad7f1f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/e8b62bd2a4701a9477d198d939ad7f1f.jpg",
+        "ordering": 14,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215352,
+        "caption": "Reduit",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/4e9d7bb81e6f7fab2c2bb375e0bae3d4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/4e9d7bb81e6f7fab2c2bb375e0bae3d4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/4e9d7bb81e6f7fab2c2bb375e0bae3d4.jpg",
+        "ordering": 15,
+        "width": 1500,
+        "height": 2250
+      },
+      {
+        "pk": 47215357,
+        "caption": "Completely empty room with white walls, wooden floor, and a white door.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/98747c28c1b5ddf43e9029edf15c6584.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/98747c28c1b5ddf43e9029edf15c6584.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/98747c28c1b5ddf43e9029edf15c6584.jpg",
+        "ordering": 16,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215360,
+        "caption": "Empty room with wooden floors, white walls, and a window. No furniture or equipment.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118208/image/2a884cc57150cc364f9cf8ab0790f49e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118208/image/2a884cc57150cc364f9cf8ab0790f49e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118208/image/2a884cc57150cc364f9cf8ab0790f49e.jpg",
+        "ordering": 17,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      717567
+    ],
+    "agency": {
+      "name": "NEGRI Immobilien AG",
+      "name_2": null,
+      "street": "Untere Brühlstrasse 52",
+      "zipcode": "4800",
+      "city": "Zofingen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/q05d1y6rbsilvsam5b5tdskrrick5r7szkjopagz7p0uyrz0ei.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/q05d1y6rbsilvsam5b5tdskrrick5r7szkjopagz7p0uyrz0ei.jpg?alias=org_logo_m&signature=IQbP30vYmaSGbpJ_0c_6v1UUw5PXpNYcyO5_B7643z8"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003118208",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "170m² Gewerbe in St. Urban mieten",
+    "livingspace": 170
+  }
+}

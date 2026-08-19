@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1732.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/hallwylstrasse-48-3005-bern/86232643/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "büroräume",
+        "dienstleistung",
+        "empfang",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "café",
+        "laden",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 86232643,
+    "slug": "hallwylstrasse-48-3005-bern",
+    "url": "/de/wohnung/hallwylstrasse-48-3005-bern/86232643/",
+    "short_url": "/86232643/",
+    "submit_url": "/de/listing/86232643/submit/",
+    "status": "act",
+    "created": "2026-07-31T14:56:49.265525+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..6136671",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "6136671",
+    "alternative_reference": null,
+    "price_display": 2920,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-31T14:56:49.431601+02:00",
+    "rent_net": 2720,
+    "rent_charges": 200,
+    "rent_gross": 2920,
+    "short_title": "93m² Büro",
+    "public_title": "Hallwylstrasse 48, 3005 Bern - CHF 2’920",
+    "pitch_title": "93m² Büro in Bern mieten",
+    "description_title": "BÜRO MIT CHARME IM BELIEBTEN KIRCHENFELDQUARTIER",
+    "description": "Im renommierten Kirchenfeldquartier vermieten wir ab ab sofort oder nach Vereinbarung diese attraktive und vielseitig nutzbare Bürofläche im 3. Obergeschoss. Die Räumlichkeiten überzeugen mit einem durchdachten Grundriss, hellen Arbeitsbereichen und einer angenehmen Atmosphäre - ideal für Unternehmen, die Wert auf eine repräsentative Geschäftsadresse legen.   \n  \nDie Bürofläche verfügt über vier grosszügige Büroräume mit einer Fläche von ca. 12.5 m², 16.9 m², 19.6 m² und 23.0 m². Ein einladendes Entrée eignet sich ideal als Empfangs- oder Wartebereich. Ergänzt wird das Raumangebot durch eine praktische Teeküche, ein separates WC sowie einen EDV-/Archivraum. Ein zusätzlicher Estrich bietet wertvollen Stauraum für Akten, Material oder Archivgut. Die Liegenschaft ist zudem mit einem Lift ausgestattet, welcher einen komfortablen Zugang zu den Büroräumlichkeiten ermöglicht.   \n  \nDie Räumlichkeiten eignen sich ideal für Treuhand-, Architektur-, Ingenieur-, Anwalts-, Beratungs- oder Planungsbüros sowie weitere Dienstleistungsunternehmen.   \n  \nIhre Vorteile auf einen Blick:   \n\\- Vier helle und gut geschnittene Büroräume   \n\\- Grosszügiger Empfangsbereich   \n\\- Praktische Teeküche   \n\\- Separater EDV-/Archivraum   \n\\- Eigenes WC   \n\\- Zusätzlicher Estrich als Stauraum   \n\\- Lift im Gebäude   \n\\- Repräsentative Adresse im beliebten Kirchenfeldquartier   \n\\- Lage   \n  \nDie Hallwylstrasse 48 befindet sich im beliebten Kirchenfeldquartier, einem der exklusivsten und repräsentativsten Quartiere der Stadt Bern. Die Umgebung ist geprägt von stilvollen Altbauten, Botschaften, kulturellen Einrichtungen und einem gepflegten, ruhigen Umfeld - ideale Voraussetzungen für ein professionelles Arbeitsumfeld.   \n  \nDie Berner Innenstadt sowie der Hauptbahnhof sind in wenigen Minuten mit den öffentlichen Verkehrsmitteln oder dem Velo erreichbar. Tram- und Bushaltestellen befinden sich in kurzer Gehdistanz und sorgen für eine ausgezeichnete Anbindung. Einkaufsmöglichkeiten, Restaurants, Cafés und weitere Dienstleistungen liegen ebenfalls in unmittelbarer Nähe.   \n  \nDie Kombination aus repräsentativer Lage, hervorragender Erreichbarkeit und funktionalen Büroräumlichkeiten macht dieses Objekt zu einem idealen Standort für Unternehmen verschiedenster Branchen.   \n  \nFür weitere Auskünfte oder für eine Besichtigung vor Ort stehen wir Ihnen jederzeit gerne zur Verfügung.   \n  \n\"Ihre Spezialisten für Immobilien\"",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 93,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 93,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Hallwylstrasse 48",
+    "zipcode": 3005,
+    "city": "Bern",
+    "public_address": "Hallwylstrasse 48, 3005 Bern",
+    "latitude": 46.9414764,
+    "longitude": 7.454833999999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48501566,
+    "images": [
+      {
+        "pk": 48501566,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/b5d2fedf772787194a2942c46e6eb795.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/b5d2fedf772787194a2942c46e6eb795.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/b5d2fedf772787194a2942c46e6eb795.jpg",
+        "ordering": 1,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501567,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/63a4f0c81f4446336a36b13dd2e57669.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/63a4f0c81f4446336a36b13dd2e57669.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/63a4f0c81f4446336a36b13dd2e57669.jpg",
+        "ordering": 2,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501568,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/cafb6f96e7da7f5cddb8f50c29df479c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/cafb6f96e7da7f5cddb8f50c29df479c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/cafb6f96e7da7f5cddb8f50c29df479c.jpg",
+        "ordering": 3,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501569,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/5f67eb36131c6dc6809b598461c5ba3b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/5f67eb36131c6dc6809b598461c5ba3b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/5f67eb36131c6dc6809b598461c5ba3b.jpg",
+        "ordering": 4,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501570,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/2be6eb008b74a924f0768ad95a9eb86e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/2be6eb008b74a924f0768ad95a9eb86e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/2be6eb008b74a924f0768ad95a9eb86e.jpg",
+        "ordering": 5,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501571,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/639a1f9392b34a411be6faa2fe51a7a5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/639a1f9392b34a411be6faa2fe51a7a5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/639a1f9392b34a411be6faa2fe51a7a5.jpg",
+        "ordering": 6,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501572,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/ea9b3a9e080705d5bee4d075064b829c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/ea9b3a9e080705d5bee4d075064b829c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/ea9b3a9e080705d5bee4d075064b829c.jpg",
+        "ordering": 7,
+        "width": 720,
+        "height": 1280
+      },
+      {
+        "pk": 48501573,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/8f7f7c0510c0007d6e2106121e2b7a75.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/8f7f7c0510c0007d6e2106121e2b7a75.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/8f7f7c0510c0007d6e2106121e2b7a75.jpg",
+        "ordering": 8,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501574,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/682689485817d3d8548af5c8e9b81504.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/682689485817d3d8548af5c8e9b81504.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/682689485817d3d8548af5c8e9b81504.jpg",
+        "ordering": 9,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501575,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/b55a17d14ae9d60469324835c20c6333.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/b55a17d14ae9d60469324835c20c6333.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/b55a17d14ae9d60469324835c20c6333.jpg",
+        "ordering": 10,
+        "width": 1280,
+        "height": 720
+      },
+      {
+        "pk": 48501576,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/2e0a3329936613f25ae62c1f294c060e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/2e0a3329936613f25ae62c1f294c060e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/2e0a3329936613f25ae62c1f294c060e.jpg",
+        "ordering": 11,
+        "width": 720,
+        "height": 1280
+      },
+      {
+        "pk": 48501577,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4003352733/image/12c4bdb30e88314ac491e211f863f899.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4003352733/image/12c4bdb30e88314ac491e211f863f899.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4003352733/image/12c4bdb30e88314ac491e211f863f899.jpg",
+        "ordering": 12,
+        "width": 720,
+        "height": 1280
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Lifestyle Company AG",
+      "name_2": null,
+      "street": "Hallwylstrasse 48",
+      "zipcode": "3005",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/nx5oakk2fwfc4w9y2lrqdakaddnllk7ddl7dolbhswfj54zbkj.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/nx5oakk2fwfc4w9y2lrqdakaddnllk7ddl7dolbhswfj54zbkj.jpg?alias=org_logo_m&signature=J7wecxBR_z974k3lx-E_4htqDyL_NaH3kNI06jpSVY8"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003352733",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "93m² Büro in Bern mieten",
+    "livingspace": 93
+  }
+}

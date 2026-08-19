@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1636.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/lowenplatz-3-3303-jegenstorf/86225357/",
+    "descarcat": "2026-08-17 12:36",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "dienstleistung",
+        "einzelbüro",
+        "empfang",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden"
+      ],
+      "kw_wohnen": [
+        "studio"
+      ]
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 86225357,
+    "slug": "lowenplatz-3-3303-jegenstorf",
+    "url": "/de/wohnung/lowenplatz-3-3303-jegenstorf/86225357/",
+    "short_url": "/86225357/",
+    "submit_url": "/de/listing/86225357/submit/",
+    "status": "act",
+    "created": "2026-07-29T09:47:59.582967+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "6758153.6758153.",
+    "ref_property": "6758153",
+    "ref_house": "6758153",
+    "ref_object": "",
+    "alternative_reference": null,
+    "price_display": 1150,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-29T09:48:00.480502+02:00",
+    "rent_net": 1050,
+    "rent_charges": 100,
+    "rent_gross": 1150,
+    "short_title": "18m² Büro",
+    "public_title": "Löwenplatz 3, 3303 Jegenstorf - CHF 1’150",
+    "pitch_title": "18m² Büro in Jegenstorf mieten",
+    "description_title": "Vielseitig nutzbar  Büro oder Praxis an zentraler Lage",
+    "description": "Helles Einzelbüro im Zentrum von Jegenstorf   \n  \nDiese gepflegten, lichtdurchfluteten Einzelbüros bieten ideale Voraussetzungen für Einzelunternehmer, Freiberufler oder Dienstleistende, die eine zentrale Lage, helle Räume und ein professionelles Arbeitsumfeld schätzen. Die Büros können einzeln gemietet werden und eignen sich hervorragend für konzentriertes Arbeiten sowie den Empfang von Kundschaft.   \nGrosse Fensterflächen sorgen für viel Tageslicht und verleihen den Räumen eine freundliche und hochwertige Ausstrahlung. Bereits der einladende Eingangsbereich vermittelt einen seriösen und professionellen Eindruck. Auf Wunsch kann vorhandenes Mobiliar übernommen werden, was einen unkomplizierten und schnellen Einzug ermöglicht.   \n  \nIn Kombination mit weiteren Mietparteien entsteht ein vielseitig nutzbares Zentrum für Dienstleistungen, Beratung oder Gesundheitsangebote. So verbinden sich Eigenständigkeit, Austausch und Synergien zu einem attraktiven und inspirierenden Arbeitsumfeld.   \n  \nDieses ImmoSky-Angebot bietet folgende *Mehr Leistung*:   \n\\+ Helle, repräsentative Räume mit grossen Fensterflächen   \n\\+ Optional Übernahme des vorhandenen Mobiliars   \n\\+ Hochwertiger Marmorboden   \n\\+ Voll ausgestattete Küche sowie Nasszelle mit Dusche   \n\\+ Zwei Terrassen zur Mitbenutzung   \n\\+ Grosszügiges Kellerabteil   \n\\+ Zahlreiche öffentliche Parkplätze direkt vor dem Gebäude   \n\\+ Hervorragende Erreichbarkeit per ÖV und Auto (Autobahnanschluss in unmittelbarer Nähe)   \n  \nDiese Räumlichkeiten bieten eine hervorragende Basis für individuelle Geschäftsideen in einem professionellen Rahmen. Ob Büro, Praxis, Studio oder Beratungsraum hier finden Sie den passenden Ort für Ihre Tätigkeit.   \nKontaktieren Sie uns für weitere Informationen oder zur Vereinbarung eines Besichtigungstermins.   \n  \n(Das Verkaufsdossier wird in der Regel innert maximal 24 Stunden an Sie versendet, bitte prüfen Sie auch Ihren SPAM Ordner.)",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 18,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 18,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "petsallowed"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Löwenplatz 3",
+    "zipcode": 3303,
+    "city": "Jegenstorf",
+    "public_address": "Löwenplatz 3, 3303 Jegenstorf",
+    "latitude": 47.048547,
+    "longitude": 7.5063895,
+    "year_built": 2000,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2026-10-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.immosky.ch",
+    "live_viewing_url": null,
+    "cover_image": 48585087,
+    "images": [
+      {
+        "pk": 48585087,
+        "caption": "Viele Parkplätze vor der Liegenschaft",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346410/image/e0c222e1424985263940bc191549ec4a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346410/image/e0c222e1424985263940bc191549ec4a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346410/image/e0c222e1424985263940bc191549ec4a.jpg",
+        "ordering": 1,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585088,
+        "caption": "Helles Büro mit Terrasse",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346410/image/45dc27303bb6b3d5c8f50ebf54e8e233.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346410/image/45dc27303bb6b3d5c8f50ebf54e8e233.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346410/image/45dc27303bb6b3d5c8f50ebf54e8e233.jpg",
+        "ordering": 2,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585089,
+        "caption": "Sitzungszimmer",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346410/image/aac58dd699eac1e043552e2b5c2e9759.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346410/image/aac58dd699eac1e043552e2b5c2e9759.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346410/image/aac58dd699eac1e043552e2b5c2e9759.jpg",
+        "ordering": 3,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585090,
+        "caption": "Kluge Aufteilung",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346410/image/355d6bc47dc3d74ce76ab9cbad5e7280.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346410/image/355d6bc47dc3d74ce76ab9cbad5e7280.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346410/image/355d6bc47dc3d74ce76ab9cbad5e7280.jpg",
+        "ordering": 4,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585091,
+        "caption": "Grosszügiger Empfangsbereich",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346410/image/f854a71998cb5d82b69705e863105f3c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346410/image/f854a71998cb5d82b69705e863105f3c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346410/image/f854a71998cb5d82b69705e863105f3c.jpg",
+        "ordering": 5,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585092,
+        "caption": "Grosses Entrée mit Empfangsstelle",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346410/image/30a67978df1d3dc4b9eb56624a7add78.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346410/image/30a67978df1d3dc4b9eb56624a7add78.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346410/image/30a67978df1d3dc4b9eb56624a7add78.jpg",
+        "ordering": 6,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585093,
+        "caption": "Kennen Sie den Wert Ihrer Immobilie?",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346410/image/b291adb9a8685962943eb90d72b647fe.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346410/image/b291adb9a8685962943eb90d72b647fe.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346410/image/b291adb9a8685962943eb90d72b647fe.jpg",
+        "ordering": 7,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "ImmoSky AG - Dübendorf",
+      "name_2": null,
+      "street": "Hochbordstrasse 1",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/08/5pxdlwmbagt53rwf0yprfrqwwnj1ikpbemx0731la79y8sn0a9.jpg",
+        "url_org_logo_m": "/thumb/org/2026/08/5pxdlwmbagt53rwf0yprfrqwwnj1ikpbemx0731la79y8sn0a9.jpg?alias=org_logo_m&signature=llwB1mv7e3U8jAxlZdudhDQdvEin91Yk0gREMgseSkY"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003346410",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "18m² Büro in Jegenstorf mieten",
+    "livingspace": 18
+  }
+}

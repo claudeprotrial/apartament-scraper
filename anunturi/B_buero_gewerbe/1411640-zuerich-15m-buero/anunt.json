@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1634.0,
+    "regiune": "Elveția — altă regiune",
+    "in_bern": false,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/limmatquai-4-8001-zurich/1411640/",
+    "descarcat": "2026-08-17 12:36",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "arbeitsplatz",
+        "arbeitsplätze",
+        "bürofläche",
+        "coworking",
+        "dienstleistung",
+        "einzelbüro",
+        "empfang",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 1411640,
+    "slug": "limmatquai-4-8001-zurich",
+    "url": "/de/wohnung/limmatquai-4-8001-zurich/1411640/",
+    "short_url": "/1411640/",
+    "submit_url": "/de/listing/1411640/submit/",
+    "status": "act",
+    "created": "2024-11-26T16:17:35.261492+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..lpt3q.q8ree",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "lpt3q.q8ree",
+    "alternative_reference": null,
+    "price_display": 2990,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2024-11-26T16:17:36.344605+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 2990,
+    "short_title": "15m² Büro",
+    "public_title": "Limmatquai 4, 8001 Zürich - CHF 2’990",
+    "pitch_title": "15m² Büro in Zürich mieten",
+    "description_title": "Einzelbüro mit Service in Zürich direkt am Bellevueplatz",
+    "description": "Erhalten Sie Zugang zu einem modernen Privatbüro und eleganten Konferenzräumen und einer Dachterrasse mit Blick auf den Zürichsee. Dieses Angebot umfasst 15m² möblierte Bürofläche mit Platz für einen Arbeitsplatzes sowie 250 m² grosszügige Gemeinschaftsflächen – darunter stilvolle Besprechungsräume, ein Bistro, eine Empfangsarea und eine Dachterrasse mit atemberaubendem Blick über die Altstadt, die Oper und den Zürichsee. Alle angegebenen Preise sind Startpreise und können je nach Auswahl und enthaltenen Dienstleistungen variieren. \n\nDas historische Gebäude „Zürcherhof“ wurde in einer der besten Lagen am Bellevueplatz Zürich zu einem modernen Geschäftshaus umgebaut. Bei der Kernsanierung wurde besonderer Wert auf Nachhaltigkeit, smarte Infrastruktur und Design gelegt, wobei auch der Heimatschutz berücksichtigt wurde. Das Ergebnis sind elegante Büros, hochwertige Meeting- und Sitzungsräume sowie flexible Coworking-Arbeitsplätze, die sowohl hybrides als auch konzentriertes Arbeiten ideal unterstützen. \n\nDank der ausgezeichneten Verkehrsanbindung, mit Tram-Stationen am Bellevue und dem Bahnhof Stadelhofen, erreichen Sie sowohl den Hauptbahnhof als auch den Flughafen in nur 2 bis 8 Minuten. \n\nVerleihen Sie Ihrem Unternehmen ein Zuhause im Zürcherhof mit einem privaten Büro von 15m², ideal für eine Person. Unsere großsszügigen und voll ausgestatteten Büros bieten Ihnen alles, was Sie brauchen – von modernen Möbeln bis hin zu superschnellem WLAN – damit Sie sich voll und ganz auf den Erfolg Ihres Unternehmens konzentrieren können. Ob für einen Tag oder langfristig: Unsere flexiblen Büroflächen passen sich ganz nach den individuellen Bedürfnissen Ihres Unternehmens an. \n\nDie Vorteile eines privaten Büros bei Satellite Office: \n\n  * Top-Lage im Herzen von Zürich \n\n  * Ein mehrsprachiges, hochqualifiziertes Team sorgt für professionellen Empfang, Büroassistenz sowie die Planung und Durchführung von Meetings und Events \n\n  * 28 exklusive Büros, in denen Design und Funktionalität perfekt miteinander harmonieren: höhenverstellbare Schreibtische, ergonomische Stühle, mobile Apothekerschränke und Caddys \n\n  * Eine elegante Kaminlounge und 5 hochmoderne Konferenzräume \n\n  * State-of-the-Art Konferenztechnik mit intelligenten 4K-Videokonferenzsystemen \n\n  * High-Speed-Internetzugang \n\n\n\n\nEntscheiden Sie sich für ein Büro, das Ihre Arbeitsweise perfekt unterstützt!",
+    "surface_living": null,
+    "surface_property": 15,
+    "surface_usable": 15,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 15,
+    "number_of_rooms": null,
+    "floor": 4,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "view"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "petsallowed"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Limmatquai 4",
+    "zipcode": 8001,
+    "city": "Zürich",
+    "public_address": "Limmatquai 4, 8001 Zürich",
+    "latitude": 47.3680599,
+    "longitude": 8.544976799999999,
+    "year_built": 1907,
+    "year_renovated": 2023,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": "https://my.matterport.com/show/?m=qbw7bJuJky9",
+    "website_url": "https://www.satelliteoffice.ch/buero-mieten/zuerich/",
+    "live_viewing_url": null,
+    "cover_image": 42057874,
+    "images": [
+      {
+        "pk": 42057874,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/927891bb8b638a52049d8e1c0ed7e769.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/927891bb8b638a52049d8e1c0ed7e769.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/927891bb8b638a52049d8e1c0ed7e769.jpg",
+        "ordering": 0,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057875,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/f7b2e4ce1aba899b47153b5d122877bc.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/f7b2e4ce1aba899b47153b5d122877bc.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/f7b2e4ce1aba899b47153b5d122877bc.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057876,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/47943b54a9e91aa1297280b712952975.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/47943b54a9e91aa1297280b712952975.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/47943b54a9e91aa1297280b712952975.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057877,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/df9aab83498523826d2abe269e4d1636.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/df9aab83498523826d2abe269e4d1636.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/df9aab83498523826d2abe269e4d1636.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057878,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/6813699f9550c888fa9ea444515f5e29.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/6813699f9550c888fa9ea444515f5e29.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/6813699f9550c888fa9ea444515f5e29.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057879,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/2e12e1a6abb46ffe7b98ad8e548091d0.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/2e12e1a6abb46ffe7b98ad8e548091d0.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/2e12e1a6abb46ffe7b98ad8e548091d0.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057880,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/0c46f8f2f425e3200a7bed02aece86b1.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/0c46f8f2f425e3200a7bed02aece86b1.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/0c46f8f2f425e3200a7bed02aece86b1.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057881,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/7d8f3ce08179bbf79f1ba60374f08d1f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/7d8f3ce08179bbf79f1ba60374f08d1f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/7d8f3ce08179bbf79f1ba60374f08d1f.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057882,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/6281b7183c34c782cf41f88c5524abad.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/6281b7183c34c782cf41f88c5524abad.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/6281b7183c34c782cf41f88c5524abad.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057883,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/b30cafe237573683e7ab6fceef6cd668.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/b30cafe237573683e7ab6fceef6cd668.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/b30cafe237573683e7ab6fceef6cd668.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057884,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/75ba4f2058198ad5a25283e3756067f3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/75ba4f2058198ad5a25283e3756067f3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/75ba4f2058198ad5a25283e3756067f3.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 42057885,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z057/3001954184/image/30e8b9274c27ec9fdb410a34867ec07f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z057/3001954184/image/30e8b9274c27ec9fdb410a34867ec07f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z057/3001954184/image/30e8b9274c27ec9fdb410a34867ec07f.jpg",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      337834
+    ],
+    "agency": {
+      "name": "Satellite Office",
+      "name_2": null,
+      "street": "Limmatquai 4",
+      "zipcode": "8001",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/04/0bjrrhtibvrmmslgkzbkdytmc9qkzzxom5slohu47znmc7dnpz.jpg",
+        "url_org_logo_m": "/thumb/org/2026/04/0bjrrhtibvrmmslgkzbkdytmc9qkzzxom5slohu47znmc7dnpz.jpg?alias=org_logo_m&signature=z_Yyp5Qk1j5LBCI1fE39b0qTp0bDqxO55lED52mj0J0"
+      }
+    },
+    "reserved": false,
+    "state": "ZH",
+    "country": "CH",
+    "smg_id": "3001954184",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "15m² Büro in Zürich mieten",
+    "livingspace": 15
+  }
+}

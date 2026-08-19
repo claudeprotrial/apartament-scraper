@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1623.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/dorfstrasse-10-3115-gerzensee/85710419/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "atelier",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "<type>",
+        "bar",
+        "ladenfläche",
+        "shop",
+        "verkaufsfläche"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 85710419,
+    "slug": "dorfstrasse-10-3115-gerzensee",
+    "url": "/de/wohnung/dorfstrasse-10-3115-gerzensee/85710419/",
+    "short_url": "/85710419/",
+    "submit_url": "/de/listing/85710419/submit/",
+    "status": "act",
+    "created": "2026-01-22T09:01:12.276894+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "SHOP",
+    "reference": "..ZO2395",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "ZO2395",
+    "alternative_reference": null,
+    "price_display": 1460,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-01-22T09:01:17.957078+01:00",
+    "rent_net": 1240,
+    "rent_charges": 220,
+    "rent_gross": 1460,
+    "short_title": "Ladenfläche",
+    "public_title": "Dorfstrasse 10, 3115 Gerzensee - CHF 1’460",
+    "pitch_title": "Ladenfläche in Gerzensee mieten",
+    "description_title": "Moderne Gewerbefläche in Neubau  vielseitig nutzbar und ideal gelegen",
+    "description": "Starten Sie Ihr Business an bester Lage Ihre neue Gewerbefläche in Gerzensee   \n  \nMachen Sie Ihre Vision zur Realität. Ob Praxis, Büro, Atelier, Verkaufsfläche oder Dienstleistung diese vielseitig nutzbare Gewerbefläche mit 74 m² in einem modernen Neubaugebäude bietet Ihnen die perfekte Basis für Ihren Erfolg.   \n  \nGerzensee, das charmante Dorf zwischen Bern, Thun und Belp, bietet eine hervorragende Erreichbarkeit und eine starke Kundenfrequenz. Der zentrale Standort im Dorfkern sorgt für Laufkundschaft, während die Südlage mit Blick auf die Berner Hochalpen und den Gerzensee ein inspirierendes Arbeitsumfeld schafft.   \n  \nDie Fläche besteht aus zwei Räumen und verfügt über ein eigenes WC. Dank der flexiblen Raumgestaltung und der modernen Bauweise eignet sie sich für unterschiedlichste Geschäftsmodelle.   \n  \nIhre Vorteile auf einen Blick:   \n  \n\\- 74 m² Gewerbefläche in einem Neubaugebäude   \n\\- Zwei helle Räume mit individuellen Nutzungsmöglichkeiten   \n\\- Eigenes WC für zusätzlichen Komfort   \n\\- Zentrale Lage mit hoher Sichtbarkeit   \n\\- Kundenpotenzial durch Anwohner und Passanten   \n\\- Moderne Architektur und flexible Gestaltungsmöglichkeiten   \n\\- Bezugsbereit nach Vereinbarung   \n  \nNutzen Sie diese Gelegenheit und bringen Sie Ihr Unternehmen an einen Standort, der Erfolg verspricht. Gerne senden wir Ihnen weitere Informationen oder vereinbaren einen persönlichen Besichtigungstermin.   \n  \nBesuchen Sie unsere Website: www.wohnen-gerzensee.ch   \n  \nWir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Dorfstrasse 10",
+    "zipcode": 3115,
+    "city": "Gerzensee",
+    "public_address": "Dorfstrasse 10, 3115 Gerzensee",
+    "latitude": 46.8391595,
+    "longitude": 7.544708200000001,
+    "year_built": 2023,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48393591,
+    "images": [
+      {
+        "pk": 48393591,
+        "caption": "Screenshot 2026-07-03 082645",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003347924/image/b16aa23cd89279b993276fc2966ba8f5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003347924/image/b16aa23cd89279b993276fc2966ba8f5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003347924/image/b16aa23cd89279b993276fc2966ba8f5.jpg",
+        "ordering": 1,
+        "width": 757,
+        "height": 558
+      },
+      {
+        "pk": 48393592,
+        "caption": "Bild möblierung",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003347924/image/b06d9eb73a5bdd305418851574c874d9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003347924/image/b06d9eb73a5bdd305418851574c874d9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003347924/image/b06d9eb73a5bdd305418851574c874d9.jpg",
+        "ordering": 2,
+        "width": 1200,
+        "height": 971
+      },
+      {
+        "pk": 48393593,
+        "caption": "DJI_20250710145456_0026_D",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003347924/image/b24c370500ff2c73ee56e838a17b22aa.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003347924/image/b24c370500ff2c73ee56e838a17b22aa.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003347924/image/b24c370500ff2c73ee56e838a17b22aa.jpg",
+        "ordering": 3,
+        "width": 1200,
+        "height": 675
+      },
+      {
+        "pk": 48393594,
+        "caption": "20240312_134620",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003347924/image/2216011142641ab2817fb7fb4c01a19b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003347924/image/2216011142641ab2817fb7fb4c01a19b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003347924/image/2216011142641ab2817fb7fb4c01a19b.jpg",
+        "ordering": 4,
+        "width": 1200,
+        "height": 931
+      },
+      {
+        "pk": 48393595,
+        "caption": "20240312_134656",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003347924/image/a160b3a4d4956105114b4b8e4979bd17.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003347924/image/a160b3a4d4956105114b4b8e4979bd17.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003347924/image/a160b3a4d4956105114b4b8e4979bd17.jpg",
+        "ordering": 5,
+        "width": 1200,
+        "height": 958
+      },
+      {
+        "pk": 48393596,
+        "caption": "DSC_5463",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003347924/image/0c259508aa2c4109d2c74db7429e443a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003347924/image/0c259508aa2c4109d2c74db7429e443a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003347924/image/0c259508aa2c4109d2c74db7429e443a.jpg",
+        "ordering": 6,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48393597,
+        "caption": "QR-Code",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4003347924/image/ff2d7e70d6ddd5a507eaa3091a5ef890.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4003347924/image/ff2d7e70d6ddd5a507eaa3091a5ef890.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4003347924/image/ff2d7e70d6ddd5a507eaa3091a5ef890.jpg",
+        "ordering": 7,
+        "width": 1200,
+        "height": 1200
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Zollinger Immobilien AG",
+      "name_2": null,
+      "street": "Worbstrasse 237",
+      "zipcode": "3073",
+      "city": "Muri bei Bern / Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg?alias=org_logo_m&signature=bqUx0fqWBn032MT4NRiX3mBqMrEcMeT7q4Hwua2TyN0"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003347924",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Ladenfläche in Gerzensee mieten",
+    "livingspace": null
+  }
+}

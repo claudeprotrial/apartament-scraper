@@ -1,0 +1,158 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1620.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/ipsachstrasse-10-2560-nidau/1397585/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büroräume",
+        "gewerbe"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 5
+  },
+  "raw": {
+    "pk": 1397585,
+    "slug": "ipsachstrasse-10-2560-nidau",
+    "url": "/de/wohnung/ipsachstrasse-10-2560-nidau/1397585/",
+    "short_url": "/1397585/",
+    "submit_url": "/de/listing/1397585/submit/",
+    "status": "act",
+    "created": "2024-11-19T09:48:38.240927+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "__isx275310..is24-6535191",
+    "ref_property": "__isx275310",
+    "ref_house": "",
+    "ref_object": "is24-6535191",
+    "alternative_reference": null,
+    "price_display": 120,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2024-11-19T09:48:38.708836+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 120,
+    "short_title": "505m² Gewerbe",
+    "public_title": "Ipsachstrasse 10, 2560 Nidau - CHF 120",
+    "pitch_title": "505m² Gewerbe in Nidau mieten",
+    "description_title": "Optimale Büroräumlichkeiten an idealer Lage in Nidau",
+    "description": "**_Optimale Büroräume mit Zukunft_ ** Sie suchen geeignete Räumlichkeiten für eine Praxis oder einen Schulungsraum oder suchen hohe, helle Räume für Ihr neues Büro. Das Gebäude an der Ipsachstrasse 10 in Nidau ist vielseitig nutzbar. **Gewerberäumlichkeiten bis total ca. 505m2 (es besteht die Möglichkeit die Räumlichkeit aufzuteilen, die Wände zu verschieben oder anders aufzuteilen)**\n\n**Aktuell noch zu vermieten:**\n\nBüro im 2. OG ca. 100m2 \n\nBüro im 2. OG ca. 4x25m2 \n\nBüro im 2. OG ca. 3x20m2 \n\nBüro im 3. OG ca. 2x33m2 \n\nBüro im 3. OG ca. 176m2 \n\n**Preis: CHF 100.00 + NK/m2/mtl.**\n\n**Parkplätze können dazugemietet werden. Die Liegenschaft befindet sich in der Gemeinde Nidau, direkt an den Verbindungsstrassen Ipsach-Port und Nidau-Bellmund. Nidau, ein 6''863 Einwohner zählendes mittelalterliches Städtchen, liegt direkt am Bielsee. Die Gemeinde grenzt an die zweisprachige Stadt Biel-Bienne (50''000 Einwohner), welche mit den öffentlichen Verkersmitteln, sowie mit dem Auto in wenigen Minuten bequem erreichbar ist. Von der Liegenschaft ist man in nur 3-5 Autominuten bei der Autobahnauffahrt nach Bern. Auch Zürich, Basel und die Romandie sind via Biel per Autobahn einfach erreichbar.**",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 505,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 505,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Ipsachstrasse 10",
+    "zipcode": 2560,
+    "city": "Nidau",
+    "public_address": "Ipsachstrasse 10, 2560 Nidau",
+    "latitude": 47.1193542,
+    "longitude": 7.2416017,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48136575,
+    "images": [
+      {
+        "pk": 48136575,
+        "caption": "Multi-story commercial building with solar panels on the roof, surrounded by a parking lot and located in an urban area with other buildings and greenery visible in the background.",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/3003136056/image/15612ab89bc6e4735637e43ced1c8a4c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/3003136056/image/15612ab89bc6e4735637e43ced1c8a4c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/3003136056/image/15612ab89bc6e4735637e43ced1c8a4c.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48136576,
+        "caption": "Multi-story office building with a parking lot in the foreground, surrounded by other buildings and a hilly, forested landscape in the background.",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/3003136056/image/9d249494e445d88219f0d1cb443057fe.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/3003136056/image/9d249494e445d88219f0d1cb443057fe.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/3003136056/image/9d249494e445d88219f0d1cb443057fe.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48136577,
+        "caption": "The image shows an office space with multiple desks, computers, and office chairs. The room has large windows and appears to be on a raised ground floor.",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/3003136056/image/2bb0e309afe5089f2a7bc0b8f9995686.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/3003136056/image/2bb0e309afe5089f2a7bc0b8f9995686.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/3003136056/image/2bb0e309afe5089f2a7bc0b8f9995686.jpg",
+        "ordering": 3,
+        "width": 480,
+        "height": 640
+      },
+      {
+        "pk": 48136578,
+        "caption": "The image shows an office space with a desk, shelves, and lockers. The room has large windows with blinds, and the floor is covered in dark gray carpeting.",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/3003136056/image/a50b945c8336930a6463d23cfeb9dfd6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/3003136056/image/a50b945c8336930a6463d23cfeb9dfd6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/3003136056/image/a50b945c8336930a6463d23cfeb9dfd6.jpg",
+        "ordering": 4,
+        "width": 480,
+        "height": 640
+      },
+      {
+        "pk": 48136579,
+        "caption": "Multi-story office building with a large parking lot in front, located in an urban area with a blue sky and some clouds in the background.",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/3003136056/image/7705ac3a60c15d479b3749dc43baf254.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/3003136056/image/7705ac3a60c15d479b3749dc43baf254.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/3003136056/image/7705ac3a60c15d479b3749dc43baf254.jpg",
+        "ordering": 5,
+        "width": 1200,
+        "height": 800
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "PS Immobilien AG",
+      "name_2": null,
+      "street": "Paul-Emile-Brandt-Strasse 2",
+      "zipcode": "2502",
+      "city": "Biel",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/knbwu3twpw9a6bvrzdxpzp0zdcmht9krydfes0guypwwtvxnns.png",
+        "url_org_logo_m": "/thumb/org/2026/07/knbwu3twpw9a6bvrzdxpzp0zdcmht9krydfes0guypwwtvxnns.png?alias=org_logo_m&signature=Qhc9Bh18X67wgS1rPC6_XBAn8T8qS6--jp9a9-R_aKg"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "3003136056",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "505m² Gewerbe in Nidau mieten",
+    "livingspace": 505
+  }
+}

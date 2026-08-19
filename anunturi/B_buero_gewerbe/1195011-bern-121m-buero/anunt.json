@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1666.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/fabrikstrasse-29-b-3012-bern/1195011/",
+    "descarcat": "2026-08-17 12:32",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büroraum",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 1195011,
+    "slug": "fabrikstrasse-29-b-3012-bern",
+    "url": "/de/wohnung/fabrikstrasse-29-b-3012-bern/1195011/",
+    "short_url": "/1195011/",
+    "submit_url": "/de/listing/1195011/submit/",
+    "status": "act",
+    "created": "2024-05-02T09:59:30.422209+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "12640.05.400010",
+    "ref_property": "12640",
+    "ref_house": "05",
+    "ref_object": "400010",
+    "alternative_reference": null,
+    "price_display": 184,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2024-05-29T16:08:32.426002+02:00",
+    "rent_net": 141,
+    "rent_charges": 43,
+    "rent_gross": 184,
+    "short_title": "121m² Büro",
+    "public_title": "Fabrikstrasse 29 B, 3012 Bern - CHF 184 inkl. NK pro m² / Jahr",
+    "pitch_title": "121m² Büro in Bern mieten",
+    "description_title": "Offen, flexibel, lichtdurchflutet - ideales Umfeld für Wachstum",
+    "description": "An der Fabrikstrasse 29 B in der hinteren Länggasse steht eine vielseitig nutzbare Gewerbefläche zur Vermietung. \n\n  \n\n\nDie Fläche befindet sich im Zwischengeschoss (Boden der Fläche unterhalb des Erdreichs, Fenster ungefähr auf Höhe des Erdreichs) und zeichnet sich durch grosse Fensterfronten, viel Tageslicht und eine funktionale Raumaufteilung aus. \n\n**  \n**\n\n**Infrastruktur & Lage **\n\n  * Ruhige Wohnstraße mit guter Erreichbarkeit \n  * Optimale Anbindung über Bern-Weyermannshaus \n  * Schnelle ÖV-Verbindungen (ca. 200 m zur Bushaltestelle) \n  * Infrastruktur in unmittelbarer Nähe: Einkauf, Banken, Post, Restaurants \n  * Bremgartenwald in der Nähe für Pausen im Freien \n\n\n\n  \n\n\n**Ausstattung & Merkmale **\n\n  * Hell gestaltete Fläche mit flexibler Raumteilung \n  * Separate Toilette \n  * Einbauschränke \n  * Abgeschlossener Büroraum \n  * Grosses Durchgangsbüro / Open-Office \n\n  \n\n\n**Parkmöglichkeiten**\n\n  * Kundenparkplätze und Einstellhallenplätze können nach Verfügbarkeit gemietet werden \n\n\n\n  \n\n\n**Haben wir Ihr Interesse geweckt? Dann freuen wir uns über Ihre Nachricht via Kontaktformular. Gerne vereinbaren wir einen Besichtigungstermin.**",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 121,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 121,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "cable"
+      },
+      {
+        "name": "garage"
+      },
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Fabrikstrasse 29 B",
+    "zipcode": 3012,
+    "city": "Bern",
+    "public_address": "Fabrikstrasse 29 B, 3012 Bern",
+    "latitude": 46.9529668,
+    "longitude": 7.4242494,
+    "year_built": 1972,
+    "year_renovated": 2014,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 9183972,
+    "images": [
+      {
+        "pk": 9183972,
+        "caption": "IMG_1602.JPG",
+        "url": "/media/ff/2024/05/nqr7j5r6bcvuiltnrxr2vd67va9q28n3kd2fgqj9au8hdjkq2d.jpg",
+        "url_thumb_m": "/thumb/ff/2024/05/nqr7j5r6bcvuiltnrxr2vd67va9q28n3kd2fgqj9au8hdjkq2d.jpg?alias=thumb_m&signature=PAuL7D0soJBTqLr0XFXipUe8HUJUDVJPGIjqXdEZR3Q",
+        "url_listing_search": "/thumb/ff/2024/05/nqr7j5r6bcvuiltnrxr2vd67va9q28n3kd2fgqj9au8hdjkq2d.jpg?alias=listing_search&signature=W47ZhmCD6SH20s54M_8W_8xMc54aHCHTCx8PtFprFdQ",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421231,
+        "caption": "IMG_7228.JPG",
+        "url": "/media/ff/2024/11/5q1nolkq7vxqlzssb4o9oza67eqyuivhv6x1orlj20euh97is3.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/5q1nolkq7vxqlzssb4o9oza67eqyuivhv6x1orlj20euh97is3.jpg?alias=thumb_m&signature=ggGEqu81PNM8VlHhbazbWY21hwkKsB6dQEU_xbW4aUo",
+        "url_listing_search": "/thumb/ff/2024/11/5q1nolkq7vxqlzssb4o9oza67eqyuivhv6x1orlj20euh97is3.jpg?alias=listing_search&signature=niFxNrOzMwnzX86P0sFzwMrhVxvHQgZKPopMD889gMk",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421232,
+        "caption": "IMG_7225.JPG",
+        "url": "/media/ff/2024/11/7jt5upx6yqhcvtv8ok7e3aetcznh59qph9xax7scnv04avlf25.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/7jt5upx6yqhcvtv8ok7e3aetcznh59qph9xax7scnv04avlf25.jpg?alias=thumb_m&signature=mLaItJJ0sXZ9St2j5BvnlmD19jYg61_v049lKIf-MGA",
+        "url_listing_search": "/thumb/ff/2024/11/7jt5upx6yqhcvtv8ok7e3aetcznh59qph9xax7scnv04avlf25.jpg?alias=listing_search&signature=hBYe64c5Ja29kipp146vobYUD8KTbe0N--BDnMdI3X4",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421233,
+        "caption": "IMG_7226.JPG",
+        "url": "/media/ff/2024/11/6xxefeiu6jrt8qw0m5wbxup01j52yu9plcdv46e4j22pyplg7v.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/6xxefeiu6jrt8qw0m5wbxup01j52yu9plcdv46e4j22pyplg7v.jpg?alias=thumb_m&signature=f9zurcDaWnS9QgKy-Epqst1qvtjops3QkN0sjfS9aco",
+        "url_listing_search": "/thumb/ff/2024/11/6xxefeiu6jrt8qw0m5wbxup01j52yu9plcdv46e4j22pyplg7v.jpg?alias=listing_search&signature=Rk2gyf6Jreh5FJ3fX-rcXmGCNUkT34XC6jD-s0yuJzg",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421234,
+        "caption": "IMG_7229.JPG",
+        "url": "/media/ff/2024/11/rawivqadr5xwj5r18glqnt3bx15oz3h92ydbap1cfuw7yi8ipk.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/rawivqadr5xwj5r18glqnt3bx15oz3h92ydbap1cfuw7yi8ipk.jpg?alias=thumb_m&signature=KJ7umi9sJpwNnRXIec813bIAm3N6M9oKBpTUjlPkmhY",
+        "url_listing_search": "/thumb/ff/2024/11/rawivqadr5xwj5r18glqnt3bx15oz3h92ydbap1cfuw7yi8ipk.jpg?alias=listing_search&signature=qhf7XDL_IWyqjWixFeU5A_5JOzEXVpvCunt3Bce3Ly8",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421235,
+        "caption": "IMG_7231.JPG",
+        "url": "/media/ff/2024/11/lza2s0bxga4crwxfeqpncg2kdhtw1gcrmtyear25ekcgtxj1p0.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/lza2s0bxga4crwxfeqpncg2kdhtw1gcrmtyear25ekcgtxj1p0.jpg?alias=thumb_m&signature=6lsnPjXo1inQ26qmZoCrl8wZEKHlZSN1LAN-nTG_VLk",
+        "url_listing_search": "/thumb/ff/2024/11/lza2s0bxga4crwxfeqpncg2kdhtw1gcrmtyear25ekcgtxj1p0.jpg?alias=listing_search&signature=yvI17W48XrXHprNs4l4YaqkaXnimKeYeflW0T06_HQM",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421236,
+        "caption": "IMG_7232.JPG",
+        "url": "/media/ff/2024/11/dihyf6uat5lww61hihzlab05zv5y15iezgn33a8ct7ghjryij8.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/dihyf6uat5lww61hihzlab05zv5y15iezgn33a8ct7ghjryij8.jpg?alias=thumb_m&signature=53h6YrGO3Ea2_f90slHypi8jjNETXs4De1esWhKFlrM",
+        "url_listing_search": "/thumb/ff/2024/11/dihyf6uat5lww61hihzlab05zv5y15iezgn33a8ct7ghjryij8.jpg?alias=listing_search&signature=1EBcEazAFUkxADCSIuSgFpHRZZRxDjEJTUBcoowsprQ",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421237,
+        "caption": "IMG_7234.JPG",
+        "url": "/media/ff/2024/11/fjb5itgoou23ihb3rw9mtncbgx6hqoduu7nsw0na0yd54tbdn6.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/fjb5itgoou23ihb3rw9mtncbgx6hqoduu7nsw0na0yd54tbdn6.jpg?alias=thumb_m&signature=NEopTDcL-CpZjAigTluK_l-d9MNlMR3mpQrnZzCHrzU",
+        "url_listing_search": "/thumb/ff/2024/11/fjb5itgoou23ihb3rw9mtncbgx6hqoduu7nsw0na0yd54tbdn6.jpg?alias=listing_search&signature=TrfF-6MzY7uPvujbNvmQfDMDNRXF0iCx0CL9D5gXzLo",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421238,
+        "caption": "IMG_7236.JPG",
+        "url": "/media/ff/2024/11/khvo2nfudyahbl2rwqy6jk9lbanw96hu6ivehzbr1apf76llus.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/khvo2nfudyahbl2rwqy6jk9lbanw96hu6ivehzbr1apf76llus.jpg?alias=thumb_m&signature=WZuun5N99LIB1LqSBlylABSLmL6-4TdCGF1BNk9LXK8",
+        "url_listing_search": "/thumb/ff/2024/11/khvo2nfudyahbl2rwqy6jk9lbanw96hu6ivehzbr1apf76llus.jpg?alias=listing_search&signature=JVp5f26tDn7YbrZbmvvrohUep7eIL19hQdSotHcXV5o",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 10421239,
+        "caption": "IMG_7237.JPG",
+        "url": "/media/ff/2024/11/0cgpqbpefe8mcwwplhwlky3zyr1wmjcnvkukq1kuu53f3lpfon.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/0cgpqbpefe8mcwwplhwlky3zyr1wmjcnvkukq1kuu53f3lpfon.jpg?alias=thumb_m&signature=tPFex6W6F-6xooE9jCIsOEXIz8csRJERbd3xsICGrDA",
+        "url_listing_search": "/thumb/ff/2024/11/0cgpqbpefe8mcwwplhwlky3zyr1wmjcnvkukq1kuu53f3lpfon.jpg?alias=listing_search&signature=P5EPOfmiuAZ7bHgd2k4EAFYrV-Y64uBRwy7yt2XpA4M",
+        "ordering": 10,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [
+      437255
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "121m² Büro in Bern mieten",
+    "livingspace": 121
+  }
+}

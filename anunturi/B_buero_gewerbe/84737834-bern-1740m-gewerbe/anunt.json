@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1658.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/zentweg-17b-3006-bern/84737834/",
+    "descarcat": "2026-08-17 12:32",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "gewerberaum"
+      ],
+      "kw_retail": [],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 84737834,
+    "slug": "zentweg-17b-3006-bern",
+    "url": "/de/wohnung/zentweg-17b-3006-bern/84737834/",
+    "short_url": "/84737834/",
+    "submit_url": "/de/listing/84737834/submit/",
+    "status": "act",
+    "created": "2025-08-04T16:08:34.177342+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "15380.04.400051",
+    "ref_property": "15380",
+    "ref_house": "04",
+    "ref_object": "400051",
+    "alternative_reference": "15380.04.410050",
+    "price_display": 89,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-08-04T16:08:36.016770+02:00",
+    "rent_net": 75,
+    "rent_charges": 14,
+    "rent_gross": null,
+    "short_title": "1740m² Gewerbe",
+    "public_title": "Zentweg 17b, 3006 Bern - CHF 89 inkl. NK pro m² / Jahr",
+    "pitch_title": "1740m² Gewerbe in Bern mieten",
+    "description_title": "Ihr Lagerraum im urbanen Zentareal",
+    "description": "Das **Zentareal** befindet sich in der **Agglomeration von Bern** , nur wenige Minuten vom **Autobahnanschluss** Bern-Wankdorf entfernt. Von hier aus erreichen Sie alle **Verkehrsachsen** in kürzester Zeit, was die Lage besonders praktisch macht.  \n  \nWir vermieten einen Lagerraum / Gewerberaum mit einer Fläche von **1'740 m2**, ideal für Ihre geschäftlichen Bedürfnisse.  \n  \n**Der Nettomietzins liegt bei CHF 85.00 / m2 im Jahr.**  \n  \nBei gewecktem Interesse, Unklarheiten oder Fragen können Sie uns gerne kontaktieren. Lassen Sie sich selbst vor Ort von dem Lagerraum überzeugen. Wir freuen uns über Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 1740,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 1740,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Zentweg 17b",
+    "zipcode": 3006,
+    "city": "Bern",
+    "public_address": "Zentweg 17b, 3006 Bern",
+    "latitude": 46.9567017,
+    "longitude": 7.4746399,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "https://www.zentareal.ch/de",
+    "live_viewing_url": "",
+    "cover_image": 23768009,
+    "images": [
+      {
+        "pk": 23768009,
+        "caption": "Arealansicht",
+        "url": "/media/ff/2025/08/ek5fvvc9uju8bha5rrrvrfsgk2ebsv945wbuz529huu4mfti9g.jpg",
+        "url_thumb_m": "/thumb/ff/2025/08/ek5fvvc9uju8bha5rrrvrfsgk2ebsv945wbuz529huu4mfti9g.jpg?alias=thumb_m&signature=ZYmgTyyXpCGaaNNphtu_6JsnYOvWq0-LCNZxaHTHymI",
+        "url_listing_search": "/thumb/ff/2025/08/ek5fvvc9uju8bha5rrrvrfsgk2ebsv945wbuz529huu4mfti9g.jpg?alias=listing_search&signature=f_G8m6EblzqqOcpr6kaCzl0iirOo3F5dRtvZl9L3Vbc",
+        "ordering": 1,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 23768010,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2025/08/kx0kkldehdri60usct27ty03g6m4dmhlr1aaac87rlp6ouoapw.jpg",
+        "url_thumb_m": "/thumb/ff/2025/08/kx0kkldehdri60usct27ty03g6m4dmhlr1aaac87rlp6ouoapw.jpg?alias=thumb_m&signature=y8OWgFC1T7lI8lhqHmK8Y4xLdZ36HUqcHQBMlyNKDLI",
+        "url_listing_search": "/thumb/ff/2025/08/kx0kkldehdri60usct27ty03g6m4dmhlr1aaac87rlp6ouoapw.jpg?alias=listing_search&signature=Z08EcThQX10kPGAier9vZhNdW-lQR6mGIlexWRFHYzo",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47826194,
+        "caption": "Lagerfläche",
+        "url": "/media/ff/2026/07/1ay5xwk38vutrkqphpdoigs9i9i3zohfo5nxe2haqbj6ghccp1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/1ay5xwk38vutrkqphpdoigs9i9i3zohfo5nxe2haqbj6ghccp1.jpg?alias=thumb_m&signature=UzEncSWzX54SPtxzxPceoLXSQNxBaZuKVnWzHYRva64",
+        "url_listing_search": "/thumb/ff/2026/07/1ay5xwk38vutrkqphpdoigs9i9i3zohfo5nxe2haqbj6ghccp1.jpg?alias=listing_search&signature=FoWtxokCGlsFTc1OwhK-eI9tPCL0YukvvUK-U6rrvEw",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47826274,
+        "caption": "Lagerfläche",
+        "url": "/media/ff/2026/07/hzn3mq35q11iwyxn4zatojew293ck5vu0ycgvu06tirblkt3ip.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/hzn3mq35q11iwyxn4zatojew293ck5vu0ycgvu06tirblkt3ip.jpg?alias=thumb_m&signature=_PAElyh0Dg2XjUXw7OPBl97uiuLpSeBTHx-NkMDcJxY",
+        "url_listing_search": "/thumb/ff/2026/07/hzn3mq35q11iwyxn4zatojew293ck5vu0ycgvu06tirblkt3ip.jpg?alias=listing_search&signature=KVn9kRoxDU4mTN8xJv-dLqH6-J1Hig4Qcb_qNbZMyqI",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47826276,
+        "caption": "Lagerfläche",
+        "url": "/media/ff/2026/07/fl25flmu2xsesy2ac5mj2odb303a4bezkywack99pba0m4gofm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/fl25flmu2xsesy2ac5mj2odb303a4bezkywack99pba0m4gofm.jpg?alias=thumb_m&signature=-tUCCFhsDNUKLKwA4TvOcaRef68Sh_f730jlORqKaZg",
+        "url_listing_search": "/thumb/ff/2026/07/fl25flmu2xsesy2ac5mj2odb303a4bezkywack99pba0m4gofm.jpg?alias=listing_search&signature=CRZEzuY0RrZ5ktXHzUnIggX1tamcbAfiUL5nn4UoZSY",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47826261,
+        "caption": "Lagerfläche",
+        "url": "/media/ff/2026/07/9g7mtj7400mp55vp1bg7ncj3r10bmdk9lc1w4ijk2fo7jl9m5u.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/9g7mtj7400mp55vp1bg7ncj3r10bmdk9lc1w4ijk2fo7jl9m5u.jpg?alias=thumb_m&signature=dAsyyYNmFcdYiJSQPoJmkwMqd05hcQyk77iwHfdANko",
+        "url_listing_search": "/thumb/ff/2026/07/9g7mtj7400mp55vp1bg7ncj3r10bmdk9lc1w4ijk2fo7jl9m5u.jpg?alias=listing_search&signature=tE7dvMzJqEgGTNixF-Fv37NwMf-C6I9m0sdML9EtyYY",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47826302,
+        "caption": "Zus. Lagerfläche",
+        "url": "/media/ff/2026/07/afavfqoxo4hijj7i1h1si7g3g76u2r7lie28ukt61y3a525xle.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/afavfqoxo4hijj7i1h1si7g3g76u2r7lie28ukt61y3a525xle.jpg?alias=thumb_m&signature=BCmDA1dF-dEOU_KKXKwteVxUBnE172_0Bsu-1twTb4k",
+        "url_listing_search": "/thumb/ff/2026/07/afavfqoxo4hijj7i1h1si7g3g76u2r7lie28ukt61y3a525xle.jpg?alias=listing_search&signature=JvbeHqQiXjyOqFHXEMg8yxfBfrzZKMQi-F6eq71it3s",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47826273,
+        "caption": "Zus. Bürofläche",
+        "url": "/media/ff/2026/07/701bcdz1v0a6my6mb2cys8q6uyjrhf8u4tzaao6i1g9uj51phv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/701bcdz1v0a6my6mb2cys8q6uyjrhf8u4tzaao6i1g9uj51phv.jpg?alias=thumb_m&signature=heedNyR95deEbZ8Wvn7BAo6k_A1nX9oEJhITVqQkws8",
+        "url_listing_search": "/thumb/ff/2026/07/701bcdz1v0a6my6mb2cys8q6uyjrhf8u4tzaao6i1g9uj51phv.jpg?alias=listing_search&signature=IDrqgWOvkol0hy6AKeKcqHl1ODzUnwnSvFSp7vIJzOs",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 23768023,
+        "caption": "Anlieferung",
+        "url": "/media/ff/2025/08/7e373t6sqxvkebhd07jhm6g2uf4v8megk5b5x80z2zguki0q3j.jpg",
+        "url_thumb_m": "/thumb/ff/2025/08/7e373t6sqxvkebhd07jhm6g2uf4v8megk5b5x80z2zguki0q3j.jpg?alias=thumb_m&signature=VTTLTxhSRYUrqCiQ0tC3x3pkXA2uYgAzWBYP2I3kvEE",
+        "url_listing_search": "/thumb/ff/2025/08/7e373t6sqxvkebhd07jhm6g2uf4v8megk5b5x80z2zguki0q3j.jpg?alias=listing_search&signature=Is5zS13WMYSbH908rtqnq5RSjb1JqWrWTQY78gkAdxk",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 23768017,
+        "caption": "Warenaufzug",
+        "url": "/media/ff/2025/08/8qajaxnh4ugr0bdxa3lv09sesd4o69gt393e8zuytxrg30jqiz.jpg",
+        "url_thumb_m": "/thumb/ff/2025/08/8qajaxnh4ugr0bdxa3lv09sesd4o69gt393e8zuytxrg30jqiz.jpg?alias=thumb_m&signature=TQo-12ZQWSULkwWLj1dOUK5rT-G1SP2mA_mlM7sV0ZI",
+        "url_listing_search": "/thumb/ff/2025/08/8qajaxnh4ugr0bdxa3lv09sesd4o69gt393e8zuytxrg30jqiz.jpg?alias=listing_search&signature=Nmo02psJzI9NkZ-0BUb8imLx-J8ZNlBsZuMB3CB6HSE",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [
+      476353
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": "",
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "1740m² Gewerbe in Bern mieten",
+    "livingspace": 1740
+  }
+}

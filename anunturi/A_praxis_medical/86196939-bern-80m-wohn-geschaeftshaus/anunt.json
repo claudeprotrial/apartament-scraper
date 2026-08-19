@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1694.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/marktgasse-3-3011-bern/86196939/",
+    "descarcat": "2026-08-17 12:30",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisräume"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "büro-",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 86196939,
+    "slug": "marktgasse-3-3011-bern",
+    "url": "/de/wohnung/marktgasse-3-3011-bern/86196939/",
+    "short_url": "/86196939/",
+    "submit_url": "/de/listing/86196939/submit/",
+    "status": "act",
+    "created": "2026-07-16T15:08:31.049389+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "LIVING_COMMERCIAL_BUILDING",
+    "reference": "12603..1011",
+    "ref_property": "12603",
+    "ref_house": "",
+    "ref_object": "1011",
+    "alternative_reference": "",
+    "price_display": 2050,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-16T15:36:45.950955+02:00",
+    "rent_net": 1800,
+    "rent_charges": 250,
+    "rent_gross": null,
+    "short_title": "80m² Wohn- / Geschäftshaus",
+    "public_title": "Marktgasse 3, 3011 Bern - CHF 2’050 inkl. NK pro Monat",
+    "pitch_title": "80m² Wohn- / Geschäftshaus in Bern mieten",
+    "description_title": "Büro oder Praxisräume im Zentrum von Bern",
+    "description": "An erstklassiger Lage vermieten wir eine attraktive Gewerbefläche im 1. OG eines charmanten Altbaus an der berühmten Marktgasse in Bern.  \n  \nDie Räumlichkeiten befinden sich direkt neben der Zytglogge und sind sowohl mit den öffentlichen Verkehrsmitteln als auch zu Fuss hervorragend erreichbar.  \n  \n\n*   80m²\n*   2 grosszügige Räume\n*   separates WC\n*   Ideal als Büro-, Praxis- oder Schulungsräume\n\nHaben wir Ihr Interesse geweckt? Gerne stehen wir für weitere Auskünfte oder einen Besichtigungstermin zur Verfügung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 80,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 80,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Marktgasse 3",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Marktgasse 3, 3011 Bern",
+    "latitude": 46.9478229,
+    "longitude": 7.447145099999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 48120521,
+    "images": [
+      {
+        "pk": 48120521,
+        "caption": null,
+        "url": "/media/ff/2026/07/elyi92b855o5mlw8kmc6gyha39n1erbbbgqx0688yu19u9dh5i.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/elyi92b855o5mlw8kmc6gyha39n1erbbbgqx0688yu19u9dh5i.jpg?alias=thumb_m&signature=VqMKo4pNadt_FE7mQlDv1LczC4qhwQu-6JDDqoN9Xqc",
+        "url_listing_search": "/thumb/ff/2026/07/elyi92b855o5mlw8kmc6gyha39n1erbbbgqx0688yu19u9dh5i.jpg?alias=listing_search&signature=oNOgVzkR1EaQbWjkWh6zYuNeALKxEPGmfxG2sobdl-8",
+        "ordering": 1,
+        "width": 675,
+        "height": 1200
+      },
+      {
+        "pk": 48118691,
+        "caption": null,
+        "url": "/media/ff/2026/07/00sh0oozqon83hb5lqcq1r8jd2wvrudjt20i2t827ae5y6fa96.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/00sh0oozqon83hb5lqcq1r8jd2wvrudjt20i2t827ae5y6fa96.jpg?alias=thumb_m&signature=OZuAmj5inH4dVbYZ2TzNhUTb-iz5TYm3AHXkKnj1jeI",
+        "url_listing_search": "/thumb/ff/2026/07/00sh0oozqon83hb5lqcq1r8jd2wvrudjt20i2t827ae5y6fa96.jpg?alias=listing_search&signature=BK-1Qc_uw0wb86BbRZUXduZu8uVDOQGK8yb3dZ1Nzpo",
+        "ordering": 2,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48118687,
+        "caption": null,
+        "url": "/media/ff/2026/07/pj6a5dujtvy6tap4spbeomfkvaazon1bikeu7u4l5axsy4isth.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/pj6a5dujtvy6tap4spbeomfkvaazon1bikeu7u4l5axsy4isth.jpg?alias=thumb_m&signature=4z6pf76rGKyp_mh7ki_r0pWWa6XI3ZkeUkwcvwuDJ8w",
+        "url_listing_search": "/thumb/ff/2026/07/pj6a5dujtvy6tap4spbeomfkvaazon1bikeu7u4l5axsy4isth.jpg?alias=listing_search&signature=S8ZPsrPPC5_1lp6xnVtWKgRVN_2cJmyGTUMvyepKujA",
+        "ordering": 3,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48118693,
+        "caption": null,
+        "url": "/media/ff/2026/07/gufm22y1puosiphl3kicip9aw9kt4hej9mv79fcehtfbz3s0kx.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/gufm22y1puosiphl3kicip9aw9kt4hej9mv79fcehtfbz3s0kx.jpg?alias=thumb_m&signature=ZaQunw0OJxhYhjCyvlpSwIONphiufjUBE1GNjBcraOw",
+        "url_listing_search": "/thumb/ff/2026/07/gufm22y1puosiphl3kicip9aw9kt4hej9mv79fcehtfbz3s0kx.jpg?alias=listing_search&signature=ZUNhBX-fXYV8Ach2NdmFfqc6DlArVTQSUgwbbfGcNaY",
+        "ordering": 4,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48118694,
+        "caption": null,
+        "url": "/media/ff/2026/07/2nzfquat15wctze5vdgfglryvkj5lxin5min09djy4lxq3losm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/2nzfquat15wctze5vdgfglryvkj5lxin5min09djy4lxq3losm.jpg?alias=thumb_m&signature=Qn3_vl8H_a-VMMLrGhAHc8DsHVvMqR92GRzNyItjw1g",
+        "url_listing_search": "/thumb/ff/2026/07/2nzfquat15wctze5vdgfglryvkj5lxin5min09djy4lxq3losm.jpg?alias=listing_search&signature=3r4KKJ3_prQryWYroin-hKBpD5leEti24quEYb9ntPA",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48118690,
+        "caption": null,
+        "url": "/media/ff/2026/07/r95dj0bxf9msvjzfwlzp98kihlvw4c74j6e3jcdvdlzi1p4rte.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/r95dj0bxf9msvjzfwlzp98kihlvw4c74j6e3jcdvdlzi1p4rte.jpg?alias=thumb_m&signature=rCFFQlutAmEE98TMTZVQR6fE8BPoj8m5NjZP5c4Urrc",
+        "url_listing_search": "/thumb/ff/2026/07/r95dj0bxf9msvjzfwlzp98kihlvw4c74j6e3jcdvdlzi1p4rte.jpg?alias=listing_search&signature=LmwP8b8TqSYuNOchQeT9Ui5_wTDfU3Bk_6EWI3xxTzo",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48118688,
+        "caption": null,
+        "url": "/media/ff/2026/07/lsnq8v47b39r6i7ux81vlb3c1gddijtxxivsdgliv8j7ov9bsv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/lsnq8v47b39r6i7ux81vlb3c1gddijtxxivsdgliv8j7ov9bsv.jpg?alias=thumb_m&signature=ANF_TP0wgVnOPqnD1zE_fW_JPYVfvSxSJSG5iNz8KLk",
+        "url_listing_search": "/thumb/ff/2026/07/lsnq8v47b39r6i7ux81vlb3c1gddijtxxivsdgliv8j7ov9bsv.jpg?alias=listing_search&signature=z3qa0seqagIZp4WLM6CkPMLqj7YNKh3gcPBtW3uzDas",
+        "ordering": 7,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48118684,
+        "caption": null,
+        "url": "/media/ff/2026/07/nd7lnv9mwioemb16ybet73tqvt2fatdoiv39weml654tzl73qh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/nd7lnv9mwioemb16ybet73tqvt2fatdoiv39weml654tzl73qh.jpg?alias=thumb_m&signature=T7ucq5X3hRPKr4zolx5Zzl0pEhGEN276rJ-PY1XLMj0",
+        "url_listing_search": "/thumb/ff/2026/07/nd7lnv9mwioemb16ybet73tqvt2fatdoiv39weml654tzl73qh.jpg?alias=listing_search&signature=8pL1emvFRkp32CDi0NECa6TF75wE9gJr8HlncwKDpek",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48118685,
+        "caption": null,
+        "url": "/media/ff/2026/07/f6rzdnp56fwurz4svdhp21spc0mdvt9vw7lm6caop0vifxg91v.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/f6rzdnp56fwurz4svdhp21spc0mdvt9vw7lm6caop0vifxg91v.jpg?alias=thumb_m&signature=gp5ZU5B20nu2Kou5XLvq-fZAAvBF3av8v7VNjOY1PgY",
+        "url_listing_search": "/thumb/ff/2026/07/f6rzdnp56fwurz4svdhp21spc0mdvt9vw7lm6caop0vifxg91v.jpg?alias=listing_search&signature=yJSHwe9HXHiS35vCGpoVO9aaCWDGdsa-yq2_xOBImrQ",
+        "ordering": 9,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48118689,
+        "caption": null,
+        "url": "/media/ff/2026/07/7u2muzzm7irezrge2kdoqmix5rtlk08mzmv1w2ybe682g4hq75.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/7u2muzzm7irezrge2kdoqmix5rtlk08mzmv1w2ybe682g4hq75.jpg?alias=thumb_m&signature=T-5PbO1K4J4clBxl0WzZiNkhuW9ALmoG9s6uA1B3hQc",
+        "url_listing_search": "/thumb/ff/2026/07/7u2muzzm7irezrge2kdoqmix5rtlk08mzmv1w2ybe682g4hq75.jpg?alias=listing_search&signature=PVQNQM8SangMZLtATl703Fsmvbln7JYBtZ5b5vD8f88",
+        "ordering": 10,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      763353
+    ],
+    "agency": {
+      "name": "Brunner Verwaltungen AG",
+      "name_2": "",
+      "street": "Schauplatzgasse 23",
+      "zipcode": "3001",
+      "city": "Bern",
+      "country": "CH",
+      "logo": null
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "80m² Wohn- / Geschäftshaus in Bern mieten",
+    "livingspace": 80
+  }
+}

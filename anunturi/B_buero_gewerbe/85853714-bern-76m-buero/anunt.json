@@ -1,0 +1,167 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1760.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/aarbergergasse-24-3011-bern/85853714/",
+    "descarcat": "2026-08-17 12:26",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "arbeitsplatz",
+        "atelier",
+        "büro",
+        "dienstleistung",
+        "gewerbe",
+        "kanzlei",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "gastronomie",
+        "laden"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 5
+  },
+  "raw": {
+    "pk": 85853714,
+    "slug": "aarbergergasse-24-3011-bern",
+    "url": "/de/wohnung/aarbergergasse-24-3011-bern/85853714/",
+    "short_url": "/85853714/",
+    "submit_url": "/de/listing/85853714/submit/",
+    "status": "act",
+    "created": "2026-03-10T11:10:27.254789+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "17890.01.410010",
+    "ref_property": "17890",
+    "ref_house": "01",
+    "ref_object": "410010",
+    "alternative_reference": null,
+    "price_display": 1785,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-05-05T12:12:13.118714+02:00",
+    "rent_net": 1585,
+    "rent_charges": 200,
+    "rent_gross": 1785,
+    "short_title": "76m² Büro",
+    "public_title": "Aarbergergasse 24, 3011 Bern - CHF 1’785 inkl. NK pro Monat",
+    "pitch_title": "76m² Büro in Bern mieten",
+    "description_title": "Einzigartige Gewerberäumlichkeit mit Charakter in Berns Altstadt",
+    "description": "An zentraler Lage, nur wenige Schritte vom Bahnhof Bern entfernt, vermieten wir eine einzigartige Gewerberäumlichkeit an der **Aarbergergasse 24, 3011 Bern** . Die Räumlichkeit befindet sich in einem historischen Gebäude und überzeugt durch ihren besonderen Charme: **wunderschöner Parkett** , **eine charaktervolle Holzdecke** sowie hohe Räume schaffen eine warme, einladende Atmosphäre - ideal für eine Praxis, ein Atelier, eine Kanzlei oder ein stilles Büro. \n\n  \n\n\nDie Fläche wurde bisher als **Wirtenbüro** genutzt und eignet sich aufgrund der zentralen Lage hervorragend für ähnliche oder andere diskrete Nutzungen im Dienstleistungsbereich. Aufgrund der bisherigen Nutzung ist die Räumlichkeit nur zweckmässig ausgestattet, auf individuelle Wünsche kann eingegangen werden. \n\n  \n\n\n**Ihre Vorteile auf einen Blick:**\n\n  * Toplage in der Berner Altstadt , wenige Gehminuten vom Bahnhof entfernt \n\n  * Historisches Ambiente mit viel Charme und Charakter \n\n  * Grosszügige, helle Räume mit Altbauflair \n\n  * Zugang zu Innenhof für Pausen, etc. \n\n\n\n  * Vielfältige Gastronomie-, Einkaufs- und Dienstleistungsangebote in unmittelbarer Umgebung \n\n  * eigene Toilette in der Mietfläche \n\n  * zweckmässige Teeküche möglich \n\n  * Parkhäuser und Veloabstellplätze in der Nähe \n\n  * Repräsentative Adresse \n\n\n\n\nDie Räumlichkeit bietet nicht nur einen inspirierenden Arbeitsplatz, sondern auch eine hervorragende Visitenkarte für Ihre Kundschaft. \n\n  \n\n\nEs stehen keine Parkplätze in der Liegenschaft zur Verfügung. Die Räumlichkeiten sind nicht rollstuhlgängig erschlossen und die Liegenschaft verfügt über keinen Lift.   \n\n\n  \n\n\n**Haben wir Ihr Interesse geweckt?**   \nGerne stehen wir Ihnen für weitere Informationen oder einen unverbindlichen Besichtigungstermin zur Verfügung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 76,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 76,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Aarbergergasse 24",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Aarbergergasse 24, 3011 Bern",
+    "latitude": 46.9496759,
+    "longitude": 7.443142399999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 35627107,
+    "images": [
+      {
+        "pk": 35627107,
+        "caption": "IMG_7367.jpg",
+        "url": "/media/ff/2026/05/gv397dhs5sp5a99na0ydrjyui7rvin4oyayo8mqy6bj9pbe8b0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/gv397dhs5sp5a99na0ydrjyui7rvin4oyayo8mqy6bj9pbe8b0.jpg?alias=thumb_m&signature=jYVeqXVc0sURZ2MJiOwVGGOAsRkOwU-gFRjXDdCXIDQ",
+        "url_listing_search": "/thumb/ff/2026/05/gv397dhs5sp5a99na0ydrjyui7rvin4oyayo8mqy6bj9pbe8b0.jpg?alias=listing_search&signature=RVS6RACYiPmZxkc3rTt4R7FhCuU_7Q6D04xdLtdGJOI",
+        "ordering": 1,
+        "width": 683,
+        "height": 1024
+      },
+      {
+        "pk": 35627108,
+        "caption": "Buero_vorne_3.jpg",
+        "url": "/media/ff/2026/05/atemo190ip3q5ihzerxgr87wrtfrzl2577v6d16krm9pae7yo1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/atemo190ip3q5ihzerxgr87wrtfrzl2577v6d16krm9pae7yo1.jpg?alias=thumb_m&signature=ethnLmr_DC8ra8Pov1Qvloyq3_ocn1vB3wPzzp_g7KU",
+        "url_listing_search": "/thumb/ff/2026/05/atemo190ip3q5ihzerxgr87wrtfrzl2577v6d16krm9pae7yo1.jpg?alias=listing_search&signature=Z2SIfd6MsvhkZ0MOGnYIpHQUajRPUN_e3vYI_fNzkx8",
+        "ordering": 2,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 35627109,
+        "caption": "Buero_vorne.jpg",
+        "url": "/media/ff/2026/05/joqaq1gxadzlxlnyns0pc7p43edkw9fwyn3o8e04v476q8h7ul.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/joqaq1gxadzlxlnyns0pc7p43edkw9fwyn3o8e04v476q8h7ul.jpg?alias=thumb_m&signature=M7XFVij5nZMePPbrTYtkGYezAvuKX9aRfK7eJqGlCcY",
+        "url_listing_search": "/thumb/ff/2026/05/joqaq1gxadzlxlnyns0pc7p43edkw9fwyn3o8e04v476q8h7ul.jpg?alias=listing_search&signature=viaMlEorvKoE5yIVQd98z3DQ5-eTX68eEanhNhRANTM",
+        "ordering": 3,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 47486549,
+        "caption": "Buero_1._Stock_Archiv_Fensteransicht.png",
+        "url": "/media/ff/2026/06/g3jxq3gjwh7ss9wzlid8z5ji6xx7bujhqkmtc5ux5soshkydiv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/g3jxq3gjwh7ss9wzlid8z5ji6xx7bujhqkmtc5ux5soshkydiv.jpg?alias=thumb_m&signature=rVzsLdtz1hBam9L5y9YHnVNM69jH1cAv-qjBz1S460U",
+        "url_listing_search": "/thumb/ff/2026/06/g3jxq3gjwh7ss9wzlid8z5ji6xx7bujhqkmtc5ux5soshkydiv.jpg?alias=listing_search&signature=rcJ_H1CQAN93rbgB8rKhWC88kn50N2lqs2R1lVx-tMs",
+        "ordering": 4,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 47486550,
+        "caption": "Buero_1._Stock_Archiv.png",
+        "url": "/media/ff/2026/06/7y9a80ka3ik94l8azaqjequbvnrlsu2dy66b6r0h1qvdygsiwk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/7y9a80ka3ik94l8azaqjequbvnrlsu2dy66b6r0h1qvdygsiwk.jpg?alias=thumb_m&signature=ewqYDhfnlf4W2v7RcpdXReuNPS6KFwwOWgD8g3pa_gA",
+        "url_listing_search": "/thumb/ff/2026/06/7y9a80ka3ik94l8azaqjequbvnrlsu2dy66b6r0h1qvdygsiwk.jpg?alias=listing_search&signature=JfyMp-DYfwF2bvT-yuBEZOECX1XWyKsahzSW_nykIdE",
+        "ordering": 5,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "documents": [
+      721666
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "76m² Büro in Bern mieten",
+    "livingspace": 76
+  }
+}

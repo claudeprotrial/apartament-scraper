@@ -1,0 +1,236 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1657.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/worbstrasse-97-3074-muri-b-bern/1785311/",
+    "descarcat": "2026-08-17 12:33",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "gewerbe"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 1785311,
+    "slug": "worbstrasse-97-3074-muri-b-bern",
+    "url": "/de/wohnung/worbstrasse-97-3074-muri-b-bern/1785311/",
+    "short_url": "/1785311/",
+    "submit_url": "/de/listing/1785311/submit/",
+    "status": "act",
+    "created": "2025-06-04T10:36:06.787653+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "215301..140001",
+    "ref_property": "215301",
+    "ref_house": "",
+    "ref_object": "140001",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2026-05-20T08:37:01.167514+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "8026m² Gewerbe",
+    "public_title": "Worbstrasse 97, 3074 Muri b. Bern - auf Anfrage",
+    "pitch_title": "8026m² Gewerbe in Muri b. Bern mieten",
+    "description_title": "Vielseitig nutzbares Lager- und Gewerbegebäude zur Zwischennutzung in Muri (BE)",
+    "description": "An gut erschlossener Lage an der Worbstrasse 97 in Muri wird ab Anfang 2027 ein vielseitig nutzbares Lager- und Gewerbegebäude zur Zwischennutzung angeboten. Mittelfristig ist eine umfassende Sanierung der Liegenschaft vorgesehen. Der genaue Zeitpunkt sowie die Umsetzung erfolgen jedoch in Abstimmung mit der zukünftigen Mieterschaft, wodurch sich interessante und planbare Nutzungsperspektiven ergeben.  \n  \n**Objektbeschreibung**  \n  \nDie Liegenschaft wird aktuell als Lager genutzt, ein Teil der Flächen ist als einfache Bürofläche ausgebaut. Das Gebäude ist nicht klimatisiert.  \nDank grosszügigen Geschosshöhen und effizienter Flächenaufteilung eignet sich das Gebäude ideal für Lager-, Logistik-, oder Gewerbenutzungen (keine Wohnnutzung).  \n  \nEin besonderer Vorteil besteht in der hohen Flexibilität: Es können sowohl Gesamtflächen als auch Teilflächen bzw. einzelne Geschosse gemietet werden. Der Flächenzuschnitt und die Nutzung können weitgehend an die Bedürfnisse der Mieterschaft angepasst werden.  \n  \n**Flächenübersicht (ca.)**  \n  \n\n*   Untergeschoss: ca. 1’621 m²\n*   Erdgeschoss: ca. 1’472 m²\n*   1\\. Obergeschoss: ca. 1’652 m²\n*   2\\. Obergeschoss: ca. 1’660 m²\n*   3\\. Obergeschoss: ca. 1’621 m²\n*   Totalfläche: ca. 8’026 m²\n*   Aussenfläche: ca. 3’400 m²\n\n**Raumhöhen (ca.)**  \n  \n\n*   Untergeschoss: ca. 4.05 m, teils 3.03 m\n*   Erdgeschoss: ca. 3.07 m\n*   1.–2. Obergeschoss: ca. 2.85 m\n*   3\\. Obergeschoss: ca. 3.38 m\n\n**Traglasten**  \n  \n\n*   Erdgeschoss: 600 kg/m²\n*   1\\. Obergeschoss: 1’200 kg/m²\n*   2\\. Obergeschoss: 1’200 kg/m²\n*   3\\. Obergeschoss: 300 kg/m²\n\n**Parkierung & Aussenanlagen**  \n  \n\n*   Ca. 11 Personenwagen-Parkplätze\n*   LKW-Parkplätze vorhanden\n*   Grosszügige Aussenflächen für Logistik, Umschlag oder Zwischenlager\n\n**Ihre Vorteile auf einen Blick**  \n  \n\n*   Attraktive Zwischennutzung mit planbarer Perspektive\n*   Hohe Flexibilität bei Flächenaufteilung und Nutzung\n*   Anmietung von Teilflächen oder gesamten Geschossen möglich\n*   Grosse, zusammenhängende Flächen\n*   Hohe Traglasten für anspruchsvolle Nutzungen\n*   Umfangreiche Aussenfläche\n*   Teilweise bestehende Büroflächen\n*   Gute Erreichbarkeit (Bern / Agglomeration)\n*   Individuelle Konditionen je nach Nutzung und Laufzeit\n\n**Mietbeginn**  \n  \nNach Vereinbarung, ab Auszug des aktuellen Mieters per Anfang 2027.  \n  \n**Interessiert?**  \n  \nGerne stellen wir Ihnen weitere Unterlagen zur Verfügung oder besichtigen die Flächen mit Ihnen vor Ort.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 8026,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 8026,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": true,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Worbstrasse 97",
+    "zipcode": 3074,
+    "city": "Muri b. Bern",
+    "public_address": "Worbstrasse 97, 3074 Muri b. Bern",
+    "latitude": 46.93593689999999,
+    "longitude": 7.492117899999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2027-01-01",
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 35548411,
+    "images": [
+      {
+        "pk": 35548411,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/05/hkwi3qj8gjfcn5ioqldhcmjzrja6wx0fnoofdh4a4uod3b84at.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/hkwi3qj8gjfcn5ioqldhcmjzrja6wx0fnoofdh4a4uod3b84at.jpg?alias=thumb_m&signature=csHtKjHkOLgYtpdi-BovcILhWohZn8omhvSqKkGq2TA",
+        "url_listing_search": "/thumb/ff/2026/05/hkwi3qj8gjfcn5ioqldhcmjzrja6wx0fnoofdh4a4uod3b84at.jpg?alias=listing_search&signature=x59RdhkvMUW_0gJmYJ6WEfjOiKXVFGT8lo7V9r_CZFs",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 35548429,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/05/iy89ilcmbk0o95codmqkndkkvua6nvqwj4l0mbnm9p2h5ztsxe.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/iy89ilcmbk0o95codmqkndkkvua6nvqwj4l0mbnm9p2h5ztsxe.jpg?alias=thumb_m&signature=_iqn6V226cADsHSq6wpZm496uF-O0H1D_kpnNQGRmCo",
+        "url_listing_search": "/thumb/ff/2026/05/iy89ilcmbk0o95codmqkndkkvua6nvqwj4l0mbnm9p2h5ztsxe.jpg?alias=listing_search&signature=6ayso_tS0VO8DKrvz1DM2_iPYbXM7sNQdT03Q0pXdiE",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 35548394,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/05/wrtmv4wa8c8wntggqcbwrd6p0xwq7rhek9t304pz7z9kkqqm81.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/wrtmv4wa8c8wntggqcbwrd6p0xwq7rhek9t304pz7z9kkqqm81.jpg?alias=thumb_m&signature=HxwlDMs7mDXvm8TVidCVfs2KmyB2GVg9V1zd3ko9Jdc",
+        "url_listing_search": "/thumb/ff/2026/05/wrtmv4wa8c8wntggqcbwrd6p0xwq7rhek9t304pz7z9kkqqm81.jpg?alias=listing_search&signature=5XpAIHsnV0afXE9bTztFxBX3frm6Ae9LHQk1tya4zUs",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 35547183,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/05/ozvqorvilcr4gf2y3hj201pgusya6o29gi7tcusrch8bylw9em.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/ozvqorvilcr4gf2y3hj201pgusya6o29gi7tcusrch8bylw9em.jpg?alias=thumb_m&signature=-IFycyP9glk7aqe46_6hG8EmYdE549XYA0dSlmEWTVY",
+        "url_listing_search": "/thumb/ff/2026/05/ozvqorvilcr4gf2y3hj201pgusya6o29gi7tcusrch8bylw9em.jpg?alias=listing_search&signature=uTeaH0c-1hrXYx6LzyHZDIq62KNsC0V97-pxKKnniO0",
+        "ordering": 4,
+        "width": 480,
+        "height": 640
+      },
+      {
+        "pk": 35549301,
+        "caption": null,
+        "url": "/media/ff/2026/05/o22ywh0nvyr6j0j1bt5fakkrynl7wke9mc2c3jyti3vm0ze3um.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/o22ywh0nvyr6j0j1bt5fakkrynl7wke9mc2c3jyti3vm0ze3um.jpg?alias=thumb_m&signature=sLHEPtr0w8iuwHta5OdIPr6qa0iEB5Sr-1mSBmiuhoM",
+        "url_listing_search": "/thumb/ff/2026/05/o22ywh0nvyr6j0j1bt5fakkrynl7wke9mc2c3jyti3vm0ze3um.jpg?alias=listing_search&signature=G_L6ixiHjoYe2KMjfNcR5nT7XbJD-s3e8SQZuY0-m1g",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 35549302,
+        "caption": null,
+        "url": "/media/ff/2026/05/78044scbyqz09ubugra7blywxty96em27gdn97e83kmh2knlef.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/78044scbyqz09ubugra7blywxty96em27gdn97e83kmh2knlef.jpg?alias=thumb_m&signature=GvrFRVXTrRIzY4ihLGtym9ZKneDy1_r6OUyfbOWzHHw",
+        "url_listing_search": "/thumb/ff/2026/05/78044scbyqz09ubugra7blywxty96em27gdn97e83kmh2knlef.jpg?alias=listing_search&signature=zUDgmQNSSK4S1a9YQxSHBqRNWXuij2Q2QvFECvL58Fg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 35548504,
+        "caption": "Obergeschoss",
+        "url": "/media/ff/2026/05/c5la1i4btfcqbmy7rsopru84e1h4pj2ig4ps22opd2b4s93col.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/c5la1i4btfcqbmy7rsopru84e1h4pj2ig4ps22opd2b4s93col.jpg?alias=thumb_m&signature=kL0mIWrc4aQJ5lXBnOw4HZCLvptGAXRZczJseOl0zYE",
+        "url_listing_search": "/thumb/ff/2026/05/c5la1i4btfcqbmy7rsopru84e1h4pj2ig4ps22opd2b4s93col.jpg?alias=listing_search&signature=eM2YkwcIsK9l9V_PB6CSI2Jql3XUD970VDWx94WNWrs",
+        "ordering": 7,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35549336,
+        "caption": null,
+        "url": "/media/ff/2026/05/wpgi302epnvjphxj3koxleogo4q4tl2sirb6cgwyums3vtzz9o.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/wpgi302epnvjphxj3koxleogo4q4tl2sirb6cgwyums3vtzz9o.jpg?alias=thumb_m&signature=pJ8KZFrhkBEzey-X2efKfEFLASsbsxo4g1D4_EbvrXE",
+        "url_listing_search": "/thumb/ff/2026/05/wpgi302epnvjphxj3koxleogo4q4tl2sirb6cgwyums3vtzz9o.jpg?alias=listing_search&signature=OEmNiGdwObfrnv5JY2UUnu6DpzRrulSzRtpkkIOCfqE",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35548529,
+        "caption": "Erdgeschoss",
+        "url": "/media/ff/2026/05/o358rtst0nlazicr5r1qjhq7kwyb0f052dvxccevxx3bchwx84.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/o358rtst0nlazicr5r1qjhq7kwyb0f052dvxccevxx3bchwx84.jpg?alias=thumb_m&signature=lL0J_NCaHtV7R9DAwqtMet6lkqgTKzaV2bwQnYzWQjw",
+        "url_listing_search": "/thumb/ff/2026/05/o358rtst0nlazicr5r1qjhq7kwyb0f052dvxccevxx3bchwx84.jpg?alias=listing_search&signature=480uq6kRlJp96fNaGZgYTYjIBsbRpddjKj1_NPkYykE",
+        "ordering": 9,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35548530,
+        "caption": "Erdgeschoss",
+        "url": "/media/ff/2026/05/y96657cqjg1ysadji3fa4shcapz2daiy5bcinkxd5m8d9faywa.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/y96657cqjg1ysadji3fa4shcapz2daiy5bcinkxd5m8d9faywa.jpg?alias=thumb_m&signature=6fTD2Y0EY31zSlDgzvhz8nrEU5adtFp6M852Pg4hRPw",
+        "url_listing_search": "/thumb/ff/2026/05/y96657cqjg1ysadji3fa4shcapz2daiy5bcinkxd5m8d9faywa.jpg?alias=listing_search&signature=iFStMW1zWUe2cDZLn7e_Xjuxe2KI7R7AD4gnsOH12Pc",
+        "ordering": 10,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35548539,
+        "caption": "Erdgeschoss",
+        "url": "/media/ff/2026/05/jdu8osqwmjnccgp5txiitvka4a5521l4fmcvhymwlfiybqrlzr.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/jdu8osqwmjnccgp5txiitvka4a5521l4fmcvhymwlfiybqrlzr.jpg?alias=thumb_m&signature=AEmoW4zcsAPh7viQK6iPVhlw2qsUWnCo_TS01VJRZII",
+        "url_listing_search": "/thumb/ff/2026/05/jdu8osqwmjnccgp5txiitvka4a5521l4fmcvhymwlfiybqrlzr.jpg?alias=listing_search&signature=3St68TUSf2OKnYARwUYpAA2khENmxKfOEXpjQ9FtG9o",
+        "ordering": 11,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35549334,
+        "caption": null,
+        "url": "/media/ff/2026/05/mltit8at7w2x9y4xeoyg6c06gmxm3seloezny1nsiidnrtiwa7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/mltit8at7w2x9y4xeoyg6c06gmxm3seloezny1nsiidnrtiwa7.jpg?alias=thumb_m&signature=Mz8t3F1S3pIjC3X-FrRD9BA8egxGhMvb8o1EVUVVs1g",
+        "url_listing_search": "/thumb/ff/2026/05/mltit8at7w2x9y4xeoyg6c06gmxm3seloezny1nsiidnrtiwa7.jpg?alias=listing_search&signature=BC9m1JNHqXmSXUxfVSTPMtikBtAw5HJZuWF-0dTHn60",
+        "ordering": 12,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      719920,
+      760057
+    ],
+    "agency": {
+      "name": "",
+      "name_2": "",
+      "street": "",
+      "zipcode": null,
+      "city": "",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png",
+        "url_org_logo_m": "/thumb/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png?alias=org_logo_m&signature=F7dlhFceZMsw_sykCkbNggMJEfravWk0lq2YXPFWE2M"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "8026m² Gewerbe in Muri b. Bern mieten",
+    "livingspace": 8026
+  }
+}

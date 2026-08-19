@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1638.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/muhlestrasse-47-2504-biel/1397420/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [
+        "beauty",
+        "kosmetik",
+        "wellness"
+      ],
+      "kw_business": [
+        "atelier",
+        "büro",
+        "empfang",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "<type>",
+        "bar",
+        "ladenfläche",
+        "shop"
+      ],
+      "kw_wohnen": [
+        "studio"
+      ]
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 1397420,
+    "slug": "muhlestrasse-47-2504-biel",
+    "url": "/de/wohnung/muhlestrasse-47-2504-biel/1397420/",
+    "short_url": "/1397420/",
+    "submit_url": "/de/listing/1397420/submit/",
+    "status": "act",
+    "created": "2024-11-19T09:46:14.594418+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "SHOP",
+    "reference": "..az5jq.6jlfq",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "az5jq.6jlfq",
+    "alternative_reference": null,
+    "price_display": 1490,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2024-11-19T09:46:15.080110+01:00",
+    "rent_net": 1300,
+    "rent_charges": 190,
+    "rent_gross": 1490,
+    "short_title": "140m² Ladenfläche",
+    "public_title": "Mühlestrasse 47, 2504 Biel - CHF 1’490",
+    "pitch_title": "140m² Ladenfläche in Biel mieten",
+    "description_title": "Stilvolle Gewerbefläche in Biel-Mett – ideal für Beauty, Praxis oder Büro",
+    "description": "In ruhiger und gut erreichbarer Lage in Biel/Bienne vermieten wir ein attraktives und vielseitig nutzbares Gewerbelokal mit angenehmer Atmosphäre. Die Räumlichkeiten eignen sich besonders für Beauty-, Wellness- oder Bürokonzepte, bei denen ein ruhiges Umfeld und ein professioneller Auftritt geschätzt werden. \n\nOb Beauty-Salon, Kosmetikstudio, Praxis, Beratungsbüro, Atelier oder stilles Gewerbe – dieses Objekt bietet ideale Voraussetzungen, um Kunden und Mitarbeitende in einem gepflegten Umfeld zu empfangen. \n\nDas Objekt bietet: \n\n  * Erdgeschoss ca. 100 m² mit Küche \n\n  * Untergeschoss / Lager ca. 40 m² mit WC \n\n  * Flexible Nutzungsmöglichkeiten \n\n  * Ruhige Lage mit angenehmem Umfeld \n\n  * Gute Erreichbarkeit mit ÖV und Auto \n\n  * Parkmöglichkeiten in unmittelbarer Nähe \n\n\n\n\nDie lichtdurchfluteten Räume bieten viel Potenzial zur individuellen Gestaltung und schaffen eine angenehme Atmosphäre für Kundschaft und Mitarbeitende. \n\nNutzen Sie die Gelegenheit, Ihr Geschäft an einem attraktiven Standort in Biel-Mett zu etablieren. Wir freuen uns auf Ihre Anfrage und zeigen Ihnen das Objekt gerne persönlich.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 140,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 140,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Mühlestrasse 47",
+    "zipcode": 2504,
+    "city": "Biel",
+    "public_address": "Mühlestrasse 47, 2504 Biel",
+    "latitude": 47.146216,
+    "longitude": 7.2705435,
+    "year_built": null,
+    "year_renovated": 2016,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47961629,
+    "images": [
+      {
+        "pk": 47961629,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/ccd12d695b494886078e813704ac3755.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/ccd12d695b494886078e813704ac3755.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/ccd12d695b494886078e813704ac3755.jpg",
+        "ordering": 1,
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "pk": 47961630,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/a9762253d4983ccfa196ed9fc2458d3d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/a9762253d4983ccfa196ed9fc2458d3d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/a9762253d4983ccfa196ed9fc2458d3d.jpg",
+        "ordering": 2,
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "pk": 47961631,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/a1f8a6b4f0c9f9d076d8e3aba605e3af.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/a1f8a6b4f0c9f9d076d8e3aba605e3af.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/a1f8a6b4f0c9f9d076d8e3aba605e3af.png",
+        "ordering": 3,
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "pk": 47961632,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/19dd422c2a49dac599f31afe44fa822f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/19dd422c2a49dac599f31afe44fa822f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/19dd422c2a49dac599f31afe44fa822f.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47961633,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/d5a1768e297495cde2e5689e65df8a44.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/d5a1768e297495cde2e5689e65df8a44.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/d5a1768e297495cde2e5689e65df8a44.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47961634,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/8dbcd3dba8537dc5f0f611cd0bbef868.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/8dbcd3dba8537dc5f0f611cd0bbef868.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/8dbcd3dba8537dc5f0f611cd0bbef868.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47961635,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/abaf635717051960e0f6e1d0697296b3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/abaf635717051960e0f6e1d0697296b3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/abaf635717051960e0f6e1d0697296b3.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47961636,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/3bb29c371ee176726ecf02d45738f78a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/3bb29c371ee176726ecf02d45738f78a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/3bb29c371ee176726ecf02d45738f78a.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1124
+      },
+      {
+        "pk": 47961637,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/f2302e1cac88143f63c527fc9a613aa3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/f2302e1cac88143f63c527fc9a613aa3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/f2302e1cac88143f63c527fc9a613aa3.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47961638,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/ddca2e5c2f2256cc355eeeb711e60d71.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/ddca2e5c2f2256cc355eeeb711e60d71.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/ddca2e5c2f2256cc355eeeb711e60d71.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1124
+      },
+      {
+        "pk": 47961639,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/94404089c1b516c19d6caa175f19b3ac.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/94404089c1b516c19d6caa175f19b3ac.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/94404089c1b516c19d6caa175f19b3ac.jpg",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47961640,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4001471728/image/6b9b48bf16b85e885b71a3ed66a1b6c3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4001471728/image/6b9b48bf16b85e885b71a3ed66a1b6c3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4001471728/image/6b9b48bf16b85e885b71a3ed66a1b6c3.jpg",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "PS Immobilien AG",
+      "name_2": null,
+      "street": "Paul-Emile Brandt-Strasse 2",
+      "zipcode": "2502",
+      "city": "Biel/Bienne",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/knbwu3twpw9a6bvrzdxpzp0zdcmht9krydfes0guypwwtvxnns.png",
+        "url_org_logo_m": "/thumb/org/2026/07/knbwu3twpw9a6bvrzdxpzp0zdcmht9krydfes0guypwwtvxnns.png?alias=org_logo_m&signature=Qhc9Bh18X67wgS1rPC6_XBAn8T8qS6--jp9a9-R_aKg"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4001471728",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "140m² Ladenfläche in Biel mieten",
+    "livingspace": 140
+  }
+}

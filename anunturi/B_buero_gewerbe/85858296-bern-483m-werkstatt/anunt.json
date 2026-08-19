@@ -1,0 +1,266 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1713.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bethlehemstrasse-36-3027-bern/85858296/",
+    "descarcat": "2026-08-17 12:29",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "gewerbefläche",
+        "werkstatt"
+      ],
+      "kw_retail": [
+        "bar",
+        "shop"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 15
+  },
+  "raw": {
+    "pk": 85858296,
+    "slug": "bethlehemstrasse-36-3027-bern",
+    "url": "/de/wohnung/bethlehemstrasse-36-3027-bern/85858296/",
+    "short_url": "/85858296/",
+    "submit_url": "/de/listing/85858296/submit/",
+    "status": "act",
+    "created": "2026-03-11T15:41:28.690760+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "WORKSHOP",
+    "reference": "210655..14001",
+    "ref_property": "210655",
+    "ref_house": "",
+    "ref_object": "14001",
+    "alternative_reference": null,
+    "price_display": 8200,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-05T11:39:31.198102+02:00",
+    "rent_net": 6500,
+    "rent_charges": 1700,
+    "rent_gross": null,
+    "short_title": "483m² Werkstatt",
+    "public_title": "Bethlehemstrasse 36, 3027 Bern - CHF 8’200 inkl. NK pro Monat",
+    "pitch_title": "483m² Werkstatt in Bern mieten",
+    "description_title": "Vielseitige Werkstatt- und Ausstellungsfläche",
+    "description": "An gut erschlossener Lage in Bern-Bethlehem vermieten wir eine grosszügige und flexibel nutzbare Gewerbefläche mit insgesamt ca. 483 m², ideal für Produktion, Handwerk, Ausstellung oder kombinierte Nutzungen.  \n  \nDie Liegenschaft bietet eine Kombination aus Werkstatt-, Büro- und Ausstellungsflächen und überzeugt durch eine funktionale Aufteilung:  \n  \n\n*   Ausstellungsraum inkl. Büro (EG) mit Galerie: ca. 263 m²\n*   Werkstatt (EG) inkl. Büroaufbau im 1. OG: ca. 220 m²\n\nDie Flächen eignen sich hervorragend für Unternehmen, die grosszügige Arbeits- und Präsentationsbereiche miteinander verbinden möchten.  \n  \nFür den Komfort Ihrer Mitarbeitenden stehen Garderoben, WC-Anlagen sowie eine Dusche zur Verfügung.  \n  \n**Highlights im Überblick:**  \n  \n\n*   Total ca. 483 m² Gewerbefläche\n*   Kombination aus Werkstatt, Ausstellung und Büro\n*   Galeriefläche im Ausstellungsbereich\n*   Büroaufbau innerhalb der Werkstatt\n*   Garderobe und WC's vorhanden\n*   Flexible Nutzungsmöglichkeiten\n\n**Beste Erreichbarkeit:**  \nDie Tramhaltestelle befindet sich direkt vor der Liegenschaft, was eine optimale Anbindung für Mitarbeitende und Kundschaft gewährleistet. Einkaufsmöglichkeiten sind ebenfalls in unmittelbarer Nähe. Eine Migros-Filiale liegt direkt daneben.  \n  \n**Parkierung:**  \nDiverse Parkplätze können bei Bedarf dazu gemietet werden.  \n  \n**Zusätzliche Option:**  \nIn derselben Liegenschaft steht zudem eine separate Bürofläche zur Verfügung (siehe weiteres Inserat). Bei Bedarf können beide Objekte zusammen angemietet werden, was optimale Synergien für Betriebe mit Büro- und Produktions- bzw. Ausstellungsbedarf bietet.  \n  \nHaben wir Ihr Interesse geweckt? Gerne zeigen wir Ihnen diese vielseitige Gewerbefläche bei einer persönlichen Besichtigung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 483,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 483,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bethlehemstrasse 36",
+    "zipcode": 3027,
+    "city": "Bern",
+    "public_address": "Bethlehemstrasse 36, 3027 Bern",
+    "latitude": 46.9472999,
+    "longitude": 7.3947785,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 47530500,
+    "images": [
+      {
+        "pk": 47530500,
+        "caption": null,
+        "url": "/media/ff/2026/06/3x3l1pf5omiha5qhriwpywdania4c4vz9in7lbv95k9pbllag5.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/3x3l1pf5omiha5qhriwpywdania4c4vz9in7lbv95k9pbllag5.jpg?alias=thumb_m&signature=szt3yfwtnWJB-Cs1Dubjy948hE4nR6y8vMkNxgh5Fw0",
+        "url_listing_search": "/thumb/ff/2026/06/3x3l1pf5omiha5qhriwpywdania4c4vz9in7lbv95k9pbllag5.jpg?alias=listing_search&signature=-xWAa5P2ke4CjCY2KZZgm6Yg8Rd15oI40T-XKnS03hk",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36328030,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/06/ypuz7ftv2eqej7f8ea0amb256ue9k6z32g714uu6rsf7th49ex.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/ypuz7ftv2eqej7f8ea0amb256ue9k6z32g714uu6rsf7th49ex.jpg?alias=thumb_m&signature=M2BFvSK4EhYpO_XdAdbSln6Uq_-w4Oa6eHMeg4KuUZs",
+        "url_listing_search": "/thumb/ff/2026/06/ypuz7ftv2eqej7f8ea0amb256ue9k6z32g714uu6rsf7th49ex.jpg?alias=listing_search&signature=p_O8682rOHpcY0vBjBrZ7ZbihiKDAaiW5xUO3ddXSWU",
+        "ordering": 2,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326284,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/06/xg80dc5ill3f471kc0mhunbg70chcwo8nu0yla221gsw0w49if.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/xg80dc5ill3f471kc0mhunbg70chcwo8nu0yla221gsw0w49if.jpg?alias=thumb_m&signature=r-ngSknJBMpILa1tvm-4EoYCvCs2giFhixoafWzkIw4",
+        "url_listing_search": "/thumb/ff/2026/06/xg80dc5ill3f471kc0mhunbg70chcwo8nu0yla221gsw0w49if.jpg?alias=listing_search&signature=Rt6Rs_hcsxeg1RZ81YK342FFDLBfKILkq4MLzCaqxvA",
+        "ordering": 3,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36328049,
+        "caption": "Eingang Werkstatt",
+        "url": "/media/ff/2026/06/qcsdvt667550gjs4wag237gh3zwt4nfyyzbupdv0r2owby74om.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/qcsdvt667550gjs4wag237gh3zwt4nfyyzbupdv0r2owby74om.jpg?alias=thumb_m&signature=kpn-Jbo0Pw9hRQvK2cVdrAZhl79--lLTnRyo_kabSL8",
+        "url_listing_search": "/thumb/ff/2026/06/qcsdvt667550gjs4wag237gh3zwt4nfyyzbupdv0r2owby74om.jpg?alias=listing_search&signature=suXZ_DxX8F2tgD9ON6BW3nb_KOBZ5ylnUOUXWX9S0wE",
+        "ordering": 4,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326306,
+        "caption": "Ausstellung",
+        "url": "/media/ff/2026/06/yfx0gunp1jsfn7ztt74pbbwsbzwqfutw2xbjr6wyedwwuzq0bz.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/yfx0gunp1jsfn7ztt74pbbwsbzwqfutw2xbjr6wyedwwuzq0bz.jpg?alias=thumb_m&signature=aIybLsQTSecWxmrRIyRXJJZ_h5s3_i8vBnQnLuZ7Ti8",
+        "url_listing_search": "/thumb/ff/2026/06/yfx0gunp1jsfn7ztt74pbbwsbzwqfutw2xbjr6wyedwwuzq0bz.jpg?alias=listing_search&signature=Pti8ohNqO5CvdN4PqY7CSwiQhuppEwzw1Sj6LiqoWKw",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326351,
+        "caption": "Ausstellung",
+        "url": "/media/ff/2026/06/prjjpd56jhgwd7y3lbqxeytly7tggr4j6rloxtw4soiqnj9s2p.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/prjjpd56jhgwd7y3lbqxeytly7tggr4j6rloxtw4soiqnj9s2p.jpg?alias=thumb_m&signature=tE-pTFbVNUkHkAopwY8DWNO6ixOBeIIgiV80C_KOGns",
+        "url_listing_search": "/thumb/ff/2026/06/prjjpd56jhgwd7y3lbqxeytly7tggr4j6rloxtw4soiqnj9s2p.jpg?alias=listing_search&signature=uwDm6aR-gW2p05bdM1PfAKSVur1FY9XQrNGYajZlxJM",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326337,
+        "caption": "Büro Ausstellung",
+        "url": "/media/ff/2026/06/g65qckim697vi968m64rjnr5nw81f6ghoz0j5y0xz3imwfj7ws.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/g65qckim697vi968m64rjnr5nw81f6ghoz0j5y0xz3imwfj7ws.jpg?alias=thumb_m&signature=MR0NhEtVTDESBUgK2JhTWK-Uc6sUA0g3DNDTnQt1ijI",
+        "url_listing_search": "/thumb/ff/2026/06/g65qckim697vi968m64rjnr5nw81f6ghoz0j5y0xz3imwfj7ws.jpg?alias=listing_search&signature=4tckyp9K_I1lUpA6u3qENOvbGZRZutyFdFZd7TdRSqQ",
+        "ordering": 7,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326339,
+        "caption": "Büro Ausstellung",
+        "url": "/media/ff/2026/06/2m10bvtu5bv37tmpmyb6v5xlziwq7zuyaad8ghs7e5fnybuxqf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/2m10bvtu5bv37tmpmyb6v5xlziwq7zuyaad8ghs7e5fnybuxqf.jpg?alias=thumb_m&signature=qRxL_a13hVHocAG_h_4FnZQ8v9kgO-TD5nsPWBImxqU",
+        "url_listing_search": "/thumb/ff/2026/06/2m10bvtu5bv37tmpmyb6v5xlziwq7zuyaad8ghs7e5fnybuxqf.jpg?alias=listing_search&signature=v9778CWM0dhWmTebtA1J4B52jflXkstgZauKW8g2-7k",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326341,
+        "caption": "Büro Ausstellung",
+        "url": "/media/ff/2026/06/d5br3d9co8opwivlncuwgm81wgxf2llgctxuc87in1mne3uaug.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/d5br3d9co8opwivlncuwgm81wgxf2llgctxuc87in1mne3uaug.jpg?alias=thumb_m&signature=gXcTjyDcpi6wx49dWe3SzEmJt7KpWQPVYc9gIIa_V1M",
+        "url_listing_search": "/thumb/ff/2026/06/d5br3d9co8opwivlncuwgm81wgxf2llgctxuc87in1mne3uaug.jpg?alias=listing_search&signature=-gTCfAZx0wXLMb-UeQZiexbKFGrJd90glSiXrm5XNmk",
+        "ordering": 9,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326355,
+        "caption": "Galerie Ausstellung",
+        "url": "/media/ff/2026/06/lpt028bfwylha2os281ulbcvoaoebkaddickpwzot81ot73q2z.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/lpt028bfwylha2os281ulbcvoaoebkaddickpwzot81ot73q2z.jpg?alias=thumb_m&signature=kpSB--presJAsrO3JyQ8ADfyTGDLRR_irTLv0YVaAFs",
+        "url_listing_search": "/thumb/ff/2026/06/lpt028bfwylha2os281ulbcvoaoebkaddickpwzot81ot73q2z.jpg?alias=listing_search&signature=GDtgQfd6zCd0iaFuJ5VcccwUUjgARe26njcUpuVPpxQ",
+        "ordering": 10,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326387,
+        "caption": "Werkstatt",
+        "url": "/media/ff/2026/06/3cvqqrndpog6it3pz5qyq6mt8gjc5wo2bvlvommtht335zysld.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/3cvqqrndpog6it3pz5qyq6mt8gjc5wo2bvlvommtht335zysld.jpg?alias=thumb_m&signature=3Iu1-K78o4HQFcrvAXrFKRnScL7TLJQPr2_IQpTYWzA",
+        "url_listing_search": "/thumb/ff/2026/06/3cvqqrndpog6it3pz5qyq6mt8gjc5wo2bvlvommtht335zysld.jpg?alias=listing_search&signature=ZA_dbDAv-50TNMp1Ufer1GmxvCcCQ6EIPDoKg6nh5Jg",
+        "ordering": 11,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326390,
+        "caption": "Büro Werkstatt",
+        "url": "/media/ff/2026/06/zswgkirhvphyce1q8qf5zasm5ve4pbh20b797q20ib4i7q2pv8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/zswgkirhvphyce1q8qf5zasm5ve4pbh20b797q20ib4i7q2pv8.jpg?alias=thumb_m&signature=GALhjAQUysUjsGGjCG4EVSEWkHJSJMYc6pLgPyolmng",
+        "url_listing_search": "/thumb/ff/2026/06/zswgkirhvphyce1q8qf5zasm5ve4pbh20b797q20ib4i7q2pv8.jpg?alias=listing_search&signature=heN8g-EYtOLePAwq42Qe3PIqVrLTUzDKlmvsf_qiODA",
+        "ordering": 12,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326391,
+        "caption": "Lager Werkstatt",
+        "url": "/media/ff/2026/06/u1kbgf759wd5wdodqt3e06ig3nhlni7aafnbppsyphcbmplnzj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/u1kbgf759wd5wdodqt3e06ig3nhlni7aafnbppsyphcbmplnzj.jpg?alias=thumb_m&signature=RK7C8H6KWLuYXpvN9z6zr3z3YCw6iEL10di1n7JYszI",
+        "url_listing_search": "/thumb/ff/2026/06/u1kbgf759wd5wdodqt3e06ig3nhlni7aafnbppsyphcbmplnzj.jpg?alias=listing_search&signature=d2jfKKYEvi0aVprn2K8DYua4aF_5jhaN8oXmG1sUsoc",
+        "ordering": 13,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326392,
+        "caption": "Büro Werkstatt",
+        "url": "/media/ff/2026/06/tx6zdln6rg7i084mdvvs6h8y39due0ayuq7yyxd3l7rwjbkk1l.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/tx6zdln6rg7i084mdvvs6h8y39due0ayuq7yyxd3l7rwjbkk1l.jpg?alias=thumb_m&signature=C8ZVgVsBrorHq8MfDWLlaNpaMFp2sldRQXZovopakek",
+        "url_listing_search": "/thumb/ff/2026/06/tx6zdln6rg7i084mdvvs6h8y39due0ayuq7yyxd3l7rwjbkk1l.jpg?alias=listing_search&signature=2rOjJfUA0Eaote_5Pa66jjxZ1JIlBzp3GoEH19ls-zE",
+        "ordering": 14,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36326389,
+        "caption": "Toiletten",
+        "url": "/media/ff/2026/06/8c7bjmrtlk5ixrdrnvmkyx9d78docecni2n7ds97rmjigxxdqh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/8c7bjmrtlk5ixrdrnvmkyx9d78docecni2n7ds97rmjigxxdqh.jpg?alias=thumb_m&signature=ISPz6oV5ymczvZtQDGF9rsBa2vxvxr2S01P9Dft1mSA",
+        "url_listing_search": "/thumb/ff/2026/06/8c7bjmrtlk5ixrdrnvmkyx9d78docecni2n7ds97rmjigxxdqh.jpg?alias=listing_search&signature=fqXdd2k4GQ5GzJovaQqtYAByErFI-9YWbcraXGn5KvA",
+        "ordering": 15,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      737358,
+      760108
+    ],
+    "agency": {
+      "name": "",
+      "name_2": "",
+      "street": "",
+      "zipcode": null,
+      "city": "",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png",
+        "url_org_logo_m": "/thumb/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png?alias=org_logo_m&signature=F7dlhFceZMsw_sykCkbNggMJEfravWk0lq2YXPFWE2M"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "483m² Werkstatt in Bern mieten",
+    "livingspace": 483
+  }
+}

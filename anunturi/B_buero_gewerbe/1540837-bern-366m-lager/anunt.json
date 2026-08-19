@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1678.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/schwarztorstrasse-87-3007-bern/1540837/",
+    "descarcat": "2026-08-17 12:31",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [
+        "arzt"
+      ],
+      "kw_business": [
+        "büro",
+        "werkstatt"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 1540837,
+    "slug": "schwarztorstrasse-87-3007-bern",
+    "url": "/de/wohnung/schwarztorstrasse-87-3007-bern/1540837/",
+    "short_url": "/1540837/",
+    "submit_url": "/de/listing/1540837/submit/",
+    "status": "act",
+    "created": "2025-02-12T12:15:24.573211+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "STORAGE_ROOM",
+    "reference": "15303.01.59100",
+    "ref_property": "15303",
+    "ref_house": "01",
+    "ref_object": "59100",
+    "alternative_reference": null,
+    "price_display": 3450,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-02-12T16:08:50.655155+01:00",
+    "rent_net": 2150,
+    "rent_charges": 1300,
+    "rent_gross": 3450,
+    "short_title": "366m² Lager",
+    "public_title": "Schwarztorstrasse 87, 3007 Bern - CHF 3’450 inkl. NK pro Monat",
+    "pitch_title": "366m² Lager in Bern mieten",
+    "description_title": "366 qm vielseitig nutzbare Fläche zu vermieten",
+    "description": "Wir vermieten per sofort oder nach Vereinbarung einen grosszügigen, flexiblen Raum mit 366 qm im 1. Untergeschoss, ideal geeignet als Lager, Werkstatt, Archiv oder für verschiedene andere Nutzungen. Der Raum verfügt über keine zu öffnenden Fenster, weshalb er weniger für Büros geeignet ist. \n\n  \n\n\n**Ausstattung:**\n\nFläche: 366 Quadratmeter \n\nPreis: CHF 5.90 pro m2 \n\nToilette vorhanden \n\nTeppichboden \n\nZwei Compactusanlagen können kostenlos übernommen werden \n\nAnlieferung über Rampe \n\nLiftmasse: 3.261 m (L) x 2.007 m (B) x 2.202 m (H) \n\n  \n\n\nBei Interesse oder für weitere Informationen stehen wir Ihnen gerne zur Verfügung!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 366,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 366,
+    "number_of_rooms": null,
+    "floor": -1,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Schwarztorstrasse 87",
+    "zipcode": 3007,
+    "city": "Bern",
+    "public_address": "Schwarztorstrasse 87, 3007 Bern",
+    "latitude": 46.9444775,
+    "longitude": 7.426783899999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 42029503,
+    "images": [
+      {
+        "pk": 42029503,
+        "caption": "",
+        "url": "/media/ff/2026/06/w9bfe8ty87ia9wigtom2scd18otxphlsst4ljrmxgschp08cuc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/w9bfe8ty87ia9wigtom2scd18otxphlsst4ljrmxgschp08cuc.jpg?alias=thumb_m&signature=H9F6Es6yl0dTArOiejjPdvJNhyWxZDgkrezeDjVq1LU",
+        "url_listing_search": "/thumb/ff/2026/06/w9bfe8ty87ia9wigtom2scd18otxphlsst4ljrmxgschp08cuc.jpg?alias=listing_search&signature=suIYj51idj7N-utOoHcqmFumAWWkWf1_3fI1hAmDstI",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029504,
+        "caption": "",
+        "url": "/media/ff/2026/06/cqc9zew0hndvchk5q9nr6zsx3rbeqokfvh8v747390mgv7szrx.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/cqc9zew0hndvchk5q9nr6zsx3rbeqokfvh8v747390mgv7szrx.jpg?alias=thumb_m&signature=qjZQaSmPCwnPuM-_I_Du7Aa94UV0UcNcvRPHKhnyw90",
+        "url_listing_search": "/thumb/ff/2026/06/cqc9zew0hndvchk5q9nr6zsx3rbeqokfvh8v747390mgv7szrx.jpg?alias=listing_search&signature=LEAzBwzPDctvteo7aYkWUnaXg3-yTRMGmyDBr3t4QX8",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029505,
+        "caption": "",
+        "url": "/media/ff/2026/06/7egmrxh8j3ma95ivjpqfmv508d3sldvl0vc57opb10qau2k2g0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/7egmrxh8j3ma95ivjpqfmv508d3sldvl0vc57opb10qau2k2g0.jpg?alias=thumb_m&signature=yBlf6Ff-z1qSzqQN7AdisvQ447FxIfsvC4PwVAYQpcc",
+        "url_listing_search": "/thumb/ff/2026/06/7egmrxh8j3ma95ivjpqfmv508d3sldvl0vc57opb10qau2k2g0.jpg?alias=listing_search&signature=76H4LdL33DYESO2SlB0X3MKqeeDg81ItEclGDmnfIdY",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029506,
+        "caption": "",
+        "url": "/media/ff/2026/06/xgi5go64f8vu6dv7uka82ik5dik9yg3ytv5irspr5t7wdsyhu2.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/xgi5go64f8vu6dv7uka82ik5dik9yg3ytv5irspr5t7wdsyhu2.jpg?alias=thumb_m&signature=IQkw3Vi9460_XeeGZ4ya9r8M3YDjS2mQLz-NvalTkHQ",
+        "url_listing_search": "/thumb/ff/2026/06/xgi5go64f8vu6dv7uka82ik5dik9yg3ytv5irspr5t7wdsyhu2.jpg?alias=listing_search&signature=JgCU053mCpBb0-HBeluwT3BO-is0FqE0LYU2_85wLyY",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029507,
+        "caption": "",
+        "url": "/media/ff/2026/06/0twv3tfygorav9vy1jjuqhapsxq90ds0wsw15s47s3v0mv0evb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/0twv3tfygorav9vy1jjuqhapsxq90ds0wsw15s47s3v0mv0evb.jpg?alias=thumb_m&signature=_ZDBd1lUFZN1B7yGF6UYm5mV25liPLpA7LPyqb2ZLuo",
+        "url_listing_search": "/thumb/ff/2026/06/0twv3tfygorav9vy1jjuqhapsxq90ds0wsw15s47s3v0mv0evb.jpg?alias=listing_search&signature=I3uR959cgub9kHcq1eViXUfQI5snWYtiqgVDPUU_G5g",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029508,
+        "caption": "",
+        "url": "/media/ff/2026/06/0knei6i1oot1oz4lt7wogzlqclhpbpupfyyx3034lyhsaf9k4k.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/0knei6i1oot1oz4lt7wogzlqclhpbpupfyyx3034lyhsaf9k4k.jpg?alias=thumb_m&signature=PTf9rXno56ZDxw71d-FMKrdTFQHliZi-nKGYFxJqx9E",
+        "url_listing_search": "/thumb/ff/2026/06/0knei6i1oot1oz4lt7wogzlqclhpbpupfyyx3034lyhsaf9k4k.jpg?alias=listing_search&signature=-LULDADId--6yHw67_krX-E5JIZrOmRWojITtANA6yM",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029509,
+        "caption": "",
+        "url": "/media/ff/2026/06/0z4vgp2lcbmxi327a50z7zsn7ua07l6615333b3x9wmlqwubxh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/0z4vgp2lcbmxi327a50z7zsn7ua07l6615333b3x9wmlqwubxh.jpg?alias=thumb_m&signature=plnDaZSipkdx4e9qy7yhXGII6LArmsPFD9vvSPYmPCk",
+        "url_listing_search": "/thumb/ff/2026/06/0z4vgp2lcbmxi327a50z7zsn7ua07l6615333b3x9wmlqwubxh.jpg?alias=listing_search&signature=xKS0UpXvoFpFtnMeGQCDNj_sYyyyZK9akVmza9MFuq4",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029510,
+        "caption": "",
+        "url": "/media/ff/2026/06/pwwfmzkj8yy94gima3wo7vs7tjrrpf5e99ta0cgxgmh3bxkyfe.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/pwwfmzkj8yy94gima3wo7vs7tjrrpf5e99ta0cgxgmh3bxkyfe.jpg?alias=thumb_m&signature=ewgTUIGUpt2zCNA0HYuJtCwmQq1364u7XR_s6O37RkM",
+        "url_listing_search": "/thumb/ff/2026/06/pwwfmzkj8yy94gima3wo7vs7tjrrpf5e99ta0cgxgmh3bxkyfe.jpg?alias=listing_search&signature=UMRTlzA76mWcUYLidRv_Hv2yAGMRaFxUYla1regHY44",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029511,
+        "caption": "",
+        "url": "/media/ff/2026/06/wp4r6nkdxisad1robsjl8yptkprd82rbb3qe7b40qczunjreor.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/wp4r6nkdxisad1robsjl8yptkprd82rbb3qe7b40qczunjreor.jpg?alias=thumb_m&signature=lH4GUyTemLrBATOjz-ixCk0u2c-4TIZLnyx0R7A8gKc",
+        "url_listing_search": "/thumb/ff/2026/06/wp4r6nkdxisad1robsjl8yptkprd82rbb3qe7b40qczunjreor.jpg?alias=listing_search&signature=2tGMlt_tahJl57pdT8pwbLpmogcS2nkoPMBu9dQ-zGQ",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029512,
+        "caption": "",
+        "url": "/media/ff/2026/06/bi3sr34tylkb2s10yjl14s2j746y4m4udlz4u8qzm5vjsydfa3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/bi3sr34tylkb2s10yjl14s2j746y4m4udlz4u8qzm5vjsydfa3.jpg?alias=thumb_m&signature=VcNGc-9zR7U8aG2O1_vKc0P50-faUZ-_nn-ewKj8kNA",
+        "url_listing_search": "/thumb/ff/2026/06/bi3sr34tylkb2s10yjl14s2j746y4m4udlz4u8qzm5vjsydfa3.jpg?alias=listing_search&signature=eOnBUHJxX0OE9xqMHYJrYsiwgVfXw7gWbzqPuHkNTio",
+        "ordering": 10,
+        "width": 683,
+        "height": 1024
+      },
+      {
+        "pk": 42029513,
+        "caption": "",
+        "url": "/media/ff/2026/06/5tfnpiesy8s1jfkt92jertky48ifp43lpnwxtmh0iaccjxux27.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/5tfnpiesy8s1jfkt92jertky48ifp43lpnwxtmh0iaccjxux27.jpg?alias=thumb_m&signature=qqkYzVy1yDnmuagclLe4GEwXrMU3H2ypD01EAS3ZEC4",
+        "url_listing_search": "/thumb/ff/2026/06/5tfnpiesy8s1jfkt92jertky48ifp43lpnwxtmh0iaccjxux27.jpg?alias=listing_search&signature=OTx9Eis_XazB7SKm0g3us6gf2nm3ALrjp9vn6AhidH0",
+        "ordering": 11,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 42029514,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/06/jzacrbrolreq5d14bgjdc7c7u8fg7c8m81v8x0lzvukkunr06q.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/jzacrbrolreq5d14bgjdc7c7u8fg7c8m81v8x0lzvukkunr06q.jpg?alias=thumb_m&signature=AIyHyxIaQLYLEk9tvO5ef7vw2zC46jpu8_1_6vsRJqA",
+        "url_listing_search": "/thumb/ff/2026/06/jzacrbrolreq5d14bgjdc7c7u8fg7c8m81v8x0lzvukkunr06q.jpg?alias=listing_search&signature=Hc2QNARQbiu0mUdv6J19eW_yRuzxKOwmP5H1ZxtIUXk",
+        "ordering": 12,
+        "width": 1024,
+        "height": 609
+      }
+    ],
+    "documents": [
+      256678
+    ],
+    "agency": {
+      "name": "IMMOcreativ Balmer GmbH",
+      "name_2": null,
+      "street": "Thunstrasse 8",
+      "zipcode": "3700",
+      "city": "Spiez",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/mdqa8jpuxjpkq17v54rz7rrsaoxoz6fo4m7z4olehdcpup2l5v.jpg",
+        "url_org_logo_m": "/thumb/org/2026/07/mdqa8jpuxjpkq17v54rz7rrsaoxoz6fo4m7z4olehdcpup2l5v.jpg?alias=org_logo_m&signature=YvxoBDIkcA2NadQmrfzksEy7VGo_tXRSv3rwEHr-uzc"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "366m² Lager in Bern mieten",
+    "livingspace": 366
+  }
+}

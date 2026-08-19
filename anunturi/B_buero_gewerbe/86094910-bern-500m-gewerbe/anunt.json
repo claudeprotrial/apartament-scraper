@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1720.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/hilfikerstrasse-4-3014-bern/86094910/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbe"
+      ],
+      "kw_retail": [
+        "bar",
+        "gastronomie"
+      ],
+      "kw_wohnen": [
+        "wohnungen"
+      ]
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 86094910,
+    "slug": "hilfikerstrasse-4-3014-bern",
+    "url": "/de/wohnung/hilfikerstrasse-4-3014-bern/86094910/",
+    "short_url": "/86094910/",
+    "submit_url": "/de/listing/86094910/submit/",
+    "status": "act",
+    "created": "2026-06-08T07:05:26.767324+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..aj0sz.g9913",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "aj0sz.g9913",
+    "alternative_reference": null,
+    "price_display": 8458,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-08T07:05:27.933259+02:00",
+    "rent_net": 7633,
+    "rent_charges": 825,
+    "rent_gross": 8458,
+    "short_title": "500m² Gewerbe",
+    "public_title": "Hilfikerstrasse 4, 3014 Bern - CHF 8’458",
+    "pitch_title": "500m² Gewerbe in Bern mieten",
+    "description_title": "Gastronomiebetrieb «Turbo Lama» in Bern-Wankdorf zu übernehmen",
+    "description": "_An erstklassiger Lage in_ **_Bern-Wankdorf City_ ** _steht der moderne und etablierte Gastronomiebetrieb_ **_«Turbo Lama»_ ** _zur Übernahme. Der Betrieb befindet sich an der_ **_Hilfikerstrasse 4, 3014 Bern_ ** _, in unmittelbarer Nähe zu grossen Unternehmen wie SBB, Post und KPT sowie mit hervorragender Anbindung an den öffentlichen Verkehr._\n\n_Das Turbo Lama verbindet ein lebendiges_ **_Afterwork-Konzept_ ** _mit einem effizienten, qualitativ hochwertigen_ **_Mittagsservice_ ** _und bietet gleichzeitig ideale Voraussetzungen für_ **_Firmenanlässe, private Events und grössere Veranstaltungen_ ** _mit bis zu 300 Personen._\n\n_Die grosszügige Lokalität umfasst einen modernen, lichtdurchfluteten Gastraum von ca._ **_250 m²_ ** _, flexible Nutzungsbereiche sowie eine beeindruckende_ **_Terrasse von rund 450 m²_ ** _, teilweise gedeckt. Damit eignet sich der Betrieb optimal für parallele Nutzungskonzepte, Aussenbestuhlung, Events und individuelle gastronomische Weiterentwicklungen._\n\n_Der Betrieb ist vollständig eingerichtet und technisch auf hohem Niveau ausgestattet. Zur Infrastruktur gehören unter anderem eine imposante zentrale Bar, hochwertige Küchengeräte, Kombisteamer, Kühlzelle, Lagerflächen, Spültechnik, Zapfanlage sowie eigene technische Anlagen. Sämtliche Anlagen wurden 2020 neu erstellt und regelmässig gewartet._\n\n_Das Quartier Wankdorf zählt zu den dynamischsten Entwicklungsgebieten Berns. Mit geplanten Bürogebäuden, dem Projekt_ **_Wankdorf City 3_ ** _sowie einem grossen Wohnquartier mit über 1’000 Wohnungen bietet der Standort zusätzliches Wachstumspotenzial und eine langfristig attraktive Besucherfrequenz._\n\n**_Konditionen:_ ** _Mietzins:_ **_CHF 8’458.– inkl. NK pro Monat_ ** _Verkaufspreis Inventar & Mobiliar: _ **_CHF 550’000.–_ ** _Übernahme:_ **_nach Vereinbarung, idealerweise ab 1. September 2026_ **\n\n_Das Turbo Lama bietet eine einmalige Gelegenheit für Gastronomen, Betreiber oder Investoren, einen etablierten und vollständig ausgestatteten Betrieb an Top-Lage mit grossem Entwicklungspotenzial zu übernehmen._\n\n_Für Fragen und Besichtigungen steht Ihnen_ **_Herr Schmid, 079 203 72 39_ ** _, gerne zur Verfügung._",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 500,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 500,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "minergie"
+      },
+      {
+        "name": "view"
+      },
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "petsallowed"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Hilfikerstrasse 4",
+    "zipcode": 3014,
+    "city": "Bern",
+    "public_address": "Hilfikerstrasse 4, 3014 Bern",
+    "latitude": 46.9683268,
+    "longitude": 7.4639549,
+    "year_built": null,
+    "year_renovated": 2020,
+    "moving_date_type": "dat",
+    "moving_date": "2026-09-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47569711,
+    "images": [
+      {
+        "pk": 47569711,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003220413/image/367597286acca8d5aee8ed2467dac114.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003220413/image/367597286acca8d5aee8ed2467dac114.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003220413/image/367597286acca8d5aee8ed2467dac114.png",
+        "ordering": 1,
+        "width": 381,
+        "height": 517
+      },
+      {
+        "pk": 47569777,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003220413/image/7f3f0c7a778a1634981433572450ecf2.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003220413/image/7f3f0c7a778a1634981433572450ecf2.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003220413/image/7f3f0c7a778a1634981433572450ecf2.png",
+        "ordering": 2,
+        "width": 398,
+        "height": 521
+      },
+      {
+        "pk": 47569785,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003220413/image/d2eaa2e941d0c94dea410bfdf802c796.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003220413/image/d2eaa2e941d0c94dea410bfdf802c796.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003220413/image/d2eaa2e941d0c94dea410bfdf802c796.png",
+        "ordering": 3,
+        "width": 540,
+        "height": 518
+      },
+      {
+        "pk": 47569791,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003220413/image/d0345452ec92e549864a36e742cef880.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003220413/image/d0345452ec92e549864a36e742cef880.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003220413/image/d0345452ec92e549864a36e742cef880.png",
+        "ordering": 4,
+        "width": 373,
+        "height": 517
+      },
+      {
+        "pk": 47569797,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003220413/image/66439c4967711b781722c9b8460e84bb.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003220413/image/66439c4967711b781722c9b8460e84bb.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003220413/image/66439c4967711b781722c9b8460e84bb.png",
+        "ordering": 5,
+        "width": 403,
+        "height": 516
+      },
+      {
+        "pk": 47569804,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003220413/image/c128232b61f9e365a06b9bd8b54d5d60.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003220413/image/c128232b61f9e365a06b9bd8b54d5d60.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003220413/image/c128232b61f9e365a06b9bd8b54d5d60.png",
+        "ordering": 6,
+        "width": 458,
+        "height": 521
+      }
+    ],
+    "documents": [
+      749166
+    ],
+    "agency": {
+      "name": "LAYF GmbH",
+      "name_2": null,
+      "street": "Buckhauserstrasse 36",
+      "zipcode": "8048",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/5uhzmji3ues4axveell35djyxqxk9hfyokgj38qi1ut8dzbl6h.png",
+        "url_org_logo_m": "/thumb/org/2026/07/5uhzmji3ues4axveell35djyxqxk9hfyokgj38qi1ut8dzbl6h.png?alias=org_logo_m&signature=FVUQAP9OLDIG1zYuAQbrOR-h4NTZExjKDGj-_k3qPUo"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003220413",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "500m² Gewerbe in Bern mieten",
+    "livingspace": 500
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1702.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/hirschengraben-6-3011-bern/85320694/",
+    "descarcat": "2026-08-17 12:29",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 85320694,
+    "slug": "hirschengraben-6-3011-bern",
+    "url": "/de/wohnung/hirschengraben-6-3011-bern/85320694/",
+    "short_url": "/85320694/",
+    "submit_url": "/de/listing/85320694/submit/",
+    "status": "act",
+    "created": "2025-09-17T11:21:49.901503+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "8857.01.0302",
+    "ref_property": "8857",
+    "ref_house": "01",
+    "ref_object": "0302",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "yearlym2",
+    "published": "2025-09-17T11:21:50.271431+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "172m² Büro",
+    "public_title": "Hirschengraben 6, 3011 Bern - auf Anfrage",
+    "pitch_title": "172m² Büro in Bern mieten",
+    "description_title": "Ihre Kunden an Toplage bedienen?",
+    "description": "Sind Sie auf der Suche nach einem attraktiven Firmensitz?   \nWir haben die passenden Räume in einem repräsentativen Geschäftshaus im Herzen von Bern dazu.   \n  \nDie Räumlichkeiten eignen sich als Büro- oder Praxisnutzung und eine allfällige Vermietung erfolgt nach Vereinbarung.   \n  \nHaben wir Ihr Interesse geweckt? Zögern Sie nicht uns zu kontaktieren und sichern Sie sich Ihren Besichtigungstermin.   \n  \nWir freuen uns auf Sie!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 172,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 172,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "petsallowed"
+      },
+      {
+        "name": "cable"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Hirschengraben 6",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Hirschengraben 6, 3011 Bern",
+    "latitude": 46.9466464,
+    "longitude": 7.4374027,
+    "year_built": 1878,
+    "year_renovated": 1993,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 29560804,
+    "images": [
+      {
+        "pk": 29560804,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2025/09/2t5n08bv6pr00kx1nvzyre8n79m4z1sjm6x55hx3pmyfbqn3yo.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/2t5n08bv6pr00kx1nvzyre8n79m4z1sjm6x55hx3pmyfbqn3yo.jpg?alias=thumb_m&signature=k6wSfNGDtMfTmjhCVNpph4R9UNWJEiDLD2d2jfpbcO8",
+        "url_listing_search": "/thumb/ff/2025/09/2t5n08bv6pr00kx1nvzyre8n79m4z1sjm6x55hx3pmyfbqn3yo.jpg?alias=listing_search&signature=OPHFPelaTcQWJ-0pM3tpBOgDKtcjiH9CZp2aJ5GOY_E",
+        "ordering": 1,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 34929215,
+        "caption": "Eingangsbereich",
+        "url": "/media/ff/2026/04/da9k248vbr1pic7dq88ntzss63ucrpp9tantk23pqx5z5tbu55.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/da9k248vbr1pic7dq88ntzss63ucrpp9tantk23pqx5z5tbu55.jpg?alias=thumb_m&signature=-xTNf1A8G99TbNICPGCuHHcjRHUQycW3xJi6KVFLcp8",
+        "url_listing_search": "/thumb/ff/2026/04/da9k248vbr1pic7dq88ntzss63ucrpp9tantk23pqx5z5tbu55.jpg?alias=listing_search&signature=3zsao3gRphmyNYD_yMIIvdVne6q3ib4hfw26_r6eSYg",
+        "ordering": 2,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929216,
+        "caption": "Korridor",
+        "url": "/media/ff/2026/04/leljo88jwmchbvwbgpkjlkbfglygza0a3tpkyqkdoere0rel7h.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/leljo88jwmchbvwbgpkjlkbfglygza0a3tpkyqkdoere0rel7h.jpg?alias=thumb_m&signature=dWoUBbS8nxpmoje7uDL-kUvforOtYEk09iOtx2Tecdc",
+        "url_listing_search": "/thumb/ff/2026/04/leljo88jwmchbvwbgpkjlkbfglygza0a3tpkyqkdoere0rel7h.jpg?alias=listing_search&signature=76HJZksBXF-zrp59TwU_PQDU41Wo8oM3VcnsCznKWkw",
+        "ordering": 3,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929217,
+        "caption": "Küche",
+        "url": "/media/ff/2026/04/tjk830x61wi6thb4h5nbp3o85aoba7szo54ebu9j2bkgu3ous2.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/tjk830x61wi6thb4h5nbp3o85aoba7szo54ebu9j2bkgu3ous2.jpg?alias=thumb_m&signature=exfrTbTFbAu-B_xjInbdIjycm69rZQDQFfXa_lARvec",
+        "url_listing_search": "/thumb/ff/2026/04/tjk830x61wi6thb4h5nbp3o85aoba7szo54ebu9j2bkgu3ous2.jpg?alias=listing_search&signature=Qsf-voYugmoSnYkCUAQjXe2vmrQCrERR0fWnXmjXwNI",
+        "ordering": 4,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929218,
+        "caption": "Küche",
+        "url": "/media/ff/2026/04/mgm2zcos2n62lypw2z0vlejxrz7492n748gbk8dgjrtsg9krfb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/mgm2zcos2n62lypw2z0vlejxrz7492n748gbk8dgjrtsg9krfb.jpg?alias=thumb_m&signature=X-FM8335c4gpf2CwGNopmbxOT8qA4YeDJ3H6Pbqh4VQ",
+        "url_listing_search": "/thumb/ff/2026/04/mgm2zcos2n62lypw2z0vlejxrz7492n748gbk8dgjrtsg9krfb.jpg?alias=listing_search&signature=pulPHqdjP521dgV55zB9pDKlvNn7c1RpO0Y2DRk0kVU",
+        "ordering": 5,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929219,
+        "caption": "Raum 1",
+        "url": "/media/ff/2026/04/usqlemyl6g06j08r7xgesw4a0qsnujzpgfxpkk3pryxe3dupkh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/usqlemyl6g06j08r7xgesw4a0qsnujzpgfxpkk3pryxe3dupkh.jpg?alias=thumb_m&signature=Gv24OnXn4Wl9dKytkAHVCLoZn0aXp4vCj53FX_aR1iM",
+        "url_listing_search": "/thumb/ff/2026/04/usqlemyl6g06j08r7xgesw4a0qsnujzpgfxpkk3pryxe3dupkh.jpg?alias=listing_search&signature=Cwar6L7P1fB3haSv_HY5gJe8-hS_0GrZIC7luuOxsZQ",
+        "ordering": 6,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929220,
+        "caption": "Raum 2",
+        "url": "/media/ff/2026/04/el5ykqbvylh8b8gni4ia6bcv5peyg3i8kh5y9jbxo7fut3dqeu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/el5ykqbvylh8b8gni4ia6bcv5peyg3i8kh5y9jbxo7fut3dqeu.jpg?alias=thumb_m&signature=iELH_ut3CYE1uqf_BQfaM4d49_ew14mditA7F53Iu-I",
+        "url_listing_search": "/thumb/ff/2026/04/el5ykqbvylh8b8gni4ia6bcv5peyg3i8kh5y9jbxo7fut3dqeu.jpg?alias=listing_search&signature=dLb7_TL62PaKn7gs_oe7SxzfPcCn5lgfyv2smv-p86I",
+        "ordering": 7,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929221,
+        "caption": "Raum 3",
+        "url": "/media/ff/2026/04/oq2j80kwzcxjdf813utv84tjpai8lb45v06bj5b79n1vfsmqf8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/oq2j80kwzcxjdf813utv84tjpai8lb45v06bj5b79n1vfsmqf8.jpg?alias=thumb_m&signature=T66nAf0W_q9qkXsb5-LTA8Su3fw-nrjX983w7j_HhVc",
+        "url_listing_search": "/thumb/ff/2026/04/oq2j80kwzcxjdf813utv84tjpai8lb45v06bj5b79n1vfsmqf8.jpg?alias=listing_search&signature=YxYhxf6-AIwcEUquwAR91N28Cm3BZYpeOoS_e2LxsLM",
+        "ordering": 8,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929223,
+        "caption": "Raum 4",
+        "url": "/media/ff/2026/04/aqss9uw3kikq4bcmvokf2dr105s4dt3672ddztitq18d40y2m0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/aqss9uw3kikq4bcmvokf2dr105s4dt3672ddztitq18d40y2m0.jpg?alias=thumb_m&signature=Uks8I4y4IJ2c0bEjSyF53bSxcCvN3NXxSoxchE-qB7c",
+        "url_listing_search": "/thumb/ff/2026/04/aqss9uw3kikq4bcmvokf2dr105s4dt3672ddztitq18d40y2m0.jpg?alias=listing_search&signature=IkMc0ZoHRwo08q1RyY4ELJoEjLfatNmJcCXsf_KFltk",
+        "ordering": 9,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929224,
+        "caption": "Raum 5",
+        "url": "/media/ff/2026/04/ccowpy1lkxl30ttix98mkvt579j8kvnft01ymjn4coigy6081j.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/ccowpy1lkxl30ttix98mkvt579j8kvnft01ymjn4coigy6081j.jpg?alias=thumb_m&signature=ok_b267DX6MeAZ0KEg6wjpZbpsNOdaQmlSQuvUrM3wE",
+        "url_listing_search": "/thumb/ff/2026/04/ccowpy1lkxl30ttix98mkvt579j8kvnft01ymjn4coigy6081j.jpg?alias=listing_search&signature=flFUysRxnfby0x5PGRpQa7b4Fw7LpXSQKDvdz93cqmQ",
+        "ordering": 10,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 34929225,
+        "caption": "WC",
+        "url": "/media/ff/2026/04/de6goa897f5s9w60jot08pt9um7uml3g9o6f64a54g8bnz38lc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/de6goa897f5s9w60jot08pt9um7uml3g9o6f64a54g8bnz38lc.jpg?alias=thumb_m&signature=zcZSEHFH3QENa1olLI_GgP5_AXe-9yHjo6nsLnacA_8",
+        "url_listing_search": "/thumb/ff/2026/04/de6goa897f5s9w60jot08pt9um7uml3g9o6f64a54g8bnz38lc.jpg?alias=listing_search&signature=XpcdgzcPd-j60gDPiTMl8ocptcjg0E61KNTIXNK7TF0",
+        "ordering": 11,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 29560805,
+        "caption": "Grundriss",
+        "url": "/media/ff/2025/09/pfzay4f7tcvuj1i94uj6kivfbkxfdrk46wxluhdjo4c0x7kq27.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/pfzay4f7tcvuj1i94uj6kivfbkxfdrk46wxluhdjo4c0x7kq27.jpg?alias=thumb_m&signature=RCsItAjahYLttdjcPn7TW13_7gz-FTNI1T2kf8x_QJg",
+        "url_listing_search": "/thumb/ff/2025/09/pfzay4f7tcvuj1i94uj6kivfbkxfdrk46wxluhdjo4c0x7kq27.jpg?alias=listing_search&signature=5bTDPT0jmfqFDigS6D5LDg6yvRDkb2yLRblWJ7_Nhbw",
+        "ordering": 12,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Apleona Schweiz AG",
+      "name_2": null,
+      "street": "Kirchstrasse 24",
+      "zipcode": "3097",
+      "city": "Liebefeld",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/lq24r9tk3yfw4xgag3g00infnn1lsaztmhx3bbzxfosizw384l.png",
+        "url_org_logo_m": "/thumb/org/2023/10/lq24r9tk3yfw4xgag3g00infnn1lsaztmhx3bbzxfosizw384l.png?alias=org_logo_m&signature=FLoPX0m6E7rUWTQHHi2GKLWc00Wzp4x3ROlq4VW0mJA"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "172m² Büro in Bern mieten",
+    "livingspace": 172
+  }
+}

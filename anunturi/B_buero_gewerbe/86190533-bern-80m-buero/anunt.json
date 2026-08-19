@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1674.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/schlaflistrasse-14-3013-bern/86190533/",
+    "descarcat": "2026-08-17 12:31",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerberaum",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 86190533,
+    "slug": "schlaflistrasse-14-3013-bern",
+    "url": "/de/wohnung/schlaflistrasse-14-3013-bern/86190533/",
+    "short_url": "/86190533/",
+    "submit_url": "/de/listing/86190533/submit/",
+    "status": "act",
+    "created": "2026-07-14T13:20:34.552145+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "26640.02.400000",
+    "ref_property": "26640",
+    "ref_house": "02",
+    "ref_object": "400000",
+    "alternative_reference": null,
+    "price_display": 358,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-07-14T16:15:32.604182+02:00",
+    "rent_net": 330,
+    "rent_charges": 28,
+    "rent_gross": 358,
+    "short_title": "80m² Büro",
+    "public_title": "Schläflistrasse 14, 3013 Bern - CHF 358 inkl. NK pro m² / Jahr",
+    "pitch_title": "80m² Büro in Bern mieten",
+    "description_title": "Gewerberaum inkl. Garage und eigenem Vorplatz zu vermieten",
+    "description": "Die sehr zentral gelegene Liegenschaft befindet sich im Breitenrainquartier in Bern. Unmittelbar in der Nähe befindet sich der Viktoriaplatz, verschiedene Restaurants und Einkaufsmöglichkeiten sowie die Bus- und Tramstation \"Viktoriaplatz\" der Linien 10 und Tram 9.   \n  \nWir vermieten an der Optingenstrasse 37/Schläflistrasse 14 folgende Gewerberäumlichkeiten:   \n  \n\\- Offene Fläche   \n\\- kleine Küche mit Geschirrspüler   \n\\- WC mit Lavabo   \n\\- Reduit   \n\\- Eigener Vorplatz   \n\\- Eigene Garage   \n\\- Waschküche kann mitbenutzt werden   \n  \nHaben wir Ihr Interesse geweckt? Dann freuen wir uns über Ihre Kontaktanfrage.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 80,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 80,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Schläflistrasse 14",
+    "zipcode": 3013,
+    "city": "Bern",
+    "public_address": "Schläflistrasse 14, 3013 Bern",
+    "latitude": 46.9562077,
+    "longitude": 7.450151999999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48065268,
+    "images": [
+      {
+        "pk": 48065268,
+        "caption": "DSC_4083.JPG",
+        "url": "/media/ff/2026/07/8jmw4gtnybzn3u2rqw9aqrp22tiegr9mcmg34xercyez7qjptg.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/8jmw4gtnybzn3u2rqw9aqrp22tiegr9mcmg34xercyez7qjptg.jpg?alias=thumb_m&signature=oymlD6F2Ns00ORJ2RBDGCOS7qmK_rTVH8Dt2LUetPeE",
+        "url_listing_search": "/thumb/ff/2026/07/8jmw4gtnybzn3u2rqw9aqrp22tiegr9mcmg34xercyez7qjptg.jpg?alias=listing_search&signature=lURvXmijKHSSIB4XsozF-uGJb6OvtuD_QRxMXtanjcU",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48065269,
+        "caption": "DSC_3969.JPG",
+        "url": "/media/ff/2026/07/16qsov95980u97x89rrpmjciuad1nmc8vjj8jpwg3o2ne6pu0r.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/16qsov95980u97x89rrpmjciuad1nmc8vjj8jpwg3o2ne6pu0r.jpg?alias=thumb_m&signature=gXkazr-xlC-7bqudj8gqhE8CihtDWM_yZAkOpGJlmq0",
+        "url_listing_search": "/thumb/ff/2026/07/16qsov95980u97x89rrpmjciuad1nmc8vjj8jpwg3o2ne6pu0r.jpg?alias=listing_search&signature=_SuOl-lhNJ8V5X0r6wGd5k-PIRJvU7yekRog5iThp6o",
+        "ordering": 2,
+        "width": 1024,
+        "height": 699
+      },
+      {
+        "pk": 48065270,
+        "caption": "b1a216d0-a53c-4846-aed9-0bb787089593.jpg",
+        "url": "/media/ff/2026/07/4p6qyubh0sgw3sky30m6vbcqu5ho2fj4acnpfvr9mmdq99ouig.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/4p6qyubh0sgw3sky30m6vbcqu5ho2fj4acnpfvr9mmdq99ouig.jpg?alias=thumb_m&signature=kvp4WxDhY7jLpo1xR-Fu6iUwWEWx72Q_qvLPRNtktbQ",
+        "url_listing_search": "/thumb/ff/2026/07/4p6qyubh0sgw3sky30m6vbcqu5ho2fj4acnpfvr9mmdq99ouig.jpg?alias=listing_search&signature=CGjHl-_ulgiBxQA7yD6AMnRV217T7ZcScu7DESOw3dg",
+        "ordering": 3,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065271,
+        "caption": "dff35532-b090-4d93-834a-3ba95bc53c7a.jpg",
+        "url": "/media/ff/2026/07/skzdy1u5a59c167t6ysqgpt5cpvd44veu9cit52hfl9las44rm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/skzdy1u5a59c167t6ysqgpt5cpvd44veu9cit52hfl9las44rm.jpg?alias=thumb_m&signature=3S4IdiTjZz1q91XT_mQ6WetR8j-aem1aVf6eN2X2bQU",
+        "url_listing_search": "/thumb/ff/2026/07/skzdy1u5a59c167t6ysqgpt5cpvd44veu9cit52hfl9las44rm.jpg?alias=listing_search&signature=59CFC9_8UnIjhvA-RRrjqax1K7JQXPLxNBZwpk2ZI8k",
+        "ordering": 4,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065272,
+        "caption": "c47aee61-9f7d-4a2e-a1bc-9bf70b5e0c4d.jpg",
+        "url": "/media/ff/2026/07/whwscd4hn800nvfd9v1u3v8wf81siwwoldxupsqk5eeptdg1m1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/whwscd4hn800nvfd9v1u3v8wf81siwwoldxupsqk5eeptdg1m1.jpg?alias=thumb_m&signature=ghRLvgKQGvlGmQtZwy4BFSAg1IfJSq2eaY3oZ_b2HOo",
+        "url_listing_search": "/thumb/ff/2026/07/whwscd4hn800nvfd9v1u3v8wf81siwwoldxupsqk5eeptdg1m1.jpg?alias=listing_search&signature=ZKPsj3RmdYfJy_yYxJeeoKPCje_OoyTx-CxXtcjoLbI",
+        "ordering": 5,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065273,
+        "caption": "86f1e691-2464-4095-b1b2-92b5b053b9a8.jpg",
+        "url": "/media/ff/2026/07/b6apc2c9u4gbpss7njmxnzihi0ijmnv7xzi70ddxhz7etsfxv6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/b6apc2c9u4gbpss7njmxnzihi0ijmnv7xzi70ddxhz7etsfxv6.jpg?alias=thumb_m&signature=W9WNC0TVn7gt_AuLQGYa7DL0EwawX_DJtV-CIFn3Fek",
+        "url_listing_search": "/thumb/ff/2026/07/b6apc2c9u4gbpss7njmxnzihi0ijmnv7xzi70ddxhz7etsfxv6.jpg?alias=listing_search&signature=bG44d49Z5moStcqfKyySSKtw-4duZNB0YNkdywi2cXc",
+        "ordering": 6,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065274,
+        "caption": "8d0b8a80-1e32-4d4c-8056-5ccf73b80d73.jpg",
+        "url": "/media/ff/2026/07/bealponp2eozdyutdb2qxfy228r4gbwi1jhzev8yjneqcoalsh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/bealponp2eozdyutdb2qxfy228r4gbwi1jhzev8yjneqcoalsh.jpg?alias=thumb_m&signature=4Ef_SAQxLvINMX5O6ZROqLyG9qDrtJYqBBtio45gLho",
+        "url_listing_search": "/thumb/ff/2026/07/bealponp2eozdyutdb2qxfy228r4gbwi1jhzev8yjneqcoalsh.jpg?alias=listing_search&signature=d8aiajrWLPS3kkjR_O-A1i_X6Fv9aOL1AtLda_MIO-E",
+        "ordering": 7,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065275,
+        "caption": "7d06e219-c5c9-4e87-b2e4-c5e19bfcc3a1.jpg",
+        "url": "/media/ff/2026/07/q59igixbbqdkmw2eaq3gqww0eg36vfgr4ny7zcz47z9fvfscgw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/q59igixbbqdkmw2eaq3gqww0eg36vfgr4ny7zcz47z9fvfscgw.jpg?alias=thumb_m&signature=mdviT-sFpmNV5fqQj9wcRJrDQuDiGS25ek047zRjOa4",
+        "url_listing_search": "/thumb/ff/2026/07/q59igixbbqdkmw2eaq3gqww0eg36vfgr4ny7zcz47z9fvfscgw.jpg?alias=listing_search&signature=Ns3RbRPIG1aQLjplMIv8J6Wx2lwfMZnsNz9FNIQ9AZc",
+        "ordering": 8,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065276,
+        "caption": "e1ac7dd1-f519-4548-91ee-6c90eeba001d.jpg",
+        "url": "/media/ff/2026/07/34xifbmojmbeu4o0s7ul27ko8rngio4c27ntk6wuevjbfxytld.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/34xifbmojmbeu4o0s7ul27ko8rngio4c27ntk6wuevjbfxytld.jpg?alias=thumb_m&signature=AzHL5cOTRJwAVBxxk5IzutWtx9C6eaJIfSIecHgfFlo",
+        "url_listing_search": "/thumb/ff/2026/07/34xifbmojmbeu4o0s7ul27ko8rngio4c27ntk6wuevjbfxytld.jpg?alias=listing_search&signature=7-BmSCazsTVsR9op8qreeCiwzR09RC2kdbJLKf-kEnc",
+        "ordering": 9,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065277,
+        "caption": "cbed7e33-02e2-48b5-9cf4-d0f903b19349.jpg",
+        "url": "/media/ff/2026/07/e1c2kgnypkqth3j72tp46aebkvpx57gavbk7sg0uau970k0mnh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/e1c2kgnypkqth3j72tp46aebkvpx57gavbk7sg0uau970k0mnh.jpg?alias=thumb_m&signature=I8GRgRairWbnrDjZJNj8na2mtlUKyTWB2qnX4MC1dUs",
+        "url_listing_search": "/thumb/ff/2026/07/e1c2kgnypkqth3j72tp46aebkvpx57gavbk7sg0uau970k0mnh.jpg?alias=listing_search&signature=xS8XEaDenQ_XPHnSBZ618gCNd_PH3OcLs5ZEcNrNN2I",
+        "ordering": 10,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065278,
+        "caption": "cb89e825-067e-42a8-add1-fee0e2d235f3.jpg",
+        "url": "/media/ff/2026/07/l7atzaqwfq1czp7qnvfbpbkyo3lejtzcix5s1o9ry0kxe1fl93.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/l7atzaqwfq1czp7qnvfbpbkyo3lejtzcix5s1o9ry0kxe1fl93.jpg?alias=thumb_m&signature=3ieKlGbvJIxfaLFHgTTmm08N4iGRqPysNdnVZ7LjE3A",
+        "url_listing_search": "/thumb/ff/2026/07/l7atzaqwfq1czp7qnvfbpbkyo3lejtzcix5s1o9ry0kxe1fl93.jpg?alias=listing_search&signature=lnueMTiTLIVmlcPEyo0Vfb4jnFMGE-ZrS9dtKzUm41Q",
+        "ordering": 11,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48065279,
+        "caption": "6659d1f9-2dc1-4960-baa6-0234234152a6.jpg",
+        "url": "/media/ff/2026/07/2p8bux9zn2566my4auoq4tybtmk0vivw8vnwedxy721jjks410.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/2p8bux9zn2566my4auoq4tybtmk0vivw8vnwedxy721jjks410.jpg?alias=thumb_m&signature=Py1yjrhVY_1rcvrry2gWvq4cwpxdLIXxg7nk0CEcqhI",
+        "url_listing_search": "/thumb/ff/2026/07/2p8bux9zn2566my4auoq4tybtmk0vivw8vnwedxy721jjks410.jpg?alias=listing_search&signature=AaP13YL9TtuhXnAmyyKiRJ-JX-wuwGLA8U5nXSQ_p_M",
+        "ordering": 12,
+        "width": 768,
+        "height": 1024
+      }
+    ],
+    "documents": [
+      762038
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "80m² Büro in Bern mieten",
+    "livingspace": 80
+  }
+}

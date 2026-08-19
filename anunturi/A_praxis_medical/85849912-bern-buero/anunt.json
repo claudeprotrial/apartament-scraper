@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1725.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/konsumstrasse-13-3007-bern/85849912/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisfläche",
+        "praxisräumlichkeiten"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "gewerbefläche",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "gastronomie"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 85849912,
+    "slug": "konsumstrasse-13-3007-bern",
+    "url": "/de/wohnung/konsumstrasse-13-3007-bern/85849912/",
+    "short_url": "/85849912/",
+    "submit_url": "/de/listing/85849912/submit/",
+    "status": "act",
+    "created": "2026-03-09T12:17:26.859100+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "25540..60001",
+    "ref_property": "25540",
+    "ref_house": "",
+    "ref_object": "60001",
+    "alternative_reference": null,
+    "price_display": 2010,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-03-09T12:17:29.375849+01:00",
+    "rent_net": 1760,
+    "rent_charges": 250,
+    "rent_gross": 2010,
+    "short_title": "Büro",
+    "public_title": "Konsumstrasse 13, 3007 Bern - CHF 2’010 inkl. NK pro Monat",
+    "pitch_title": "Büro in Bern mieten",
+    "description_title": "Attraktive Büro- oder Praxisräumlichkeiten im Mattenhofquartier",
+    "description": "Per sofort oder nach Vereinbarung vermieten wir helle, modern ausgebaute Büro- oder Praxisflächen an ruhiger Lage im gefragten Mattenhofquartier. Die betroffene Gewerbefläche ist auf dem Grundrissplan grün markiert.   \n  \nIhre Vorteile auf einen Blick:   \n  \n\\- Lichtdurchflutete Räume mit hochwertigem Laminatboden   \n\\- Flexible Grundrissgestaltung  ideal für individuelle Nutzungskonzepte   \n\\- Angenehmes Arbeitsumfeld mit viel Tageslicht   \n\\- Vielfältige Gastronomie- und Einkaufsmöglichkeiten in unmittelbarer Umgebung   \n\\- Beste Anbindung an den öffentlichen Verkehr  Tramlinie 6 in nur 3 Gehminuten erreichbar   \n\\- Autobahnanschluss innert sechs Fahrt-Minuten erreicht   \n\\- Einstellhallenplätze für je CHF 150.00 verfügbar (auf Wunsch stehen auch E-Ladestationen zur Verfügung)   \n  \nBei Bedarf können zusätzlich die angrenzenden Gewerberäumlichkeiten (violett auf dem Grundrissplan) dazugemietet werden.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Konsumstrasse 13",
+    "zipcode": 3007,
+    "city": "Bern",
+    "public_address": "Konsumstrasse 13, 3007 Bern",
+    "latitude": 46.94420059999999,
+    "longitude": 7.425484999999999,
+    "year_built": 1988,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 34239662,
+    "images": [
+      {
+        "pk": 34239662,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/03/vcto6ptzpjb53v1hw6gmcwljbnkf0kq0j29m607hebrj9dlif8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/vcto6ptzpjb53v1hw6gmcwljbnkf0kq0j29m607hebrj9dlif8.jpg?alias=thumb_m&signature=ivsM8xAQKnjlCAiNI8wDFHnjjEso11QEIGBS_sR20MY",
+        "url_listing_search": "/thumb/ff/2026/03/vcto6ptzpjb53v1hw6gmcwljbnkf0kq0j29m607hebrj9dlif8.jpg?alias=listing_search&signature=lPiv_rQduJ-RxKiwwO_uJg1uaAZYQ_FCwXMvkoc1h2o",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239664,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/03/iw9npt6yhti8idg3w8wfzamemm0lwk1vkp56uby9k1l42vmz9e.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/iw9npt6yhti8idg3w8wfzamemm0lwk1vkp56uby9k1l42vmz9e.jpg?alias=thumb_m&signature=NH6emSjVcZ2N-ENRpEMw32BzbaGoV6pk8GHq-TDBOyo",
+        "url_listing_search": "/thumb/ff/2026/03/iw9npt6yhti8idg3w8wfzamemm0lwk1vkp56uby9k1l42vmz9e.jpg?alias=listing_search&signature=axOITbOmb7BSOElmmzdDVQSuxhAgFlr7-8V2vRKRKAU",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239665,
+        "caption": "Digitalisierung Gewerberäume 1",
+        "url": "/media/ff/2026/03/ylio101wwplo9yrwvrlkwigk2ln305oclpctaklh3h2p32n3y3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/ylio101wwplo9yrwvrlkwigk2ln305oclpctaklh3h2p32n3y3.jpg?alias=thumb_m&signature=twjjYErBwD_yhWuCNKqcZdC_0QKQH8SNQIKFltxgndo",
+        "url_listing_search": "/thumb/ff/2026/03/ylio101wwplo9yrwvrlkwigk2ln305oclpctaklh3h2p32n3y3.jpg?alias=listing_search&signature=xzw381ZTXK83OPV5Aq9s_5diRTtmJ691pYC38E9Ue9E",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239666,
+        "caption": "Digitalisierung Gewerberäume 2",
+        "url": "/media/ff/2026/03/fczpa62l64inucdajt5csni1b0zmmplk7pzrfcitw11z06wgql.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/fczpa62l64inucdajt5csni1b0zmmplk7pzrfcitw11z06wgql.jpg?alias=thumb_m&signature=nWNUuKqAvp2KmpeXouXsuHLBRdJ7wiyiGpUAyToKlxU",
+        "url_listing_search": "/thumb/ff/2026/03/fczpa62l64inucdajt5csni1b0zmmplk7pzrfcitw11z06wgql.jpg?alias=listing_search&signature=i4mSyfla8vOeM6BY1g4ZnCgU2rW62Wc2vvtGQ2kbtZo",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239667,
+        "caption": "Digitalisierung Badezimmer",
+        "url": "/media/ff/2026/03/rr18esuzwyqfcdezogiosr1vqfgnp79w14g8f8fo5ydghn5n8o.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/rr18esuzwyqfcdezogiosr1vqfgnp79w14g8f8fo5ydghn5n8o.jpg?alias=thumb_m&signature=WW6AyDeDt3Z0dinKhydXcfh3VZDZTYSrOL_KJQlvVE4",
+        "url_listing_search": "/thumb/ff/2026/03/rr18esuzwyqfcdezogiosr1vqfgnp79w14g8f8fo5ydghn5n8o.jpg?alias=listing_search&signature=U-4YJoJCFFfFEduel4Wew48Q6-35GwpAupafvhNcls8",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239668,
+        "caption": "Eingang",
+        "url": "/media/ff/2026/03/gb08xmfgu3fi3za5exdmemjigk3fzn3vny90ghy6cxdtken2sj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/gb08xmfgu3fi3za5exdmemjigk3fzn3vny90ghy6cxdtken2sj.jpg?alias=thumb_m&signature=H3MsrBz3B6Sa9YZJP-CN8AqnGnJDJRAgCCtciLVhdak",
+        "url_listing_search": "/thumb/ff/2026/03/gb08xmfgu3fi3za5exdmemjigk3fzn3vny90ghy6cxdtken2sj.jpg?alias=listing_search&signature=VC_RYdSv6YlzPdfWPc_nw5NdMEELgO_QCetKwF1O-1g",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239669,
+        "caption": "Innenansicht",
+        "url": "/media/ff/2026/03/xt0rsgvg7jzzpt2poxo8wdaj3efwujbg7luudvhcjk5viazjb0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/xt0rsgvg7jzzpt2poxo8wdaj3efwujbg7luudvhcjk5viazjb0.jpg?alias=thumb_m&signature=kTM_QmrTIUwdJKd63OrmkZo_03SMlWHFBKfRanTpfvk",
+        "url_listing_search": "/thumb/ff/2026/03/xt0rsgvg7jzzpt2poxo8wdaj3efwujbg7luudvhcjk5viazjb0.jpg?alias=listing_search&signature=Y-nzmcjXlnOeTKaz2JQ2toKB9mj3C61WJN0ZI4wqcIc",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239670,
+        "caption": "Innenansicht 2",
+        "url": "/media/ff/2026/03/fz1psn3pi76x840ojz6gwqcs06ubtgy4undylxvm4n9ws6uv56.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/fz1psn3pi76x840ojz6gwqcs06ubtgy4undylxvm4n9ws6uv56.jpg?alias=thumb_m&signature=fqySDra2EitRp7n74a8BNm5PspFgfZE-VbtlAx14Va0",
+        "url_listing_search": "/thumb/ff/2026/03/fz1psn3pi76x840ojz6gwqcs06ubtgy4undylxvm4n9ws6uv56.jpg?alias=listing_search&signature=JIxZkvuoJbcLKqy4I0mbIyayiyRgzJMxDtFPI6YXLJE",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239671,
+        "caption": "Badezimmer aussen",
+        "url": "/media/ff/2026/03/7qsta8b9i3q3pkz8uxfs32fd24isllu7qzshugcql583m65j24.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/7qsta8b9i3q3pkz8uxfs32fd24isllu7qzshugcql583m65j24.jpg?alias=thumb_m&signature=-UlEXi-V_AXhm4HS9ukO_tjfoa7UGrbKK93-lNXc3io",
+        "url_listing_search": "/thumb/ff/2026/03/7qsta8b9i3q3pkz8uxfs32fd24isllu7qzshugcql583m65j24.jpg?alias=listing_search&signature=AOcLnvl9OxOYuZyTDkjVaLNVwoXUDO4p1ktRkNAXIl8",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239672,
+        "caption": "Bad",
+        "url": "/media/ff/2026/03/s49hat76dxzue4z5p4tkffpug201deofan837skkijbe7ralj9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/s49hat76dxzue4z5p4tkffpug201deofan837skkijbe7ralj9.jpg?alias=thumb_m&signature=BsoG-4Zrd2lcDmKKVIp8ekNk0zGF2Ql17ZHPFjjlQ8I",
+        "url_listing_search": "/thumb/ff/2026/03/s49hat76dxzue4z5p4tkffpug201deofan837skkijbe7ralj9.jpg?alias=listing_search&signature=UmHMpfqJHuI04uxWG9tL5o9U2E7Rm0BgCWqfGppFUMo",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239675,
+        "caption": "Bad 2",
+        "url": "/media/ff/2026/03/ayvwt731hvhwa5mz39az5q6s2bio36jrisj0bb83yr73jruewf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/ayvwt731hvhwa5mz39az5q6s2bio36jrisj0bb83yr73jruewf.jpg?alias=thumb_m&signature=Dnwe4PKsdXbnnwkiEEH2ilenEv-3BkgQmBCl1ZOZbSE",
+        "url_listing_search": "/thumb/ff/2026/03/ayvwt731hvhwa5mz39az5q6s2bio36jrisj0bb83yr73jruewf.jpg?alias=listing_search&signature=0xUqdS_GSGCI7yoih3fnogQUQ9uAun5ucML5r3I6l8Y",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34239677,
+        "caption": "Grünes Büro",
+        "url": "/media/ff/2026/03/opu6aadrg0zvkvgrwp1gyu9dhbg64uk3oy60acf5vg3nn7buj6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/opu6aadrg0zvkvgrwp1gyu9dhbg64uk3oy60acf5vg3nn7buj6.jpg?alias=thumb_m&signature=N8t_eqZngY2qucFSK8mpOTNq5_gBZ76qTMfZA1PDYI0",
+        "url_listing_search": "/thumb/ff/2026/03/opu6aadrg0zvkvgrwp1gyu9dhbg64uk3oy60acf5vg3nn7buj6.jpg?alias=listing_search&signature=F3-CP065TJjP6xMjzCX7lO3Q5yrEZSj4ATzk-giWkjg",
+        "ordering": 12,
+        "width": 1440,
+        "height": 720
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Niederer AG",
+      "name_2": null,
+      "street": null,
+      "zipcode": null,
+      "city": null,
+      "country": null,
+      "logo": {
+        "url": "/media/org/2026/06/c8bhqvpwkv27fesj4lzq775nz2tgvwz6j3sybnsship0mvbgei.png",
+        "url_org_logo_m": "/thumb/org/2026/06/c8bhqvpwkv27fesj4lzq775nz2tgvwz6j3sybnsship0mvbgei.png?alias=org_logo_m&signature=h6SZb92TBVjwM10UFqti3MFMIKPMbQuo48SfR3xAVlw"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Büro in Bern mieten",
+    "livingspace": null
+  }
+}

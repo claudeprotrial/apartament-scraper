@@ -1,0 +1,201 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1638.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/looslistrasse-15-3027-bern/1103503/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "büroräume",
+        "gewerbefläche",
+        "gewerberäume",
+        "sitzungszimmer"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 1103503,
+    "slug": "looslistrasse-15-3027-bern",
+    "url": "/de/wohnung/looslistrasse-15-3027-bern/1103503/",
+    "short_url": "/1103503/",
+    "submit_url": "/de/listing/1103503/submit/",
+    "status": "act",
+    "created": "2024-02-08T08:10:27.217858+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "210661..142101",
+    "ref_property": "210661",
+    "ref_house": "",
+    "ref_object": "142101",
+    "alternative_reference": "",
+    "price_display": 3980,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2024-05-03T15:11:32.776516+02:00",
+    "rent_net": 3630,
+    "rent_charges": 350,
+    "rent_gross": null,
+    "short_title": "264m² Gewerbe",
+    "public_title": "Looslistrasse 15, 3027 Bern - CHF 3’980 inkl. NK pro Monat",
+    "pitch_title": "264m² Gewerbe in Bern mieten",
+    "description_title": "Schöne Büro-/Gewerberäume in Bern-Bethlehem",
+    "description": "**Suchen Sie zentralgelegene Büroräume oder Gewerbeflächen** in Bern-Bethlehem?  \n  \nWir vermieten an der Looslistrasse 15 per sofort oder nach Vereinbarung **vielseitig nutzbare Büroräume / Gewerbeflächen (ca. 264 m2) im 2. OG**.  \n  \nDie Räumlichkeiten zeichnen sich aus durch:  \n\\- helle und offene Flächen  \n\\- zwei abschliessbares Sitzungszimmer  \n\\- abschliessbare grosszügige Küche  \n\\- zwei sep. Toiletten  \n\\- Nähe ÖV  \n\\- Aussenparkplätze vorhanden, ca. 4 Gehminuten  \n  \nAnfahrt zur Liegenschaft  \nmit ÖV:  \nDie Liegenschaft ist ab dem Hauptbahnhof Bern mit der S-Bahn S51 ab Bern bis Stöckacker und mit der Tramlinie Nr. 8 bis Bethlehem b. Bern Säge gut erreichbar.  \n  \nmit PW:  \nDie Autobahnausfahrt Weyermannshaus ist unmittelbar in der Nähe des Gebäudes.  \n  \nHaben wir Ihr Interesse geweckt? Wir freuen uns auf Ihre Kontaktaufnahme!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 264,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 264,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Looslistrasse 15",
+    "zipcode": 3027,
+    "city": "Bern",
+    "public_address": "Looslistrasse 15, 3027 Bern",
+    "latitude": 46.9479872,
+    "longitude": 7.399031000000001,
+    "year_built": 1991,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 11598184,
+    "images": [
+      {
+        "pk": 11598184,
+        "caption": "Küche",
+        "url": "/media/ff/2025/01/k3kvmcdxv89s97ql8bl34dma9s1bzifrxmq2p73gtsygk05c48.jpg",
+        "url_thumb_m": "/thumb/ff/2025/01/k3kvmcdxv89s97ql8bl34dma9s1bzifrxmq2p73gtsygk05c48.jpg?alias=thumb_m&signature=5l7KTYqQVK2Vi5MSKC01tuQcslPcJSfqxNMfdSGlW2s",
+        "url_listing_search": "/thumb/ff/2025/01/k3kvmcdxv89s97ql8bl34dma9s1bzifrxmq2p73gtsygk05c48.jpg?alias=listing_search&signature=jAvYvBsjAc_gOPVBLiia8u0UgcQ0xMdWXIBdYwPuW3k",
+        "ordering": 1,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11598527,
+        "caption": "Gewerbefläche",
+        "url": "/media/ff/2025/01/xmbx3xc5tqghttppt0ss3qyk5dn262ejx8mf6rhb9ihg3xoakj.jpg",
+        "url_thumb_m": "/thumb/ff/2025/01/xmbx3xc5tqghttppt0ss3qyk5dn262ejx8mf6rhb9ihg3xoakj.jpg?alias=thumb_m&signature=qoiYVooygMdIdpt4SWtQb1PaoWuTVBYk96XnKgQgRP8",
+        "url_listing_search": "/thumb/ff/2025/01/xmbx3xc5tqghttppt0ss3qyk5dn262ejx8mf6rhb9ihg3xoakj.jpg?alias=listing_search&signature=m4It2DvWbD5gYj0xDReJ5FAvksbH_xI5Re7GivzvNtI",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 11598342,
+        "caption": "Eingangsbereich",
+        "url": "/media/ff/2025/01/sagu1hs5tbd55699plr7i0tr39p1rma4twa44j0um3sylpa8g7.jpg",
+        "url_thumb_m": "/thumb/ff/2025/01/sagu1hs5tbd55699plr7i0tr39p1rma4twa44j0um3sylpa8g7.jpg?alias=thumb_m&signature=q13oni3ti2-x67PEQxWFz1i-h8IcNMTGlFVzlf_D5CY",
+        "url_listing_search": "/thumb/ff/2025/01/sagu1hs5tbd55699plr7i0tr39p1rma4twa44j0um3sylpa8g7.jpg?alias=listing_search&signature=1p2QGtp2RrloATLigCuSRh3Lny0Pzau4Wq_rzGfQ-ik",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 11598468,
+        "caption": "Gewerbefläche",
+        "url": "/media/ff/2025/01/k9wl27gugrabsvkfka045c8yi5pm3b7spxhrvgqakv7e8amuwp.jpg",
+        "url_thumb_m": "/thumb/ff/2025/01/k9wl27gugrabsvkfka045c8yi5pm3b7spxhrvgqakv7e8amuwp.jpg?alias=thumb_m&signature=A9uFxroMqPxDQoJIE3cy_RUvJn-a6YmwaQJ7LNRE42Q",
+        "url_listing_search": "/thumb/ff/2025/01/k9wl27gugrabsvkfka045c8yi5pm3b7spxhrvgqakv7e8amuwp.jpg?alias=listing_search&signature=mV_jo4S-5gPh2gQbCS0HXYrSP4D9mtAyY5VlZ2WFqY8",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 11598036,
+        "caption": "WC 1",
+        "url": "/media/ff/2025/01/b9zp8lop2wpama7bkn244n1cguln8q1w54n3797d6x5fno5z2x.jpg",
+        "url_thumb_m": "/thumb/ff/2025/01/b9zp8lop2wpama7bkn244n1cguln8q1w54n3797d6x5fno5z2x.jpg?alias=thumb_m&signature=8aypULhsuv3caJO_7JZDs9XOly_B9b4C4_2tK1OKqP8",
+        "url_listing_search": "/thumb/ff/2025/01/b9zp8lop2wpama7bkn244n1cguln8q1w54n3797d6x5fno5z2x.jpg?alias=listing_search&signature=mpRE3vf2KRQHCfuT7JAFHPmE_zUjETP9ehit4VqR-fo",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11597913,
+        "caption": "WC 2",
+        "url": "/media/ff/2025/01/y9hjy0qiztlpdf8o44ufdqj3gyv1wxu1df6ps7w4vu7ov2k943.jpg",
+        "url_thumb_m": "/thumb/ff/2025/01/y9hjy0qiztlpdf8o44ufdqj3gyv1wxu1df6ps7w4vu7ov2k943.jpg?alias=thumb_m&signature=TmATPdAVduB_rxcmxI95uyOW5yuIlp3pysMkCg4Ubj8",
+        "url_listing_search": "/thumb/ff/2025/01/y9hjy0qiztlpdf8o44ufdqj3gyv1wxu1df6ps7w4vu7ov2k943.jpg?alias=listing_search&signature=RICY5OAU-ZjBx6QKH417SQlFyboC3EDk6BzIgjSX1fk",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11598270,
+        "caption": "Küche und Aufenthaltsbereich",
+        "url": "/media/ff/2025/01/eqwezoauntmx1cozvnmv54le7xnczfj0olc4l42q0fxr2ynvch.jpg",
+        "url_thumb_m": "/thumb/ff/2025/01/eqwezoauntmx1cozvnmv54le7xnczfj0olc4l42q0fxr2ynvch.jpg?alias=thumb_m&signature=SXB17f3mx3O0670SE0z3o4hZVlYIyqVpCPt8DM-XRmQ",
+        "url_listing_search": "/thumb/ff/2025/01/eqwezoauntmx1cozvnmv54le7xnczfj0olc4l42q0fxr2ynvch.jpg?alias=listing_search&signature=sW41bTkJecR9NnwqwU407ECYFYAMnmNa98URV8Pjmt8",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 11598384,
+        "caption": "sep. Lager",
+        "url": "/media/ff/2025/01/rwuj57uckzwguf4wqnzoibmphe6sgmlmw8xazwpg8ma4gy4cmp.jpg",
+        "url_thumb_m": "/thumb/ff/2025/01/rwuj57uckzwguf4wqnzoibmphe6sgmlmw8xazwpg8ma4gy4cmp.jpg?alias=thumb_m&signature=EBHSCOTEaJF2wYzBlctNd7A9hZm_5iUsMa0OW7Oef4g",
+        "url_listing_search": "/thumb/ff/2025/01/rwuj57uckzwguf4wqnzoibmphe6sgmlmw8xazwpg8ma4gy4cmp.jpg?alias=listing_search&signature=GUdwk0pYpsk2xwUbYNMlZ-4uX-qMtnVCV02tZbORlHc",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 8361695,
+        "caption": "Aussenbereich",
+        "url": "/media/ff/2024/02/v8lu68fde32fvlljn2ld3f4xubjne8vernp1kg385p4bjlogiy.jpg",
+        "url_thumb_m": "/thumb/ff/2024/02/v8lu68fde32fvlljn2ld3f4xubjne8vernp1kg385p4bjlogiy.jpg?alias=thumb_m&signature=UXKmpiu1uxWlvU7SzLaWTGZW0Qs8ND0A4XOpHXITSxE",
+        "url_listing_search": "/thumb/ff/2024/02/v8lu68fde32fvlljn2ld3f4xubjne8vernp1kg385p4bjlogiy.jpg?alias=listing_search&signature=Xwk7bDzncHkI54I3T4BoOMlcfu1eHxwAczCERFF42Yg",
+        "ordering": 9,
+        "width": 597,
+        "height": 447
+      }
+    ],
+    "documents": [
+      781270
+    ],
+    "agency": {
+      "name": "Burgergemeinde Bern, Immobilien",
+      "name_2": "Domänenverwaltung",
+      "street": "Bahnhofplatz 2",
+      "zipcode": "3001",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png",
+        "url_org_logo_m": "/thumb/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png?alias=org_logo_m&signature=F7dlhFceZMsw_sykCkbNggMJEfravWk0lq2YXPFWE2M"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "264m² Gewerbe in Bern mieten",
+    "livingspace": 264
+  }
+}

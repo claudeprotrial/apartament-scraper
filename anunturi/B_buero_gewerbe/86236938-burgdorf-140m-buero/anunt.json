@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1620.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/auf-anfrage-3400-burgdorf/86236938/",
+    "descarcat": "2026-08-17 12:39",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "agentur",
+        "bürofläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 4
+  },
+  "raw": {
+    "pk": 86236938,
+    "slug": "auf-anfrage-3400-burgdorf",
+    "url": "/de/wohnung/auf-anfrage-3400-burgdorf/86236938/",
+    "short_url": "/86236938/",
+    "submit_url": "/de/listing/86236938/submit/",
+    "status": "act",
+    "created": "2026-08-03T04:22:48.769151+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..1411759",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "1411759",
+    "alternative_reference": null,
+    "price_display": 240,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-08-03T04:22:49.943609+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 240,
+    "short_title": "140m² Büro",
+    "public_title": "Auf Anfrage, 3400 Burgdorf - CHF 240 inkl. NK pro m² / Jahr",
+    "pitch_title": "140m² Büro in Burgdorf mieten",
+    "description_title": "ZENTRAL UND GROSSZÜGIG",
+    "description": "Diese grosszügige Bürofläche in Burgdorf (3400) bietet 7 helle Zimmer an sehr zentraler Lage nahe Bahnhof. Ideal für Unternehmen, Agenturen oder Praxen, die sichtbar und gut erreichbar arbeiten möchten. Moderne Infrastruktur mit Glasfaseranschluss sorgt für effizientes Arbeiten, der Zugang ist rollstuhlgängig. Beim geplanten Ausbau ist Mitsprache möglich - perfekt, wenn Sie Räume nach Ihren Bedürfnissen mitgestalten wollen. Viele Kundenparkplätze in der Nähe, ein fixer Parkplatz optional möglich.   \n  \nDieses BETTERHOMES-Angebot zeichnet sich durch folgende Vorteile aus:   \n\\- sehr zentrale Lage nähe Bahnhof Burgdorf   \n  \n\\- grosszügige, lichtdurchflutete Räumlichkeiten   \n  \n\\- moderne Infrastruktur mit Glasfaseranschluss   \n  \n\\- rollstuhlgängig   \n  \n\\- Photovoltaikanlage auf dem Dach   \n  \n\\- Mitsprache und Mitfinanzierung bei geplantem Ausbau möglich   \n  \n\\- viele Parkplätze für Kunden in der Nähe   \n  \n\\- ein fester Parkplatz optional möglich   \n  \n\\- Bezugstermin per 01.02.2027 oder nach Vereinbarung   \n  \n\\- und, und, und ...   \n  \n  \nInteressiert? Kontaktieren Sie uns für eine unverbindliche Besichtigung  auch Online-Besichtigung möglich!   \n  \nNichts Passendes gefunden? Über 2'000 weitere Angebote unter: www.betterhomes.ch - der Immobilienfairmittler®   \n  \nSelber eine Immobilie zu vermarkten?   \nProfitieren Sie von unserem Know-how: https://www.betterhomes.ch/de/profitieren   \n  \nSie möchten eine Immobilie schätzen lassen?   \nErfahren Sie jetzt ihren Wert über unsere Gratis-Schätzung, sofort und unverbindlich!   \nhttps://www.betterhomes.ch/de/knowledge/estimation   \n  \n  \nMehr Details   \nLage: zentral   \nZustand: wird renoviert   \n  \nBäder / Nasszellen: 2 (2 x WC / Lavabo)   \nHeizsystem: Grundwasserwärmepumpe   \nÖffentliche Verkehrsmittel: Bahn, 200 m   \nGeschäfte: Migros / Coop, 50 m",
+    "surface_living": null,
+    "surface_property": 0,
+    "surface_usable": 140,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 140,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Auf Anfrage",
+    "zipcode": 3400,
+    "city": "Burgdorf",
+    "public_address": "Auf Anfrage, 3400 Burgdorf",
+    "latitude": 47.0538492,
+    "longitude": 7.617576099999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.betterhomes.ch/de/immobilie-suchen/detail/objectId/6756c1ffd27db6cd4aef85891ac77dc3",
+    "live_viewing_url": null,
+    "cover_image": 48567212,
+    "images": [
+      {
+        "pk": 48567212,
+        "caption": "",
+        "url": "/media/ff/2026/08/86yd687c5744qzpiub1oyc39n0cau3v30ajix4stjw1nvky8em.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/86yd687c5744qzpiub1oyc39n0cau3v30ajix4stjw1nvky8em.jpg?alias=thumb_m&signature=2bc0vl41G4bWJ29ODShx73fsHcsTa_kDZqE4doUxiqE",
+        "url_listing_search": "/thumb/ff/2026/08/86yd687c5744qzpiub1oyc39n0cau3v30ajix4stjw1nvky8em.jpg?alias=listing_search&signature=mzp19vDxWzLiSOQSTZYbPvcmPyJ9ysqPB6fdenLwAC0",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48567213,
+        "caption": "",
+        "url": "/media/ff/2026/08/4cean57j8zespdnspfc6wzxbzdzg2bh7sllk7jivkw53arrgkr.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/4cean57j8zespdnspfc6wzxbzdzg2bh7sllk7jivkw53arrgkr.jpg?alias=thumb_m&signature=XqSvd3o6Kj7eByHBvDClL3_vAAIm-ynsO5DbF_DbW_c",
+        "url_listing_search": "/thumb/ff/2026/08/4cean57j8zespdnspfc6wzxbzdzg2bh7sllk7jivkw53arrgkr.jpg?alias=listing_search&signature=c34z7gJ9FLuCBlT-OS_7ELw9gvrxgVRgeB1WReEfm_A",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48567214,
+        "caption": "",
+        "url": "/media/ff/2026/08/giosctmb0krs7qo0v0i9ji6wk0nnqhu9bmiuzzc2etsa2iupli.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/giosctmb0krs7qo0v0i9ji6wk0nnqhu9bmiuzzc2etsa2iupli.jpg?alias=thumb_m&signature=IfGtQp1E9o_uFwbS2gidk5BXTKl3A4KL6vipjPLEh0A",
+        "url_listing_search": "/thumb/ff/2026/08/giosctmb0krs7qo0v0i9ji6wk0nnqhu9bmiuzzc2etsa2iupli.jpg?alias=listing_search&signature=Uxj-FOyJNxCHFcqqV3aP1J3xgOs-zcS2gkWPiXLl6Z4",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48567215,
+        "caption": "",
+        "url": "/media/ff/2026/08/0kaelr4najzhch0uxmr9dfjzifw8275q8uth24jgsg09euubcs.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/0kaelr4najzhch0uxmr9dfjzifw8275q8uth24jgsg09euubcs.jpg?alias=thumb_m&signature=a00OpIwJECbgblWz6F0gYDVoItaTm4xnWGSqYGfg8UM",
+        "url_listing_search": "/thumb/ff/2026/08/0kaelr4najzhch0uxmr9dfjzifw8275q8uth24jgsg09euubcs.jpg?alias=listing_search&signature=HyEYPIulgV4v2PXZ1AYyZkqyvZhf9Fk76hHZigtAgzY",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "BETTERHOMES (Schweiz) AG",
+      "name_2": null,
+      "street": "Weltpoststrasse 3E",
+      "zipcode": "3015",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png",
+        "url_org_logo_m": "/thumb/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png?alias=org_logo_m&signature=huwCQjEiPzMWjK8iEAg-X9wK_Gf3W-DAREVe4V8_TuQ"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "140m² Büro in Burgdorf mieten",
+    "livingspace": 140
+  }
+}

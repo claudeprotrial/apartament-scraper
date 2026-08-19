@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1766.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/chutzenstrasse-70-3007-bern/86020313/",
+    "descarcat": "2026-08-17 12:26",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": [
+        "wohnung"
+      ]
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 86020313,
+    "slug": "chutzenstrasse-70-3007-bern",
+    "url": "/de/wohnung/chutzenstrasse-70-3007-bern/86020313/",
+    "short_url": "/86020313/",
+    "submit_url": "/de/listing/86020313/submit/",
+    "status": "act",
+    "created": "2026-05-08T12:40:09.593731+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "11840.03.431010",
+    "ref_property": "11840",
+    "ref_house": "03",
+    "ref_object": "431010",
+    "alternative_reference": null,
+    "price_display": 1950,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-05-08T16:15:13.860119+02:00",
+    "rent_net": 1700,
+    "rent_charges": 250,
+    "rent_gross": 1950,
+    "short_title": "103m² Büro",
+    "public_title": "Chutzenstrasse 70, 3007 Bern - CHF 1’950 inkl. NK pro Monat",
+    "pitch_title": "103m² Büro in Bern mieten",
+    "description_title": "Ihre neue Wohnung oder Büroräumlichkeiten im Weissenbühlquartier!",
+    "description": "Das gepflegte Mehrfamilienhaus mit Lift liegt im schönen Weissenbühlquartier. Die Bushaltestelle Zieglerspital (Linie Nr. 19) sowie Einkaufsmöglichkeiten sind nur wenige Meter entfernt. Das Stadtzentrum erreichen Sie mit dem Bus in nur 5 Minuten.   \n  \nPer 1. Juni 2026 oder nach Vereinbarung vermieten wir Räumlichkeiten, welche sich als Wohnung oder als Büro /Praxis eignen:   \n  \n-3x abschliessbare Zimmer   \n-Galerie-Zimmer   \n-Toilettenanlage   \n-ausgebaute Küche   \n-Personenaufzug   \n  \nIm Falle einer Umnutzung in eine Wohnung wird eine Dusche neu eingebaut.   \n  \nEs besteht die Möglichkeit, einen oder mehrere Einstellhallenplätze dazu zu mieten.   \n  \nHaben wir Ihr Interesse geweckt? Dann melden Sie sich für einen unverbindlichen Besichtigungstermin über das Kontaktformular.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 103,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 103,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Chutzenstrasse 70",
+    "zipcode": 3007,
+    "city": "Bern",
+    "public_address": "Chutzenstrasse 70, 3007 Bern",
+    "latitude": 46.9335865,
+    "longitude": 7.4334627,
+    "year_built": 1993,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 35723377,
+    "images": [
+      {
+        "pk": 35723377,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/05/f5skv446ludglmp2wrcqlbat00txynnnvctx4bvxy3a1x6pznw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/f5skv446ludglmp2wrcqlbat00txynnnvctx4bvxy3a1x6pznw.jpg?alias=thumb_m&signature=kfaNAXi9Y6bBS9Bsin8VRyj_4PM3ZxZDX-n7EYEGaXI",
+        "url_listing_search": "/thumb/ff/2026/05/f5skv446ludglmp2wrcqlbat00txynnnvctx4bvxy3a1x6pznw.jpg?alias=listing_search&signature=Dkl_7uQULU0RIWPJPBn_swx6vRkj27oZDxM_PdKWr2I",
+        "ordering": 1,
+        "width": 1024,
+        "height": 723
+      },
+      {
+        "pk": 35723378,
+        "caption": "Küche / Eingangsbereich",
+        "url": "/media/ff/2026/05/0ngsj6u0f7mlq83e4kfbcvl0b77w9p5c5fkk7oci1w6ksqvjay.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/0ngsj6u0f7mlq83e4kfbcvl0b77w9p5c5fkk7oci1w6ksqvjay.jpg?alias=thumb_m&signature=nZnJe8Z1WCmnwlj9ZBkDgPZei2c7YfdhGUSPfOzTRro",
+        "url_listing_search": "/thumb/ff/2026/05/0ngsj6u0f7mlq83e4kfbcvl0b77w9p5c5fkk7oci1w6ksqvjay.jpg?alias=listing_search&signature=Rp3Naj1RaUPCnGZOxpxjxFisGSz3LNTCUOoXsGoJSB4",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35723379,
+        "caption": "Büro",
+        "url": "/media/ff/2026/05/dm0pi6kmfox6nwfk98gdpw0ginau7l2yuz7mf464qooemcibcs.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/dm0pi6kmfox6nwfk98gdpw0ginau7l2yuz7mf464qooemcibcs.jpg?alias=thumb_m&signature=hRHowOTzuMDJcKMM9w09IlNakrgibhQhdDq1RcTukXE",
+        "url_listing_search": "/thumb/ff/2026/05/dm0pi6kmfox6nwfk98gdpw0ginau7l2yuz7mf464qooemcibcs.jpg?alias=listing_search&signature=PT7EbgUWTj4-QIXDlmv1shuBSN0b45l3Hhbm_L-d8Wc",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35723380,
+        "caption": "Eingangsbereich / Küche",
+        "url": "/media/ff/2026/05/4cxz6g486pkuwsjhkxmapba8tbk3stozlf85o3akx4k9me3j21.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/4cxz6g486pkuwsjhkxmapba8tbk3stozlf85o3akx4k9me3j21.jpg?alias=thumb_m&signature=M_y030vB9wsHzqZvuYir28X9dSmr9pHihmiOLjSMzXA",
+        "url_listing_search": "/thumb/ff/2026/05/4cxz6g486pkuwsjhkxmapba8tbk3stozlf85o3akx4k9me3j21.jpg?alias=listing_search&signature=kPkwdeou17c9y2bS3IzFFqCmIWGeQhUC4jVJcc9thMc",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35723381,
+        "caption": "Korridor / Treppe zur Galerie",
+        "url": "/media/ff/2026/05/2xok7dxirfsh398u6hgt4v03fqg3cpss9arfsqyrvag3ek3151.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/2xok7dxirfsh398u6hgt4v03fqg3cpss9arfsqyrvag3ek3151.jpg?alias=thumb_m&signature=7u8PurrGtH7Xgs7zi38JLHq3wtIVtI8braTCZvAyIvQ",
+        "url_listing_search": "/thumb/ff/2026/05/2xok7dxirfsh398u6hgt4v03fqg3cpss9arfsqyrvag3ek3151.jpg?alias=listing_search&signature=l39KnbAt8CmjebutiqZ9HV0VHS2Du91dUuYiJ3BlLIM",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35723382,
+        "caption": "Korridor / Treppe zur Galerie",
+        "url": "/media/ff/2026/05/nugxbawa5khcwpfk7xgdvzkeju6imhmqrc1ajxw9rax3glmwuh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/nugxbawa5khcwpfk7xgdvzkeju6imhmqrc1ajxw9rax3glmwuh.jpg?alias=thumb_m&signature=Zoo_OB4DNC8sqj1rDIluq5CTjchUEplNMPWMoxO0x0w",
+        "url_listing_search": "/thumb/ff/2026/05/nugxbawa5khcwpfk7xgdvzkeju6imhmqrc1ajxw9rax3glmwuh.jpg?alias=listing_search&signature=RCZWoudvOrsid-XDh4eSOfMY5UK81RWehveKqB_etU4",
+        "ordering": 6,
+        "width": 683,
+        "height": 1024
+      },
+      {
+        "pk": 35723383,
+        "caption": "Büro",
+        "url": "/media/ff/2026/05/i9eeqlrfyhsp8yq2cukadlf6ds9fhv9rjme6cqypxor6mmqotr.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/i9eeqlrfyhsp8yq2cukadlf6ds9fhv9rjme6cqypxor6mmqotr.jpg?alias=thumb_m&signature=o3kY-4QSRLQADVL_BfXCctBAUjs-hufXKMnvgitlZ78",
+        "url_listing_search": "/thumb/ff/2026/05/i9eeqlrfyhsp8yq2cukadlf6ds9fhv9rjme6cqypxor6mmqotr.jpg?alias=listing_search&signature=YX7WNUzTFeemxFBOPOHb7sh-GDfL678Mw2Y8I1kqoMQ",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35723384,
+        "caption": "Galerie",
+        "url": "/media/ff/2026/05/3gp89314c8yik5jwzub5flug67gsgqrdyrww9m4tpdw3sidauu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/3gp89314c8yik5jwzub5flug67gsgqrdyrww9m4tpdw3sidauu.jpg?alias=thumb_m&signature=u7nc9CUxDTSxESmDJm_jnHw_nht86WkU1RkKaDTJqLc",
+        "url_listing_search": "/thumb/ff/2026/05/3gp89314c8yik5jwzub5flug67gsgqrdyrww9m4tpdw3sidauu.jpg?alias=listing_search&signature=_1a80Ym_FdrXltBZ8DOo36u-CQOi1pwMdrASCjlWDzk",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35723385,
+        "caption": "Badezimmer",
+        "url": "/media/ff/2026/05/xrp281ldt7hc2yom2rtoh9kk5qlnwko1ccqgw0eemsxjm00bmp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/xrp281ldt7hc2yom2rtoh9kk5qlnwko1ccqgw0eemsxjm00bmp.jpg?alias=thumb_m&signature=vrYbCWaDBkQNw-Kzsfu-xjAJK6QVeA4FZfJHbaokIhU",
+        "url_listing_search": "/thumb/ff/2026/05/xrp281ldt7hc2yom2rtoh9kk5qlnwko1ccqgw0eemsxjm00bmp.jpg?alias=listing_search&signature=zzjXhESSwkVD6yAMAgnqbAjXVyA7zPIBPu7EiwyVdd0",
+        "ordering": 9,
+        "width": 683,
+        "height": 1024
+      }
+    ],
+    "documents": [
+      724062
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "103m² Büro in Bern mieten",
+    "livingspace": 103
+  }
+}

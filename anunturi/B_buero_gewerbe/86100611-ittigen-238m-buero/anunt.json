@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1658.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/pulverstrasse-8-3063-ittigen/86100611/",
+    "descarcat": "2026-08-17 12:33",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "büro-",
+        "gewerbe",
+        "loft",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": [
+        "loftwohnung"
+      ]
+    },
+    "nr_imagini": 13
+  },
+  "raw": {
+    "pk": 86100611,
+    "slug": "pulverstrasse-8-3063-ittigen",
+    "url": "/de/wohnung/pulverstrasse-8-3063-ittigen/86100611/",
+    "short_url": "/86100611/",
+    "submit_url": "/de/listing/86100611/submit/",
+    "status": "act",
+    "created": "2026-06-09T15:50:35.031961+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..SI-25-234",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "SI-25-234",
+    "alternative_reference": null,
+    "price_display": 4200,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-09T15:50:38.319113+02:00",
+    "rent_net": 3500,
+    "rent_charges": 700,
+    "rent_gross": 4200,
+    "short_title": "238m² Büro",
+    "public_title": "Pulverstrasse 8, 3063 Ittigen - CHF 4’200",
+    "pitch_title": "238m² Büro in Ittigen mieten",
+    "description_title": "Einzigartige Lofteinheit im legendären Stufenbau",
+    "description": "Der einzigartige und legendäre Stufenbau liegt am Rand von Ittigen und beherbergt eine Vielfalt an Nutzern. Die ehemalige Nitrocellulose-Fabrik, ein Schweizer Kulturgut von regionaler Bedeutung wurde im Jahr 1988 durch die Atelier5-Architekten umgebaut und ist 1990 ins Inventar der kantonalen Kunstaltertümer der Denkmalpflege aufgenommen worden. Lange war der Stufenbau als trendige Kulturlokalität für Konzerte, Partys, Theater und Kunstausstellungen bekannt. Heute gehört der Stufenbau verschiedenen Stockwerkeigentümern, welche dort unterschiedliche Gewerbe betreiben und/oder die Räumlichkeiten als originelle Loftwohnung nutzen. Seit 2013 werden die beiden obersten Stockwerke als stilvolle Event-Location genutzt.   \n  \nUnverkennbare Architektur   \nDer terrassierte Eisenbetonbau unter schwach geneigten Betondächern mit Oberlichtern verfügt über eine mittig angelegte Erschliessungsachse mit Schräglift für den Warentransport. Daran angegliedert ist ein turmartiger Baukörper, der die gestufte Anlage spannungsvoll durchbricht.   \n  \nNettomiete: CHF 3'500.- (inkl. Parkplätze)   \nNebenkosten akonto: CHF 700.-   \n  \n  \n  \nRaumbeschrieb   \n  \nDiese einzigartige Lofteinheit befindet sich in der dritten Etage, auf der rechten Gebäudeseite und verbindet auf eindrucksvolle Weise industriellen Charakter mit moderner, minimalistischer Architektur. Die Kombination aus grosszügiger Raumwirkung, viel Tageslicht und klarer Gestaltung macht diese Einheit zu einem besonderen Ort für berufliche, kreative oder wohnähnliche Nutzungen.   \n  \nDie Highlights auf einen Blick:   \nLichtdurchfluteter, grosszügiger Loft-/Atelierraum auf 179 m².   \nBeeindruckende Raumhöhe und viele grosse Fenster und Oblichter, die ein einzigartiges Lichtspiel erzeugen und dem Raum Grosszügigkeit verleihen.   \nDrei abgeschlossene Räume, ergänzt durch einen kleiner Rückzugsraum sowie ein praktisches Réduit.   \nSanitärbereich mit einer Dusche, zwei Toiletten und Lavabo.   \nFünf Parkplätze: 4 x ungedeckt, 1 x gedeckt   \nKüche/Teeküche: Bei einer Nutzung als Wohnatelier kann eine vollwertige Küche eingebaut werden (die Anschlüsse sind bereits vorhanden). Bei einer Büronutzung würde eine praktische Teeküche mehr Sinn machen. Beide Varianten würden von der Eigentümerin unter Einbezug der Mieterschaft eingebaut werden.   \nMitbenutzung an Aussenbereichen: Im naturnahen Waldbereich am Steilhang befindet sich eine Terrasse im 1. OG auf der Ostseite, ausgestattet mit Grill und Tischen.   \nVielseitige Nutzungsmöglichkeiten, zum Beispiel als Büro- oder Atelierräume (Architekturbüro, Grafik- oder Designatelier, IT-Supporter), Wohnatelier, Loftwohnung, Kreativ- oder Bewegungsraum.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 238,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 238,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Pulverstrasse 8",
+    "zipcode": 3063,
+    "city": "Ittigen",
+    "public_address": "Pulverstrasse 8, 3063 Ittigen",
+    "latitude": 46.9770476,
+    "longitude": 7.4690636,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": "https://tour.giraffe360.com/ff9e585a7a854ac2b11fd08f86b01383",
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47532482,
+    "images": [
+      {
+        "pk": 47532482,
+        "caption": "Loft-/Atelierraum",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/e87f83eca82358bae9d464102835575d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/e87f83eca82358bae9d464102835575d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/e87f83eca82358bae9d464102835575d.jpg",
+        "ordering": 1,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532496,
+        "caption": "Loft-/Atelierraum",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/9f8bc7d4435515e02203beed97e2b688.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/9f8bc7d4435515e02203beed97e2b688.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/9f8bc7d4435515e02203beed97e2b688.jpg",
+        "ordering": 2,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532500,
+        "caption": "Loft-/Atelierraum",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/f1dfa1cda0a4e548e578432f00eb28d6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/f1dfa1cda0a4e548e578432f00eb28d6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/f1dfa1cda0a4e548e578432f00eb28d6.jpg",
+        "ordering": 3,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532504,
+        "caption": "Loft-/Atelierraum",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/8c6cd9d0bb279d2f2c6d2d132d241462.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/8c6cd9d0bb279d2f2c6d2d132d241462.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/8c6cd9d0bb279d2f2c6d2d132d241462.jpg",
+        "ordering": 4,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532508,
+        "caption": "Loft-/Atelierraum möbliert",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/926865bb4c058e4cfa12b13790c21413.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/926865bb4c058e4cfa12b13790c21413.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/926865bb4c058e4cfa12b13790c21413.jpg",
+        "ordering": 5,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532510,
+        "caption": "Büro/Zimmer",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/323ac032d9749e04801d86349d814b63.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/323ac032d9749e04801d86349d814b63.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/323ac032d9749e04801d86349d814b63.jpg",
+        "ordering": 6,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532512,
+        "caption": "Büro/Zimmer",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/6af32a662325fab70c540116b23cfc86.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/6af32a662325fab70c540116b23cfc86.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/6af32a662325fab70c540116b23cfc86.jpg",
+        "ordering": 7,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532515,
+        "caption": "Technikraum",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/febd5e7da4f501f9257e8750d6766e70.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/febd5e7da4f501f9257e8750d6766e70.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/febd5e7da4f501f9257e8750d6766e70.jpg",
+        "ordering": 8,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532520,
+        "caption": "Toiletten",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/5ddde72d7d66c2b2c3aeff24383a7276.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/5ddde72d7d66c2b2c3aeff24383a7276.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/5ddde72d7d66c2b2c3aeff24383a7276.jpg",
+        "ordering": 9,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532527,
+        "caption": "Eingang",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/140d73b7312b09f74baa392457ba14e3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/140d73b7312b09f74baa392457ba14e3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/140d73b7312b09f74baa392457ba14e3.jpg",
+        "ordering": 10,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532531,
+        "caption": "Aussenansicht",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/f0929625fde58c63ae2598175a46f83c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/f0929625fde58c63ae2598175a46f83c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/f0929625fde58c63ae2598175a46f83c.jpg",
+        "ordering": 11,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532542,
+        "caption": "Parkplatz",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/5598a90ba6c44c411fb2475ed9e05875.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/5598a90ba6c44c411fb2475ed9e05875.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/5598a90ba6c44c411fb2475ed9e05875.jpg",
+        "ordering": 12,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47532547,
+        "caption": "Aussenansicht",
+        "url": "https://cdn.flatfox.ch/listings/v2/f159/4003226501/image/2cc8997e4d01f1fb3c5863b6c5ae1faa.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f159/4003226501/image/2cc8997e4d01f1fb3c5863b6c5ae1faa.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f159/4003226501/image/2cc8997e4d01f1fb3c5863b6c5ae1faa.jpg",
+        "ordering": 13,
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Schneller Immobilien AG",
+      "name_2": null,
+      "street": "Kramgasse 48",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/06/4tc7sbro7i8lumkv6prh8ej8s544u97s3q11e4dam0kc52lw6f.jpg",
+        "url_org_logo_m": "/thumb/org/2026/06/4tc7sbro7i8lumkv6prh8ej8s544u97s3q11e4dam0kc52lw6f.jpg?alias=org_logo_m&signature=-1vDj6Vz0K3MwJQQlQH49S8QaL_Ayklg_rzKw7NsIqU"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003226501",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "238m² Büro in Ittigen mieten",
+    "livingspace": 238
+  }
+}

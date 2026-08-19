@@ -1,0 +1,219 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1622.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/stockackerstrasse-79-3018-bern/84737337/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbe",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": [
+        "mietwohnung"
+      ]
+    },
+    "nr_imagini": 11
+  },
+  "raw": {
+    "pk": 84737337,
+    "slug": "stockackerstrasse-79-3018-bern",
+    "url": "/de/wohnung/stockackerstrasse-79-3018-bern/84737337/",
+    "short_url": "/84737337/",
+    "submit_url": "/de/listing/84737337/submit/",
+    "status": "act",
+    "created": "2025-08-04T15:44:11.646908+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "1180.01.00003",
+    "ref_property": "1180",
+    "ref_house": "01",
+    "ref_object": "00003",
+    "alternative_reference": null,
+    "price_display": 1670,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-09-10T15:00:27.593040+02:00",
+    "rent_net": 1340,
+    "rent_charges": 330,
+    "rent_gross": 1670,
+    "short_title": "117m² Büro",
+    "public_title": "Stöckackerstrasse 79, 3018 Bern - CHF 1’670 inkl. NK pro Monat",
+    "pitch_title": "117m² Büro in Bern mieten",
+    "description_title": "Attraktive Büroräumlichkeiten im EG zu vermieten!",
+    "description": "Wir vermieten per 1. Februar 2026 oder je nach Vereinbarung auch vorher an der Stöckackerstrasse 79 in 3018 Bern attraktive Gewerberäumlichkeiten (117m2) im Erdgeschoss. \n\n  \n\n\nDie Fläche verfügt über separat abgetrennte Räume. Die Räume sind grosszügig und sind mit pflegleichtem Linoleumboden ausgestattet. Eine Küche und WC-Anlage ist ebenfalls vorhanden. \n\nEin Einstellhallenplatz kann für monatlich CHF 100.00 dazu gemietet werden.   \n\n\n  \n\n\nHaben wir Ihr Interesse geweckt? Wir stehen Ihnen gerne zur Verfügung, um allfällige Fragen zu beantworten. \n\n  \n\n\nAchtung. Eigenwerbung: Sie ziehen in eine Mietwohnung und benötigen Unterstützung für den bestmöglichen Verkauf Ihrer Immobilie? Kontaktieren Sie die \" [ https://www.dr-meyer.ch\"> ](https://www.dr-meyer.ch\"%3E/) ;",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 117,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 117,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Stöckackerstrasse 79",
+    "zipcode": 3018,
+    "city": "Bern",
+    "public_address": "Stöckackerstrasse 79, 3018 Bern",
+    "latitude": 46.9448508,
+    "longitude": 7.4010248,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 33456430,
+    "images": [
+      {
+        "pk": 33456430,
+        "caption": "4130de18-3f12-4e9a-98f9-7fd461e443b5.jpg",
+        "url": "/media/ff/2026/02/zfaw8invi3yp7lla897mpij85e74f1rq5zo8vyvf421o3zpo23.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/zfaw8invi3yp7lla897mpij85e74f1rq5zo8vyvf421o3zpo23.jpg?alias=thumb_m&signature=wLt-4XktBScgLu6fm4P-hWmco-ks7K9-dmepyWbD4Ak",
+        "url_listing_search": "/thumb/ff/2026/02/zfaw8invi3yp7lla897mpij85e74f1rq5zo8vyvf421o3zpo23.jpg?alias=listing_search&signature=LV3DTGkP_gx2ANIjTen5BjGeyNlhQ2aUae112n1-rFU",
+        "ordering": 1,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456431,
+        "caption": "b504489e-e288-40f0-8033-3c1016265436.jpg",
+        "url": "/media/ff/2026/02/873ao276a8x9nt5abhej7pn78n2a43b4c70wegsc72egacp6ax.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/873ao276a8x9nt5abhej7pn78n2a43b4c70wegsc72egacp6ax.jpg?alias=thumb_m&signature=bcQHvdymktsRMzoBNY1Uj_N_Jkvj2jhsmkpPfpZqDN8",
+        "url_listing_search": "/thumb/ff/2026/02/873ao276a8x9nt5abhej7pn78n2a43b4c70wegsc72egacp6ax.jpg?alias=listing_search&signature=YOb1G4s2QYpdafnaiz6pGVrEF-LTeklTOEvUYfSEvVg",
+        "ordering": 2,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456432,
+        "caption": "9c909418-f536-45bd-ac95-8fbcda27b363.jpg",
+        "url": "/media/ff/2026/02/hjkp7vo67qv7jxxo0pj1l1ohkq6s6166o36480ijkqf86l8t5b.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/hjkp7vo67qv7jxxo0pj1l1ohkq6s6166o36480ijkqf86l8t5b.jpg?alias=thumb_m&signature=ga6xb7Cwb4e_AaF1yjG4MmEFQKZWyskFcwMsZAH9lGA",
+        "url_listing_search": "/thumb/ff/2026/02/hjkp7vo67qv7jxxo0pj1l1ohkq6s6166o36480ijkqf86l8t5b.jpg?alias=listing_search&signature=OlTUamHUpueGKEdRHaYf1pssGlyn-AHVlmwPFjgp1Z0",
+        "ordering": 3,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456433,
+        "caption": "a0d962ff-0d50-475b-a00d-8667fe59b3f9.jpg",
+        "url": "/media/ff/2026/02/spaunsi8mpphtu31xnmq5v7ujxw5lur946nodxudhih41mg7ls.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/spaunsi8mpphtu31xnmq5v7ujxw5lur946nodxudhih41mg7ls.jpg?alias=thumb_m&signature=cYae91H24gO5QCkIyvmTVKS6Z_ipWCARceyGlnZAd7U",
+        "url_listing_search": "/thumb/ff/2026/02/spaunsi8mpphtu31xnmq5v7ujxw5lur946nodxudhih41mg7ls.jpg?alias=listing_search&signature=K5HNTR9rRWkw1Rw-OnhKaORKQD97CwJNlh1MrzFUklU",
+        "ordering": 4,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456436,
+        "caption": "97a56685-8a45-4d09-9733-39e7b22a7494.jpg",
+        "url": "/media/ff/2026/02/wafe02uy5o74n1ro9rtkqt554324cy7a7bmpjbkciawlav8adv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/wafe02uy5o74n1ro9rtkqt554324cy7a7bmpjbkciawlav8adv.jpg?alias=thumb_m&signature=WCthUKnaXpap2Xt1ctS9VMVmsEXmgOIpXWBHWF7FgMg",
+        "url_listing_search": "/thumb/ff/2026/02/wafe02uy5o74n1ro9rtkqt554324cy7a7bmpjbkciawlav8adv.jpg?alias=listing_search&signature=SNDyeS--6y8zDcC382_2pQKNVEjn8Ll3bW93qgA2DzE",
+        "ordering": 5,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456439,
+        "caption": "c141eeb1-f272-4231-9b38-4bc15493e2cc.jpg",
+        "url": "/media/ff/2026/02/unfrlgxrjlyh0riylx3k0h57eu2g1lmr22447j2r8hkmi6ro08.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/unfrlgxrjlyh0riylx3k0h57eu2g1lmr22447j2r8hkmi6ro08.jpg?alias=thumb_m&signature=-4JNWIIHbF12NAObe8IXvR5Ow0iM7DWAHKOjJF7THNY",
+        "url_listing_search": "/thumb/ff/2026/02/unfrlgxrjlyh0riylx3k0h57eu2g1lmr22447j2r8hkmi6ro08.jpg?alias=listing_search&signature=Xsoi5Fxq-3gvlxQe7HRaA05VrHYXE3XjB-Igp8tuSkQ",
+        "ordering": 6,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456440,
+        "caption": "50b04b3e-e35a-4f17-ab49-fed4277c356a.jpg",
+        "url": "/media/ff/2026/02/rfie3ibiay4k0uuux232dohplzb1icdxmcjv7931kyundm80t3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/rfie3ibiay4k0uuux232dohplzb1icdxmcjv7931kyundm80t3.jpg?alias=thumb_m&signature=q_QceV7TaAs6R7QVt3RpW-SUyP-Xc2KWXajqnec1KCs",
+        "url_listing_search": "/thumb/ff/2026/02/rfie3ibiay4k0uuux232dohplzb1icdxmcjv7931kyundm80t3.jpg?alias=listing_search&signature=BpHnGQbdW97skRrJngE5ZvD_KLLC0lNuYxLw6ADJs1I",
+        "ordering": 7,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456441,
+        "caption": "4c62f843-f164-4f13-a92d-6b07526333a1.jpg",
+        "url": "/media/ff/2026/02/fykj9fpv7z11uqj0t0n3g92l3y61lj9qeouenus46s6xzodf7m.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/fykj9fpv7z11uqj0t0n3g92l3y61lj9qeouenus46s6xzodf7m.jpg?alias=thumb_m&signature=octXXWXEqoEUgr9JGOY9tKfv7kG2CO-f2q07UmIyxeA",
+        "url_listing_search": "/thumb/ff/2026/02/fykj9fpv7z11uqj0t0n3g92l3y61lj9qeouenus46s6xzodf7m.jpg?alias=listing_search&signature=os142YWbMadRnrhiHpDdK-Zj_NMEMszU14GBMDA3nBM",
+        "ordering": 8,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456442,
+        "caption": "c968ccf7-af49-4337-a1ce-31c413782c34.jpg",
+        "url": "/media/ff/2026/02/74vtc7b2hllxuysz7s9jasiecmo17nic24kyevb9i0pfptil6z.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/74vtc7b2hllxuysz7s9jasiecmo17nic24kyevb9i0pfptil6z.jpg?alias=thumb_m&signature=l1EQWBx5J-2mViDYQRPYZ23uhiMEiEj_RPIC6XPyFaQ",
+        "url_listing_search": "/thumb/ff/2026/02/74vtc7b2hllxuysz7s9jasiecmo17nic24kyevb9i0pfptil6z.jpg?alias=listing_search&signature=PYMJcgcpnCiQ4_xadElN3gURFCrgS-Lk-8GLKludnWw",
+        "ordering": 9,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456443,
+        "caption": "aa916a44-5a67-479e-9692-c42ef14ab81c.jpg",
+        "url": "/media/ff/2026/02/o9reti66g288lkyjcybhc1xotv64xqta4g1btg6cvwcaumd0sp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/o9reti66g288lkyjcybhc1xotv64xqta4g1btg6cvwcaumd0sp.jpg?alias=thumb_m&signature=8H0j370RGqOChKBeMdJ04MQlbcyRngiA2hZlTdA7KrY",
+        "url_listing_search": "/thumb/ff/2026/02/o9reti66g288lkyjcybhc1xotv64xqta4g1btg6cvwcaumd0sp.jpg?alias=listing_search&signature=1qFXS5dDeYDc2ZfJCWIFvKkvqStxyX2xI9vYM_aSOZI",
+        "ordering": 10,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33456444,
+        "caption": "25618f7a-8003-4b45-bf6d-c24ac18f4279.jpg",
+        "url": "/media/ff/2026/02/c68tszw019pjw99vx2s37daimnhzbx65f0bfmqo1x6zw6z8nes.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/c68tszw019pjw99vx2s37daimnhzbx65f0bfmqo1x6zw6z8nes.jpg?alias=thumb_m&signature=TJVTn8FHL_vBxw8LurtOWLx9jxl5gnhkrhzOoidUM3Q",
+        "url_listing_search": "/thumb/ff/2026/02/c68tszw019pjw99vx2s37daimnhzbx65f0bfmqo1x6zw6z8nes.jpg?alias=listing_search&signature=1B501LFdYYEtiK8ycGRTcircOnaj39PwLvrFO3NQFtg",
+        "ordering": 11,
+        "width": 1024,
+        "height": 682
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Dr.Meyer Immobilien AG",
+      "name_2": null,
+      "street": "Morgenstrasse 83A",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png",
+        "url_org_logo_m": "/thumb/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png?alias=org_logo_m&signature=ELJVfbZ9i264CGjnir9SWpQCju4MUITBGC0sqvZAlz0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "117m² Büro in Bern mieten",
+    "livingspace": 117
+  }
+}

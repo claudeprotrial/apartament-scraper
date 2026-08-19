@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1680.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/effingerstrasse-55-3008-bern/1510897/",
+    "descarcat": "2026-08-17 12:31",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "einzelbüro",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": [
+        "mietwohnung"
+      ]
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 1510897,
+    "slug": "effingerstrasse-55-3008-bern",
+    "url": "/de/wohnung/effingerstrasse-55-3008-bern/1510897/",
+    "short_url": "/1510897/",
+    "submit_url": "/de/listing/1510897/submit/",
+    "status": "act",
+    "created": "2025-01-27T09:08:28.074437+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "15301.01.20100",
+    "ref_property": "15301",
+    "ref_house": "01",
+    "ref_object": "20100",
+    "alternative_reference": null,
+    "price_display": 305,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-08-05T16:13:52.439197+02:00",
+    "rent_net": 270,
+    "rent_charges": 35,
+    "rent_gross": 305,
+    "short_title": "356m² Büro",
+    "public_title": "Effingerstrasse 55, 3008 Bern - CHF 305 inkl. NK pro m² / Jahr",
+    "pitch_title": "356m² Büro in Bern mieten",
+    "description_title": "Büroflächen für Ihren Erfolg - das Effingerhaus erwartet Sie!",
+    "description": "**Sind Sie bereit, mit uns durchzustarten?**\n\n  \n\n\nWir vermieten per sofort oder nach Vereinbarung diese erstklassige Bürofläche im Herzen von Bern. Mit einer Gesamtfläche von rund 360m2 erstreckt sich das Objekt über das gesamte 1. Obergeschoss und bietet dabei vielseitige, flexible Nutzungsmöglichkeiten passend zu Ihrem Konzept. \n\n  \n\n\n**Die Highlights in Kürze**\n\n  * Vollständiger Ausbau mit moderner Infrastruktur \n  * Helle, offene Räume mit grossen Fensterfronten \n  * Ideale Grundrissaufteilung mit der perfekten Mischung aus Grossraum-, Team- und Einzelbüros \n  * Individuelle Gestaltungsmöglichkeiten \n  * Grosszügige Teeküche und zwei Sanitäranlagen (inkl. Dusche) zur alleinigen Nutzung \n  * Perfekte Visibilität an bester Lage (Tramhaltestelle \"Kaufmännischer Verband\") \n  * Verschiedene Einkaufs- und Verpflegungsmöglichkeiten in nächster Umgebung \n  * Möglichkeit zur Flächenerweiterung (Schulungs-/Meetingräume im 1. UG) \n\n\n\n  \n\n\nDie Fläche vereint modernes Design mit praktischer Funktionalität. Sie haben spezifische Ausbauwünsche? Kein Problem für uns - wir unterstützen Sie gerne! \n\n  \n\n\n**Achtung. Eigenwerbung:** Sie ziehen in eine Mietwohnung und benötigen Unterstützung für den bestmöglichen Verkauf Ihrer Immobilie? Kontaktieren Sie die Dr.Meyer Immobilien AG für eine unverbindliche Offerte **\\- wir sind gut darin.**",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 356,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 356,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Effingerstrasse 55",
+    "zipcode": 3008,
+    "city": "Bern",
+    "public_address": "Effingerstrasse 55, 3008 Bern",
+    "latitude": 46.9456441,
+    "longitude": 7.4286511,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48700038,
+    "images": [
+      {
+        "pk": 48700038,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/08/2634yagr1mnfk8sxi78vx7k227czomkljymr2l9ybcppkob528.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/2634yagr1mnfk8sxi78vx7k227czomkljymr2l9ybcppkob528.jpg?alias=thumb_m&signature=1gsQ5yuM6atmklEjDWtb17vk-Mqx4ZWhi1uNh5iWeOk",
+        "url_listing_search": "/thumb/ff/2026/08/2634yagr1mnfk8sxi78vx7k227czomkljymr2l9ybcppkob528.jpg?alias=listing_search&signature=1Uglt1SsY12_TJot9XaF-rI4ESuj9q5lNapI8cWU2Xk",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48700039,
+        "caption": "Eingangsbereich",
+        "url": "/media/ff/2026/08/b94d2l7nsd9hhlzedkrxtg6yp95qqjohnd3x7hvpxfmwgyyh6c.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/b94d2l7nsd9hhlzedkrxtg6yp95qqjohnd3x7hvpxfmwgyyh6c.jpg?alias=thumb_m&signature=zykYlb1QGZ60Ezb9s30oePagcSYYDN_bzh_Ut8vRHL8",
+        "url_listing_search": "/thumb/ff/2026/08/b94d2l7nsd9hhlzedkrxtg6yp95qqjohnd3x7hvpxfmwgyyh6c.jpg?alias=listing_search&signature=l8bIZvcC0dfVgj6KgZznA_5CSXxEab1s0hkj0wFdwbs",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48700040,
+        "caption": "Korridor",
+        "url": "/media/ff/2026/08/2atg8mkqu73lz07jhhl4dbuocqrkpmusc6wi4iseq2casflqbv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/2atg8mkqu73lz07jhhl4dbuocqrkpmusc6wi4iseq2casflqbv.jpg?alias=thumb_m&signature=KkCePKb0otMvIwUV3uyQDaYmyU_ZAGEuULz7vbwutoE",
+        "url_listing_search": "/thumb/ff/2026/08/2atg8mkqu73lz07jhhl4dbuocqrkpmusc6wi4iseq2casflqbv.jpg?alias=listing_search&signature=i5O5zPzjNf-Dzq6Xw9Xm7_B91KZiw8hY5YKRRJj385E",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48700041,
+        "caption": "Teambüro",
+        "url": "/media/ff/2026/08/23zs7zvqdba4nng5gixythwoyjc78145hzfbah1qcdrgc858lw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/23zs7zvqdba4nng5gixythwoyjc78145hzfbah1qcdrgc858lw.jpg?alias=thumb_m&signature=CIjlFYm_N9sjYU2SRKvUUbfTEcvwW3isvT_xLovcArM",
+        "url_listing_search": "/thumb/ff/2026/08/23zs7zvqdba4nng5gixythwoyjc78145hzfbah1qcdrgc858lw.jpg?alias=listing_search&signature=z6yKMFvnCbztzLQd-_pAd7Ftm4BSFGo9kk0E97bk9qY",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48700042,
+        "caption": "Teambüro",
+        "url": "/media/ff/2026/08/4wgmsjhjw2d7p6uijwz1jnw55cfz10pd6ovx4schvfgqjusnhl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/4wgmsjhjw2d7p6uijwz1jnw55cfz10pd6ovx4schvfgqjusnhl.jpg?alias=thumb_m&signature=VCOG_DLdUj859uAEXGFggpSzevtb801pYQpeQ_LkF2k",
+        "url_listing_search": "/thumb/ff/2026/08/4wgmsjhjw2d7p6uijwz1jnw55cfz10pd6ovx4schvfgqjusnhl.jpg?alias=listing_search&signature=Kv0grqBZuslkpWNWoH3Nt3uzbRoXboisDDpR_QZSIOg",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48700043,
+        "caption": "Grossraumbüro",
+        "url": "/media/ff/2026/08/vzizu1d5up0dcrd2kn6zmyzgovr0ewwg4hxksr1c7lz45rogcl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/vzizu1d5up0dcrd2kn6zmyzgovr0ewwg4hxksr1c7lz45rogcl.jpg?alias=thumb_m&signature=eHOdgEaMizAWzdcNOrLuFmTCK5R-eMJtCe_QQMdw1xg",
+        "url_listing_search": "/thumb/ff/2026/08/vzizu1d5up0dcrd2kn6zmyzgovr0ewwg4hxksr1c7lz45rogcl.jpg?alias=listing_search&signature=cpxWTyB1D1jJQe6C5BYRgDQJ7mrrt2nXOVfC0N70ZaY",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48700044,
+        "caption": "Grossraumbüro",
+        "url": "/media/ff/2026/08/cpjl5t7454hdptslf04sf7fan2hip7rmyf4ksiq4velk9co7xi.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/cpjl5t7454hdptslf04sf7fan2hip7rmyf4ksiq4velk9co7xi.jpg?alias=thumb_m&signature=g4hPjuU5XVWQHwpVn8s4HvWSfm3F-AYEwulgxtVBdm8",
+        "url_listing_search": "/thumb/ff/2026/08/cpjl5t7454hdptslf04sf7fan2hip7rmyf4ksiq4velk9co7xi.jpg?alias=listing_search&signature=AGjPlRqlqj9wputljChL1rXBacp3jHtca25VPru-Qzw",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48700045,
+        "caption": "Grossraumbüro",
+        "url": "/media/ff/2026/08/f663lxihxq5r253yd8f6lmil1wuzgho1yul0g6um7eqe70mixm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/f663lxihxq5r253yd8f6lmil1wuzgho1yul0g6um7eqe70mixm.jpg?alias=thumb_m&signature=L4XuAavhOxzRaANmfV3yAA4oZ-gcpTf_69IYL0BhonU",
+        "url_listing_search": "/thumb/ff/2026/08/f663lxihxq5r253yd8f6lmil1wuzgho1yul0g6um7eqe70mixm.jpg?alias=listing_search&signature=hmaxrbw7ehg--EHQYwLSnHU1cremPgCUvMnE5nnktEY",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [
+      779199
+    ],
+    "agency": {
+      "name": "Dr.Meyer Immobilien AG",
+      "name_2": null,
+      "street": "Morgenstrasse 83A",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2024/07/woj4lopa7chdn8dh87rltp0smpb3932txsx0vdemwv59pi8se7.png",
+        "url_org_logo_m": "/thumb/org/2024/07/woj4lopa7chdn8dh87rltp0smpb3932txsx0vdemwv59pi8se7.png?alias=org_logo_m&signature=RXRff7dvi1t4gXbApybXP5-mE33QN1P8tJzkGkiMiPg"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "356m² Büro in Bern mieten",
+    "livingspace": 356
+  }
+}

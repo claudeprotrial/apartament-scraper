@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1694.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bumplizstrasse-112-3018-bern/85439131/",
+    "descarcat": "2026-08-17 12:30",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [
+        "coiffeur"
+      ],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "büroraum",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "ladenlokal",
+        "schaufenster",
+        "shop"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 5
+  },
+  "raw": {
+    "pk": 85439131,
+    "slug": "bumplizstrasse-112-3018-bern",
+    "url": "/de/wohnung/bumplizstrasse-112-3018-bern/85439131/",
+    "short_url": "/85439131/",
+    "submit_url": "/de/listing/85439131/submit/",
+    "status": "act",
+    "created": "2025-10-22T14:02:26.397743+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "3018.112.iqjcu.ddjye",
+    "ref_property": "3018",
+    "ref_house": "112",
+    "ref_object": "iqjcu.ddjye",
+    "alternative_reference": null,
+    "price_display": 3450,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-10-22T14:02:27.799747+02:00",
+    "rent_net": 2900,
+    "rent_charges": 550,
+    "rent_gross": 3450,
+    "short_title": "280m² Büro",
+    "public_title": "Bümplizstrasse 112, 3018 Bern - CHF 3’450",
+    "pitch_title": "280m² Büro in Bern mieten",
+    "description_title": "Attraktiver Laden / Praxis / Büroraum im Zentrum von Bümpliz zu vermieten!",
+    "description": "An frequentierter Lage mitten in Bümpliz (3018 Bern) vermieten wir per sofort oder nach Vereinbarung ein attraktives Ladenlokal / Praxis / Bürofläche. \n\nFolgendes hat diese sehr repräsentable Gewerbefläche zu bieten: \n\n  * Im EG sind ca. 175 m2 verfügbar. Via einer direkten Treppenverbindung gelangen Sie ins UG mit ca. 105 m2 Lagerfläche \n\n  * Zugang via elektrischer Schiebetüre \n\n  * phänomenale Schaufensterfront \n\n  * neuwertiger, belastbarer Bodenbelag (eingegossener Hartbeton) vorhanden \n\n  * neuwertiges WC, Lavabo im UG \n\n\n\n\nGastgewerbe, Coiffeursalon, Barbershop, Take away-Geschäfte kommen nicht in Frage. \n\n**MZ CHF 2'900 mtl. plus CHF 550 NK Akonto**\n\nSind Sie interessiert? Dann rufen Sie uns für einen Besichtigungstermin an.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 280,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 280,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bümplizstrasse 112",
+    "zipcode": 3018,
+    "city": "Bern",
+    "public_address": "Bümplizstrasse 112, 3018 Bern",
+    "latitude": 46.9417509,
+    "longitude": 7.390519499999999,
+    "year_built": null,
+    "year_renovated": 2022,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 43555794,
+    "images": [
+      {
+        "pk": 43555794,
+        "caption": "Three-story building, beige exterior, glass storefront, awnings, balcony on second floor, trees",
+        "url": "https://cdn.flatfox.ch/listings/v2/i289/4002627958/image/99812cd5935b72c304991bed5440e661.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/i289/4002627958/image/99812cd5935b72c304991bed5440e661.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/i289/4002627958/image/99812cd5935b72c304991bed5440e661.jpg",
+        "ordering": 0,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 43555795,
+        "caption": "empty room with sliding glass doors, chairs, tables, person walking outside",
+        "url": "https://cdn.flatfox.ch/listings/v2/i289/4002627958/image/623a259e3758f5a81080a1fea3860b3e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/i289/4002627958/image/623a259e3758f5a81080a1fea3860b3e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/i289/4002627958/image/623a259e3758f5a81080a1fea3860b3e.jpg",
+        "ordering": 1,
+        "width": 640,
+        "height": 480
+      },
+      {
+        "pk": 43555796,
+        "caption": "empty room, high ceiling, grey flooring, office desks, chairs, cabinets, window",
+        "url": "https://cdn.flatfox.ch/listings/v2/i289/4002627958/image/d10592f0e92e74ea755f5255f6df583d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/i289/4002627958/image/d10592f0e92e74ea755f5255f6df583d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/i289/4002627958/image/d10592f0e92e74ea755f5255f6df583d.jpg",
+        "ordering": 2,
+        "width": 640,
+        "height": 480
+      },
+      {
+        "pk": 43555797,
+        "caption": "white walls, sink with faucet, radiator, toilet, tissue, trash can",
+        "url": "https://cdn.flatfox.ch/listings/v2/i289/4002627958/image/aaa9d1a90ca550ae5714522605db8c53.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/i289/4002627958/image/aaa9d1a90ca550ae5714522605db8c53.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/i289/4002627958/image/aaa9d1a90ca550ae5714522605db8c53.jpg",
+        "ordering": 3,
+        "width": 480,
+        "height": 640
+      },
+      {
+        "pk": 43555798,
+        "caption": "empty underground parking area, concrete floor, two heaters on the wall, ceiling lights, doors on the left and right",
+        "url": "https://cdn.flatfox.ch/listings/v2/i289/4002627958/image/a377b54d492181b9ef5e4b9df0c7ce38.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/i289/4002627958/image/a377b54d492181b9ef5e4b9df0c7ce38.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/i289/4002627958/image/a377b54d492181b9ef5e4b9df0c7ce38.jpg",
+        "ordering": 4,
+        "width": 640,
+        "height": 480
+      }
+    ],
+    "documents": [
+      613813,
+      613814
+    ],
+    "agency": {
+      "name": "KONImmo AG",
+      "name_2": null,
+      "street": "Wylerringstrasse 62",
+      "zipcode": "3000",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/03/lxjbh4oc8qeu73ibno3s2rxwsokpc7pt63iu8dddn39blo8la1.jpg",
+        "url_org_logo_m": "/thumb/org/2026/03/lxjbh4oc8qeu73ibno3s2rxwsokpc7pt63iu8dddn39blo8la1.jpg?alias=org_logo_m&signature=YuCqM3hj8yiYO1QXXv_XF_v9odexnba1xvjC2hmrLT4"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4002627958",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "280m² Büro in Bern mieten",
+    "livingspace": 280
+  }
+}

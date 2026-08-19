@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1646.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/laupenstrasse-20-3011-bern/1643193/",
+    "descarcat": "2026-08-17 12:34",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "dienstleistung",
+        "gewerberaum",
+        "gewerberäume"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 1643193,
+    "slug": "laupenstrasse-20-3011-bern",
+    "url": "/de/wohnung/laupenstrasse-20-3011-bern/1643193/",
+    "short_url": "/1643193/",
+    "submit_url": "/de/listing/1643193/submit/",
+    "status": "act",
+    "created": "2025-04-10T09:35:18.022014+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "4020..100",
+    "ref_property": "4020",
+    "ref_house": "",
+    "ref_object": "100",
+    "alternative_reference": "",
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "yearlym2",
+    "published": "2025-04-10T09:35:18.134522+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "251m² Gewerbe",
+    "public_title": "Laupenstrasse 20, 3011 Bern - auf Anfrage",
+    "pitch_title": "251m² Gewerbe in Bern mieten",
+    "description_title": "251 m2 Gewerberäume",
+    "description": "Wir vermieten per sofort oder nach Vereinbarung einen Dienstleistungs- und Gewerberaum im Rohbau direkt am Banhof Bern.  \n  \nDie Räumlichkeit befindet sich im 1. Untergeschoss und ist über ein Treppenhaus sowie mit dem Personenlift erschlossen und somit Rollstuhlgängig. Zur Mitbenutzung gehören WC-Anlagen inklusive Dusche.  \n  \nDie Liegenschaft ist optimal an den öffentlichen Verkehr angeschlossen. Praktisch vor der Haustüre befinden sich diverse Bus- und Tramlinien (Hirschengraben).  \n  \nVermietung im Grundausbau. Ausbau erfolgt seitig Mieterschaft.  \n  \nFestlegung Nebenkosten gemäss Nutzung.  \n  \nHaben wir Ihr Interesse geweckt? Wir freuen uns auf Ihren Anruf",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 251,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 251,
+    "number_of_rooms": null,
+    "floor": -1,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Laupenstrasse 20",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Laupenstrasse 20, 3011 Bern",
+    "latitude": 46.94745899999999,
+    "longitude": 7.434775699999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 12714938,
+    "images": [
+      {
+        "pk": 12714938,
+        "caption": "",
+        "url": "/media/ff/2025/04/bft74p5x7isv8wsm78a3j6jvn9pe2lyiahi72kzvi1dx0avu7e.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/bft74p5x7isv8wsm78a3j6jvn9pe2lyiahi72kzvi1dx0avu7e.jpg?alias=thumb_m&signature=bp1wfx-xHqaQFzNVDXSSSxcMglKDuqDj8tIqM_ptPCE",
+        "url_listing_search": "/thumb/ff/2025/04/bft74p5x7isv8wsm78a3j6jvn9pe2lyiahi72kzvi1dx0avu7e.jpg?alias=listing_search&signature=31hSEdIuwCtC7QuDEXQKXA9JN0oIlfcx5ccLGE9erV8",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 12714939,
+        "caption": "",
+        "url": "/media/ff/2025/04/wcakpvowwqc6dsaxge7mtimxob4cv6aqyg1o1kbd637skr1g69.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/wcakpvowwqc6dsaxge7mtimxob4cv6aqyg1o1kbd637skr1g69.jpg?alias=thumb_m&signature=GjJ_bQ1DTQlUW7YtzvW-fT_zjc7KLXLKbgEKc362xrM",
+        "url_listing_search": "/thumb/ff/2025/04/wcakpvowwqc6dsaxge7mtimxob4cv6aqyg1o1kbd637skr1g69.jpg?alias=listing_search&signature=6pklzwFFsKmVJPgAGzicZ0i2kbagRndkHMhEwDZosfI",
+        "ordering": 2,
+        "width": 1066,
+        "height": 800
+      },
+      {
+        "pk": 12714940,
+        "caption": "",
+        "url": "/media/ff/2025/04/5kh766d0l5yw3lxnd2ke2sbd0vnn2vtt1tzre309oin03o3oo6.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/5kh766d0l5yw3lxnd2ke2sbd0vnn2vtt1tzre309oin03o3oo6.jpg?alias=thumb_m&signature=MeiU-rP_Go9aDXkkuMVUp8m8g1vrKueHs9Kivs0J8BU",
+        "url_listing_search": "/thumb/ff/2025/04/5kh766d0l5yw3lxnd2ke2sbd0vnn2vtt1tzre309oin03o3oo6.jpg?alias=listing_search&signature=fzSbuUyl_Ys75s_BZn69VJTg4Sm6RNM-7apDYI05EkI",
+        "ordering": 3,
+        "width": 1008,
+        "height": 567
+      },
+      {
+        "pk": 12714941,
+        "caption": "",
+        "url": "/media/ff/2025/04/d08n4ms86q3j7iz1cyqbizcgzeffef8occstrjrwzectuqq4p0.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/d08n4ms86q3j7iz1cyqbizcgzeffef8occstrjrwzectuqq4p0.jpg?alias=thumb_m&signature=3FMSHXWUq4OBfFVnpv8EuSNYmh15Tyy1kFxhMMBTslw",
+        "url_listing_search": "/thumb/ff/2025/04/d08n4ms86q3j7iz1cyqbizcgzeffef8occstrjrwzectuqq4p0.jpg?alias=listing_search&signature=WU4sJkeuthqrKfmMiJHl-Um9wkuTF6TNkpIGilI4sHM",
+        "ordering": 4,
+        "width": 1008,
+        "height": 567
+      },
+      {
+        "pk": 12714942,
+        "caption": "",
+        "url": "/media/ff/2025/04/axxek9v8k7z33zlips3xereg2qbjfe7h2yr913gvkzo5s2xr8g.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/axxek9v8k7z33zlips3xereg2qbjfe7h2yr913gvkzo5s2xr8g.jpg?alias=thumb_m&signature=NgfMTmVat5PF-jM-JloV6H4l5f38pV5QwmRd8S4Y9q0",
+        "url_listing_search": "/thumb/ff/2025/04/axxek9v8k7z33zlips3xereg2qbjfe7h2yr913gvkzo5s2xr8g.jpg?alias=listing_search&signature=nVtOyqtD4U4R_McIRavVOG8x3GWOQQZH4B5AdgZ4inQ",
+        "ordering": 5,
+        "width": 1008,
+        "height": 567
+      },
+      {
+        "pk": 12714943,
+        "caption": "",
+        "url": "/media/ff/2025/04/vl1qb7nee530c9bozkiiu5rz6rr94ce12d4145so033jmi3718.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/vl1qb7nee530c9bozkiiu5rz6rr94ce12d4145so033jmi3718.jpg?alias=thumb_m&signature=XQmo9ZBhOpKabbVx9E5ucBJqJkRvmnUxhPNdogRUlXo",
+        "url_listing_search": "/thumb/ff/2025/04/vl1qb7nee530c9bozkiiu5rz6rr94ce12d4145so033jmi3718.jpg?alias=listing_search&signature=M6Te9hHq__ABRqToJURHzNpss5o9PB9hPJDYerK5SlQ",
+        "ordering": 6,
+        "width": 1008,
+        "height": 567
+      },
+      {
+        "pk": 12714944,
+        "caption": "",
+        "url": "/media/ff/2025/04/rmgcpdiaqfnlwz1ln1wm740h03a3mjp98rexj4hgaguatxkzxa.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/rmgcpdiaqfnlwz1ln1wm740h03a3mjp98rexj4hgaguatxkzxa.jpg?alias=thumb_m&signature=sZgh2lAHEmOa2OwU4vLEtWzROOuESmT6YrG5CIaPFPg",
+        "url_listing_search": "/thumb/ff/2025/04/rmgcpdiaqfnlwz1ln1wm740h03a3mjp98rexj4hgaguatxkzxa.jpg?alias=listing_search&signature=eoEL3DWawfLUKGGZogiuO2p5SJOUGbUCz4hEVJ8EDDw",
+        "ordering": 7,
+        "width": 1008,
+        "height": 567
+      },
+      {
+        "pk": 12714945,
+        "caption": "",
+        "url": "/media/ff/2025/04/4ilgolisw2j545x04sgxaarkqf5gp1z60hd7xtuqljasvrkw58.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/4ilgolisw2j545x04sgxaarkqf5gp1z60hd7xtuqljasvrkw58.jpg?alias=thumb_m&signature=bDfTfkxFHvi5VyZTfUdCewaHJryxOqGKX8PlkS4J2X0",
+        "url_listing_search": "/thumb/ff/2025/04/4ilgolisw2j545x04sgxaarkqf5gp1z60hd7xtuqljasvrkw58.jpg?alias=listing_search&signature=VwXf0ngKlRTRj0Y8U4bFdNO-JUCipH9aSQe_apDX0HY",
+        "ordering": 8,
+        "width": 1008,
+        "height": 567
+      },
+      {
+        "pk": 12714946,
+        "caption": "",
+        "url": "/media/ff/2025/04/jgkgmoal7ik41fc4vt8kthnevvggsqteup1utuvr8ag4kuxnvp.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/jgkgmoal7ik41fc4vt8kthnevvggsqteup1utuvr8ag4kuxnvp.jpg?alias=thumb_m&signature=fUbeRw3TshTDzpFgQiPc0e8I5-YPY9QF55O3dd5m0tI",
+        "url_listing_search": "/thumb/ff/2025/04/jgkgmoal7ik41fc4vt8kthnevvggsqteup1utuvr8ag4kuxnvp.jpg?alias=listing_search&signature=hE5_Witvrsrp7QHkxCAX6CtNvDrTZ6qFro2xZ_Ou7P4",
+        "ordering": 9,
+        "width": 1008,
+        "height": 567
+      }
+    ],
+    "documents": [
+      269154
+    ],
+    "agency": {
+      "name": "Haussener Verwaltungen AG",
+      "name_2": "",
+      "street": "Monbijoustrasse 22",
+      "zipcode": "3001",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2025/03/rte2h9gfe75kw7bh12umq0as178azt43s5tobtlavv1zcghbk5.jpg",
+        "url_org_logo_m": "/thumb/org/2025/03/rte2h9gfe75kw7bh12umq0as178azt43s5tobtlavv1zcghbk5.jpg?alias=org_logo_m&signature=RvyKIdrgGfCVP4oAZu2yHTM1XawxeXvXHbjIS1exysk"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "251m² Gewerbe in Bern mieten",
+    "livingspace": 251
+  }
+}

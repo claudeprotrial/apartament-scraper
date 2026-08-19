@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1706.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/melchnaustrasse-1-4900-langenthal/66468456/",
+    "descarcat": "2026-08-17 12:29",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisfläche"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "einzelbüro",
+        "gewerbefläche",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 66468456,
+    "slug": "melchnaustrasse-1-4900-langenthal",
+    "url": "/de/wohnung/melchnaustrasse-1-4900-langenthal/66468456/",
+    "short_url": "/66468456/",
+    "submit_url": "/de/listing/66468456/submit/",
+    "status": "act",
+    "created": "2025-07-08T09:02:58.011799+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "25202.01.",
+    "ref_property": "25202",
+    "ref_house": "01",
+    "ref_object": "",
+    "alternative_reference": "",
+    "price_display": 204,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-07-08T09:03:00.205138+02:00",
+    "rent_net": 168,
+    "rent_charges": 36,
+    "rent_gross": null,
+    "short_title": "248m² Büro",
+    "public_title": "Melchnaustrasse 1, 4900 Langenthal - CHF 204 inkl. NK pro m² / Jahr",
+    "pitch_title": "248m² Büro in Langenthal mieten",
+    "description_title": "Ihr neuer Standort in Langenthal",
+    "description": "Per sofort oder nach Vereinbarung vermieten wir eine Büro-/ Praxisfläche über 248.00 m2 im 2. OG am Spitalplatz in Langenthal.  \n  \nDie Fläche bietet Ihnen folgende Vorzüge:  \n  \n\\- Einladender Eingangsbereich  \n\\- Vier abschliessbare Einzelbüros in verschiedenen Grössen  \n\\- Kleine Küche zur alleinigen Benutzung  \n\\- Toilettenanlage zur alleinigen Benutzung  \n\\- Lift vorhanden  \n  \nMietzins:  \n\\- Netto Fr. 168.00 pro m2 im Jahr.  \n\\- monatlich Netto Fr. 3'485.00 + Akontobeitrag Nebenkosten Fr. 750.00  \n  \nWeitere Flächen können dazu gemietet werden:  \n\\- Lager 14.00 m2  \n\\- Archivraum 17.00 m2  \n\\- Die Räumlichkeiten befinden sich im 1. UG und sind via Lift erreichbar.  \n  \nParkplätze:  \n\\- Möglichkeit Einstellhallenplätze zum Objekt dazu zu mieten  \n\\- Kosten Einstellhallenplatz Fr. 135.00 pro Monat  \n  \nFür mehr Informationen zur Liegenschaft und den übrigen Gewerbeflächen vor Ort, können Sie gerne unsere Homepage https://spitalplatz-langenthal.ch/ kontaktieren.  \n  \nHaben wir Ihr Interesse geweckt? Gerne können Sie sich für einen Besichtigungstermin über die Kontaktanfrage bei uns melden.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 248,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 248,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "garage"
+      },
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Melchnaustrasse 1",
+    "zipcode": 4900,
+    "city": "Langenthal",
+    "public_address": "Melchnaustrasse 1, 4900 Langenthal",
+    "latitude": 47.2120247,
+    "longitude": 7.7912948,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "https://spitalplatz-langenthal.ch/",
+    "live_viewing_url": "",
+    "cover_image": 36621591,
+    "images": [
+      {
+        "pk": 36621591,
+        "caption": null,
+        "url": "/media/ff/2026/06/vl2ea8omm274hi88qo0er0u8dmo5ju2klar3oyp2kxwrzefg5e.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/vl2ea8omm274hi88qo0er0u8dmo5ju2klar3oyp2kxwrzefg5e.jpg?alias=thumb_m&signature=HBoFT4G4pU8fKAGDJF1BwMfDmxp1I9fPHHlhHm0zAnI",
+        "url_listing_search": "/thumb/ff/2026/06/vl2ea8omm274hi88qo0er0u8dmo5ju2klar3oyp2kxwrzefg5e.jpg?alias=listing_search&signature=fcpQQYnT9CyXvdKy1ml-5ZJiFzsZXAGXI8modPD8g7s",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067046,
+        "caption": null,
+        "url": "/media/ff/2026/01/blsqli14rffo0gniuvesobwzcejsowvz4ofoyjt0jc09ox94qh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/blsqli14rffo0gniuvesobwzcejsowvz4ofoyjt0jc09ox94qh.jpg?alias=thumb_m&signature=EMQycWBp00Va-ELT-wa_KGcwWHu3ZpHefLbSgAfKYzo",
+        "url_listing_search": "/thumb/ff/2026/01/blsqli14rffo0gniuvesobwzcejsowvz4ofoyjt0jc09ox94qh.jpg?alias=listing_search&signature=RZ1dBdjcuzFECgf-LC_yma5j8Ry81Md6WKpR8jaP46U",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067047,
+        "caption": null,
+        "url": "/media/ff/2026/01/se45rs9apa6fy7vnh3jbg4gssxoeabs0a3vfar7fomrsi6r28a.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/se45rs9apa6fy7vnh3jbg4gssxoeabs0a3vfar7fomrsi6r28a.jpg?alias=thumb_m&signature=Ag9gTayS1tXPgIsHHH5Ft7qeDQ--JK7X1a9zN_4J87w",
+        "url_listing_search": "/thumb/ff/2026/01/se45rs9apa6fy7vnh3jbg4gssxoeabs0a3vfar7fomrsi6r28a.jpg?alias=listing_search&signature=oT698NVlB7-_6yuyATCXeSbHMrhOT58EIdKi7tcQLaM",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067049,
+        "caption": null,
+        "url": "/media/ff/2026/01/lkwxnnb1znflycm892hew5x4hmaqplsna91a0yuz0kb2kj8kof.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/lkwxnnb1znflycm892hew5x4hmaqplsna91a0yuz0kb2kj8kof.jpg?alias=thumb_m&signature=XJbF6uQTVO5oRjA-B8gNggTxnKyRvQlMwvklXQdWg4c",
+        "url_listing_search": "/thumb/ff/2026/01/lkwxnnb1znflycm892hew5x4hmaqplsna91a0yuz0kb2kj8kof.jpg?alias=listing_search&signature=gp7yfr5tC-NQEgsL1xhFwavMnkm5J8Rb0VT6r2qyi20",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067060,
+        "caption": null,
+        "url": "/media/ff/2026/01/yuls0p489z0cgqrs85qbh0t4dkc3gcfgau3i3gzdww64faw1bd.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/yuls0p489z0cgqrs85qbh0t4dkc3gcfgau3i3gzdww64faw1bd.jpg?alias=thumb_m&signature=r4rqvomP9coYrnhByS2PS4hEzT_0ChAvbicORGi8kgs",
+        "url_listing_search": "/thumb/ff/2026/01/yuls0p489z0cgqrs85qbh0t4dkc3gcfgau3i3gzdww64faw1bd.jpg?alias=listing_search&signature=jZV_zP0BPkwNaPYUN1RGZpUVZCU9DwTsM12pwSZt_hM",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067061,
+        "caption": null,
+        "url": "/media/ff/2026/01/n6l2wp141dk7adxnl4sgtfxot9g26rbe5w9wzof9saxx6yeyk7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/n6l2wp141dk7adxnl4sgtfxot9g26rbe5w9wzof9saxx6yeyk7.jpg?alias=thumb_m&signature=oEJ_nv0aogBzVg9Mg-ZRrljWmkvNfEHFJCLZuGxSHSE",
+        "url_listing_search": "/thumb/ff/2026/01/n6l2wp141dk7adxnl4sgtfxot9g26rbe5w9wzof9saxx6yeyk7.jpg?alias=listing_search&signature=48uUy9Y-TCQe-_pc338eRUB_IOCrHTqot10ha0XeNTA",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067068,
+        "caption": null,
+        "url": "/media/ff/2026/01/vt69jds4fzcay319a7dir1alliqjmgy9uf3za3wfb1jqjamo3v.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/vt69jds4fzcay319a7dir1alliqjmgy9uf3za3wfb1jqjamo3v.jpg?alias=thumb_m&signature=GuBC_RHwBTwLjz4fhGAjOzayB4u9qhdUCnM-lL7QvgM",
+        "url_listing_search": "/thumb/ff/2026/01/vt69jds4fzcay319a7dir1alliqjmgy9uf3za3wfb1jqjamo3v.jpg?alias=listing_search&signature=f0gzA0CPIKdbHlwNFmiq-ttAgCRN4ijKl01ZNzBIP74",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067077,
+        "caption": null,
+        "url": "/media/ff/2026/01/2o1x17hdzr8ebyle22i1psh4eartu680bvirtura8fnr9tr2ba.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/2o1x17hdzr8ebyle22i1psh4eartu680bvirtura8fnr9tr2ba.jpg?alias=thumb_m&signature=F19zUN-IUnHCXgguyUiZ05rsQfIzRx-lvWfw0NdEL9A",
+        "url_listing_search": "/thumb/ff/2026/01/2o1x17hdzr8ebyle22i1psh4eartu680bvirtura8fnr9tr2ba.jpg?alias=listing_search&signature=jhmIJaba_FbvBvGhNbIbVxWxFCvfxrFBbQduJo75cBA",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067076,
+        "caption": null,
+        "url": "/media/ff/2026/01/4wdewqmcc129klqv4hutcoal0pe5wp0ypbo7rryvfys58ro2gw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/4wdewqmcc129klqv4hutcoal0pe5wp0ypbo7rryvfys58ro2gw.jpg?alias=thumb_m&signature=mackOmPOp3Iq1Fh5z3Yw5SQpEM6nxX7w4xojdBvD42U",
+        "url_listing_search": "/thumb/ff/2026/01/4wdewqmcc129klqv4hutcoal0pe5wp0ypbo7rryvfys58ro2gw.jpg?alias=listing_search&signature=MXrTIJxV3P95UinUnuKYDK_EjLoztiCQxxdEf-k4l4I",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067078,
+        "caption": null,
+        "url": "/media/ff/2026/01/vbt0waai9kp7nxxrg709kiriqpze3ws6zbo3p142bxbfqbsw3n.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/vbt0waai9kp7nxxrg709kiriqpze3ws6zbo3p142bxbfqbsw3n.jpg?alias=thumb_m&signature=zXT_0rhybmdiSgQ6KqTnudI9FfkwwQYnFivUJ-qrwqM",
+        "url_listing_search": "/thumb/ff/2026/01/vbt0waai9kp7nxxrg709kiriqpze3ws6zbo3p142bxbfqbsw3n.jpg?alias=listing_search&signature=5SpllaMfpyQ-zrDxsVZ3rTnHqxA6uysrVVdGEVOBVZM",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33067079,
+        "caption": null,
+        "url": "/media/ff/2026/01/b7pcqpcfnhsav61v0jdt64alrvnqom9h5o3k4myw8bswvux1p6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/b7pcqpcfnhsav61v0jdt64alrvnqom9h5o3k4myw8bswvux1p6.jpg?alias=thumb_m&signature=QvwB9QwwketLzNUu5wF_3QTRmZo2IR2CdbPjrUVclfQ",
+        "url_listing_search": "/thumb/ff/2026/01/b7pcqpcfnhsav61v0jdt64alrvnqom9h5o3k4myw8bswvux1p6.jpg?alias=listing_search&signature=FyB_zfVSTMjCdkk7-eWQfPvf34zGCJMMSzqWuIs9mxM",
+        "ordering": 11,
+        "width": 1000,
+        "height": 1500
+      },
+      {
+        "pk": 33067081,
+        "caption": null,
+        "url": "/media/ff/2026/01/6usguhv98e6kz0hq6bnoqq67n1ec8ncnsc89z0hoqw81x3wz8t.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/6usguhv98e6kz0hq6bnoqq67n1ec8ncnsc89z0hoqw81x3wz8t.jpg?alias=thumb_m&signature=p8GLsR7IriRtXwMWq90cLqoq8WBmlqfIrHkI_jY8lXY",
+        "url_listing_search": "/thumb/ff/2026/01/6usguhv98e6kz0hq6bnoqq67n1ec8ncnsc89z0hoqw81x3wz8t.jpg?alias=listing_search&signature=2-8AmJ8p3TGOq8pgLQ9e_eqpPbzlLCB-vLOgzy6tojY",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      403426
+    ],
+    "agency": {
+      "name": "PRIVERA AG",
+      "name_2": "",
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2021/01/bq2tuk42zvmce9dn6kvafbtyxoo2wfp18bg2hxhwgcgtj8px7k.png",
+        "url_org_logo_m": "/thumb/org/2021/01/bq2tuk42zvmce9dn6kvafbtyxoo2wfp18bg2hxhwgcgtj8px7k.png?alias=org_logo_m&signature=-VqhMaen_7L90FG2NNP0Xqe7Gnv3J7HDDsU_I0YStZM"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "248m² Büro in Langenthal mieten",
+    "livingspace": 248
+  }
+}

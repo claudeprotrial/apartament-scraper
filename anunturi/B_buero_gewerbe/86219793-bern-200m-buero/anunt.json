@@ -1,0 +1,311 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1766.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/genfergasse-11-3011-bern/86219793/",
+    "descarcat": "2026-08-17 12:26",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "empfang",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "café",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 19
+  },
+  "raw": {
+    "pk": 86219793,
+    "slug": "genfergasse-11-3011-bern",
+    "url": "/de/wohnung/genfergasse-11-3011-bern/86219793/",
+    "short_url": "/86219793/",
+    "submit_url": "/de/listing/86219793/submit/",
+    "status": "act",
+    "created": "2026-07-27T09:13:08.797639+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "200.BEGG.w3yyh.h7ypo",
+    "ref_property": "200",
+    "ref_house": "BEGG",
+    "ref_object": "w3yyh.h7ypo",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2026-07-27T09:13:10.799792+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "200m² Büro",
+    "public_title": "Genfergasse 11, 3011 Bern - auf Anfrage",
+    "pitch_title": "200m² Büro in Bern mieten",
+    "description_title": "Flexible & moderne Büroflächen im FlexOffice Bern Genfergasse",
+    "description": "**Arbeiten im urbanen Herzen von Bern – Genfergasse**\n\nMitten in der Innenstadt, nur wenige Schritte vom Bahnhof Bern entfernt, liegt unsere FlexOffice Location an der Genfergasse. Hier treffen moderne Arbeitswelten auf pulsierendes Stadtleben. Cafés, Restaurants und Einkaufsmöglichkeiten liegen direkt vor der Tür – und dank der zentralen Lage seid ihr perfekt vernetzt mit der ganzen Schweiz. \n\n**Euer Büro – egal ob 2 oder 100 Personen**\n\nOb kleines Team, wachsendes Scale-up oder etabliertes Unternehmen: Wir haben die passende Fläche für euch. \n\n  * 20–1'000 m² flexibel gestaltbare Bürofläche \n\n  * Lichtdurchflutete Räume mit modernem Design und hoher Decke \n\n  * Private Büroeinheiten für konzentriertes Arbeiten und vertrauliche Meetings \n\n  * Skalierbar: Fläche, Layout & Ausstattung passen sich eurer Entwicklung an \n\n  * Top Lage: 2 Minuten zum Bahnhof Bern – zentral und trotzdem ruhig \n\n\n\n\n**Mehr als ein Büro – ein Workspace, der zu euch passt**\n\nMit FlexOffice profitiert ihr von einer Rundum-Lösung, die sich euren Bedürfnissen anpasst: \n\n  * All-inclusive: Empfang, Meetingräume, Küchen, Phone Booths, Reinigung, IT & Drucken und vieles mehr \n\n  * Direkter Zugang zu allen Lounges und Gemeinschaftsbereichen an allen FlexOffice Standorten in der Schweiz \n\n  * Ihr konzentriert euch auf euer Business – wir kümmern uns um den Rest \n\n\n\n\n**Preis & Angebot **\n\nDer Preis richtet sich nach genutzter Fläche und gewählten Services. \n\nInteresse? Meldet euch – wir zeigen euch gerne, was an der Genfergasse möglich ist!",
+    "surface_living": null,
+    "surface_property": 20,
+    "surface_usable": 200,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 200,
+    "number_of_rooms": null,
+    "floor": 5,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "view"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Genfergasse 11",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Genfergasse 11, 3011 Bern",
+    "latitude": 46.9501306,
+    "longitude": 7.441804599999998,
+    "year_built": null,
+    "year_renovated": 2025,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "https://www.youtube.com/watch?v=XsqMCVHcBYU",
+    "tour_url": null,
+    "website_url": "https://flexoffice.swiss/genfergasse",
+    "live_viewing_url": null,
+    "cover_image": 48339461,
+    "images": [
+      {
+        "pk": 48339461,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/fdf3ad2beee41e91479f770fc5e02cc7.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/fdf3ad2beee41e91479f770fc5e02cc7.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/fdf3ad2beee41e91479f770fc5e02cc7.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339462,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/84a4dd0300cfb3ffa34198dc360387e3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/84a4dd0300cfb3ffa34198dc360387e3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/84a4dd0300cfb3ffa34198dc360387e3.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339463,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/7d9e4da0689f27dfe87f036d598b27d0.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/7d9e4da0689f27dfe87f036d598b27d0.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/7d9e4da0689f27dfe87f036d598b27d0.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339464,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/8f29b36f49bf3b7fcbc4b4fa62835a64.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/8f29b36f49bf3b7fcbc4b4fa62835a64.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/8f29b36f49bf3b7fcbc4b4fa62835a64.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339465,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/287335ec1f300f9348182dc7bd34039d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/287335ec1f300f9348182dc7bd34039d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/287335ec1f300f9348182dc7bd34039d.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339466,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/4519cc1ba41bc5222d8b7ad6301532e2.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/4519cc1ba41bc5222d8b7ad6301532e2.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/4519cc1ba41bc5222d8b7ad6301532e2.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339467,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/08280b69e7ef4e7d8d389b101cf9abd2.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/08280b69e7ef4e7d8d389b101cf9abd2.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/08280b69e7ef4e7d8d389b101cf9abd2.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339468,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/8fe3a769bd8e0e4bf2e56f1d472d42bf.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/8fe3a769bd8e0e4bf2e56f1d472d42bf.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/8fe3a769bd8e0e4bf2e56f1d472d42bf.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48331626,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/128caa83ec82d9e4de672f6031d3cb87.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/128caa83ec82d9e4de672f6031d3cb87.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/128caa83ec82d9e4de672f6031d3cb87.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1327
+      },
+      {
+        "pk": 48339469,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/8af44a3253faa94d7c466427e183ddc9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/8af44a3253faa94d7c466427e183ddc9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/8af44a3253faa94d7c466427e183ddc9.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48331635,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/2e7af11a2796665c17622eb8a7439419.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/2e7af11a2796665c17622eb8a7439419.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/2e7af11a2796665c17622eb8a7439419.jpg",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1055
+      },
+      {
+        "pk": 48331636,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/2011f210db413cd797b70d5b20a5ac84.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/2011f210db413cd797b70d5b20a5ac84.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/2011f210db413cd797b70d5b20a5ac84.jpg",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1033
+      },
+      {
+        "pk": 48339470,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/2b5fdecaf33dbc976667d4775f8e04e8.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/2b5fdecaf33dbc976667d4775f8e04e8.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/2b5fdecaf33dbc976667d4775f8e04e8.jpg",
+        "ordering": 13,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339471,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/06a55c3389405266424b49086dd759e1.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/06a55c3389405266424b49086dd759e1.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/06a55c3389405266424b49086dd759e1.jpg",
+        "ordering": 14,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339472,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/50d5442772a1739ded6c1e8a59629be9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/50d5442772a1739ded6c1e8a59629be9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/50d5442772a1739ded6c1e8a59629be9.jpg",
+        "ordering": 15,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48339473,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/0f9a659a2166ddc808088b9be3dbc612.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/0f9a659a2166ddc808088b9be3dbc612.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/0f9a659a2166ddc808088b9be3dbc612.jpg",
+        "ordering": 16,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 48331638,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/cdacd21c74caa0aa207699c51c8ed441.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/cdacd21c74caa0aa207699c51c8ed441.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/cdacd21c74caa0aa207699c51c8ed441.png",
+        "ordering": 17,
+        "width": 1500,
+        "height": 1010
+      },
+      {
+        "pk": 48331639,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/98576c7d30f364236b19d1eaeda8dce4.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/98576c7d30f364236b19d1eaeda8dce4.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/98576c7d30f364236b19d1eaeda8dce4.png",
+        "ordering": 18,
+        "width": 1500,
+        "height": 988
+      },
+      {
+        "pk": 48331640,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/o018/4003341010/image/a66d203ff72c0981bae262f571ad2f43.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/o018/4003341010/image/a66d203ff72c0981bae262f571ad2f43.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/o018/4003341010/image/a66d203ff72c0981bae262f571ad2f43.png",
+        "ordering": 19,
+        "width": 1500,
+        "height": 998
+      }
+    ],
+    "documents": [
+      769004
+    ],
+    "agency": {
+      "name": "FlexOffice (Schweiz) AG",
+      "name_2": null,
+      "street": "Talacker 21",
+      "zipcode": "8001",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/at444mkh35bxwnattdgq9mph54sqcubqsk6r2w5jw5rakkgfkt.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/at444mkh35bxwnattdgq9mph54sqcubqsk6r2w5jw5rakkgfkt.jpg?alias=org_logo_m&signature=1l65WRCCO5kWZmbCq5Gh3e6MvzFl7MOKrw_TLJ6g8bA"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003341010",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "200m² Büro in Bern mieten",
+    "livingspace": 200
+  }
+}

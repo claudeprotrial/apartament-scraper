@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1736.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/looslistrasse-15-3027-bern/1376178/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 16
+  },
+  "raw": {
+    "pk": 1376178,
+    "slug": "looslistrasse-15-3027-bern",
+    "url": "/de/wohnung/looslistrasse-15-3027-bern/1376178/",
+    "short_url": "/1376178/",
+    "submit_url": "/de/listing/1376178/submit/",
+    "status": "act",
+    "created": "2024-10-31T14:22:42.416639+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "210661..143301",
+    "ref_property": "210661",
+    "ref_house": "",
+    "ref_object": "143301",
+    "alternative_reference": "",
+    "price_display": 5170,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-03-19T16:57:11.954636+01:00",
+    "rent_net": 4562,
+    "rent_charges": 608,
+    "rent_gross": null,
+    "short_title": "365m² Büro",
+    "public_title": "Looslistrasse 15, 3027 Bern - CHF 5’170 inkl. NK pro Monat",
+    "pitch_title": "365m² Büro in Bern mieten",
+    "description_title": "Bürofläche an der Looslistrasse 15, Bern – 365m²",
+    "description": "Zur Miete steht eine vielseitig nutzbare Gewerbefläche von insgesamt 365m² in einer zentralen Lage an der Looslistrasse 15 in Bern. Ideal geeignet für Büros oder andere Gewerbezwecke. Die Räumlichkeiten werden grundsätzlich im Rohbau-Standard vermietet und bieten Ihnen die Möglichkeit, die Fläche nach Ihren eigenen Vorstellungen und Bedürfnissen auszubauen.  \n  \n**Details zur Gewerbefläche:**  \n  \n\n*   **Fläche**: 365m²\n*   **Sanitäreinrichtungen**: Zwei WCs mit Lavabo und Spiegel sind bereits eingebaut (beide mit dem Foto identisch)\n\n**Rohbau-Standard (Rohbau 2)**:  \n  \n\n*   **Boden**: Industriebodenbelag, 1.5 cm stark (ohne Fertigbelag)\n*   **Wände**: Bauseits erstellte Wände aus Beton sowie Gips- und Kalksandsteinwänden\n*   **Decken**: Bauseits erstellte Decken aus Beton sowie Gips- und Kalksandsteinwänden\n*   **Elektronik**: Ab Hauptverteilung oder Stockwerkverteilung Mietersache\n*   **Sanitär**: Ab Hauptverteilung oder Stockwerkverteilung Mietersache, mit Ausnahme der bereits eingebauten Nasszellen\n\n**Besonderheiten:**  \n  \n\n*   **Zentrale Lage**: Sehr gut erreichbar und im Herzen von Bern gelegen\n*   **Flexibilität beim Ausbau**: Nutzen Sie die Möglichkeit, die Fläche nach Ihren individuellen Bedürfnissen anzupassen.\n*   **Zugang zu grundlegenden Infrastrukturen**: Die Sanitär- und Elektroinstallation können nach Wunsch realisiert werden.\n\nDer Nettomietzins für diese Fläche versteht sich im derzeitigen Rohbau-Standard, was Ihnen eine hohe Flexibilität bei der Gestaltung der Räumlichkeiten ermöglicht. Auch ein Lager im UG könnte für CHF 1'280.00/mtl. dazu gemietet werden.  \n  \n**Nach Absprache können teilweise auch Mieterausbauten übernommen werden.**  \n  \nInteressiert? Kontaktieren Sie uns noch heute über das Kontaktformular, um die Gewerbefläche besichtigen zu können!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 365,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 365,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Looslistrasse 15",
+    "zipcode": 3027,
+    "city": "Bern",
+    "public_address": "Looslistrasse 15, 3027 Bern",
+    "latitude": 46.9479787,
+    "longitude": 7.3989996,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 30798460,
+    "images": [
+      {
+        "pk": 30798460,
+        "caption": null,
+        "url": "/media/ff/2025/10/jlekp4s5n7x30njd4nf8k4zvzry6ekmk08a8w8bpsk5a1hzw2v.jpg",
+        "url_thumb_m": "/thumb/ff/2025/10/jlekp4s5n7x30njd4nf8k4zvzry6ekmk08a8w8bpsk5a1hzw2v.jpg?alias=thumb_m&signature=pH_YTGW2v-ZaJ5Om_nevtzcztvT8XefAJT9caEwxjEA",
+        "url_listing_search": "/thumb/ff/2025/10/jlekp4s5n7x30njd4nf8k4zvzry6ekmk08a8w8bpsk5a1hzw2v.jpg?alias=listing_search&signature=zqC6RcdVwmcbRVO2Jgyh1p3HFHzPRY3RL4-RddWtH3I",
+        "ordering": 1,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 30798461,
+        "caption": null,
+        "url": "/media/ff/2025/10/xp7xr0zg3rpj99ik2a0mll70mh61qkrt0vq1mrvhx7ed9ah9kx.jpg",
+        "url_thumb_m": "/thumb/ff/2025/10/xp7xr0zg3rpj99ik2a0mll70mh61qkrt0vq1mrvhx7ed9ah9kx.jpg?alias=thumb_m&signature=XZZS2sDyLtX2EtlyIHs3hosWkwBTUNAF1SNbsHpYZRA",
+        "url_listing_search": "/thumb/ff/2025/10/xp7xr0zg3rpj99ik2a0mll70mh61qkrt0vq1mrvhx7ed9ah9kx.jpg?alias=listing_search&signature=Dq4iyLv03zuXJQo90rptPr1StohFJG04e91jnWCiNpY",
+        "ordering": 2,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 30798462,
+        "caption": null,
+        "url": "/media/ff/2025/10/3cp7hfgm0ed2ltrk2b76o0m95t598xlxhal8mocf1se453k6nq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/10/3cp7hfgm0ed2ltrk2b76o0m95t598xlxhal8mocf1se453k6nq.jpg?alias=thumb_m&signature=oa02sVDwUKFjzxqLh0VH1Qo6EMgNuT7ARa6_jEQDK2o",
+        "url_listing_search": "/thumb/ff/2025/10/3cp7hfgm0ed2ltrk2b76o0m95t598xlxhal8mocf1se453k6nq.jpg?alias=listing_search&signature=d7J_E5MEzv1URChQwCP8TQbsopF3i9RHwYjzmxQpEYA",
+        "ordering": 3,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653479,
+        "caption": "",
+        "url": "/media/ff/2025/02/frxwwetlk3fin4uh8n49t5cce0ft2vsh5ricquzapeyk9lswaq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/frxwwetlk3fin4uh8n49t5cce0ft2vsh5ricquzapeyk9lswaq.jpg?alias=thumb_m&signature=YljH6vO-2bg-tDK-nde9QTblb1A7cIk-56ZWYm2eWng",
+        "url_listing_search": "/thumb/ff/2025/02/frxwwetlk3fin4uh8n49t5cce0ft2vsh5ricquzapeyk9lswaq.jpg?alias=listing_search&signature=9x7TV75TW1XDRxu5u9MLmNhaXbUOdCcmdX413j9rZEk",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 11653386,
+        "caption": "",
+        "url": "/media/ff/2025/02/6wmqnkxezs5sfatnpzmfnucq8qcdt4fzjb18nv69hzvs3ogrvh.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/6wmqnkxezs5sfatnpzmfnucq8qcdt4fzjb18nv69hzvs3ogrvh.jpg?alias=thumb_m&signature=j4aj30guKk-yZcWs9iX6NnuLvDuU8OWU8o1iXccXjsE",
+        "url_listing_search": "/thumb/ff/2025/02/6wmqnkxezs5sfatnpzmfnucq8qcdt4fzjb18nv69hzvs3ogrvh.jpg?alias=listing_search&signature=VmMvmGtfVZHQlfK-G0l_WBzv9UPFsCS6JugGcEO-O9M",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 11653403,
+        "caption": "",
+        "url": "/media/ff/2025/02/scdjkzz8zn6wymz3tieoaqr21c2134n2ycte8q9fqp5pr4brm3.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/scdjkzz8zn6wymz3tieoaqr21c2134n2ycte8q9fqp5pr4brm3.jpg?alias=thumb_m&signature=xzsCwfjQvI34yVzTZXMzXA-MbkY2ruXoR8BvidJuEC4",
+        "url_listing_search": "/thumb/ff/2025/02/scdjkzz8zn6wymz3tieoaqr21c2134n2ycte8q9fqp5pr4brm3.jpg?alias=listing_search&signature=XvyYQtdYc5COrdPgidWwvHdMj6ZEVJF3sWhU44UmuQ4",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653458,
+        "caption": "",
+        "url": "/media/ff/2025/02/mub78xe1tcs712f95sh0yhn8s92bgsmikt5lks361xypzojjol.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/mub78xe1tcs712f95sh0yhn8s92bgsmikt5lks361xypzojjol.jpg?alias=thumb_m&signature=oMvSBRd2ueI4qpo-d6BycilZUg8AlCwEHcVzasdeTJE",
+        "url_listing_search": "/thumb/ff/2025/02/mub78xe1tcs712f95sh0yhn8s92bgsmikt5lks361xypzojjol.jpg?alias=listing_search&signature=JqbnORRN5iZ6HZPnRreL0LWKhCwzJfhhEF-0TpGlMlo",
+        "ordering": 7,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653453,
+        "caption": "",
+        "url": "/media/ff/2025/02/y2kjzr006ieswk1jl0slfi2etri7cmyy9wh4rb6tep1tb32sny.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/y2kjzr006ieswk1jl0slfi2etri7cmyy9wh4rb6tep1tb32sny.jpg?alias=thumb_m&signature=DKV8GctANgcVbyZNicig8BxHfOPlQAH4rpCN06y96Ms",
+        "url_listing_search": "/thumb/ff/2025/02/y2kjzr006ieswk1jl0slfi2etri7cmyy9wh4rb6tep1tb32sny.jpg?alias=listing_search&signature=KNBJRl0y50VFkZQHskYl-1nWLhV6Ef2kidz2Ef2FYZs",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653430,
+        "caption": "",
+        "url": "/media/ff/2025/02/6rln1gg4l0kbg90dphp8omitp4dlynktd5vfoy1fgjvdw4yuff.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/6rln1gg4l0kbg90dphp8omitp4dlynktd5vfoy1fgjvdw4yuff.jpg?alias=thumb_m&signature=X7YcEL6s7oAVjY_HkCP9s8wt9JHcbHuRkB35Pcc4GHI",
+        "url_listing_search": "/thumb/ff/2025/02/6rln1gg4l0kbg90dphp8omitp4dlynktd5vfoy1fgjvdw4yuff.jpg?alias=listing_search&signature=qRUTT9PInouDcdGqlxSn2QzsrvNohEKZqb0Mx0he408",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 11653478,
+        "caption": "",
+        "url": "/media/ff/2025/02/s7sno5ms3lnvdq0fl3p6s0yx55etwibehf6t9s6fvttplh31ao.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/s7sno5ms3lnvdq0fl3p6s0yx55etwibehf6t9s6fvttplh31ao.jpg?alias=thumb_m&signature=ilodPTjNYFoSoEdU2-Ho-IYydk2cJiNBT3zXyfMhtRg",
+        "url_listing_search": "/thumb/ff/2025/02/s7sno5ms3lnvdq0fl3p6s0yx55etwibehf6t9s6fvttplh31ao.jpg?alias=listing_search&signature=FGhvEeICSFo7d7f-fauEhN_P-LeR3BSnUqorvos99AI",
+        "ordering": 10,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653475,
+        "caption": "",
+        "url": "/media/ff/2025/02/k750qj9nkdkcy1jrykxe5cnnacdjt37bebiuedcluyf5rr2453.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/k750qj9nkdkcy1jrykxe5cnnacdjt37bebiuedcluyf5rr2453.jpg?alias=thumb_m&signature=3mywM7H9uBncjKxkTvxkhBZNSgPezP-kOD0_6w_geP4",
+        "url_listing_search": "/thumb/ff/2025/02/k750qj9nkdkcy1jrykxe5cnnacdjt37bebiuedcluyf5rr2453.jpg?alias=listing_search&signature=dygUb2zu6eh46inOkynrrTrknOjpqOQ_AqrV2Ko5ddo",
+        "ordering": 11,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653416,
+        "caption": "",
+        "url": "/media/ff/2025/02/svw2ctxuo6k93s8uz7a9y89a3vvv6vzvg6djak5d8bjv2x3xmf.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/svw2ctxuo6k93s8uz7a9y89a3vvv6vzvg6djak5d8bjv2x3xmf.jpg?alias=thumb_m&signature=h27OHnQ9WJ3DnZNar_lkcVx2_VySYqs17QYP6rmDu6k",
+        "url_listing_search": "/thumb/ff/2025/02/svw2ctxuo6k93s8uz7a9y89a3vvv6vzvg6djak5d8bjv2x3xmf.jpg?alias=listing_search&signature=2EOnCKTXJb8z42QymxKSRNeSzahhvGb8Y7TONKQp3cY",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 11653393,
+        "caption": "",
+        "url": "/media/ff/2025/02/43pi7k97w2wkl4am7hlpmg8iyhxz3yfx6rls74izsjk9btiw6y.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/43pi7k97w2wkl4am7hlpmg8iyhxz3yfx6rls74izsjk9btiw6y.jpg?alias=thumb_m&signature=NSBp2MJhAl5MyjWlVFK-K0G7neZ85XFKopSWTgvsHq8",
+        "url_listing_search": "/thumb/ff/2025/02/43pi7k97w2wkl4am7hlpmg8iyhxz3yfx6rls74izsjk9btiw6y.jpg?alias=listing_search&signature=nIYllGgr-XdW__Z5YWmmePbAPf7SFoGWCBVOQgXPE8Q",
+        "ordering": 13,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653417,
+        "caption": "",
+        "url": "/media/ff/2025/02/pftbc4h3t77a4s8ctahfx033wzkam168n7p7fnkzosqofhlb6c.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/pftbc4h3t77a4s8ctahfx033wzkam168n7p7fnkzosqofhlb6c.jpg?alias=thumb_m&signature=OkWclQ_NPT6FlcvFw9jyMXm6P_IO4xt8F7wYg3Zv8Hw",
+        "url_listing_search": "/thumb/ff/2025/02/pftbc4h3t77a4s8ctahfx033wzkam168n7p7fnkzosqofhlb6c.jpg?alias=listing_search&signature=361f8cj1Y3PEx-HPzwobqG31D8MiLevdVYPMccd0p1A",
+        "ordering": 14,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653448,
+        "caption": "",
+        "url": "/media/ff/2025/02/23bf7nd1b6fcwnqx2gfmfbm26hrmavj8nke2az4zocj76mj6pj.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/23bf7nd1b6fcwnqx2gfmfbm26hrmavj8nke2az4zocj76mj6pj.jpg?alias=thumb_m&signature=9ahBk7WAAqgiqrWSslmwHfkfMZp1zaCzA_EmbgwkLdQ",
+        "url_listing_search": "/thumb/ff/2025/02/23bf7nd1b6fcwnqx2gfmfbm26hrmavj8nke2az4zocj76mj6pj.jpg?alias=listing_search&signature=R3Vsg8Mf4341pZFe5JF8vpbw3R2COvOhsZ1u8d84FcM",
+        "ordering": 15,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 11653449,
+        "caption": "",
+        "url": "/media/ff/2025/02/oche6xvcwk7gejy2qm4lu6izapw08ng3le9mve0o97saarl88g.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/oche6xvcwk7gejy2qm4lu6izapw08ng3le9mve0o97saarl88g.jpg?alias=thumb_m&signature=j0mtNG1ii3nPO11zc_e5D-uWIhTJMZxVdXFn0yijtu8",
+        "url_listing_search": "/thumb/ff/2025/02/oche6xvcwk7gejy2qm4lu6izapw08ng3le9mve0o97saarl88g.jpg?alias=listing_search&signature=xJvjTWSEzSX9z7AnY8ZLy7n5OiFLLq-fYJReYqja0Uk",
+        "ordering": 16,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      781267,
+      781268
+    ],
+    "agency": {
+      "name": "Burgergemeinde Bern Immobilien",
+      "name_2": "Domänenverwaltung",
+      "street": "Bahnhofplatz 2",
+      "zipcode": "3001",
+      "city": "Bern",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png",
+        "url_org_logo_m": "/thumb/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png?alias=org_logo_m&signature=F7dlhFceZMsw_sykCkbNggMJEfravWk0lq2YXPFWE2M"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "365m² Büro in Bern mieten",
+    "livingspace": 365
+  }
+}

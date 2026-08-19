@@ -1,0 +1,221 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1626.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/morgenstrasse-131-3018-bern/1088925/",
+    "descarcat": "2026-08-17 12:37",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "gewerbe"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": [
+        "studio",
+        "wohnung"
+      ]
+    },
+    "nr_imagini": 11
+  },
+  "raw": {
+    "pk": 1088925,
+    "slug": "morgenstrasse-131-3018-bern",
+    "url": "/de/wohnung/morgenstrasse-131-3018-bern/1088925/",
+    "short_url": "/1088925/",
+    "submit_url": "/de/listing/1088925/submit/",
+    "status": "act",
+    "created": "2024-01-24T19:07:29.064815+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "STORAGE_ROOM",
+    "reference": "25558..60904",
+    "ref_property": "25558",
+    "ref_house": "",
+    "ref_object": "60904",
+    "alternative_reference": null,
+    "price_display": 2020,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2024-01-24T19:07:29.210749+01:00",
+    "rent_net": 1795,
+    "rent_charges": 225,
+    "rent_gross": 2020,
+    "short_title": "179m² Lager",
+    "public_title": "Morgenstrasse 131, 3018 Bern - CHF 2’020 inkl. NK pro m² / Jahr",
+    "pitch_title": "179m² Lager in Bern mieten",
+    "description_title": "Lagerräume zwischen 40-208 m² im 1. UG",
+    "description": "Wir vermieten ab sofort oder nach Vereinbarung mehrere Lagerräume zwischen 40-208 m² im 1. UG eines Gewerbekomplexes. Die Räume sind in der Regel wie folgt ausgestattet:   \n  \n\\- Stromanschluss vorhanden   \n\\- Teilweise mit Wasseranschluss   \n\\- Unbeheizt   \n\\- Lichtinstallation vorhanden   \n\\- Einstellhallenplätze für je CHF 150.-- verfügbar.   \n\\- Keine Verwendung als Musikstudio, Band- oder Proberaum möglich   \n  \nEbenfalls befinden sich in den oberen Etagen weitere freie Mietflächen, die für Gewerbezwecke genutzt werden können (https://flatfox.ch/de/wohnung/morgenstrasse-131-3018-bern/831186/).   \n  \nDie Liegenschaft liegt 2 Fahrtminuten vom Autobahnanschluss Niederwangen entfernt. Bahnhof Bümpliz Süd (S-Bahn) ist zu Fuss in 10 min., die Busstation Nr. 27 und 31 in 4 min. zu erreichen. Vom Hauptbahnhof Bern gelangt man mit dem ÖV innerhalb von 25 min. zur Liegenschaft.   \n  \nMietzins auf Anfrage.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 179,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 179,
+    "number_of_rooms": null,
+    "floor": -1,
+    "attributes": [
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Morgenstrasse 131",
+    "zipcode": 3018,
+    "city": "Bern",
+    "public_address": "Morgenstrasse 131, 3018 Bern",
+    "latitude": 46.9338176,
+    "longitude": 7.388941099999999,
+    "year_built": 1991,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 8276595,
+    "images": [
+      {
+        "pk": 8276595,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2024/01/8n9smk9i7bk96rihh0cx4apujdvacr1lrnd1wimj0tta77lwl7.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/8n9smk9i7bk96rihh0cx4apujdvacr1lrnd1wimj0tta77lwl7.jpg?alias=thumb_m&signature=iCFMG6J9EIzj-2i6tCto1gqnB12DCD4Vk3ySq7ZRbeY",
+        "url_listing_search": "/thumb/ff/2024/01/8n9smk9i7bk96rihh0cx4apujdvacr1lrnd1wimj0tta77lwl7.jpg?alias=listing_search&signature=KH6BVPgqRdbp0YoVlj2Y_ze6XwdzPmAk0u8dAY_EzNo",
+        "ordering": 1,
+        "width": 1400,
+        "height": 931
+      },
+      {
+        "pk": 8276596,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2024/01/1811dl9fpn4tuhgkku6f303rd8x49xy8zqws11ev2zwzshmx7p.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/1811dl9fpn4tuhgkku6f303rd8x49xy8zqws11ev2zwzshmx7p.jpg?alias=thumb_m&signature=2SC7-IxVrQwTWeSj0JfayWCEDbt3YObMpLcgyRof5jY",
+        "url_listing_search": "/thumb/ff/2024/01/1811dl9fpn4tuhgkku6f303rd8x49xy8zqws11ev2zwzshmx7p.jpg?alias=listing_search&signature=Y2_3icbgkNXyxxwpaWDPmR4in5DDyI8eQATmdb2VsL8",
+        "ordering": 2,
+        "width": 1400,
+        "height": 931
+      },
+      {
+        "pk": 8276597,
+        "caption": "Kellergang",
+        "url": "/media/ff/2024/01/jg96q673873vfvwixloyjcm26m2ny4et5xgi1hoyx4vpyaetxd.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/jg96q673873vfvwixloyjcm26m2ny4et5xgi1hoyx4vpyaetxd.jpg?alias=thumb_m&signature=UFx3EvpxjXO8LnigFaBVVIdgUPQbm9AC8MyqMgICsjI",
+        "url_listing_search": "/thumb/ff/2024/01/jg96q673873vfvwixloyjcm26m2ny4et5xgi1hoyx4vpyaetxd.jpg?alias=listing_search&signature=_GhTJkrxuT_kHAgQm6EW8VgMQDd7YLKL5Mz3EKu8elc",
+        "ordering": 3,
+        "width": 1400,
+        "height": 788
+      },
+      {
+        "pk": 8276599,
+        "caption": "Lager 47m2",
+        "url": "/media/ff/2024/01/n0x9qfjgoio2i5rur4fttjhk5mhqarkmpmsllh9gds9fl8igvx.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/n0x9qfjgoio2i5rur4fttjhk5mhqarkmpmsllh9gds9fl8igvx.jpg?alias=thumb_m&signature=NULWiZxSYwhHBJpG-91qajWkKnV-JZUj7IS2MGigS2I",
+        "url_listing_search": "/thumb/ff/2024/01/n0x9qfjgoio2i5rur4fttjhk5mhqarkmpmsllh9gds9fl8igvx.jpg?alias=listing_search&signature=VftaAbmz7C5kVE_mIFmNk8SHLxmdCbtIscnZuV1PL0g",
+        "ordering": 4,
+        "width": 1400,
+        "height": 788
+      },
+      {
+        "pk": 8276601,
+        "caption": "Lager 47m2",
+        "url": "/media/ff/2024/01/egg9qpwj454ukqmcigrcxdwz647z4kuae93hcan3risp5f5jz2.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/egg9qpwj454ukqmcigrcxdwz647z4kuae93hcan3risp5f5jz2.jpg?alias=thumb_m&signature=0kkepLTBYw2jRGuVX33_sp5Q_k8-3zTgYJbTeyxFq7M",
+        "url_listing_search": "/thumb/ff/2024/01/egg9qpwj454ukqmcigrcxdwz647z4kuae93hcan3risp5f5jz2.jpg?alias=listing_search&signature=pA7IztKHBHsWh1X3dHEDhX6S2XhaWUuXKGQ-Ph1_RS4",
+        "ordering": 5,
+        "width": 1400,
+        "height": 788
+      },
+      {
+        "pk": 8276606,
+        "caption": "Lager 81m2",
+        "url": "/media/ff/2024/01/u8067b6unlos1vm41l191rce2ifj8l5b4uf10l2yaklfs26ww9.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/u8067b6unlos1vm41l191rce2ifj8l5b4uf10l2yaklfs26ww9.jpg?alias=thumb_m&signature=NjaDc-YPTBQGDUCaU6eN-zZuftO4cWukBJcLyaon-nk",
+        "url_listing_search": "/thumb/ff/2024/01/u8067b6unlos1vm41l191rce2ifj8l5b4uf10l2yaklfs26ww9.jpg?alias=listing_search&signature=pBSbRUve2XELRQWVUyow-BpFzmKCbyJIHyf_3--1oRM",
+        "ordering": 6,
+        "width": 1050,
+        "height": 1400
+      },
+      {
+        "pk": 8276608,
+        "caption": "Lager 81m2",
+        "url": "/media/ff/2024/01/gnv3fxmlk4m14fnfgae0gymthe8m5ca40w43o4nscm0sl5qf5j.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/gnv3fxmlk4m14fnfgae0gymthe8m5ca40w43o4nscm0sl5qf5j.jpg?alias=thumb_m&signature=9F1ighrkdl7mzicEVUJisGGoKKr5_l69ePPbDLlHAa0",
+        "url_listing_search": "/thumb/ff/2024/01/gnv3fxmlk4m14fnfgae0gymthe8m5ca40w43o4nscm0sl5qf5j.jpg?alias=listing_search&signature=uJ9Fa0F5HmQrk6Iue09Ism9ARDPbEQnDdM47vEamVHc",
+        "ordering": 7,
+        "width": 1050,
+        "height": 1400
+      },
+      {
+        "pk": 8276609,
+        "caption": "Lager 95m2",
+        "url": "/media/ff/2024/01/wp79icl6j19egbwvwtc2m6r23nwcpi6yapac7wfrawnuccwuk9.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/wp79icl6j19egbwvwtc2m6r23nwcpi6yapac7wfrawnuccwuk9.jpg?alias=thumb_m&signature=IIm3Twlz8ai_vyhykr5_YiZeSuJ9G-jLfXQWGUOIfeE",
+        "url_listing_search": "/thumb/ff/2024/01/wp79icl6j19egbwvwtc2m6r23nwcpi6yapac7wfrawnuccwuk9.jpg?alias=listing_search&signature=DtsUFALTys4Ypj0QylCHc7yvgVfBJgYGsKiB_mn4ym0",
+        "ordering": 8,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 8276610,
+        "caption": "Lager 95m2",
+        "url": "/media/ff/2024/01/5l0cl63q0hn5d82eaq8d8g0vak0t4zggihoh7ngrzs66t9fkfp.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/5l0cl63q0hn5d82eaq8d8g0vak0t4zggihoh7ngrzs66t9fkfp.jpg?alias=thumb_m&signature=kERajV2WfWkzp8ve6MEy6cTg-TyDWQExvfvSPvUK4ng",
+        "url_listing_search": "/thumb/ff/2024/01/5l0cl63q0hn5d82eaq8d8g0vak0t4zggihoh7ngrzs66t9fkfp.jpg?alias=listing_search&signature=g4r90rGpG5CiPB171zXHaZpYgvjLs0uSVmX3c7rFYb4",
+        "ordering": 9,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 8276611,
+        "caption": "Lager 143m2",
+        "url": "/media/ff/2024/01/2mcqlimhidml8oisv584v3rlp7u7wjdt28wn1o8vehdovjxdb6.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/2mcqlimhidml8oisv584v3rlp7u7wjdt28wn1o8vehdovjxdb6.jpg?alias=thumb_m&signature=o2oXj77FVezWC27zgstXQma8gcLiwUwniylf2dx_U-A",
+        "url_listing_search": "/thumb/ff/2024/01/2mcqlimhidml8oisv584v3rlp7u7wjdt28wn1o8vehdovjxdb6.jpg?alias=listing_search&signature=B0PcaqHlKm9QYx8v-I1mZy7ToXU14o52cbpko_Cesos",
+        "ordering": 10,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 8276612,
+        "caption": "Lager 143m2",
+        "url": "/media/ff/2024/01/ot1gskyw04r2o82cjdgpg3r0ycjg9rei3i808nyy7958f7paii.jpg",
+        "url_thumb_m": "/thumb/ff/2024/01/ot1gskyw04r2o82cjdgpg3r0ycjg9rei3i808nyy7958f7paii.jpg?alias=thumb_m&signature=L3Z4aeA5umpbocOtKnsbBH5VHiiIphJ4Z_6Ela5xg-c",
+        "url_listing_search": "/thumb/ff/2024/01/ot1gskyw04r2o82cjdgpg3r0ycjg9rei3i808nyy7958f7paii.jpg?alias=listing_search&signature=B1qGIPbkakISM1eLQEUrEi6iwsLtZbvitKNaH2YbZa8",
+        "ordering": 11,
+        "width": 585,
+        "height": 390
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Niederer AG",
+      "name_2": null,
+      "street": "Unterdorfstrasse 5",
+      "zipcode": "3072",
+      "city": "Ostermundigen",
+      "country": null,
+      "logo": {
+        "url": "/media/org/2026/06/ccegcu7ikigy7plkvw3n1atpxu3eiys27wsx90eqpq7mdi1uwn.png",
+        "url_org_logo_m": "/thumb/org/2026/06/ccegcu7ikigy7plkvw3n1atpxu3eiys27wsx90eqpq7mdi1uwn.png?alias=org_logo_m&signature=s347aJ_Mnd4NXfWOohb6bCYL8XdlmSggTJbksPCneaM"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "179m² Lager in Bern mieten",
+    "livingspace": 179
+  }
+}

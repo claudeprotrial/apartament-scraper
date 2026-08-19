@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1862.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/murtenstrasse-143-3008-bern/1603575/",
+    "descarcat": "2026-08-17 12:24",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisfläche"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 1603575,
+    "slug": "murtenstrasse-143-3008-bern",
+    "url": "/de/wohnung/murtenstrasse-143-3008-bern/1603575/",
+    "short_url": "/1603575/",
+    "submit_url": "/de/listing/1603575/submit/",
+    "status": "act",
+    "created": "2025-03-18T14:54:21.035353+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "VM100.0321033.08",
+    "ref_property": "VM100",
+    "ref_house": "0321033",
+    "ref_object": "08",
+    "alternative_reference": "",
+    "price_display": 120,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-03-18T14:54:21.659581+01:00",
+    "rent_net": 120,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "235m² Büro",
+    "public_title": "Murtenstrasse 143, 3008 Bern - CHF 120 exkl. NK pro m² / Jahr",
+    "pitch_title": "235m² Büro in Bern mieten",
+    "description_title": "Ihre neue Business-Location in Bern",
+    "description": "**Attraktive Mietzinskonditionen ab CHF 120.-/m2/p.a. (netto) - melden Sie sich für ein einmaliges Angebot!**  \n  \nWir vermieten ab sofort oder nach Vereinbarung diverse Büro- sowie Praxisflächen im Obergeschoss an der Murtenstrasse 143 in Bern. Die Fläche im 1. OG befindet sich im Rohbau und kann - ganz nach Ihren Bedürfnissen - ausgebaut werden.  \n  \nIn der Liegenschaft befindet sich zudem ein Warenlift.  \n  \n**Attraktiver Standort für Ihr Business**  \nDie Liegenschaft an der Murtenstrasse 143 in Bern liegt zentral in Bern im Ausserholligen Quartier. Via ÖV sind Sie in 10 Minuten im Zentrum Berns oder in 10 Minuten am Bahnhof.  \nVon auswärts gelangen Sie über die A1 zur Liegenschaft, ohne dass Sie durch das Zentrum der Stadt fahren müssen.  \n  \n**Erste Highlights:**  \n  \n\n*   Sehr helle Büroflächen (Unterteilung flexibel gestaltbar)\n*   IT-Anschlüsse vorhanden\n*   Konferenz- und Seminarraum direkt auf der Etage\n*   2 Personenaufzüge und 1 Warenlift\n*   WC-Anlagen pro Etage\n*   Idealer Mietermix im Gebäude mit Aldi, Noa, Fitness, uvm.\n*   Ausreichend Parkplätze sind vorhanden - Einstellhalle\n\nLassen Sie sich von den weiteren Highlights direkt vor Ort überzeugen und vereinbaren Sie noch heute einen Besichtigungstermin mit uns!  \n  \n**Weiteres Angebot:**  \n  \n\n*   Diverse Lagerflächen sowie Einstellplätze können dazu gemietet werden. Bitte melden Sie sich bei uns für weitere Informationen.\n\n**Konditionen:**  \nDer Nettomietzins von CHF 120 pro m²/Jahr (zzgl. NK) im ersten Jahr basiert auf einer 5-jährigen Vertragsdauer und versteht sich als Startpreis.  \nAuch nach Ablauf der Rabattierung im ersten Jahr können wir Ihnen weiterhin attraktive Mietzinse anbieten; je nach Mietdauer, Ausbau & Fläche die Sie wünschen.  \n  \nKontaktieren Sie uns gerne für Angaben zu den Konditionen.  \n  \nSie wünschen weitere Auskünfte? Wir beraten Sie gerne und zeigen Ihnen die Räumlichkeiten bei einem persönlichen Besichtigungstermin. Wir freuen uns auf Ihre Anfrage.  \n  \n_\\*Die aufgeführten Impressionen (Fotos) sind urheberrechtlich geschützt und dürfen nicht von Dritten verwendet werden. Die Flächen werden ohne Einrichtung vermietet._",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 235,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 235,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "view"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Murtenstrasse 143",
+    "zipcode": 3008,
+    "city": "Bern",
+    "public_address": "Murtenstrasse 143, 3008 Bern",
+    "latitude": 46.9491115,
+    "longitude": 7.409465699999999,
+    "year_built": 2011,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "https://vimeo.com/1012064633?share=copy",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 12356349,
+    "images": [
+      {
+        "pk": 12356349,
+        "caption": "",
+        "url": "/media/ff/2025/03/zitouifvy0h0cca6lfp9nighuyft6ajuvpbjoizg9glmgprph5.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/zitouifvy0h0cca6lfp9nighuyft6ajuvpbjoizg9glmgprph5.jpg?alias=thumb_m&signature=1eqXQD78K6fpxVSyAx7BFOmvVbkZoH-Vm8ojr6x07hE",
+        "url_listing_search": "/thumb/ff/2025/03/zitouifvy0h0cca6lfp9nighuyft6ajuvpbjoizg9glmgprph5.jpg?alias=listing_search&signature=m1k1s3UwacviqhonGbsUZFPNPAKCX63UBFkRsjFOmXs",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 29050177,
+        "caption": "",
+        "url": "/media/ff/2025/09/rvehn6luo9bzbgclubcvp2lula59enl9tni4ehoik1qj2goow3.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/rvehn6luo9bzbgclubcvp2lula59enl9tni4ehoik1qj2goow3.jpg?alias=thumb_m&signature=kilriUQNUpuX2NisO65KbXkUN9B7-VjUkjL6MzCIAU8",
+        "url_listing_search": "/thumb/ff/2025/09/rvehn6luo9bzbgclubcvp2lula59enl9tni4ehoik1qj2goow3.jpg?alias=listing_search&signature=U12LfXswEIfo5QJT5g_t2xvEB9Hq2xNeJfQ13GX7RxU",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 29050178,
+        "caption": "",
+        "url": "/media/ff/2025/09/lmbau2k8uzpdh1nvb5me9bnuv5gykbzy8c7cwvybcww68w7zw0.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/lmbau2k8uzpdh1nvb5me9bnuv5gykbzy8c7cwvybcww68w7zw0.jpg?alias=thumb_m&signature=qUbmxmMxvcITxCw5hiPQO4Sp3RTSbb48q53kWiQTqwU",
+        "url_listing_search": "/thumb/ff/2025/09/lmbau2k8uzpdh1nvb5me9bnuv5gykbzy8c7cwvybcww68w7zw0.jpg?alias=listing_search&signature=pExDqhqkLcnnoqjc1rgmBG6kXjf1E4pU7-W6IFcqDMc",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 29050175,
+        "caption": "",
+        "url": "/media/ff/2025/09/ysvq3cnpoo3urxiarecvvu0zzm8ccvbkv6o6wfbtba2heho2yq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/ysvq3cnpoo3urxiarecvvu0zzm8ccvbkv6o6wfbtba2heho2yq.jpg?alias=thumb_m&signature=z1D4nDR8DO2rwJrNZ8n6J_xKE7KutEYNF-9AnVYgxSs",
+        "url_listing_search": "/thumb/ff/2025/09/ysvq3cnpoo3urxiarecvvu0zzm8ccvbkv6o6wfbtba2heho2yq.jpg?alias=listing_search&signature=MSsVavFgU-nmSV1s1XZI3q0yRFakcd-EMoPuBqcHkcA",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 12356350,
+        "caption": "",
+        "url": "/media/ff/2025/03/20rkfpl4r4kc9nzj9nfqiyw02nviin27g1fduvgi5xj4lfu1ca.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/20rkfpl4r4kc9nzj9nfqiyw02nviin27g1fduvgi5xj4lfu1ca.jpg?alias=thumb_m&signature=hBeZJei0To1oQYP0dG3_1xNW0IMfMIM6lvj-L789bpY",
+        "url_listing_search": "/thumb/ff/2025/03/20rkfpl4r4kc9nzj9nfqiyw02nviin27g1fduvgi5xj4lfu1ca.jpg?alias=listing_search&signature=ip_84LYs0l1cmLAVceJyZ7_SHaCaQWzqB-VDUyk2qmE",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 12356351,
+        "caption": "",
+        "url": "/media/ff/2025/03/ct37yuss3uoi1gqsfxutfxwgg25l1xubo6ng2mj54i7hdu3ora.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/ct37yuss3uoi1gqsfxutfxwgg25l1xubo6ng2mj54i7hdu3ora.jpg?alias=thumb_m&signature=Oe5_FTa3IZUqmEKR2X6syfFWMWrH_z6HR8g-qDv6vok",
+        "url_listing_search": "/thumb/ff/2025/03/ct37yuss3uoi1gqsfxutfxwgg25l1xubo6ng2mj54i7hdu3ora.jpg?alias=listing_search&signature=EnhH8Bm_87ihbpc38_oGD4QhZaaavHwtY3CV8uG0Vi8",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 12356352,
+        "caption": "",
+        "url": "/media/ff/2025/03/cye1uo6498wile7m6vsyhgx61cmfcn1trl33kp79is3e2krhe7.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/cye1uo6498wile7m6vsyhgx61cmfcn1trl33kp79is3e2krhe7.jpg?alias=thumb_m&signature=iscxDKK9_xml7tlN4lHHq4SsnaYUnEvuHrBy6dba7qc",
+        "url_listing_search": "/thumb/ff/2025/03/cye1uo6498wile7m6vsyhgx61cmfcn1trl33kp79is3e2krhe7.jpg?alias=listing_search&signature=ylJX2SkjmPd48V0I2gAjwpM0yzC8vlXixaoI1go6x5c",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 12356353,
+        "caption": "",
+        "url": "/media/ff/2025/03/12pm6ok43bel3xo6ilw0qx0iyd8273eaksqf9681qvq8b8bzmq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/12pm6ok43bel3xo6ilw0qx0iyd8273eaksqf9681qvq8b8bzmq.jpg?alias=thumb_m&signature=wLAmcge7MDeJA8HbdIfNRYIK3lu3qRHO6bUbCmG6o3Y",
+        "url_listing_search": "/thumb/ff/2025/03/12pm6ok43bel3xo6ilw0qx0iyd8273eaksqf9681qvq8b8bzmq.jpg?alias=listing_search&signature=umUUPuCo2mLCrvj1QfRHyjgw_lUiRNJH0aBcoh0rMBo",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 12356354,
+        "caption": "",
+        "url": "/media/ff/2025/03/xegheov0vwn90mdlafnqx0z2pnwseh8f9b58bopoe65y70d1l7.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/xegheov0vwn90mdlafnqx0z2pnwseh8f9b58bopoe65y70d1l7.jpg?alias=thumb_m&signature=g0Rs6j3HXykRNaQ_CCrVEMVmbW0Pu5Qr8BPT9N8Y74U",
+        "url_listing_search": "/thumb/ff/2025/03/xegheov0vwn90mdlafnqx0z2pnwseh8f9b58bopoe65y70d1l7.jpg?alias=listing_search&signature=nz86nHNvWOxN9MEQsay3duD7HJxfKSnWPpZ0_u9bPxs",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 29050176,
+        "caption": "",
+        "url": "/media/ff/2025/09/5nlybg4xj8n0z2mvgwmeogyh9d3oswjk37s9v404t9e2853oys.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/5nlybg4xj8n0z2mvgwmeogyh9d3oswjk37s9v404t9e2853oys.jpg?alias=thumb_m&signature=0NPtlMp7E2t8BCgZRb_5Q5BIjsehMbnMqnbo1YQN7Ww",
+        "url_listing_search": "/thumb/ff/2025/09/5nlybg4xj8n0z2mvgwmeogyh9d3oswjk37s9v404t9e2853oys.jpg?alias=listing_search&signature=BPX60pqNfBCt9zYnHCGgAuem0cFz7p9eTu_I4Bgnr8U",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Privera AG",
+      "name_2": "",
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png",
+        "url_org_logo_m": "/thumb/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png?alias=org_logo_m&signature=AShB2wTW9RgBQlL5EayIx5KA4p6RhJExHnOr31HV8GA"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "235m² Büro in Bern mieten",
+    "livingspace": 235
+  }
+}

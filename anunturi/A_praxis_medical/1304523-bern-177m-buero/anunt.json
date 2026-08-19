@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1792.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/marktgasse-50-3011-bern/1304523/",
+    "descarcat": "2026-08-17 12:25",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisfläche",
+        "praxisräumlichkeiten"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 1304523,
+    "slug": "marktgasse-50-3011-bern",
+    "url": "/de/wohnung/marktgasse-50-3011-bern/1304523/",
+    "short_url": "/1304523/",
+    "submit_url": "/de/listing/1304523/submit/",
+    "status": "act",
+    "created": "2024-08-28T08:41:55.722611+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "13460.01.410020",
+    "ref_property": "13460",
+    "ref_house": "01",
+    "ref_object": "410020",
+    "alternative_reference": null,
+    "price_display": 293,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-10-27T20:13:40.429432+01:00",
+    "rent_net": 280,
+    "rent_charges": 13,
+    "rent_gross": 293,
+    "short_title": "177m² Büro",
+    "public_title": "Marktgasse 50, 3011 Bern - CHF 293 inkl. NK pro m² / Jahr",
+    "pitch_title": "177m² Büro in Bern mieten",
+    "description_title": "Neue Büro- oder Praxisfläche im Stadtzentrum zu vermieten!",
+    "description": "An der Marktgasse 50, in kurzer Gehdistanz vom Hauptbahnhof entfernt, vermieten wir eine neue Büro- oder Praxisfläche von 177 m2.   \n  \nDer Fertigausbau kann vom zukünftigen Mieter im Rahmen der baulichen Möglichkeiten noch mitbestimmt werden.   \n  \nBei den Bildern handelt es sich um Visualisierungen, welche die Nutzung als Büro- oder Praxisräumlichkeiten mit Raumunterteilung zeigen. Eine Nutzung als Open-Space-Bürofläche ist auch möglich.   \n  \nDie Mietfläche bietet folgende Vorzüge:   \n\\- Sehr gute Innenstadtlage   \n\\- Hervorragende Erschliessung durch die öffentlichen Verkehrsmittel   \n\\- Metro-Parking in der Nähe   \n\\- Raumüberhöhe (ca. 3 Meter)   \n\\- Innerhalb der Liegenschaft sehr ruhig gelegen   \n\\- Zu- und Abluftanlage   \n\\- Zwei neu erstellte WC-Anlagen   \n\\- Kabelkanäle entlang den Umfassungsmauern   \n\\- Anschlüsse für Kleinküche   \n\\- Budget für Fertigbodenbelag   \n\\- Budget für die Raumunterteilung   \n\\- Mitbenutzung Personenaufzug   \n\\- Geringe Nebenkosten (Heizung, Warmwasser, Kehrichtgrundgebühren)   \n  \nNicht im Grundausbau enthalten:   \n\\- IT-Verkabelung in bestehenden Kabelkanälen   \n\\- Kleinküche (Möbel und Apparate)   \n\\- Beleuchtung   \n\\- Mobiliar   \n  \nDer Fertigausbau beansprucht einen zeitlichen Vorlauf von mindestens drei Monaten.   \n  \nFür Besichtigungen oder weitere Auskünfte sind wir gerne für Sie da und freuen uns auf Ihre schriftliche Anfrage!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 177,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 177,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Marktgasse 50",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Marktgasse 50, 3011 Bern",
+    "latitude": 46.9482948,
+    "longitude": 7.444693600000001,
+    "year_built": 1912,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48842756,
+    "images": [
+      {
+        "pk": 48842756,
+        "caption": "Büro",
+        "url": "/media/ff/2026/08/kpnh2rdaju7o3kxdb2v9ko66p5x4a1l1csxfug1dc1ikcdj7pp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/kpnh2rdaju7o3kxdb2v9ko66p5x4a1l1csxfug1dc1ikcdj7pp.jpg?alias=thumb_m&signature=vJaLXQhf_nqLrtHsXUB47yAzCRmc69EVZdvuHK9dMD8",
+        "url_listing_search": "/thumb/ff/2026/08/kpnh2rdaju7o3kxdb2v9ko66p5x4a1l1csxfug1dc1ikcdj7pp.jpg?alias=listing_search&signature=HZsd0SZG00jDwWFyRPU-YG7utZsoYseFcoQr0BlAXLs",
+        "ordering": 1,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48842757,
+        "caption": "Büro",
+        "url": "/media/ff/2026/08/bpxa9ero2vb6tmgx1ztljjj4w6mdmo0fuuxuuc33m6lz66ftyn.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/bpxa9ero2vb6tmgx1ztljjj4w6mdmo0fuuxuuc33m6lz66ftyn.jpg?alias=thumb_m&signature=YAR6KsdWOmPpwDJOUl1l7i9u8DsUJsxPnI2MuRF0j_E",
+        "url_listing_search": "/thumb/ff/2026/08/bpxa9ero2vb6tmgx1ztljjj4w6mdmo0fuuxuuc33m6lz66ftyn.jpg?alias=listing_search&signature=N2U90j1ElkCWniQLmEjrxYNz_odHGpptbwVev0Y5pmc",
+        "ordering": 2,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48842758,
+        "caption": "Eingangsbereich",
+        "url": "/media/ff/2026/08/gdwp3l1cvus9pmb6tfy16c3p71nc4dspxd6rmy4mpeqcz27cf1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/gdwp3l1cvus9pmb6tfy16c3p71nc4dspxd6rmy4mpeqcz27cf1.jpg?alias=thumb_m&signature=MahmWQTw6q_kkt9VeLAQsGVY-6PjkaYsyd3ef--IWRE",
+        "url_listing_search": "/thumb/ff/2026/08/gdwp3l1cvus9pmb6tfy16c3p71nc4dspxd6rmy4mpeqcz27cf1.jpg?alias=listing_search&signature=XgrisH2Rrt0GREwwKlf8m9BKBMNII8mt9OKNeEgztu4",
+        "ordering": 3,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48842759,
+        "caption": "Küche und Eingangsbereich",
+        "url": "/media/ff/2026/08/2b6vig8gcj2ish9eu0xyx10j5os7bsi490hj3rvfur79d95lzp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/2b6vig8gcj2ish9eu0xyx10j5os7bsi490hj3rvfur79d95lzp.jpg?alias=thumb_m&signature=DPmIZE6mTqrCKyeSdkMKuSsyreQ3qL6O-77BcVGctrY",
+        "url_listing_search": "/thumb/ff/2026/08/2b6vig8gcj2ish9eu0xyx10j5os7bsi490hj3rvfur79d95lzp.jpg?alias=listing_search&signature=Zf5C2VCrVMuEAUn2siO8541xpP5dZNyndHeS3mBGCiQ",
+        "ordering": 4,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48842760,
+        "caption": "Küche und Aufenthalt",
+        "url": "/media/ff/2026/08/8swvt1dg7f7xsk77kgirpf15heu8e0hfjqetwxbuioqc3xfhct.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/8swvt1dg7f7xsk77kgirpf15heu8e0hfjqetwxbuioqc3xfhct.jpg?alias=thumb_m&signature=QtPADsZEF4pv050zFeS9xQ-Rm4tUAizfoH3ablvwOCY",
+        "url_listing_search": "/thumb/ff/2026/08/8swvt1dg7f7xsk77kgirpf15heu8e0hfjqetwxbuioqc3xfhct.jpg?alias=listing_search&signature=0atx7PtkSIiY3nZjxd09ZFc-PwzKRR7KPYDilmI7RSI",
+        "ordering": 5,
+        "width": 1024,
+        "height": 853
+      },
+      {
+        "pk": 48842761,
+        "caption": "Sitzungszimmer",
+        "url": "/media/ff/2026/08/6ji2sji24gkku8fp5wc1ww50o598g6srzc1o5vrstkrpifccjp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/6ji2sji24gkku8fp5wc1ww50o598g6srzc1o5vrstkrpifccjp.jpg?alias=thumb_m&signature=b4zjvDwGF8c8Zm3xZvhSUkQUtUtQ7OEsJPObaOetzs4",
+        "url_listing_search": "/thumb/ff/2026/08/6ji2sji24gkku8fp5wc1ww50o598g6srzc1o5vrstkrpifccjp.jpg?alias=listing_search&signature=Upxo4tij-nVhhAX5QGaQM9jB81wxJMi9Y_SETgAgVYo",
+        "ordering": 6,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 34038186,
+        "caption": "WC-Anlage",
+        "url": "/media/ff/2026/03/lnf86exrk8ml4h9nbk1j95e3ml8pae7cic5mopzijbne1nkyvd.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/lnf86exrk8ml4h9nbk1j95e3ml8pae7cic5mopzijbne1nkyvd.jpg?alias=thumb_m&signature=Oq6fWDXSJ4IEtqeg0Z-0J2-fO3o8sOWEz0dBcbgkcZg",
+        "url_listing_search": "/thumb/ff/2026/03/lnf86exrk8ml4h9nbk1j95e3ml8pae7cic5mopzijbne1nkyvd.jpg?alias=listing_search&signature=jdkRPMBsUtvR-oW8me9ksxEFOCTumfK2tV3MSKwdFT0",
+        "ordering": 7,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 31490381,
+        "caption": "Neubarocke Fassade, Marktgasse",
+        "url": "/media/ff/2025/11/1r2enhzr1skx8vusazjqpvt9o04crr28hkqwcsh2u1rn3jnxkn.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/1r2enhzr1skx8vusazjqpvt9o04crr28hkqwcsh2u1rn3jnxkn.jpg?alias=thumb_m&signature=TlycePuat_7QYKG-t26oHam3lwhqRGRRokU6mKn0DjI",
+        "url_listing_search": "/thumb/ff/2025/11/1r2enhzr1skx8vusazjqpvt9o04crr28hkqwcsh2u1rn3jnxkn.jpg?alias=listing_search&signature=v_JiL7OloudiaRoY0AuB0Jb4tO3ZecDclBDP8BILXq0",
+        "ordering": 8,
+        "width": 832,
+        "height": 1024
+      },
+      {
+        "pk": 30756148,
+        "caption": "Treppenhaus (denkmalgeschützt)",
+        "url": "/media/ff/2025/10/4xksc4h13k7ye8d0odr3nbugv67mm6j5v3u28xunvjla12dir5.jpg",
+        "url_thumb_m": "/thumb/ff/2025/10/4xksc4h13k7ye8d0odr3nbugv67mm6j5v3u28xunvjla12dir5.jpg?alias=thumb_m&signature=2h_w6kHNaxUUMm2h_CDj2nqPTMpASuEfZaqY9Wx-2nc",
+        "url_listing_search": "/thumb/ff/2025/10/4xksc4h13k7ye8d0odr3nbugv67mm6j5v3u28xunvjla12dir5.jpg?alias=listing_search&signature=y2c0XC7OlCPfWAkKGTe2TLeiDfNgLMCMRXyRBYAxNqQ",
+        "ordering": 9,
+        "width": 768,
+        "height": 1024
+      }
+    ],
+    "documents": [
+      752169
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "177m² Büro in Bern mieten",
+    "livingspace": 177
+  }
+}

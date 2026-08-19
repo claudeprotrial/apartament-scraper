@@ -1,0 +1,192 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1776.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/konizstrasse-74-3008-bern/85864203/",
+    "descarcat": "2026-08-17 12:25",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "gastronomie"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 85864203,
+    "slug": "konizstrasse-74-3008-bern",
+    "url": "/de/wohnung/konizstrasse-74-3008-bern/85864203/",
+    "short_url": "/85864203/",
+    "submit_url": "/de/listing/85864203/submit/",
+    "status": "act",
+    "created": "2026-03-13T09:28:05.648911+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "25203.01.30100.Privera7",
+    "ref_property": "25203",
+    "ref_house": "01.30100",
+    "ref_object": "Privera7",
+    "alternative_reference": "",
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2026-03-13T09:28:06.846590+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "50-400m² Gewerbe",
+    "public_title": "Könizstrasse 74, 3008 Bern - auf Anfrage",
+    "pitch_title": "50-400m² Gewerbe in Bern mieten",
+    "description_title": "Flexible Gewerbefläche an zentraler Lage – ideal für KITA, Büro oder Praxis",
+    "description": "Die angebotene Fläche eignet sich ideal für eine Kindertagesstätte (KITA), ist jedoch auch perfekt nutzbar als Büro oder Praxis. Die Raumaufteilung ermöglicht individuelle Anpassungen je nach Bedarf.  \n**Flächenaufteilung:**  \n– 1. Obergeschoss: ca. 318 m² mit Sanitärräumen und Küchen  \n– Zwischengeschoss: ca. 45 m² mit zusätzlicher Küche und WC  \n– Terrasse: ca. 242 m² (exklusive Aussenfläche)  \n– Teilflächen sind möglich (Innenfläche ca. 50m2 und 300m2)  \n– Abstell-/ und Lagerräume diverse Vorhanden  \n– Einstellhallenplätze vorhanden  \n**Highlights:**  \n– Vielseitig nutzbare Gewerbefläche  \n– Zentrale Lage mit guter Anbindung an den öffentlichen Verkehr  \n– Grosse Terrasse mit vielseitigem Nutzungspotenzial  \n– Diverse Küchen und moderne Sanitäranlagen (auf der Hauptfläche spezielle Sanitäranlagen für Kinder)  \n– Lager-/Abstellfläche im Erdgeschoss  \n– Einstellhallenplätze direkt im Gebäude  \n– Bezug ab sofort möglich  \n**Lage:**  \nDie Liegenschaft befindet sich an der gut frequentierten Könizstrasse im westlichen Teil von Bern, im Stadtteil Weissenbühl. Die Bus- und Tramhaltestellen „Wabernstrasse“ und „Steigerhubel“ befinden sich in Gehdistanz und bieten direkten Anschluss an das Stadtzentrum sowie den Bahnhof Bern. Auch der Autobahnanschluss ist in wenigen Minuten erreichbar. In der direkten Umgebung befinden sich Schulen, Einkaufsmöglichkeiten, Gastronomiebetriebe und öffentliche Einrichtungen – ein attraktives Umfeld für Mitarbeitende, Kundschaft oder Eltern von Kita-Kindern.  \n**Mietkonditionen:**  \nGerne geben wir Ihnen bei Interesse detaillierte Auskünfte zu den Mietpreisen und Konditionen.  \n**Haben wir Ihr Interesse geweckt?**  \nGerne stehen wir für weitere Informationen oder einen unverbindlichen Besichtigungstermin zur Verfügung. Wir freuen uns auf Ihre Kontaktaufnahme!  \n  \n_\\*Die aufgeführten Impressionen (Fotos) sind urheberrechtlich geschützt und dürfen nicht von Dritten verwendet werden. Die Flächen werden ohne Einrichtung vermietet._",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 400,
+    "surface_usable_minimum": 50,
+    "volume": null,
+    "space_display": 400,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Könizstrasse 74",
+    "zipcode": 3008,
+    "city": "Bern",
+    "public_address": "Könizstrasse 74, 3008 Bern",
+    "latitude": 46.9403097,
+    "longitude": 7.417657499999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 34371033,
+    "images": [
+      {
+        "pk": 34371033,
+        "caption": "",
+        "url": "/media/ff/2026/03/i063ipk81zsz90e1uji2rlo7rtx6j1mw08ru0dekuexxnlqdmp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/i063ipk81zsz90e1uji2rlo7rtx6j1mw08ru0dekuexxnlqdmp.jpg?alias=thumb_m&signature=6CtgrDdeAVy9NB9BlnqsSkuOkJe5N9yc9l4iKkBXVPc",
+        "url_listing_search": "/thumb/ff/2026/03/i063ipk81zsz90e1uji2rlo7rtx6j1mw08ru0dekuexxnlqdmp.jpg?alias=listing_search&signature=s6vskQB6E0meGBTpR5gwE0HviWjQnnzK_lxHOVgoOfk",
+        "ordering": 1,
+        "width": 1000,
+        "height": 1500
+      },
+      {
+        "pk": 34371034,
+        "caption": "",
+        "url": "/media/ff/2026/03/k60ojuitsj2nlad9kae4eh7fnheimm02lhwviamoic2ikv05nr.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/k60ojuitsj2nlad9kae4eh7fnheimm02lhwviamoic2ikv05nr.jpg?alias=thumb_m&signature=or6IFKyoyb4Q5GddNzC3ckHizJYNBxp9BCkZMWrpTPY",
+        "url_listing_search": "/thumb/ff/2026/03/k60ojuitsj2nlad9kae4eh7fnheimm02lhwviamoic2ikv05nr.jpg?alias=listing_search&signature=3SJ0qVPJdV3lXUTqOZFVXV0ihbu8h_y9bNVJgbxNAFk",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34371035,
+        "caption": "",
+        "url": "/media/ff/2026/03/j5o7o8bjo4wiqim0ju5doc8e3p6r8x7pus0fahb5y2u8fpmbfh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/j5o7o8bjo4wiqim0ju5doc8e3p6r8x7pus0fahb5y2u8fpmbfh.jpg?alias=thumb_m&signature=7g33HJrrnlxZAMCkmJXFudOtLrD0hidXaWl4KzAE_rM",
+        "url_listing_search": "/thumb/ff/2026/03/j5o7o8bjo4wiqim0ju5doc8e3p6r8x7pus0fahb5y2u8fpmbfh.jpg?alias=listing_search&signature=PxVDDtNPv-xI8FtfPt61iL82z4HCl5jEAcI75q4lLfs",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34371036,
+        "caption": "",
+        "url": "/media/ff/2026/03/czxczjs2nplo9752z8xmxj2qeor5v9nrbpu4lo4ersl08zrzkq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/czxczjs2nplo9752z8xmxj2qeor5v9nrbpu4lo4ersl08zrzkq.jpg?alias=thumb_m&signature=gQ-7v2_LWG9HtvDlEj0jBXWXqvQwhHZ8kgwVX1TVDGE",
+        "url_listing_search": "/thumb/ff/2026/03/czxczjs2nplo9752z8xmxj2qeor5v9nrbpu4lo4ersl08zrzkq.jpg?alias=listing_search&signature=JFvk5s2naijLGge1wxFWLhmotmBGU2Uz8n1sjm-sQZ0",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34371037,
+        "caption": "",
+        "url": "/media/ff/2026/03/8tlozufi9ktccg1faw0kqs8uq34t1jgbkh9f38i78ifx00bqf0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/8tlozufi9ktccg1faw0kqs8uq34t1jgbkh9f38i78ifx00bqf0.jpg?alias=thumb_m&signature=ytnr_vCCXMfPNR3aloC_D2KqKbC9n8g5FSIYqTqo8tw",
+        "url_listing_search": "/thumb/ff/2026/03/8tlozufi9ktccg1faw0kqs8uq34t1jgbkh9f38i78ifx00bqf0.jpg?alias=listing_search&signature=d93Lcq-KJME0vkWUXgUDmzbwZXDsw1qrfWZJcKdqdbo",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34371038,
+        "caption": "",
+        "url": "/media/ff/2026/03/pgy1ce9xxhtnn7x76eufehxksd2ai5merf5qejru4engho9q1e.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/pgy1ce9xxhtnn7x76eufehxksd2ai5merf5qejru4engho9q1e.jpg?alias=thumb_m&signature=yAW8ozVotxrDtuTgDi3Rs_98GuQ3vpC6TlOaTO8A-BE",
+        "url_listing_search": "/thumb/ff/2026/03/pgy1ce9xxhtnn7x76eufehxksd2ai5merf5qejru4engho9q1e.jpg?alias=listing_search&signature=OE0LPd94Jy36kqZO_FXS_KTo9yeSiMfSh-lUJwHoftE",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34371039,
+        "caption": "",
+        "url": "/media/ff/2026/03/qet12r04tk2akn1dhch3inx29c6qk15eripdb1zoi4z2qx7uub.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/qet12r04tk2akn1dhch3inx29c6qk15eripdb1zoi4z2qx7uub.jpg?alias=thumb_m&signature=XpzQeGDLC00IorGLPNgSi9FOFMqvHx1057wiSvF7VKE",
+        "url_listing_search": "/thumb/ff/2026/03/qet12r04tk2akn1dhch3inx29c6qk15eripdb1zoi4z2qx7uub.jpg?alias=listing_search&signature=ScI0iXM-48Ks62KEZjNkclS6fbGgkn_uVaSwgdCKaM0",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34371040,
+        "caption": "",
+        "url": "/media/ff/2026/03/4vazot8ww68fm0pmziwob5lt5sjoh1bjzpb8926u0ldnxq87td.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/4vazot8ww68fm0pmziwob5lt5sjoh1bjzpb8926u0ldnxq87td.jpg?alias=thumb_m&signature=VJcti0qyiy0fjvlvRBaHySOZxg7yxwxEsaQIvvpOHg8",
+        "url_listing_search": "/thumb/ff/2026/03/4vazot8ww68fm0pmziwob5lt5sjoh1bjzpb8926u0ldnxq87td.jpg?alias=listing_search&signature=5A1EofCokjdNfLmLzfs1vbFFqTOPO6I8RKTWfHjXz5E",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      692667,
+      692665
+    ],
+    "agency": {
+      "name": "PRIVERA AG",
+      "name_2": "",
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2021/01/bq2tuk42zvmce9dn6kvafbtyxoo2wfp18bg2hxhwgcgtj8px7k.png",
+        "url_org_logo_m": "/thumb/org/2021/01/bq2tuk42zvmce9dn6kvafbtyxoo2wfp18bg2hxhwgcgtj8px7k.png?alias=org_logo_m&signature=-VqhMaen_7L90FG2NNP0Xqe7Gnv3J7HDDsU_I0YStZM"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "50-400m² Gewerbe in Bern mieten",
+    "livingspace": 400
+  }
+}

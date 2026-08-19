@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1690.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/finkenhubelweg-11-3012-bern/86068410/",
+    "descarcat": "2026-08-17 12:30",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "büro-",
+        "coworking",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 86068410,
+    "slug": "finkenhubelweg-11-3012-bern",
+    "url": "/de/wohnung/finkenhubelweg-11-3012-bern/86068410/",
+    "short_url": "/86068410/",
+    "submit_url": "/de/listing/86068410/submit/",
+    "status": "act",
+    "created": "2026-05-28T19:29:47.029674+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "19440.01.01041",
+    "ref_property": "19440",
+    "ref_house": "01",
+    "ref_object": "01041",
+    "alternative_reference": null,
+    "price_display": 5417,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-05-28T19:29:47.404999+02:00",
+    "rent_net": 4967,
+    "rent_charges": 450,
+    "rent_gross": 5417,
+    "short_title": "270m² Büro",
+    "public_title": "Finkenhubelweg 11, 3012 Bern - CHF 5’417 inkl. NK pro Monat",
+    "pitch_title": "270m² Büro in Bern mieten",
+    "description_title": "Zwischenvermietung Gewerbefläche!",
+    "description": "Zur befristeten Zwischenvermietung steht ab dem 01.01.2027 bis voraussichtlich 2029 eine gepflegte Gewerbefläche zur Verfügung. \n\n  \n\n\nDie Räumlichkeiten eignen sich ideal als Büro-, Praxis- oder Atelierfläche und Coworking Space. Sie bieten ein professionelles Arbeitsumfeld mit flexiblen Nutzungsmöglichkeiten. \n\n  \n\n\n  * Verfügbarkeit: ab 01.01.2027 \n  * Befristete Mietdauer bis 2029 \n  * Flexible Nutzungsmöglichkeiten \n  * Gute Erreichbarkeit und Infrastruktur \n\n  \n\n\nIm selben Gebäude stehen mehrere Flächen in unterschiedlichen Grössen zur Vermietung frei. \n\n  \n\n\nWeitere Informationen stellen wir Ihnen gerne auf Anfrage zur Verfügung. Wir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 270,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 270,
+    "number_of_rooms": null,
+    "floor": 4,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Finkenhubelweg 11",
+    "zipcode": 3012,
+    "city": "Bern",
+    "public_address": "Finkenhubelweg 11, 3012 Bern",
+    "latitude": 46.9489254,
+    "longitude": 7.4301615,
+    "year_built": 1978,
+    "year_renovated": 2019,
+    "moving_date_type": "dat",
+    "moving_date": "2027-01-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 36140128,
+    "images": [
+      {
+        "pk": 36140128,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/05/q1tspstiylogcbxhghvkrre7fm8pjrbu9jnvwru787wgxaprd1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/q1tspstiylogcbxhghvkrre7fm8pjrbu9jnvwru787wgxaprd1.jpg?alias=thumb_m&signature=IVHP0tqlR_zWgEIWMSwLI-0zcq80dd8JnK4yhk8nO4I",
+        "url_listing_search": "/thumb/ff/2026/05/q1tspstiylogcbxhghvkrre7fm8pjrbu9jnvwru787wgxaprd1.jpg?alias=listing_search&signature=MaSe4sr4NHK7dMvNy7zFzb0ezP6lRiaj8aJRN-LK6AY",
+        "ordering": 1,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 36140129,
+        "caption": "Grundrissplan",
+        "url": "/media/ff/2026/05/5fdxl6ifr6qfxyybgao4d2jhjsdyup4k3l26351v2fz1g8avdz.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/5fdxl6ifr6qfxyybgao4d2jhjsdyup4k3l26351v2fz1g8avdz.jpg?alias=thumb_m&signature=H8_-riWaUKXm0tsIh9yP2-hyvk2-G-PlPmShSbWlvP4",
+        "url_listing_search": "/thumb/ff/2026/05/5fdxl6ifr6qfxyybgao4d2jhjsdyup4k3l26351v2fz1g8avdz.jpg?alias=listing_search&signature=Wzu5A0m0AQeWRMVweoeU8drpvOkXn1ejkHePimDZi0w",
+        "ordering": 2,
+        "width": 497,
+        "height": 642
+      },
+      {
+        "pk": 48101712,
+        "caption": "Büro 1",
+        "url": "/media/ff/2026/07/mo0am3eq5k4uuveyxok7gr80nm4jo632clkwl1wgak6jfznhbb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/mo0am3eq5k4uuveyxok7gr80nm4jo632clkwl1wgak6jfznhbb.jpg?alias=thumb_m&signature=8VL5NwP7NXdGNJWcUPjgeDKPUztuARnHgvpDSbqhz98",
+        "url_listing_search": "/thumb/ff/2026/07/mo0am3eq5k4uuveyxok7gr80nm4jo632clkwl1wgak6jfznhbb.jpg?alias=listing_search&signature=XHQNkFaJo5p7UOBUcwviFuPfOiLRPJk_TqHMcWZI468",
+        "ordering": 3,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48101713,
+        "caption": "Büro2",
+        "url": "/media/ff/2026/07/wc6m44284yy9oeap7xfu5o9tmc83ww02fve5xrccmnec1ehyo4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/wc6m44284yy9oeap7xfu5o9tmc83ww02fve5xrccmnec1ehyo4.jpg?alias=thumb_m&signature=hkNhFU0azWhlQ_puuRO06zvmC1gvbJJO3xiBjz2tAm8",
+        "url_listing_search": "/thumb/ff/2026/07/wc6m44284yy9oeap7xfu5o9tmc83ww02fve5xrccmnec1ehyo4.jpg?alias=listing_search&signature=kKIxWkAuvDMQ5NJPeU0YlFaVhUfCsNkHP6FtXuQHWYU",
+        "ordering": 4,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48101714,
+        "caption": "Küche",
+        "url": "/media/ff/2026/07/bq8dowglgisyqmfstqfcyka0xe2pslatf6dpi3cfsu8fsxyh9g.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/bq8dowglgisyqmfstqfcyka0xe2pslatf6dpi3cfsu8fsxyh9g.jpg?alias=thumb_m&signature=3ZgVMipklUPSc9C5K01rz_lysXaNyfDWJUKjjyzZQss",
+        "url_listing_search": "/thumb/ff/2026/07/bq8dowglgisyqmfstqfcyka0xe2pslatf6dpi3cfsu8fsxyh9g.jpg?alias=listing_search&signature=CrxXXpOgI8xBT9j1mDHzHQrRX1LJHfDPt7CrgZgkD6w",
+        "ordering": 5,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48101715,
+        "caption": "Treppenhaus",
+        "url": "/media/ff/2026/07/7rg72ugksq2r11yz5754uw0tfb6vb4lxqtpwf9rj7g3lo8wpfl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/7rg72ugksq2r11yz5754uw0tfb6vb4lxqtpwf9rj7g3lo8wpfl.jpg?alias=thumb_m&signature=o6Rc_uLGa1FPRZ3_cFyV8PiFqSP7OpBE_C9RqZVUGII",
+        "url_listing_search": "/thumb/ff/2026/07/7rg72ugksq2r11yz5754uw0tfb6vb4lxqtpwf9rj7g3lo8wpfl.jpg?alias=listing_search&signature=QnIabJXHF6dFgXJ9FSIDYxhzZvwTAB4T8kaVfDYX5s0",
+        "ordering": 6,
+        "width": 768,
+        "height": 1024
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Privera AG",
+      "name_2": null,
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png",
+        "url_org_logo_m": "/thumb/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png?alias=org_logo_m&signature=AShB2wTW9RgBQlL5EayIx5KA4p6RhJExHnOr31HV8GA"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "270m² Büro in Bern mieten",
+    "livingspace": 270
+  }
+}

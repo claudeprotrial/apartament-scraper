@@ -1,0 +1,258 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1636.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/kirchackerweg-29-3122-kehrsatz/1664582/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "gewerbefläche",
+        "werkstatt"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 14
+  },
+  "raw": {
+    "pk": 1664582,
+    "slug": "kirchackerweg-29-3122-kehrsatz",
+    "url": "/de/wohnung/kirchackerweg-29-3122-kehrsatz/1664582/",
+    "short_url": "/1664582/",
+    "submit_url": "/de/listing/1664582/submit/",
+    "status": "act",
+    "created": "2025-04-24T09:25:24.216840+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "213681..193101",
+    "ref_property": "213681",
+    "ref_house": "",
+    "ref_object": "193101",
+    "alternative_reference": "",
+    "price_display": 4425,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-05-13T17:39:12.000916+02:00",
+    "rent_net": 3788,
+    "rent_charges": 637,
+    "rent_gross": null,
+    "short_title": "505m² Gewerbe",
+    "public_title": "Kirchackerweg 29, 3122 Kehrsatz - CHF 4’425 inkl. NK pro Monat",
+    "pitch_title": "505m² Gewerbe in Kehrsatz mieten",
+    "description_title": "Raum für Ihren Betrieb – 505 m² Gewerbefläche mit Laderampe in Kehrsatz",
+    "description": "Sie suchen eine vielseitig nutzbare Gewerbefläche mit viel Platz, praktischer Infrastruktur und guter Erreichbarkeit?  \n  \nAm Kirchackerweg 29 in Kehrsatz vermieten wir rund 505 m² Gewerbefläche im Erdgeschoss. Die Räumlichkeiten eignen sich ideal für Werkstatt, Produktion, Montage, Lager oder für Betriebe, die verschiedene Nutzungen an einem Standort kombinieren möchten.  \nGrosszügige Flächen, eine praktische Laderampe und die vorhandene betriebliche Infrastruktur schaffen gute Voraussetzungen für unterschiedlichste Gewerbekonzepte. Die bestehenden Raumunterteilungen ermöglichen zudem eine sinnvolle Trennung von Arbeits-, Lager- und Nebenflächen.  \n  \nWillkommen sind etablierte Unternehmen ebenso wie Start-ups und junge Betriebe, die Raum für ihre Ideen und ihre weitere Entwicklung suchen.  \n  \nDas bietet Ihnen die Fläche  \n\n*   ca. 505 m² Gewerbefläche im Erdgeschoss\n*   grosszügige und vielseitig nutzbare Arbeits-, Produktions- und Lagerbereiche\n*   50 m² Laderampe für eine unkomplizierte Warenanlieferung\n*   Raumhöhe von ca. 2.95 m\n*   75-Ampere-Stromanschluss\n*   bestehende Raumunterteilungen\n*   eigene Sanitäranlagen\n*   Aussenpark- und Abstellmöglichkeiten\n*   gute Erreichbarkeit von Bern und der Region\n\nDie Liegenschaft bietet eine unkomplizierte und funktionale Basis für Unternehmen, die viel Raum benötigen und Wert auf ein gutes Verhältnis zwischen Fläche, Infrastruktur und Kosten legen.  \n  \nOb Sie einen neuen Standort suchen, Ihren Betrieb vergrössern oder mit einer neuen Geschäftsidee durchstarten möchten – hier finden Sie den passenden Raum dafür.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 505,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 505,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "dishwasher"
+      },
+      {
+        "name": "ramp"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Kirchackerweg 29",
+    "zipcode": 3122,
+    "city": "Kehrsatz",
+    "public_address": "Kirchackerweg 29, 3122 Kehrsatz",
+    "latitude": 46.9062518,
+    "longitude": 7.475955199999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 34354456,
+    "images": [
+      {
+        "pk": 34354456,
+        "caption": null,
+        "url": "/media/ff/2026/03/v65qpa0h25ktcx3rz9aitw7e0tbksvp6fhchf8pxp3twbgdycr.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/v65qpa0h25ktcx3rz9aitw7e0tbksvp6fhchf8pxp3twbgdycr.jpg?alias=thumb_m&signature=bnWZTeQW1EQUm4aCmXevETTaJugZbManvWqm0DhLj5Q",
+        "url_listing_search": "/thumb/ff/2026/03/v65qpa0h25ktcx3rz9aitw7e0tbksvp6fhchf8pxp3twbgdycr.jpg?alias=listing_search&signature=mJWsSdui56PP8dP72Y2563wDAchC4ssY56vf3q2tkMw",
+        "ordering": 1,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 34354510,
+        "caption": null,
+        "url": "/media/ff/2026/03/my4j2v58g3nrvcaa1gppef6nmdnunuv7xfrxmbllqzmcriov5c.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/my4j2v58g3nrvcaa1gppef6nmdnunuv7xfrxmbllqzmcriov5c.jpg?alias=thumb_m&signature=-pjaF7lsbDm76F-K9C0fc6GLpiXj9fCFVGzC8mvPtps",
+        "url_listing_search": "/thumb/ff/2026/03/my4j2v58g3nrvcaa1gppef6nmdnunuv7xfrxmbllqzmcriov5c.jpg?alias=listing_search&signature=B7_b9qMjMuSt7XfFw3MrLr20K-SE816NyRdVr_vliQ0",
+        "ordering": 2,
+        "width": 844,
+        "height": 1500
+      },
+      {
+        "pk": 34354531,
+        "caption": null,
+        "url": "/media/ff/2026/03/av8w11ce2dm3guwi8zky2kmgoafgq5fmdfnsj603m52203zm1i.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/av8w11ce2dm3guwi8zky2kmgoafgq5fmdfnsj603m52203zm1i.jpg?alias=thumb_m&signature=4PLz_tSpRM_ZiEo2trSWQQY96qbOdot3lQ6ULdVWKvs",
+        "url_listing_search": "/thumb/ff/2026/03/av8w11ce2dm3guwi8zky2kmgoafgq5fmdfnsj603m52203zm1i.jpg?alias=listing_search&signature=hIiNGMqTuywR4-PMWVkTDHQmf6fiLjskKskfUxjeExI",
+        "ordering": 3,
+        "width": 844,
+        "height": 1500
+      },
+      {
+        "pk": 34354448,
+        "caption": null,
+        "url": "/media/ff/2026/03/v0kkjmy4vcew75xvi7v98e8g6mgmvrf11bgbv5cwah8pmepb3e.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/v0kkjmy4vcew75xvi7v98e8g6mgmvrf11bgbv5cwah8pmepb3e.jpg?alias=thumb_m&signature=OAsfumJiK6GMGWO4vuN4hQNXkeK8f8KtdV8VPxqXzwU",
+        "url_listing_search": "/thumb/ff/2026/03/v0kkjmy4vcew75xvi7v98e8g6mgmvrf11bgbv5cwah8pmepb3e.jpg?alias=listing_search&signature=qFRJfpUSleGsKT90EtBWBH9zBYSMIBCEUghD8AR1s_8",
+        "ordering": 4,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 34354597,
+        "caption": null,
+        "url": "/media/ff/2026/03/vbpepnh7ua1zczuo4obfldxrxi9odwyvj9qy3zpc0ii3gk14v3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/vbpepnh7ua1zczuo4obfldxrxi9odwyvj9qy3zpc0ii3gk14v3.jpg?alias=thumb_m&signature=0kfBCKfHnEuscLF2_uqw-AwM0z2X3lLFRMCR_zm17s4",
+        "url_listing_search": "/thumb/ff/2026/03/vbpepnh7ua1zczuo4obfldxrxi9odwyvj9qy3zpc0ii3gk14v3.jpg?alias=listing_search&signature=ZlpmDKM9atntWq03SoV5_QjrLNp_4R85HvQUS5zUUzA",
+        "ordering": 5,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 34354459,
+        "caption": null,
+        "url": "/media/ff/2026/03/n2em7wbtvic7weew7bzprvsicikz4vur135aige9zbgvhez3ox.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/n2em7wbtvic7weew7bzprvsicikz4vur135aige9zbgvhez3ox.jpg?alias=thumb_m&signature=PskcodbiKJtzbpG9BQIlOSgX2Ts_xE1MuksNArIuySQ",
+        "url_listing_search": "/thumb/ff/2026/03/n2em7wbtvic7weew7bzprvsicikz4vur135aige9zbgvhez3ox.jpg?alias=listing_search&signature=CMaeWwVIlXh9BfwxPx8tBqHAGq2Oykq95wSleijDKt0",
+        "ordering": 6,
+        "width": 844,
+        "height": 1500
+      },
+      {
+        "pk": 34354595,
+        "caption": null,
+        "url": "/media/ff/2026/03/5yri0xdujvxoibyz4abrlt7voq4fnt2ghn56cqkaebl83g7fph.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/5yri0xdujvxoibyz4abrlt7voq4fnt2ghn56cqkaebl83g7fph.jpg?alias=thumb_m&signature=oeutFsoVcLs4KAH0HPymvs4wVuH_hXvE4MGmpcgepw0",
+        "url_listing_search": "/thumb/ff/2026/03/5yri0xdujvxoibyz4abrlt7voq4fnt2ghn56cqkaebl83g7fph.jpg?alias=listing_search&signature=plZK55LTm6H0WVOgEcXjgb_vYS09DdUwDsQRzCkEHaY",
+        "ordering": 7,
+        "width": 844,
+        "height": 1500
+      },
+      {
+        "pk": 34354480,
+        "caption": null,
+        "url": "/media/ff/2026/03/eizcvab4zgozdwu3fyimtyvryo5r039y5d8g3j2a7hpdhmnycl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/eizcvab4zgozdwu3fyimtyvryo5r039y5d8g3j2a7hpdhmnycl.jpg?alias=thumb_m&signature=hkI5JolTQsFRk9sshH9WTgcJquMC3oYbZfPkCbqw-E0",
+        "url_listing_search": "/thumb/ff/2026/03/eizcvab4zgozdwu3fyimtyvryo5r039y5d8g3j2a7hpdhmnycl.jpg?alias=listing_search&signature=_AqS9iWmq-c3A9_531BDxGjh1z0BYGE1yQGIOhNm5pE",
+        "ordering": 8,
+        "width": 844,
+        "height": 1500
+      },
+      {
+        "pk": 34354422,
+        "caption": null,
+        "url": "/media/ff/2026/03/2k7vkm13xtwj0wl61jqtbqo1s65lgztm7zz2u481b3q50825k4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/2k7vkm13xtwj0wl61jqtbqo1s65lgztm7zz2u481b3q50825k4.jpg?alias=thumb_m&signature=IjHdQ2UX3Zx83VVhrJELBTPx3mOU1ojavmfyl-fXCw8",
+        "url_listing_search": "/thumb/ff/2026/03/2k7vkm13xtwj0wl61jqtbqo1s65lgztm7zz2u481b3q50825k4.jpg?alias=listing_search&signature=nSvGbeL_xxgOu1DlOoC8d-vToPpnR137yTvq4kxWh9E",
+        "ordering": 9,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 34354423,
+        "caption": null,
+        "url": "/media/ff/2026/03/n4yzjtmv5p35v20luae20blds8761rtsumzchepw2e8ifbyzbn.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/n4yzjtmv5p35v20luae20blds8761rtsumzchepw2e8ifbyzbn.jpg?alias=thumb_m&signature=xdxqi09PXNZDubcXDcxqnCW77KlfdiCD_XNSI75X3KY",
+        "url_listing_search": "/thumb/ff/2026/03/n4yzjtmv5p35v20luae20blds8761rtsumzchepw2e8ifbyzbn.jpg?alias=listing_search&signature=91srfzaIIxdXVmHsAt6q6bmfsqz3VSNyCGNW5i2RJI0",
+        "ordering": 10,
+        "width": 844,
+        "height": 1500
+      },
+      {
+        "pk": 34354567,
+        "caption": null,
+        "url": "/media/ff/2026/03/7xy970kn4ylvkf7hjeqe8f423ay62270wdn87w43oagkgwiziy.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/7xy970kn4ylvkf7hjeqe8f423ay62270wdn87w43oagkgwiziy.jpg?alias=thumb_m&signature=Tv97Udyq0w_zwWubiz7CpWv6nbqhx1k8r1CObYWvNvc",
+        "url_listing_search": "/thumb/ff/2026/03/7xy970kn4ylvkf7hjeqe8f423ay62270wdn87w43oagkgwiziy.jpg?alias=listing_search&signature=Ju4p1MQR6yfvHnE6KhKFMsuDb_CZSNUQKWkIpwlwOLc",
+        "ordering": 11,
+        "width": 844,
+        "height": 1500
+      },
+      {
+        "pk": 34354532,
+        "caption": null,
+        "url": "/media/ff/2026/03/xnpnq208yfmpq9zt6ywp3acbx85xli74woe3qeihv7az13swkc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/xnpnq208yfmpq9zt6ywp3acbx85xli74woe3qeihv7az13swkc.jpg?alias=thumb_m&signature=o4jZ4xrGMiiWEdTr9wQTqz6HPe4_vJNJwugIIv-L_x0",
+        "url_listing_search": "/thumb/ff/2026/03/xnpnq208yfmpq9zt6ywp3acbx85xli74woe3qeihv7az13swkc.jpg?alias=listing_search&signature=MIE7LclAHPDsD8l8TCdKX-O4uihlMU9VVyX8eFzUIpE",
+        "ordering": 12,
+        "width": 844,
+        "height": 1500
+      },
+      {
+        "pk": 12928779,
+        "caption": "Laderampe",
+        "url": "/media/ff/2025/04/qikf96l6xmkcqva26jctqvw0asbwlr5168r07saa969wfiqpgq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/qikf96l6xmkcqva26jctqvw0asbwlr5168r07saa969wfiqpgq.jpg?alias=thumb_m&signature=ES6vdy5LO8ZaNerwOiHChR4OuNQ9qQne35fggd1rI88",
+        "url_listing_search": "/thumb/ff/2025/04/qikf96l6xmkcqva26jctqvw0asbwlr5168r07saa969wfiqpgq.jpg?alias=listing_search&signature=ClF5-NbcrJXkWz8M3UGk6n7b30jzvRD5IKN41O3CDi0",
+        "ordering": 13,
+        "width": 480,
+        "height": 640
+      },
+      {
+        "pk": 12928790,
+        "caption": "",
+        "url": "/media/ff/2025/04/99habglbf8yzwdsdsassglwyjaehbxwd518mr3eu20qqpxho41.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/99habglbf8yzwdsdsassglwyjaehbxwd518mr3eu20qqpxho41.jpg?alias=thumb_m&signature=MKfmxzCh9uKmsCr2WpP1_suS7Y64fkM3GGsXQyu5ZBU",
+        "url_listing_search": "/thumb/ff/2025/04/99habglbf8yzwdsdsassglwyjaehbxwd518mr3eu20qqpxho41.jpg?alias=listing_search&signature=lieQMN3imlXQUcM4CJSVd2ooXbTJoSHe_XMPv0hUoK8",
+        "ordering": 14,
+        "width": 480,
+        "height": 640
+      }
+    ],
+    "documents": [
+      271439
+    ],
+    "agency": {
+      "name": "Burgergemeinde Bern, Immobilien",
+      "name_2": "p. A. Domänenverwaltung",
+      "street": "Bahnhofplatz 2, Postfach",
+      "zipcode": "3001",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png",
+        "url_org_logo_m": "/thumb/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png?alias=org_logo_m&signature=F7dlhFceZMsw_sykCkbNggMJEfravWk0lq2YXPFWE2M"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "505m² Gewerbe in Kehrsatz mieten",
+    "livingspace": 505
+  }
+}

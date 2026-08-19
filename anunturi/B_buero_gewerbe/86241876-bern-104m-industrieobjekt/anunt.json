@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1760.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/freiestrasse-54-3012-bern/86241876/",
+    "descarcat": "2026-08-17 12:26",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [
+        "therapie"
+      ],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "empfang",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden"
+      ],
+      "kw_wohnen": [
+        "studio"
+      ]
+    },
+    "nr_imagini": 5
+  },
+  "raw": {
+    "pk": 86241876,
+    "slug": "freiestrasse-54-3012-bern",
+    "url": "/de/wohnung/freiestrasse-54-3012-bern/86241876/",
+    "short_url": "/86241876/",
+    "submit_url": "/de/listing/86241876/submit/",
+    "status": "act",
+    "created": "2026-08-03T16:22:44.799886+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "INDUSTRIAL_OBJECT",
+    "reference": "..5zeue.pk60h",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "5zeue.pk60h",
+    "alternative_reference": null,
+    "price_display": 2690,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-03T16:22:44.953762+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 2690,
+    "short_title": "104m² Industrieobjekt",
+    "public_title": "Freiestrasse 54, 3012 Bern - CHF 2’690",
+    "pitch_title": "104m² Industrieobjekt in Bern mieten",
+    "description_title": "Grosszügige, lichtdurchflutete Gewerbefläche an attraktiver Lage",
+    "description": "In der begehrten Länggasse vermieten wir eine frisch renovierte und vielseitig nutzbare Gewerbefläche. Die hellen Räumlichkeiten eignen sich ideal als Büro, Praxis, Studio oder für kreative Konzepte – beispielsweise als Yoga-, Therapie- oder Bewegungsraum. \n\nDer hochwertige Ausbau mit edlem Eichenparkett und modernen Einbauspots schafft eine stilvolle und einladende Atmosphäre. Dank des flexiblen Grundrisses lässt sich die Fläche optimal an unterschiedliche Nutzungskonzepte anpassen. \n\nEin besonderes Highlight ist der separate Eingangsbereich, der sich ideal als Empfang, Wartebereich oder repräsentative Besucherzone nutzen lässt. Ein separates WC sorgt für zusätzlichen Komfort. \n\nIhre Vorteile auf einen Blick \n\n  * Frisch renovierte Gewerbefläche \n\n  * Hochwertiger Ausbau mit Eichenparkett und Einbauspots \n\n  * Helle, lichtdurchflutete Räume \n\n  * Flexible Nutzungsmöglichkeiten (Büro, Praxis, Studio oder Gewerbe) \n\n  * Ideal für Yoga-, Therapie-, Coaching- oder Bewegungsangebote \n\n  * Separater Empfangs- bzw. Eingangsbereich \n\n  * Separates WC \n\n  * Innen- und Aussenparkplätze können zusätzlich gemietet werden \n\n  * Attraktive Lage in der Länggasse mit ausgezeichneter Anbindung an den öffentlichen Verkehr sowie einer hervorragenden Infrastruktur \n\n\n\n\nÜberzeugen Sie sich bei einer Besichtigung von den vielseitigen Möglichkeiten dieser modernen Gewerbefläche. Wir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 104,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 104,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Freiestrasse 54",
+    "zipcode": 3012,
+    "city": "Bern",
+    "public_address": "Freiestrasse 54, 3012 Bern",
+    "latitude": 46.9543758,
+    "longitude": 7.426076399999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48618315,
+    "images": [
+      {
+        "pk": 48618315,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358124/image/747519d0b8b9f9c0e65c6102b89a1d54.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358124/image/747519d0b8b9f9c0e65c6102b89a1d54.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358124/image/747519d0b8b9f9c0e65c6102b89a1d54.jpg",
+        "ordering": 1,
+        "width": 800,
+        "height": 599
+      },
+      {
+        "pk": 48618316,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358124/image/0528fb827c67ccfc6ca57334d1b578db.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358124/image/0528fb827c67ccfc6ca57334d1b578db.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358124/image/0528fb827c67ccfc6ca57334d1b578db.jpg",
+        "ordering": 2,
+        "width": 800,
+        "height": 599
+      },
+      {
+        "pk": 48618317,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358124/image/0e1da687c81825f06363ab658a6bfbe4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358124/image/0e1da687c81825f06363ab658a6bfbe4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358124/image/0e1da687c81825f06363ab658a6bfbe4.jpg",
+        "ordering": 3,
+        "width": 800,
+        "height": 1066
+      },
+      {
+        "pk": 48618318,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358124/image/5f0d9c9fa30a6ece2eb745e6e7f76973.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358124/image/5f0d9c9fa30a6ece2eb745e6e7f76973.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358124/image/5f0d9c9fa30a6ece2eb745e6e7f76973.jpg",
+        "ordering": 4,
+        "width": 800,
+        "height": 599
+      },
+      {
+        "pk": 48618319,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h262036/4003358124/image/ccf724fc0aa26e08cf57546e3dadbe6a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h262036/4003358124/image/ccf724fc0aa26e08cf57546e3dadbe6a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h262036/4003358124/image/ccf724fc0aa26e08cf57546e3dadbe6a.jpg",
+        "ordering": 5,
+        "width": 800,
+        "height": 599
+      }
+    ],
+    "documents": [
+      776454
+    ],
+    "agency": {
+      "name": "Zollinger Immobilien AG",
+      "name_2": null,
+      "street": "Worbstrasse 237",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg?alias=org_logo_m&signature=bqUx0fqWBn032MT4NRiX3mBqMrEcMeT7q4Hwua2TyN0"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003358124",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "104m² Industrieobjekt in Bern mieten",
+    "livingspace": 104
+  }
+}

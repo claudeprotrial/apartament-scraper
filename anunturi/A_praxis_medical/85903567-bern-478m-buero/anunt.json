@@ -1,0 +1,234 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1678.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bumplizstrasse-150-3018-bern/85903567/",
+    "descarcat": "2026-08-17 12:31",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisräume"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "dienstleistung",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 85903567,
+    "slug": "bumplizstrasse-150-3018-bern",
+    "url": "/de/wohnung/bumplizstrasse-150-3018-bern/85903567/",
+    "short_url": "/85903567/",
+    "submit_url": "/de/listing/85903567/submit/",
+    "status": "act",
+    "created": "2026-03-26T11:12:54.438568+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "1256.01.00001",
+    "ref_property": "1256",
+    "ref_house": "01",
+    "ref_object": "00001",
+    "alternative_reference": null,
+    "price_display": 8780,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-22T16:57:47.293863+02:00",
+    "rent_net": 7800,
+    "rent_charges": 980,
+    "rent_gross": 8780,
+    "short_title": "478m² Büro",
+    "public_title": "Bümplizstrasse 150, 3018 Bern - CHF 8’780 inkl. NK pro Monat",
+    "pitch_title": "478m² Büro in Bern mieten",
+    "description_title": "Attraktive Gewerbefläche geeignet als Büro- oder Praxisräume",
+    "description": "Ideal geeignet als Büro, Praxis oder für andere Dienstleistungsbetriebe.   \nDie Fläche bietet mit 480 m2 eine gut erreichbare Lage und vielseitige Nutzungsmöglichkeiten.   \nArchivraum 58 m2 im UG und mehrere Aussenparkplätze können dazu gemietet werden.   \nGute Anbindung mit Tram, Bus und Zug ins Stadtzentrum.   \nStandort mit guter Infrastruktur und Entwicklungspotenzial!   \nWeitere Informationen und Besichtigung auf Anfrage.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 478,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 478,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "raisedgroundfloor"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bümplizstrasse 150",
+    "zipcode": 3018,
+    "city": "Bern",
+    "public_address": "Bümplizstrasse 150, 3018 Bern",
+    "latitude": 46.9396669,
+    "longitude": 7.3912333,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2027-03-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48255817,
+    "images": [
+      {
+        "pk": 48255817,
+        "caption": "_DM36089.jpeg",
+        "url": "/media/ff/2026/07/as53kl61owdpoj1z1tzvc2cg9aq4pn3utvmdt5nxycs4d6eoov.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/as53kl61owdpoj1z1tzvc2cg9aq4pn3utvmdt5nxycs4d6eoov.jpg?alias=thumb_m&signature=YGPPcHkHByLp2mLEW-r5N_0-dGnSuoSG6MXGsZ9IdmA",
+        "url_listing_search": "/thumb/ff/2026/07/as53kl61owdpoj1z1tzvc2cg9aq4pn3utvmdt5nxycs4d6eoov.jpg?alias=listing_search&signature=2JR275hcvwSKHqzVYvdcUSGpQTUCL4pPeQ8UJgeWU3A",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255818,
+        "caption": "1_1.jpeg",
+        "url": "/media/ff/2026/07/or1f0mr0xtmjw26vuolhbsec8hqryqripaxuuslj1we9jmb9o3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/or1f0mr0xtmjw26vuolhbsec8hqryqripaxuuslj1we9jmb9o3.jpg?alias=thumb_m&signature=XTP_CNrk5fjs75FyXH2SmWeve91Ksgwh0ntHsD0bTWk",
+        "url_listing_search": "/thumb/ff/2026/07/or1f0mr0xtmjw26vuolhbsec8hqryqripaxuuslj1we9jmb9o3.jpg?alias=listing_search&signature=tyFNzXUOf3nuaObA429PGrbrgi8yVkMxKw0wJdHTk0k",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255819,
+        "caption": "1_2.jpeg",
+        "url": "/media/ff/2026/07/3v2rzxl3pdq5v4iku49u860a6ni10ju201z1a13cwfqc961xgu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/3v2rzxl3pdq5v4iku49u860a6ni10ju201z1a13cwfqc961xgu.jpg?alias=thumb_m&signature=f8DxFW2WVQzaBucp9UnjBMA1xzWOcEndHT-vLRjETpY",
+        "url_listing_search": "/thumb/ff/2026/07/3v2rzxl3pdq5v4iku49u860a6ni10ju201z1a13cwfqc961xgu.jpg?alias=listing_search&signature=wQKQ7elgd-ZoDF7MHZOxOiVz979x_8nSQQZU1Q06rz0",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255820,
+        "caption": "1_8.jpeg",
+        "url": "/media/ff/2026/07/1lh0wo2u70lqo7fnudpefubrs2gebohtt9o0auudz2mkry1iw1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/1lh0wo2u70lqo7fnudpefubrs2gebohtt9o0auudz2mkry1iw1.jpg?alias=thumb_m&signature=XH-e3TCU6GytvL2k9lPj1Kg78ASB9Gtp8yQ9QkwrHJw",
+        "url_listing_search": "/thumb/ff/2026/07/1lh0wo2u70lqo7fnudpefubrs2gebohtt9o0auudz2mkry1iw1.jpg?alias=listing_search&signature=SylkNuecCGg5tCbnWKDdO6SBC9yIi7A4w5pnC3ZLKgU",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255821,
+        "caption": "_DM36035.jpeg",
+        "url": "/media/ff/2026/07/ihoofqegr13mvwd44il07dpia3pb71sqmp6xxej76fken2y6v3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/ihoofqegr13mvwd44il07dpia3pb71sqmp6xxej76fken2y6v3.jpg?alias=thumb_m&signature=SNFDcfdx6DYNYVaM8ZvIS_LKsCM8MR_enC_2b3zcsH0",
+        "url_listing_search": "/thumb/ff/2026/07/ihoofqegr13mvwd44il07dpia3pb71sqmp6xxej76fken2y6v3.jpg?alias=listing_search&signature=OHeTdpuqRIHNt32LsyF8YsYcHg142vX7P7BWBxZNVII",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255822,
+        "caption": "_DM36068.jpeg",
+        "url": "/media/ff/2026/07/arrldinzkzcc6i2wptj6odliddqq34sj3hsi3oyz0os2bpbpfh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/arrldinzkzcc6i2wptj6odliddqq34sj3hsi3oyz0os2bpbpfh.jpg?alias=thumb_m&signature=_fKySV-1jkLp3XnWnzUWbRTXfd0fL_p6OXXZBAWGEaw",
+        "url_listing_search": "/thumb/ff/2026/07/arrldinzkzcc6i2wptj6odliddqq34sj3hsi3oyz0os2bpbpfh.jpg?alias=listing_search&signature=9Q8hS934TdDB2OUQaObsJJXcguy9Oh7xZT2RXqrP1pc",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255823,
+        "caption": "_DM36075.jpeg",
+        "url": "/media/ff/2026/07/b0kh72ybo1x7eht4jsnm0by8ziodehzf135khkqi4f28rv65wb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/b0kh72ybo1x7eht4jsnm0by8ziodehzf135khkqi4f28rv65wb.jpg?alias=thumb_m&signature=iLMSGTbM627fv1JwoQ7Xy1ejwJcfeG0_NyxwhaX2QkE",
+        "url_listing_search": "/thumb/ff/2026/07/b0kh72ybo1x7eht4jsnm0by8ziodehzf135khkqi4f28rv65wb.jpg?alias=listing_search&signature=tc4JtOuzWPdHAeeCIrBul3E57S8hDpd4g901UbmnjRE",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255824,
+        "caption": "_DM36073.jpeg",
+        "url": "/media/ff/2026/07/epzqzceqjmt0nlk4w1daof5wj9pkhbnorpcn2ul2o13fu3c7v6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/epzqzceqjmt0nlk4w1daof5wj9pkhbnorpcn2ul2o13fu3c7v6.jpg?alias=thumb_m&signature=1Teurs84BnD4ajqmbqitcKaNaqIMEYTCZJfg1oOT35Y",
+        "url_listing_search": "/thumb/ff/2026/07/epzqzceqjmt0nlk4w1daof5wj9pkhbnorpcn2ul2o13fu3c7v6.jpg?alias=listing_search&signature=Q2dFxs3uHwF5ZLyWwAsmWgk65JjtwRoLlKDrR78oZio",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255825,
+        "caption": "_DM36045.jpeg",
+        "url": "/media/ff/2026/07/0sn2oz5nnl23o00qhb4peofrcpdpxo5hgo8zs4mybehinm5bnl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/0sn2oz5nnl23o00qhb4peofrcpdpxo5hgo8zs4mybehinm5bnl.jpg?alias=thumb_m&signature=V4iraMYKGi6Juc5W8rCg-YQ37U-c7yT2M_DZgw73MSY",
+        "url_listing_search": "/thumb/ff/2026/07/0sn2oz5nnl23o00qhb4peofrcpdpxo5hgo8zs4mybehinm5bnl.jpg?alias=listing_search&signature=uR3CtAyr2y34QU80GAgb2Zt5lBLU1iYXDg6Fyw9gVqA",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255826,
+        "caption": "_DM36046.jpeg",
+        "url": "/media/ff/2026/07/o6ex0icupe2azwk586ezbqx1w54fch7p88rcd8r1atyy6kbsrv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/o6ex0icupe2azwk586ezbqx1w54fch7p88rcd8r1atyy6kbsrv.jpg?alias=thumb_m&signature=Ricpqaq68okjhig12RV41JL9OJ6HhScg8ejjb2fQ0og",
+        "url_listing_search": "/thumb/ff/2026/07/o6ex0icupe2azwk586ezbqx1w54fch7p88rcd8r1atyy6kbsrv.jpg?alias=listing_search&signature=iQqQ1owaG9sSk_-NtAhZkzDpsStjZcZ8PAOrjXAmajI",
+        "ordering": 10,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255827,
+        "caption": "1_4.jpeg",
+        "url": "/media/ff/2026/07/tisn32dwmn5a8ne0s84q7lyhlxtbb1l5tl41kxqvifdha8w6w0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/tisn32dwmn5a8ne0s84q7lyhlxtbb1l5tl41kxqvifdha8w6w0.jpg?alias=thumb_m&signature=tug8j0iaYvzx_PukpgK03LBwBFXRZyEUTy-x50WdjIg",
+        "url_listing_search": "/thumb/ff/2026/07/tisn32dwmn5a8ne0s84q7lyhlxtbb1l5tl41kxqvifdha8w6w0.jpg?alias=listing_search&signature=VaHaHfUTIFY7WCuxETvbtx3o0UY5gPZQ1Mg4CY6dPrg",
+        "ordering": 11,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48255828,
+        "caption": "_DM36055.jpeg",
+        "url": "/media/ff/2026/07/79cnfmqcitleaekvcpj6i4icnc7cdz3nz43vqwr4vz6xy01dav.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/79cnfmqcitleaekvcpj6i4icnc7cdz3nz43vqwr4vz6xy01dav.jpg?alias=thumb_m&signature=FmoACLK2_l7du07Zgg8UmSiK067o0AWeNcLhQFnE9Tk",
+        "url_listing_search": "/thumb/ff/2026/07/79cnfmqcitleaekvcpj6i4icnc7cdz3nz43vqwr4vz6xy01dav.jpg?alias=listing_search&signature=bUY1Ou-XGRBDOjiUNdSVhb48yKKbOl8pegninVF1hG0",
+        "ordering": 12,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Dr.Meyer Immobilien AG",
+      "name_2": null,
+      "street": "Morgenstrasse 83A",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png",
+        "url_org_logo_m": "/thumb/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png?alias=org_logo_m&signature=ELJVfbZ9i264CGjnir9SWpQCju4MUITBGC0sqvZAlz0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "478m² Büro in Bern mieten",
+    "livingspace": 478
+  }
+}

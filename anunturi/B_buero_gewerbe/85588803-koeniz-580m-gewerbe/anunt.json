@@ -1,0 +1,272 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1768.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/waldeggstrasse-34-3097-koniz/85588803/",
+    "descarcat": "2026-08-17 12:26",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbefläche",
+        "gewerberäume",
+        "gewerblich"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 14
+  },
+  "raw": {
+    "pk": 85588803,
+    "slug": "waldeggstrasse-34-3097-koniz",
+    "url": "/de/wohnung/waldeggstrasse-34-3097-koniz/85588803/",
+    "short_url": "/85588803/",
+    "submit_url": "/de/listing/85588803/submit/",
+    "status": "act",
+    "created": "2025-12-10T14:11:46.010782+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "575..be8r9.e9d8i",
+    "ref_property": "575",
+    "ref_house": "",
+    "ref_object": "be8r9.e9d8i",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2025-12-10T14:11:50.188939+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "580m² Gewerbe",
+    "public_title": "Waldeggstrasse 34, 3097 Köniz - auf Anfrage",
+    "pitch_title": "580m² Gewerbe in Köniz mieten",
+    "description_title": "Moderne Gewerberäume in Liebefeld",
+    "description": "Erleben Sie eine moderne und flexible Gewerbefläche von 580 m² im Erdgeschoss, die in Sachen Ausstattung und Nachhaltigkeit keine Wünsche offen lässt. Die Liegenschaft überzeugt mit einer zeitgemässen Architektur. \n\nHier die Highlights kurz zusammengefasst: \n\n  * Offene und helle Räume bieten vielfältige Nutzungsmöglichkeiten. Ideal geeignet für Büros, Praxen oder andere gewerbliche Zwecke. Die Räume werden unmöbliert vermietet. \n\n  * Die lichtdurchfluteten Räume mit Glaswänden und die bodentiefen Fenster sorgen für ein angenehmes Arbeitsumfeld und optimierte Lichtverhältnisse. \n\n  * Die Mietfläche ist mit einer Teeküche sowie einer separaten Küche ausgestattet. \n\n  * Die Räumlichkeiten verfügen über eine barrierefreie Toilette sowie eine Toilette mit 2 WCs und einem Pissoir. \n\n  * Genügend Lagerflächen sind im Untergeschoss verfügbar. \n\n  * Die ansprechende Aussenfläche im Innenhof gehört teilweise zur Mietfläche und kann individuell genutzt werden. \n\n\n\n\n**Lage und Anbindung**\n\nDie Gewerbefläche liegt in einer ruhigen und dennoch hervorragend erschlossenen Umgebung. Die Bushaltestellen „Liebefeld“ und „Sportweg“ sind in nur wenigen Minuten zu Fuss erreichbar. Supermärkte und Restaurants befinden sind nur wenige Gehminuten entfernt. Diese Lage garantiert eine schnelle Erreichbarkeit von Dienstleistern und eine ausgezeichnete Anbindung an öffentliche Verkehrsmittel. \n\nDiese Gewerbefläche eignet sich ideal für eine Vielzahl von Geschäftsmodellen. Die Kombination aus flexibler Raumaufteilung, modernster Ausstattung und der nachhaltigen Minergie-Bauweise ermöglicht Ihnen ein effizientes und zukunftsorientiertes Arbeiten in einem attraktiven Umfeld. \n\nWir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 580,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 580,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "minergie"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "view"
+      },
+      {
+        "name": "garage"
+      },
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Waldeggstrasse 34",
+    "zipcode": 3097,
+    "city": "Köniz",
+    "public_address": "Waldeggstrasse 34, 3097 Köniz",
+    "latitude": 46.9345503,
+    "longitude": 7.418432500000001,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.livingandmore-liebefeld.ch/de/10035/?oid=10100&lang=de",
+    "live_viewing_url": null,
+    "cover_image": 44420130,
+    "images": [
+      {
+        "pk": 44420130,
+        "caption": "Wooden floor, modern chairs and tables, full length glass windows, plants outside",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/81fefedd5751f4f9fcb5b6f4482d247b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/81fefedd5751f4f9fcb5b6f4482d247b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/81fefedd5751f4f9fcb5b6f4482d247b.jpg",
+        "ordering": 0,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420131,
+        "caption": "modern kitchen with a dishwasher, sink, cabinets, appliances, countertop",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/4f04ac62236907c89e4a85549f85be28.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/4f04ac62236907c89e4a85549f85be28.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/4f04ac62236907c89e4a85549f85be28.jpg",
+        "ordering": 1,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420132,
+        "caption": "modern kitchen with stainless steel countertops, various kitchen utensils, cabinet drawers, a dishwasher, a large glass door with shelves, and a hanging rack.",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/86393a195151ced5f02a32ec4d0f5ad3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/86393a195151ced5f02a32ec4d0f5ad3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/86393a195151ced5f02a32ec4d0f5ad3.jpg",
+        "ordering": 2,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420133,
+        "caption": "modern office design, carpeted floor, adjustable desks, metal columns, large windows",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/2e9ca1d630607b87c5d2d665821917de.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/2e9ca1d630607b87c5d2d665821917de.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/2e9ca1d630607b87c5d2d665821917de.jpg",
+        "ordering": 3,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420134,
+        "caption": "modern meeting room with adjustable height desks, large windows, whiteboard, projectors, movable chairs, carpet flooring",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/e8b4b57056d18a68e4eb81d4303b8682.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/e8b4b57056d18a68e4eb81d4303b8682.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/e8b4b57056d18a68e4eb81d4303b8682.jpg",
+        "ordering": 4,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420135,
+        "caption": "Empty office space with a printer, a desk, a storage box, and an industrial cart. White walls and ceiling with visible piping. Carpeted floor.",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/580d89e0967523d51c476a42fb8e7e0e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/580d89e0967523d51c476a42fb8e7e0e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/580d89e0967523d51c476a42fb8e7e0e.jpg",
+        "ordering": 5,
+        "width": 1050,
+        "height": 1400
+      },
+      {
+        "pk": 44420136,
+        "caption": "Empty hallway, glass walls, ceiling lights, carpeted floor, an open door.",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/793b389c30c639163a6a726657f42d94.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/793b389c30c639163a6a726657f42d94.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/793b389c30c639163a6a726657f42d94.jpg",
+        "ordering": 6,
+        "width": 1050,
+        "height": 1400
+      },
+      {
+        "pk": 44420137,
+        "caption": "empty room with tables and chairs, large glass doors, view to garden and buildings",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/6a94840c8bfbea4eef05035787078183.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/6a94840c8bfbea4eef05035787078183.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/6a94840c8bfbea4eef05035787078183.jpg",
+        "ordering": 7,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420138,
+        "caption": "Empty meeting room, long table, white chairs, large windows, white walls, dark brown carpet, ceiling lighting",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/8941938d42ac813eab6665bd563b501a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/8941938d42ac813eab6665bd563b501a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/8941938d42ac813eab6665bd563b501a.jpg",
+        "ordering": 8,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420139,
+        "caption": "modern kitchen, white cabinets, stainless steel countertop, sink, gas stove, oven, dishwasher, extractor hood, floor lamp",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/1d768f9ea276d8f06343ffd1e5a51c82.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/1d768f9ea276d8f06343ffd1e5a51c82.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/1d768f9ea276d8f06343ffd1e5a51c82.jpg",
+        "ordering": 9,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420140,
+        "caption": "empty office with two tables, sliding door, ivy covered wall outside, power outlets on walls",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/58f61abae69c1e0e4b122253053d7f75.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/58f61abae69c1e0e4b122253053d7f75.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/58f61abae69c1e0e4b122253053d7f75.jpg",
+        "ordering": 10,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420141,
+        "caption": "The room is empty, featuring a white desk and two chairs in front of the windows. There is also a white bench under the windows and a radiator is placed on the left side of the window.",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/008d40c2c642fc26ff0eb43a9b65b8dd.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/008d40c2c642fc26ff0eb43a9b65b8dd.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/008d40c2c642fc26ff0eb43a9b65b8dd.jpg",
+        "ordering": 11,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420142,
+        "caption": "empty room, white walls, carpet floor, large windows, ceiling lights",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/eb3f9704e9214071dc438c30a1630bf5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/eb3f9704e9214071dc438c30a1630bf5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/eb3f9704e9214071dc438c30a1630bf5.jpg",
+        "ordering": 12,
+        "width": 1400,
+        "height": 1050
+      },
+      {
+        "pk": 44420143,
+        "caption": "Several residential buildings, multiple solar panels on rooftops, green roofs, balconies, and terraces, large central garden, clear views of surrounding buildings",
+        "url": "https://cdn.flatfox.ch/listings/v2/x043/4002764043/image/c335968006299744d6ae0dd7b1ab2956.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x043/4002764043/image/c335968006299744d6ae0dd7b1ab2956.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x043/4002764043/image/c335968006299744d6ae0dd7b1ab2956.jpg",
+        "ordering": 13,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [
+      639571
+    ],
+    "agency": {
+      "name": "Zollinger Immobilien AG",
+      "name_2": null,
+      "street": "Worbstrasse 237",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/lz6sky5ja3ftz5zlj4johngs0e79shhhszkm5wsm4lqv5cqopg.jpg?alias=org_logo_m&signature=bqUx0fqWBn032MT4NRiX3mBqMrEcMeT7q4Hwua2TyN0"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4002764043",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "580m² Gewerbe in Köniz mieten",
+    "livingspace": 580
+  }
+}

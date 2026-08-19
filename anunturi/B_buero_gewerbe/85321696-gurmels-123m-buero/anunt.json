@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1688.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/3212-gurmels/85321696/",
+    "descarcat": "2026-08-17 12:30",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "büroräume",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 85321696,
+    "slug": "3212-gurmels",
+    "url": "/de/wohnung/3212-gurmels/85321696/",
+    "short_url": "/85321696/",
+    "submit_url": "/de/listing/85321696/submit/",
+    "status": "act",
+    "created": "2025-09-17T13:56:00.264997+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "SHDSGewerbe 09.1647988.67f38377-93bc-11f0-9d93-069ae14c7a06",
+    "ref_property": "SHDSGewerbe 09",
+    "ref_house": "1647988",
+    "ref_object": "67f38377-93bc-11f0-9d93-069ae14c7a06",
+    "alternative_reference": null,
+    "price_display": 1650,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-09-17T13:56:01.484403+02:00",
+    "rent_net": 1400,
+    "rent_charges": 250,
+    "rent_gross": 1650,
+    "short_title": "123m² Büro",
+    "public_title": "3212 Gurmels - CHF 1’650",
+    "pitch_title": "123m² Büro in Gurmels mieten",
+    "description_title": "Topmoderne Neubau-Büroflächen in Gurmels - Ihr neuer Standort im Zentrum",
+    "description": "Topmoderne Neubau-Büroflächen in Gurmels - Ihr neuer Standort im Zentrum \n\nDE: \n\n**Moderne Büroräume in Gurmels - Neubau mit Stil**\n\nHochwertige Büroeinheit im Neubau - ideal für moderne Arbeitskonzepte. \n\n**Highlights:**\n\n  * 123 m² Bürofläche, 133 m² Gesamtfläche \n\n  * 4.5 Zimmer mit flexibler Nutzung \n\n  * Barrierefrei mit Aufzug \n\n  * Balkon mit schöner Aussicht \n\n  * Einstellhallenplatz (CHF 100.-/Monat) \n\n  * Moderne Infrastruktur (Kabel-TV, Wasser, Strom, Abwasser) \n\n\n\n\n**Lage:**\n\n  * Ruhige, sonnige Umgebung \n\n  * Bushaltestelle ?Gurmels Dorf? in 3 Min. \n\n  * Apotheke in 4 Min., Schule in 9 Min. zu Fuss \n\n\n\n\nFR: \n\n**Bureaux modernes à Gurmels - Neuf et confortables**\n\nLocaux professionnels spacieux dans un bâtiment neuf. \n\n**Points forts :**\n\n  * 123 m² de surface de bureau, 133 m² au total \n\n  * 4,5 pièces modulables selon vos besoins \n\n  * Accès entièrement adapté (ascenseur) \n\n  * Balcon avec belle vue \n\n  * Place de parc en sous-sol (CHF 100.-/mois) \n\n  * Infrastructures modernes (TV câblée, eau, électricité, assainissement) \n\n\n\n\n**Emplacement :**\n\n  * Quartier calme et bien ensoleillé \n\n  * Arrêt de bus « Gurmels Dorf » à 3 min à pied \n\n  * Pharmacie à 4 min, école primaire à 9 min à pied",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 123,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 123,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "balconygarden"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": null,
+    "zipcode": 3212,
+    "city": "Gurmels",
+    "public_address": "3212 Gurmels",
+    "latitude": 46.88800080440281,
+    "longitude": 7.163239191751962,
+    "year_built": 2025,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 43067788,
+    "images": [
+      {
+        "pk": 43067788,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/5fcc2bc6fa26f351f2063622765db960.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/5fcc2bc6fa26f351f2063622765db960.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/5fcc2bc6fa26f351f2063622765db960.jpg",
+        "ordering": 0,
+        "width": 1300,
+        "height": 731
+      },
+      {
+        "pk": 43067789,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/cd463fa676cf172794eca6b198d7430d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/cd463fa676cf172794eca6b198d7430d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/cd463fa676cf172794eca6b198d7430d.jpg",
+        "ordering": 1,
+        "width": 1300,
+        "height": 731
+      },
+      {
+        "pk": 43067790,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/32e29c9ed111617b65ab79eb7eae24e3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/32e29c9ed111617b65ab79eb7eae24e3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/32e29c9ed111617b65ab79eb7eae24e3.jpg",
+        "ordering": 2,
+        "width": 1300,
+        "height": 731
+      },
+      {
+        "pk": 43067791,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/4c01db024d2c04a5a7d27ffee915ff49.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/4c01db024d2c04a5a7d27ffee915ff49.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/4c01db024d2c04a5a7d27ffee915ff49.jpg",
+        "ordering": 3,
+        "width": 1300,
+        "height": 731
+      },
+      {
+        "pk": 43067792,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/c7483502a7d9f19a1ae6b4388b95f0b7.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/c7483502a7d9f19a1ae6b4388b95f0b7.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/c7483502a7d9f19a1ae6b4388b95f0b7.jpg",
+        "ordering": 4,
+        "width": 1300,
+        "height": 731
+      },
+      {
+        "pk": 43067793,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/730d5210274375d6ad8af4e9ea09618e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/730d5210274375d6ad8af4e9ea09618e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/730d5210274375d6ad8af4e9ea09618e.jpg",
+        "ordering": 5,
+        "width": 1300,
+        "height": 731
+      },
+      {
+        "pk": 43067794,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/772882a9c7eb138575e70dd9e8d60503.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/772882a9c7eb138575e70dd9e8d60503.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/772882a9c7eb138575e70dd9e8d60503.jpg",
+        "ordering": 6,
+        "width": 1300,
+        "height": 731
+      },
+      {
+        "pk": 43067795,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/8f456ca80bf928780acd0180a1e8328e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/8f456ca80bf928780acd0180a1e8328e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/8f456ca80bf928780acd0180a1e8328e.jpg",
+        "ordering": 7,
+        "width": 1300,
+        "height": 731
+      },
+      {
+        "pk": 43067796,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h377297/4002530923/image/f15a6607a417671413fc019307744da4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h377297/4002530923/image/f15a6607a417671413fc019307744da4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h377297/4002530923/image/f15a6607a417671413fc019307744da4.jpg",
+        "ordering": 8,
+        "width": 1300,
+        "height": 731
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Suisse-Homes.ch GmbH",
+      "name_2": null,
+      "street": "Hinterbegrstrasse 28",
+      "zipcode": "6312",
+      "city": "Steinhausen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/gkcxsx5kueaqy55598zyhyfh8ocnecwpm5vgr7vqd7ndntn005.jpg",
+        "url_org_logo_m": "/thumb/org/2026/07/gkcxsx5kueaqy55598zyhyfh8ocnecwpm5vgr7vqd7ndntn005.jpg?alias=org_logo_m&signature=kUZFcW3YCTg6CgLC9RQWyS_1e8pzrqgwT-mQ6G6WqW8"
+      }
+    },
+    "reserved": false,
+    "state": "FR",
+    "country": "CH",
+    "smg_id": "4002530923",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "123m² Büro in Gurmels mieten",
+    "livingspace": 123
+  }
+}

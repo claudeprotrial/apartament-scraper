@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1684.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/wydenpark-1-7-hauptstrasse-70-2557-studen/85904843/",
+    "descarcat": "2026-08-17 12:30",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "dienstleistung",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "<type>",
+        "bar",
+        "ladenfläche",
+        "shop"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 85904843,
+    "slug": "wydenpark-1-7-hauptstrasse-70-2557-studen",
+    "url": "/de/wohnung/wydenpark-1-7-hauptstrasse-70-2557-studen/85904843/",
+    "short_url": "/85904843/",
+    "submit_url": "/de/listing/85904843/submit/",
+    "status": "act",
+    "created": "2026-03-26T15:07:03.989866+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "SHOP",
+    "reference": "CM100.0102169.2b",
+    "ref_property": "CM100",
+    "ref_house": "0102169",
+    "ref_object": "2b",
+    "alternative_reference": "",
+    "price_display": 230,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-03-30T09:49:39.904646+02:00",
+    "rent_net": 190,
+    "rent_charges": 40,
+    "rent_gross": null,
+    "short_title": "248m² Ladenfläche",
+    "public_title": "Wydenpark 1-7, Hauptstrasse 70, 2557 Studen - CHF 230 inkl. NK pro m² / Jahr",
+    "pitch_title": "248m² Ladenfläche in Studen mieten",
+    "description_title": "Attraktive Gewerbeflächen im lebendigen Zentrum von Studen BE – ideale Lage für Ihren Geschäftserfolg",
+    "description": "Positionieren Sie Ihr Unternehmen an einem der attraktivsten Standorte in Studen BE: Der moderne Wydenpark liegt im Herzen eines dynamisch wachsenden Wohnquartiers und profitiert von hoher Kundenfrequenz sowie einem etablierten Umfeld.  \n  \nDirekt vor Ort sorgen renommierte Ankermieter wie Coop, Die Post und die Dorfplatz-Apotheke für eine starke Grundfrequenz und ideale Synergien. Zusätzlich befindet sich die Altersresidenz Senevita in unmittelbarer Nachbarschaft und erweitert das Einzugsgebiet.  \n  \n**Ihre Standortvorteile auf einen Blick:**  \n\n*   Zentrale Lage in einem wachsenden und lebendigen Quartier\n*   Etablierte Ankermieter mit hoher Besucherfrequenz\n*   Hervorragende Erreichbarkeit: Autobahnanschluss (A6) in wenigen Minuten\n*   Optimale Anbindung an den öffentlichen Verkehr (Bahnhof Studen, Bushaltestelle Wydenpark in Gehdistanz)\n*   Schnelle Verbindungen in die Wirtschaftszentren Biel, Lyss und Bern\n*   Grosse Tiefgarage für Besucher und Mieter\n\nDas Center fungiert als zentrale Begegnungsstätte der Gemeinde und bietet ideale Voraussetzungen für Retail-, Dienstleistungs- und Gewerbekonzepte. Nutzen Sie diese Gelegenheit, um Ihre Marke sichtbar zu positionieren und Ihr Filialnetz nachhaltig auszubauen.  \n  \n**Interesse geweckt?**  \nGerne stellen wir Ihnen weitere Informationen zur Verfügung oder vereinbaren einen persönlichen Besichtigungstermin.  \nWir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 248,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 248,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "garage"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Wydenpark 1-7, Hauptstrasse 70",
+    "zipcode": 2557,
+    "city": "Studen",
+    "public_address": "Wydenpark 1-7, Hauptstrasse 70, 2557 Studen",
+    "latitude": 47.1129434,
+    "longitude": 7.3013133,
+    "year_built": 2013,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 34733904,
+    "images": [
+      {
+        "pk": 34733904,
+        "caption": null,
+        "url": "/media/ff/2026/03/elx3xt46jilo8cqaia2xrdwmw1i6dq7vxpkbp0w1up4a8wkizx.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/elx3xt46jilo8cqaia2xrdwmw1i6dq7vxpkbp0w1up4a8wkizx.jpg?alias=thumb_m&signature=Q54ztQ3uvXP7rB65beXilhYnJbevNMcoUvcW1f5kyzM",
+        "url_listing_search": "/thumb/ff/2026/03/elx3xt46jilo8cqaia2xrdwmw1i6dq7vxpkbp0w1up4a8wkizx.jpg?alias=listing_search&signature=ZOS-P3Zsz07P2K9jSMPI8B2e2szzMoGrT-cG2vr6OUk",
+        "ordering": 1,
+        "width": 1500,
+        "height": 810
+      },
+      {
+        "pk": 34733905,
+        "caption": null,
+        "url": "/media/ff/2026/03/sf4vys8bxqbhcaj6b11nk03jp6nvr25kp9a0gdn6ss5l2i9by7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/sf4vys8bxqbhcaj6b11nk03jp6nvr25kp9a0gdn6ss5l2i9by7.jpg?alias=thumb_m&signature=UTrb0WZcpUoMeJVj-alFQe7mhlbc1-Up3qa81URp8U4",
+        "url_listing_search": "/thumb/ff/2026/03/sf4vys8bxqbhcaj6b11nk03jp6nvr25kp9a0gdn6ss5l2i9by7.jpg?alias=listing_search&signature=L-5_3NrE2ANvDwcd79Qad3b7ggnIpjrgMi9moY7PbgM",
+        "ordering": 2,
+        "width": 1000,
+        "height": 791
+      },
+      {
+        "pk": 34733906,
+        "caption": null,
+        "url": "/media/ff/2026/03/y5v1wcklfndbqxn3cdgsrkxh0b1v59x86y6ge40u0o7aocvkj7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/y5v1wcklfndbqxn3cdgsrkxh0b1v59x86y6ge40u0o7aocvkj7.jpg?alias=thumb_m&signature=ZtckHt802h6wZAvD_IxID5R8K9-PrnL3whpwokUHTQA",
+        "url_listing_search": "/thumb/ff/2026/03/y5v1wcklfndbqxn3cdgsrkxh0b1v59x86y6ge40u0o7aocvkj7.jpg?alias=listing_search&signature=ATNQmEgU-B3X5rWNf2KwNguE4Ry6jYy4W-MZhw-zKLQ",
+        "ordering": 3,
+        "width": 1000,
+        "height": 556
+      },
+      {
+        "pk": 34733850,
+        "caption": null,
+        "url": "/media/ff/2026/03/ea4r6p4vbcj18aluq8ff4rg9ar3z3aqd54q1pb45drfkiaa4am.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/ea4r6p4vbcj18aluq8ff4rg9ar3z3aqd54q1pb45drfkiaa4am.jpg?alias=thumb_m&signature=0mHRQoCeJDIF2xWKVDF0xYDMPE5gdNy1Ie8t14-y7fw",
+        "url_listing_search": "/thumb/ff/2026/03/ea4r6p4vbcj18aluq8ff4rg9ar3z3aqd54q1pb45drfkiaa4am.jpg?alias=listing_search&signature=kJkmZrJC3q_Id_qDUJxFQYcAg1mJZXhXDOO6BN9HlyU",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 34733851,
+        "caption": null,
+        "url": "/media/ff/2026/03/lgq9jlih6pmocdh756o2yvx7f2lozf0wmasol5ga7d1chuscd2.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/lgq9jlih6pmocdh756o2yvx7f2lozf0wmasol5ga7d1chuscd2.jpg?alias=thumb_m&signature=wtU52DggzSW7ZX2ojblRww4pDFXFXIvfI_mM5ZfNy-o",
+        "url_listing_search": "/thumb/ff/2026/03/lgq9jlih6pmocdh756o2yvx7f2lozf0wmasol5ga7d1chuscd2.jpg?alias=listing_search&signature=-EKk-1-2UlSaNshuJl8q_da1ptO9IoxTd-Kn-RoAB24",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 34733852,
+        "caption": null,
+        "url": "/media/ff/2026/03/mhmrsdvwh3ict45plngyav72zgsk2yoshpock6og057llqbdd3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/mhmrsdvwh3ict45plngyav72zgsk2yoshpock6og057llqbdd3.jpg?alias=thumb_m&signature=d7nXd1i6U0q5h1V61Mp9Q4iqBzT88SB673araw-KsW0",
+        "url_listing_search": "/thumb/ff/2026/03/mhmrsdvwh3ict45plngyav72zgsk2yoshpock6og057llqbdd3.jpg?alias=listing_search&signature=hEwxfsYXav7rOcTlnJcImD-lhak13sJYB1Hpv8_mcco",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      699855
+    ],
+    "agency": {
+      "name": "PRIVERA AG",
+      "name_2": "",
+      "street": "Täfernstrasse 16",
+      "zipcode": "5405",
+      "city": "Baden-Dättwil",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png",
+        "url_org_logo_m": "/thumb/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png?alias=org_logo_m&signature=AShB2wTW9RgBQlL5EayIx5KA4p6RhJExHnOr31HV8GA"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "248m² Ladenfläche in Studen mieten",
+    "livingspace": 248
+  }
+}

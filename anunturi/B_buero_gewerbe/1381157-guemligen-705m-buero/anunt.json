@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1756.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/worbstrasse-187-3073-gumligen/1381157/",
+    "descarcat": "2026-08-17 12:26",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "einzelbüro",
+        "office",
+        "sitzungszimmer"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 1381157,
+    "slug": "worbstrasse-187-3073-gumligen",
+    "url": "/de/wohnung/worbstrasse-187-3073-gumligen/1381157/",
+    "short_url": "/1381157/",
+    "submit_url": "/de/listing/1381157/submit/",
+    "status": "act",
+    "created": "2024-11-05T13:20:48.602310+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "VM100.0321049.01",
+    "ref_property": "VM100",
+    "ref_house": "0321049",
+    "ref_object": "01",
+    "alternative_reference": "",
+    "price_display": 190,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2024-11-12T15:39:26.826879+01:00",
+    "rent_net": 190,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "705m² Büro",
+    "public_title": "Worbstrasse 187, 3073 Gümligen - CHF 190 exkl. NK pro m² / Jahr",
+    "pitch_title": "705m² Büro in Gümligen mieten",
+    "description_title": "Openspace Büro - Flexibel & Anpassungsfähig, perfekt für Ihr Business!",
+    "description": "Per sofort oder nach Vereinbarung vermieten wir rund 705 m² Büroflächen im 2. Obergeschoss eines modernen Businessstandorts in Gümligen. Das Büro ist bereits ausgebaut (ohne Elektroverkabelung) inklusive einer funktionalen **Teeküche** – so steht einer effizienten Nutzung nichts im Weg.  \n  \nDas Bürogebäude befindet sich im Zentrum von Gümligen und ist nur knapp 5 Gehminuten vom Bahnhof Gümligen sowie 5 Fahrminuten vom Autobahnanschluss Muri/Gümligen (A6) entfernt. Das hauseigene Fitness sowie Personalrestaurant (UBS Gümligenpark) runden das attraktive Angebot ab. Weitere interessante Geschäfte - unter anderem Migros, Coop inkl. Restaurant, Post, Apotheke etc. - befinden sich in direkter Umgebung.  \n  \n**Highlights:**  \n  \n\n*   3 Einzelbüros gegen Nord-Ost, 1 grosses Sitzungszimmer sowie grosszügige Openspace Flächen\n*   **Lichtdurchflutete Räume** für ein angenehmes Arbeitsklima\n*   Lichtinstallation teilweise vorhanden\n*   Doppelböden für IT-Leitungen\n*   Eigene WC-Anlagen sowie IV-WC im Treppenhaus vorhanden\n*   Ein gesundes Klima im Gebäude durch **Minergie P-Eco**\n*   **Klimatisierte Büros** (Kühldecken)\n*   Viele Parkplätze in der Tiefgarage verfügbar\n*   Lagerflächen vorhanden\n\nBei Bedarf stehen zudem weitere Flächen an diesem Standort zur Verfügung. Weitere Informationen finden Sie auf der verlinkten Projektwebseite.  \n  \n**Konditionen:** Mietzins pro Mietfläche ab CHF 190.00 pro m²/p.a.  \n  \nSie wünschen weitere Auskünfte? Wir beraten Sie gerne und freuen uns über Ihre Anfrage. Gerne zeigen wir Ihnen die Räumlichkeiten bei einem persönlichen Besichtigungstermin.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 705,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 705,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Worbstrasse 187",
+    "zipcode": 3073,
+    "city": "Gümligen",
+    "public_address": "Worbstrasse 187, 3073 Gümligen",
+    "latitude": 46.9347649,
+    "longitude": 7.5028474,
+    "year_built": 2012,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "https://tannerie.ch/",
+    "live_viewing_url": "",
+    "cover_image": 34630734,
+    "images": [
+      {
+        "pk": 34630734,
+        "caption": null,
+        "url": "/media/ff/2026/03/sytsyy4j7lddx56xcvgzem5f2palprjx3bf5njpypzvip8liut.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/sytsyy4j7lddx56xcvgzem5f2palprjx3bf5njpypzvip8liut.jpg?alias=thumb_m&signature=4ReDU4FRFtZjM-GLKKQU7SI3YrWPBIRqi5OzDx0q-Yc",
+        "url_listing_search": "/thumb/ff/2026/03/sytsyy4j7lddx56xcvgzem5f2palprjx3bf5njpypzvip8liut.jpg?alias=listing_search&signature=r1K4k-lSv2g2bADlv6iP5_02ZWEl2rtCmNmmp-xXwdg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10328606,
+        "caption": "",
+        "url": "/media/ff/2024/11/moeoqzz8xu3veld1lyyvfezzfieecxcz1eymn3zr9fn5pty1sw.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/moeoqzz8xu3veld1lyyvfezzfieecxcz1eymn3zr9fn5pty1sw.jpg?alias=thumb_m&signature=KHRJMsYiIJyiFU4f5KXaId7U4FMjcrDKDjVd7IL_-gM",
+        "url_listing_search": "/thumb/ff/2024/11/moeoqzz8xu3veld1lyyvfezzfieecxcz1eymn3zr9fn5pty1sw.jpg?alias=listing_search&signature=4ynVlnEehdDVcswg9wLa9ZhULNjkaYuhlI0TLm6FAzo",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34630697,
+        "caption": null,
+        "url": "/media/ff/2026/03/w1zno29cb16oeweklu80r8gnwa4ga46dyasumf06lgenxy22rd.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/w1zno29cb16oeweklu80r8gnwa4ga46dyasumf06lgenxy22rd.jpg?alias=thumb_m&signature=u8xnYOnHaQqIKb4OHLRD7E13ogMesIOTUkrc8gzYz38",
+        "url_listing_search": "/thumb/ff/2026/03/w1zno29cb16oeweklu80r8gnwa4ga46dyasumf06lgenxy22rd.jpg?alias=listing_search&signature=1sZWrcqO6TLSHNcBQnKpTz5hs77XxNkiKjdxOoueKts",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10328605,
+        "caption": "Visualisierung",
+        "url": "/media/ff/2024/11/qt95mozmyf2a7p7ui74lfmbk1xdp5bitieq0fveuh0xmp54x2p.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/qt95mozmyf2a7p7ui74lfmbk1xdp5bitieq0fveuh0xmp54x2p.jpg?alias=thumb_m&signature=aCT0J6CZJlyDHltQEn95VAUJkEwu1yL3dh3PKKUToVc",
+        "url_listing_search": "/thumb/ff/2024/11/qt95mozmyf2a7p7ui74lfmbk1xdp5bitieq0fveuh0xmp54x2p.jpg?alias=listing_search&signature=9wB95jotvzV5_9ZxdhNMcVh44VcCG2nknnJmbMAupvE",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10328608,
+        "caption": "Visualisierung",
+        "url": "/media/ff/2024/11/66fnnfcu80w3v74hr4nryrcouonsepvrkbh8zfdoyy3vcmwg71.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/66fnnfcu80w3v74hr4nryrcouonsepvrkbh8zfdoyy3vcmwg71.jpg?alias=thumb_m&signature=7eOsLFwnYEEY93VJ8RIc-6gUXGFI1O9IZErxHg4N_2I",
+        "url_listing_search": "/thumb/ff/2024/11/66fnnfcu80w3v74hr4nryrcouonsepvrkbh8zfdoyy3vcmwg71.jpg?alias=listing_search&signature=sVejEWdPuh97LBg0vZy-TeZNEqTmZ_dfIcG1mx9qyoE",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10328609,
+        "caption": "Visualisierung",
+        "url": "/media/ff/2024/11/38gbf32rbgpvesgxhtabtlequw1rzcxzsdnizamfm7dqvhbr64.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/38gbf32rbgpvesgxhtabtlequw1rzcxzsdnizamfm7dqvhbr64.jpg?alias=thumb_m&signature=RX-w84bLGSkPKvIa5sAX-nX27DcfW6yTc3GXuowcbrA",
+        "url_listing_search": "/thumb/ff/2024/11/38gbf32rbgpvesgxhtabtlequw1rzcxzsdnizamfm7dqvhbr64.jpg?alias=listing_search&signature=8xxVg8A-oN1RaubwNVaWNge5uR1TzVKVXTeXd_A4qoE",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10328604,
+        "caption": "",
+        "url": "/media/ff/2024/11/g2ili7e1t0ukpekg17rd2kca98qsu3xmbeq1w1beqodzyrp9jb.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/g2ili7e1t0ukpekg17rd2kca98qsu3xmbeq1w1beqodzyrp9jb.jpg?alias=thumb_m&signature=R_ZLkMHAxE6-uvtKxxGoR8qYMmttBMqdE0QHZ8Qg438",
+        "url_listing_search": "/thumb/ff/2024/11/g2ili7e1t0ukpekg17rd2kca98qsu3xmbeq1w1beqodzyrp9jb.jpg?alias=listing_search&signature=b8CVGREVoGxJUHJaZPt4CrufcpRUxa70urddc8USEd4",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10328607,
+        "caption": "",
+        "url": "/media/ff/2024/11/imkvydjq534fh1q33c38zmws9k1ub5dma6v4aq89toem3s77tb.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/imkvydjq534fh1q33c38zmws9k1ub5dma6v4aq89toem3s77tb.jpg?alias=thumb_m&signature=Vxst5FS1l1YxvsjikzT_RLCe6fzd-tHAl5Icrf42q0s",
+        "url_listing_search": "/thumb/ff/2024/11/imkvydjq534fh1q33c38zmws9k1ub5dma6v4aq89toem3s77tb.jpg?alias=listing_search&signature=-_zi3zNYIdv7mHBmCG3jfLhYFSoKIEO4jfjUX8Qizds",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34630663,
+        "caption": null,
+        "url": "/media/ff/2026/03/2bvdv7pevb00xqlznrwu1iodo3hk94jins3tmwkzck8uh4t1x2.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/2bvdv7pevb00xqlznrwu1iodo3hk94jins3tmwkzck8uh4t1x2.jpg?alias=thumb_m&signature=vPI_TTGgGk3_gvnF54g28lty-DSVVLYH4p3JOnYt4iI",
+        "url_listing_search": "/thumb/ff/2026/03/2bvdv7pevb00xqlznrwu1iodo3hk94jins3tmwkzck8uh4t1x2.jpg?alias=listing_search&signature=GvUADuQRX-3hy7HT91bHGgak_1eU5iwJGHe5yeGeD6k",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34630474,
+        "caption": null,
+        "url": "/media/ff/2026/03/ce2mfdu5cj5ecu5t45prpldhpgsgzeifo7wx141nkm997jhyqg.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/ce2mfdu5cj5ecu5t45prpldhpgsgzeifo7wx141nkm997jhyqg.jpg?alias=thumb_m&signature=9jpR4lJOvNJ6dMa6pS2mceE3SdSoXjv4XFQ9t8WZE-I",
+        "url_listing_search": "/thumb/ff/2026/03/ce2mfdu5cj5ecu5t45prpldhpgsgzeifo7wx141nkm997jhyqg.jpg?alias=listing_search&signature=Xn0g1MGWc8aGoJ7srp3PSr7wlFID2Pff3iTF6rsBCDs",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34630657,
+        "caption": null,
+        "url": "/media/ff/2026/03/bklou2ijok3wq8l6vcvlplc4xjydzbt8fbwvtz3kds6d6la92w.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/bklou2ijok3wq8l6vcvlplc4xjydzbt8fbwvtz3kds6d6la92w.jpg?alias=thumb_m&signature=H9qka9ydqipTAloodMy9ImNghRZUQfVB8JE2jCe0DPQ",
+        "url_listing_search": "/thumb/ff/2026/03/bklou2ijok3wq8l6vcvlplc4xjydzbt8fbwvtz3kds6d6la92w.jpg?alias=listing_search&signature=nXCosAVpjreOUFKQW8YXeI7R-9KuN0R71TpmwkSASlk",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10328757,
+        "caption": "",
+        "url": "/media/ff/2024/11/l7tly4e717r23dlbl2lvbm5yv9ozciy1snzy9290oueamza1ls.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/l7tly4e717r23dlbl2lvbm5yv9ozciy1snzy9290oueamza1ls.jpg?alias=thumb_m&signature=r1KP6cbF3Sj3TcJrv70qjV4oX033D1ZzLPs5i5eiZno",
+        "url_listing_search": "/thumb/ff/2024/11/l7tly4e717r23dlbl2lvbm5yv9ozciy1snzy9290oueamza1ls.jpg?alias=listing_search&signature=MI8ZuTKJcX2c5X_sTzsVw9IvWTfm4ij3yCBA6h3jqSg",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      232525
+    ],
+    "agency": {
+      "name": "Privera AG",
+      "name_2": "",
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png",
+        "url_org_logo_m": "/thumb/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png?alias=org_logo_m&signature=AShB2wTW9RgBQlL5EayIx5KA4p6RhJExHnOr31HV8GA"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "705m² Büro in Gümligen mieten",
+    "livingspace": 705
+  }
+}

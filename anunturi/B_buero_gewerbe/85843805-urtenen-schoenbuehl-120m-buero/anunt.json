@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1692.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/grubenstrasse-107-3322-urtenen-schonbuhl/85843805/",
+    "descarcat": "2026-08-17 12:30",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "dienstleistung",
+        "gewerbefläche",
+        "grossraumbüro",
+        "office",
+        "showroom"
+      ],
+      "kw_retail": [
+        "bar",
+        "verkaufsfläche"
+      ],
+      "kw_wohnen": [
+        "mietwohnung"
+      ]
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 85843805,
+    "slug": "grubenstrasse-107-3322-urtenen-schonbuhl",
+    "url": "/de/wohnung/grubenstrasse-107-3322-urtenen-schonbuhl/85843805/",
+    "short_url": "/85843805/",
+    "submit_url": "/de/listing/85843805/submit/",
+    "status": "act",
+    "created": "2026-03-06T13:58:11.951240+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..1738",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "1738",
+    "alternative_reference": null,
+    "price_display": 185,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-03-06T13:58:12.857618+01:00",
+    "rent_net": 160,
+    "rent_charges": 25,
+    "rent_gross": 185,
+    "short_title": "120m² Büro",
+    "public_title": "Grubenstrasse 107, 3322 Urtenen-Schönbühl - CHF 185 inkl. NK pro m² / Jahr",
+    "pitch_title": "120m² Büro in Urtenen-Schönbühl mieten",
+    "description_title": "Helle & flexible Gewerbefläche mit Top-Verkehrsanbindung in Schönbühl",
+    "description": "Wir vermieten per sofort oder nach Vereinbarung im 3. Obergeschoss eine vollständig ausgebaute und vielseitig nutzbare Gewerbefläche an attraktiver Lage in Schönbühl. Die Liegenschaft ist sowohl mit dem Auto als auch bequem mit dem Bus bestens erreichbar. \n\n**Flexibles Flächenangebot:** ca. 60 m2 (Teilfläche) oder ca. 120 m2 (Gesamtfläche) \n\nDie hellen Räumlichkeiten überzeugen durch grosse Fensterflächen und bieten durch ihre offene Struktur maximale Flexibilität und lassen sich individuell an Ihre Bedürfnisse anpassen. \n\n**Ihre Vorteile auf einen Blick**\n\n**Maximale Flexibilität - Freie Raumaufteilung:** Kaum tragende Zwischenwände ermöglichen individuelle Layouts. Vom Grossraumbüro über abgetrennte Sitzungsräume bis hin zu Showroom- oder Mischkonzepten. Arbeitsbereiche können flexibel angepasst oder erweitert werden. \n\n**Helle, produktive Arbeitsatmosphäre:** Grosszügige Fensterflächen und Oblicht sorgen für viel Tageslicht und ein angenehmes Raumklima. \n\n**Vielseitige Nutzungsmöglichkeiten:** Die Fläche eignet sich besonders für Büronutzung, Praxis- oder Dienstleistungsbetriebe sowie Ausstellungs- oder Verkaufsflächen. \n\n**Praktische und durchdachte Infrastruktur**\n\n\\- Personenlift und Warenlift \n\n\\- Kunden-/Besucherparkplätze direkt vor dem Gebäude \n\n\\- Tiefgarage mit verfügbaren Mietparkplätzen \n\n\\- WC-Anlagen \n\n\\- Gemeinschaftsküche mit Mikrowelle und Geschirrspüler \n\n\\- Klimaanlage \n\nDie Kombination aus optimaler Erreichbarkeit, flexibler Raumgestaltung und attraktiver Infrastruktur macht dieses Angebot besonders interessant für Unternehmen. \n\nHaben wir Ihr Interesse geweckt?   \nDann freuen wir uns auf Ihre Kontaktaufnahme und zeigen Ihnen die Räumlichkeiten gerne bei einer persönlichen Besichtigung. \n\n**Achtung** : Eigenwerbung: Sie ziehen in eine Mietwohnung und benötigen Unterstützung für den bestmöglichen Verkauf Ihrer Immobilie? Kontaktieren Sie die Dr.Meyer Immobilien AG für eine unverbindliche Offerte -  **wir sind gut darin.**",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 120,
+    "surface_usable_minimum": null,
+    "volume": 0,
+    "space_display": 120,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "ramp"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "view"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Grubenstrasse 107",
+    "zipcode": 3322,
+    "city": "Urtenen-Schönbühl",
+    "public_address": "Grubenstrasse 107, 3322 Urtenen-Schönbühl",
+    "latitude": 47.0218096,
+    "longitude": 7.510297400000001,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 34180859,
+    "images": [
+      {
+        "pk": 34180859,
+        "caption": "Titelbild.png",
+        "url": "/media/ff/2026/03/fvrhs1031gwpg2aj29kil8zvm5s1fgoggfp0dwraq7aqocdrxp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/fvrhs1031gwpg2aj29kil8zvm5s1fgoggfp0dwraq7aqocdrxp.jpg?alias=thumb_m&signature=AenuF6wxmmouk-sviXDWEqewBrbVXS6znhMUlRQE3L8",
+        "url_listing_search": "/thumb/ff/2026/03/fvrhs1031gwpg2aj29kil8zvm5s1fgoggfp0dwraq7aqocdrxp.jpg?alias=listing_search&signature=KmSINdoUBrWQUFevFtTQFnjaKTy8kwe_tBU4RzbbZg0",
+        "ordering": 1,
+        "width": 1024,
+        "height": 687
+      },
+      {
+        "pk": 34180860,
+        "caption": "Option_Einzelbuero.jpg",
+        "url": "/media/ff/2026/03/sjpl1143mi5cfrq5m7dnlvjse3205a0nm5dy096hxdhveqpuwc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/sjpl1143mi5cfrq5m7dnlvjse3205a0nm5dy096hxdhveqpuwc.jpg?alias=thumb_m&signature=RU0v9M6D-N7WGg3DG7BHJxSodQVC8taJFlUZ-4CHdjE",
+        "url_listing_search": "/thumb/ff/2026/03/sjpl1143mi5cfrq5m7dnlvjse3205a0nm5dy096hxdhveqpuwc.jpg?alias=listing_search&signature=2xC2TEXQutQjwIVVu2s67_OfGgSIcPFwDjPVbUabJrw",
+        "ordering": 2,
+        "width": 1024,
+        "height": 687
+      },
+      {
+        "pk": 34180861,
+        "caption": "Ansicht_Bueroflaeche_1.jpg",
+        "url": "/media/ff/2026/03/qs06hwycjw9ctm2p90bvac5isoc2fmdazcbyamw4k0vu4d43v5.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/qs06hwycjw9ctm2p90bvac5isoc2fmdazcbyamw4k0vu4d43v5.jpg?alias=thumb_m&signature=y023LYZAVi60J1b1hqRJFtW7kDIpmFcy5KxSN-0uMJ4",
+        "url_listing_search": "/thumb/ff/2026/03/qs06hwycjw9ctm2p90bvac5isoc2fmdazcbyamw4k0vu4d43v5.jpg?alias=listing_search&signature=19KVa-a-gNzLAASaatDCZhod4Hh8YhgITp-zZcprGZM",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34180862,
+        "caption": "Ansicht_Bueroflaeche_2.jpg",
+        "url": "/media/ff/2026/03/11umgdxi8gc3vyhxdfcmr2a3aeeglwvokgmao8ve5hn23yfuv3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/11umgdxi8gc3vyhxdfcmr2a3aeeglwvokgmao8ve5hn23yfuv3.jpg?alias=thumb_m&signature=UEanDWwNrqpfLAqrpOXxqevWy__hHv2pzaSHg99ExWc",
+        "url_listing_search": "/thumb/ff/2026/03/11umgdxi8gc3vyhxdfcmr2a3aeeglwvokgmao8ve5hn23yfuv3.jpg?alias=listing_search&signature=scmjpbILzOhRyDxTfzV5MToKF6OWqa4PVp5x1XxBxaY",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34180863,
+        "caption": "Kueche_Gemeinschaftsflaeche.jpg",
+        "url": "/media/ff/2026/03/a2dz5xpaj0gs6dwd0gx47v4soq3k03luuvmpfsexc6p01kyqoa.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/a2dz5xpaj0gs6dwd0gx47v4soq3k03luuvmpfsexc6p01kyqoa.jpg?alias=thumb_m&signature=mYfs7m1Fdb1WfrvPtyfKEijG0TLf32rXCc9I85R7Iwg",
+        "url_listing_search": "/thumb/ff/2026/03/a2dz5xpaj0gs6dwd0gx47v4soq3k03luuvmpfsexc6p01kyqoa.jpg?alias=listing_search&signature=H8rFj-jVN7ohzwgqST7EvArRAvKFQDrn55cKajw20jE",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34180864,
+        "caption": "Eingang_und_Lift.jpg",
+        "url": "/media/ff/2026/03/ccstdk9zjokaf5ifuuaf8arcv967s17nb79ghtwwm9n1cfwbtv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/ccstdk9zjokaf5ifuuaf8arcv967s17nb79ghtwwm9n1cfwbtv.jpg?alias=thumb_m&signature=GJKNuFk7vklFclCbDJf2eaT3BzMmIqovJHmlMA2QhoY",
+        "url_listing_search": "/thumb/ff/2026/03/ccstdk9zjokaf5ifuuaf8arcv967s17nb79ghtwwm9n1cfwbtv.jpg?alias=listing_search&signature=5qlBtxf0T8XsyBeoGbOO5wFkg542Mm0LsK-hCGgFYig",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34180865,
+        "caption": "Warenlift.jpg",
+        "url": "/media/ff/2026/03/t32ignbuug7288ljycrf35kf2tsjrmh17x25q1e2i0dnv0cvhz.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/t32ignbuug7288ljycrf35kf2tsjrmh17x25q1e2i0dnv0cvhz.jpg?alias=thumb_m&signature=ai1WjKvYP4p90dsa4L1CbciPTremKTm81vyXwzs-UeI",
+        "url_listing_search": "/thumb/ff/2026/03/t32ignbuug7288ljycrf35kf2tsjrmh17x25q1e2i0dnv0cvhz.jpg?alias=listing_search&signature=aagc4LF9Yfbxhz6Xw56FaYqfs6wppk4Za_w5giwxkW0",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34180866,
+        "caption": "Toiletten.jpg",
+        "url": "/media/ff/2026/03/x3ker0q0bsphzjbjzk08k7jph8xbs204p7bvfsz59ay89uzrce.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/x3ker0q0bsphzjbjzk08k7jph8xbs204p7bvfsz59ay89uzrce.jpg?alias=thumb_m&signature=ae1z4oHaKFWNdzEhbbHX-RYqm2pqWcCTbfvVndLEBt4",
+        "url_listing_search": "/thumb/ff/2026/03/x3ker0q0bsphzjbjzk08k7jph8xbs204p7bvfsz59ay89uzrce.jpg?alias=listing_search&signature=sQS1u2jOMUft93kSgWuI8JnO-2vjrvYOHFf38SZ4Tk4",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34180867,
+        "caption": "Aussenansicht.jpg",
+        "url": "/media/ff/2026/03/yhm4zekgw9w2kaksc1uat19a80b24a0mcp7dvv6ksms58ev68y.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/yhm4zekgw9w2kaksc1uat19a80b24a0mcp7dvv6ksms58ev68y.jpg?alias=thumb_m&signature=cRS4h-bPF4B2bx0eVzrZ0-7Ue0vTxmwufCG8v7Ec-VU",
+        "url_listing_search": "/thumb/ff/2026/03/yhm4zekgw9w2kaksc1uat19a80b24a0mcp7dvv6ksms58ev68y.jpg?alias=listing_search&signature=GkMDeGsx3wzdcv29SaaMujtbmR5U1WDR2bQUELz784E",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Dr.Meyer Immobilien AG",
+      "name_2": null,
+      "street": "Morgenstrasse 83A",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png",
+        "url_org_logo_m": "/thumb/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png?alias=org_logo_m&signature=ELJVfbZ9i264CGjnir9SWpQCju4MUITBGC0sqvZAlz0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "120m² Büro in Urtenen-Schönbühl mieten",
+    "livingspace": 120
+  }
+}

@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1776.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/worblaufenstrasse-200202-3048-woblaufen/86061304/",
+    "descarcat": "2026-08-17 12:26",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 18
+  },
+  "raw": {
+    "pk": 86061304,
+    "slug": "worblaufenstrasse-200202-3048-woblaufen",
+    "url": "/de/wohnung/worblaufenstrasse-200202-3048-woblaufen/86061304/",
+    "short_url": "/86061304/",
+    "submit_url": "/de/listing/86061304/submit/",
+    "status": "act",
+    "created": "2026-05-26T16:20:51.123679+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "6780.Kontakt.10",
+    "ref_property": "6780",
+    "ref_house": "Kontakt",
+    "ref_object": "10",
+    "alternative_reference": "",
+    "price_display": 200,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-05-26T16:20:52.624504+02:00",
+    "rent_net": 150,
+    "rent_charges": 50,
+    "rent_gross": null,
+    "short_title": "1300m² Gewerbe",
+    "public_title": "Worblaufenstrasse 200/202, 3048 Woblaufen - CHF 200 inkl. NK pro m² / Jahr",
+    "pitch_title": "1300m² Gewerbe in Woblaufen mieten",
+    "description_title": "Wachstum beginnt hier: Ideal für Büro, Praxis oder Schule!",
+    "description": "Ab sofort oder nach Vereinbarung vermieten wir noch rund 3'000 m² Büroflächen an der Worblaufenstrasse 200/202 in Worblaufen.  \n  \n**Attraktive Gewerbefläche an zentraler Lage – perfekt für Ihr Business!**  \nNutzen Sie die Chance, Ihre Geschäftsidee an einem erstklassigen Standort umzusetzen. Diese zentral gelegene Gewerbefläche bietet nicht nur eine hervorragende Erreichbarkeit, sondern auch vielseitige Nutzungsmöglichkeiten in einer lebendigen Umgebung. Egal ob Büro, Praxis oder Schule – hier finden Sie den idealen Raum für Ihre Pläne!  \n  \n**Lage:**  \nDie Immobilie befindet sich in einer erstklassigen Lage in Worblaufen, einer bevorzugten Wirtschaftsregion im Kanton Bern. Die unmittelbare Nähe zur Autobahn und eine sehr gute Anbindung an den öffentlichen Verkehr (Bus und S-Bahn) gewährleisten eine hervorragende Erreichbarkeit für Ihre Mitarbeiter und Kunden.  \n  \n**Ausstattung:**  \n  \n\n*   Helle und moderne Räumlichkeiten vom 5. bis zum 7. OG\n*   Flexible Raumaufteilung\n*   Gute Verkehrsanbindung an öffentliche Verkehrsmittel und die Autobahn\n*   Einstellhallenplätze vorhanden\n*   Dachterrasse zur Mitbenützung\n*   Personalrestaurant zur Mitbenützung\n*   Gut sichtbare Lage, ideal für Werbung und Kundenbesuche\n*   Teilflächen sind möglich (Stockwerk ca. 500 bis 1'300m2)\n*   Diverse Lagerräume bis ca. 48.4 m² anmietbar\n\n**Zusätzliche Informationen:**  \n  \n\n*   Mietpreis: Auf Anfrage\n*   Verfügbarkeit: Ab sofort\n*   Infrastruktur: Nahegelegene Verkehrsanbindung und Einkaufs- sowie Verpflegungsmöglichkeiten\n\n**Konditionen:**  \nKontaktieren Sie uns gerne für Angaben zu den Konditionen.  \n  \nDer Nettomietzins von CHF 150 pro m²/Jahr (zzgl. NK) im ersten Jahr basiert auf einer 5-jährigen Vertragsdauer und versteht sich als Rabattierung für das erste Jahr.  \nAuch nach Ablauf der Rabattierung im ersten Jahr können wir Ihnen weiterhin attraktive Mietzinse anbieten; je nach Mietdauer, Ausbau & Fläche die Sie wünschen.  \n  \n**Kontakt:**  \nFür weitere Informationen oder zur Vereinbarung eines Besichtigungstermins stehen wir Ihnen gerne zur Verfügung. Zögern Sie nicht, uns zu kontaktieren!  \n  \nWeiter Infos finden Sie auch unter **www.w200.ch** .  \n  \n**Nutzen Sie die Gelegenheit, Ihr Unternehmen an einem gut erreichbaren und dynamischen Standort in Worblaufen zu etablieren!**  \n  \n_\\*Die aufgeführten Impressionen (Fotos) sind urheberrechtlich geschützt und dürfen nicht von Dritten verwendet werden. Die Flächen werden ohne Einrichtung vermietet._",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 1300,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 1300,
+    "number_of_rooms": null,
+    "floor": 5,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Worblaufenstrasse 200/202",
+    "zipcode": 3048,
+    "city": "Woblaufen",
+    "public_address": "Worblaufenstrasse 200/202, 3048 Woblaufen",
+    "latitude": 46.9793674,
+    "longitude": 7.4571763,
+    "year_built": 2006,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "https://www.w200.ch/",
+    "live_viewing_url": "",
+    "cover_image": 36081795,
+    "images": [
+      {
+        "pk": 36081795,
+        "caption": "",
+        "url": "/media/ff/2026/05/rhn3g6d2plvo4uyg4vkhx1rgs9leo11rnt3jyngiuashgwhs85.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/rhn3g6d2plvo4uyg4vkhx1rgs9leo11rnt3jyngiuashgwhs85.jpg?alias=thumb_m&signature=dgRqA775bRE44Oam7SYIoUcCQ3wjnhmV793OwFrSfwE",
+        "url_listing_search": "/thumb/ff/2026/05/rhn3g6d2plvo4uyg4vkhx1rgs9leo11rnt3jyngiuashgwhs85.jpg?alias=listing_search&signature=Wl-NrW1c1F5YKsSqtPNDIMJJhR9dGe-Sgf2sXidJNcY",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081796,
+        "caption": "",
+        "url": "/media/ff/2026/05/nwlttozmxg5z18itth0l1aree4q3wv177xmkryv24wle8nuxrq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/nwlttozmxg5z18itth0l1aree4q3wv177xmkryv24wle8nuxrq.jpg?alias=thumb_m&signature=YEJPJt-pqwmTge8RMBVsu0Pbax96uuJesDwA5iC8uMA",
+        "url_listing_search": "/thumb/ff/2026/05/nwlttozmxg5z18itth0l1aree4q3wv177xmkryv24wle8nuxrq.jpg?alias=listing_search&signature=9UVJN6k6AhYwHOpe5TUqKzL_d_zeG8ghjIYt2Msfxno",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081797,
+        "caption": "",
+        "url": "/media/ff/2026/05/vxi6deb823ipo4jce86gxof066qweha2psnq0eluxr8edzgwyc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/vxi6deb823ipo4jce86gxof066qweha2psnq0eluxr8edzgwyc.jpg?alias=thumb_m&signature=PoVRWooMLOPn0kRhwg0tU4ApRENHReLyGnUlsv4TrVA",
+        "url_listing_search": "/thumb/ff/2026/05/vxi6deb823ipo4jce86gxof066qweha2psnq0eluxr8edzgwyc.jpg?alias=listing_search&signature=DySblcGi0jZT01VZnzu_oShsSIRSsR7_bTTFWT9ZwXo",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081798,
+        "caption": "",
+        "url": "/media/ff/2026/05/plpzhydqnbscdi3v3k0kj8oygm6k648011i61zfeooktn64p7j.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/plpzhydqnbscdi3v3k0kj8oygm6k648011i61zfeooktn64p7j.jpg?alias=thumb_m&signature=E1UasQCaaPZIkkF1NubQa_7mQc7lsludDz69WzSO3w0",
+        "url_listing_search": "/thumb/ff/2026/05/plpzhydqnbscdi3v3k0kj8oygm6k648011i61zfeooktn64p7j.jpg?alias=listing_search&signature=BLCT0rGWZG1cRnh6RXM5aA15yTFg5MqFbZIkrrMHm3Q",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 36081799,
+        "caption": "",
+        "url": "/media/ff/2026/05/qp4jm4issciiojeuk665xz7vuwvgdxmrldf709usj3jr8ampgw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/qp4jm4issciiojeuk665xz7vuwvgdxmrldf709usj3jr8ampgw.jpg?alias=thumb_m&signature=qqI1jcs-j-bAP-DlAmm5gCHyHYfapRpS-eGBrl4THiw",
+        "url_listing_search": "/thumb/ff/2026/05/qp4jm4issciiojeuk665xz7vuwvgdxmrldf709usj3jr8ampgw.jpg?alias=listing_search&signature=4hboiY-Ar4x3JsRvepcyTWv1ruUrK-NtfMOl_qqnK48",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081800,
+        "caption": "",
+        "url": "/media/ff/2026/05/52kb94hms1nic2caskhri40zzq33o9ep5k902y3rl1ogcwoxo9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/52kb94hms1nic2caskhri40zzq33o9ep5k902y3rl1ogcwoxo9.jpg?alias=thumb_m&signature=Zt4hL00J2Msuof4nbRp9sVivjDoxA5Yo1FD3U6hM_Lc",
+        "url_listing_search": "/thumb/ff/2026/05/52kb94hms1nic2caskhri40zzq33o9ep5k902y3rl1ogcwoxo9.jpg?alias=listing_search&signature=gEcMLjqcN4N8YWaI5wwbMrcjFZuJ09H_J7bIVGgGw9g",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 36081801,
+        "caption": "",
+        "url": "/media/ff/2026/05/0d8lzlfbfowfiwo8o4ye9gmuyfbd692gipkktvka15no3119xj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/0d8lzlfbfowfiwo8o4ye9gmuyfbd692gipkktvka15no3119xj.jpg?alias=thumb_m&signature=yzvhfQCPLziMHtKw7KB1vN3oV01XB74iTYfjKfZXQRQ",
+        "url_listing_search": "/thumb/ff/2026/05/0d8lzlfbfowfiwo8o4ye9gmuyfbd692gipkktvka15no3119xj.jpg?alias=listing_search&signature=iDbsQs84irToNGgqOaahGwmSpft82CvzIAADj15-j_s",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081802,
+        "caption": "",
+        "url": "/media/ff/2026/05/cp5f4hye6doidabjtrtumw5npip1hu7y345xuzy5xu2jxq04qv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/cp5f4hye6doidabjtrtumw5npip1hu7y345xuzy5xu2jxq04qv.jpg?alias=thumb_m&signature=OHh5CtS2aHZnqoCnyZdCj8NR0_puzMtHFATTwfD_Xog",
+        "url_listing_search": "/thumb/ff/2026/05/cp5f4hye6doidabjtrtumw5npip1hu7y345xuzy5xu2jxq04qv.jpg?alias=listing_search&signature=-n54kO1vqQ4RVqBqOC1jYapqy78q-ivVtN8Rz0qmbY0",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081784,
+        "caption": null,
+        "url": "/media/ff/2026/05/9m1paflw2zkzcjko1lg4ult79u4e42dgqejm1qj5i0zo933wzj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/9m1paflw2zkzcjko1lg4ult79u4e42dgqejm1qj5i0zo933wzj.jpg?alias=thumb_m&signature=gejNx7jfxOIeimDgdAL6h3UCU0w-AWQG8CBM4H3I7qk",
+        "url_listing_search": "/thumb/ff/2026/05/9m1paflw2zkzcjko1lg4ult79u4e42dgqejm1qj5i0zo933wzj.jpg?alias=listing_search&signature=tMyjSinkoEhLyRQg3--g8lqMjHkH-7fJ6bqpc-YMRH0",
+        "ordering": 9,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 36081785,
+        "caption": null,
+        "url": "/media/ff/2026/05/joen04tjo90ax1nrc3uzp2utp2v1sbj341it96af6b2uogvctv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/joen04tjo90ax1nrc3uzp2utp2v1sbj341it96af6b2uogvctv.jpg?alias=thumb_m&signature=Ni0B7HosNkt2n8v_bUMAfiWZEFIVaQF9L3Cl5aD4XzY",
+        "url_listing_search": "/thumb/ff/2026/05/joen04tjo90ax1nrc3uzp2utp2v1sbj341it96af6b2uogvctv.jpg?alias=listing_search&signature=FV5p8lD2zCffUT56QH9Km2ZviX-EkF6Q77zCENoqY0g",
+        "ordering": 10,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 36081786,
+        "caption": null,
+        "url": "/media/ff/2026/05/n4sbfsschnfc8uqk093sz28gm4ltsyx0z87ga84we4kfyx9mmy.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/n4sbfsschnfc8uqk093sz28gm4ltsyx0z87ga84we4kfyx9mmy.jpg?alias=thumb_m&signature=z4xczviGB5jov91wSCnUT1T_YKacWdybgvdtM9fOsk8",
+        "url_listing_search": "/thumb/ff/2026/05/n4sbfsschnfc8uqk093sz28gm4ltsyx0z87ga84we4kfyx9mmy.jpg?alias=listing_search&signature=MuLuCaO1Jal0HVg5Qr8JdkC0b30la2c0xVuAkqJpp28",
+        "ordering": 11,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 36081803,
+        "caption": "",
+        "url": "/media/ff/2026/05/2q8yi7fp4uw4mug8nitvq4gmn7n0incfy0xhl319u8efjd0a2n.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/2q8yi7fp4uw4mug8nitvq4gmn7n0incfy0xhl319u8efjd0a2n.jpg?alias=thumb_m&signature=P8x79MtUsmipWQOeo1eglQEJKZ507TZo2EQAIOdms1E",
+        "url_listing_search": "/thumb/ff/2026/05/2q8yi7fp4uw4mug8nitvq4gmn7n0incfy0xhl319u8efjd0a2n.jpg?alias=listing_search&signature=BLH9zhCXiEQmb9zD5IhBYOkyRJRf7y_cOC_jwv4mjpk",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081804,
+        "caption": "",
+        "url": "/media/ff/2026/05/1or9agmali79h24ehnha8iw4ug30l1jj29gczh5gszbxjdwq4t.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/1or9agmali79h24ehnha8iw4ug30l1jj29gczh5gszbxjdwq4t.jpg?alias=thumb_m&signature=U6IUGEp3A2f7aam2Y7E4vzvd6rpe6FNYj_NX2hLNY_o",
+        "url_listing_search": "/thumb/ff/2026/05/1or9agmali79h24ehnha8iw4ug30l1jj29gczh5gszbxjdwq4t.jpg?alias=listing_search&signature=VqJUG_oEstExSTMKVVt51j1GiRja0zEOAnPegzdpvlc",
+        "ordering": 13,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081805,
+        "caption": "",
+        "url": "/media/ff/2026/05/dmghp16voaq2ioee333s2itp6753q873c7uwaxboi7q5timysk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/dmghp16voaq2ioee333s2itp6753q873c7uwaxboi7q5timysk.jpg?alias=thumb_m&signature=e-lJah9w5Gn0Q7eMCaLpXQ3V4d7w9JlZyJMOZj0C_B4",
+        "url_listing_search": "/thumb/ff/2026/05/dmghp16voaq2ioee333s2itp6753q873c7uwaxboi7q5timysk.jpg?alias=listing_search&signature=zIwaDgRHxdNJPREFkX95LljtiBmeg8-pkBZFDT3kk34",
+        "ordering": 14,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081806,
+        "caption": "",
+        "url": "/media/ff/2026/05/un8fokqscfuhgssrc9wm8fuf7qwdl8cc8jndfz9e0h5hen2f0i.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/un8fokqscfuhgssrc9wm8fuf7qwdl8cc8jndfz9e0h5hen2f0i.jpg?alias=thumb_m&signature=gierrQ9kU1DaWmaD5wnQDioxdfr3iBFLKJMAW_YwnRY",
+        "url_listing_search": "/thumb/ff/2026/05/un8fokqscfuhgssrc9wm8fuf7qwdl8cc8jndfz9e0h5hen2f0i.jpg?alias=listing_search&signature=vGfkrkY27ngJn3qeNbu55ikzBuUjDoA4R5phRwPh9SM",
+        "ordering": 15,
+        "width": 1198,
+        "height": 1500
+      },
+      {
+        "pk": 36081807,
+        "caption": "",
+        "url": "/media/ff/2026/05/6sya2z0twluxiytrgjt6ed2pitqc5ipzzq6tmrm5wpyedsmdtc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/6sya2z0twluxiytrgjt6ed2pitqc5ipzzq6tmrm5wpyedsmdtc.jpg?alias=thumb_m&signature=Vg4WGoF-qag-KksJ6yHDNYrXCeZpWxJvxKrV3tmryyQ",
+        "url_listing_search": "/thumb/ff/2026/05/6sya2z0twluxiytrgjt6ed2pitqc5ipzzq6tmrm5wpyedsmdtc.jpg?alias=listing_search&signature=HTjcj3U_x9Xkq-c1PIi-HG2G8hOfw8gHSe_vYLAaiW0",
+        "ordering": 16,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081808,
+        "caption": "",
+        "url": "/media/ff/2026/05/u0370y1n06jwdm7q2g116bnwlmk6ykub9smctschjsyw8xdtkp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/u0370y1n06jwdm7q2g116bnwlmk6ykub9smctschjsyw8xdtkp.jpg?alias=thumb_m&signature=FjI0drAI_p0zj63ohJlK5b-yiQXWcATsgUigsSej_jg",
+        "url_listing_search": "/thumb/ff/2026/05/u0370y1n06jwdm7q2g116bnwlmk6ykub9smctschjsyw8xdtkp.jpg?alias=listing_search&signature=cxaOnMX8Ct1i6JW49K7iU02LtH6RVw888hlpS4Xh9cY",
+        "ordering": 17,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 36081809,
+        "caption": "",
+        "url": "/media/ff/2026/05/kgtq66bv2lj62yaj2eos0zkeexzl6wxky5drw3kc87t8mmq93u.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/kgtq66bv2lj62yaj2eos0zkeexzl6wxky5drw3kc87t8mmq93u.jpg?alias=thumb_m&signature=CU7Hp86fCpjYfMcKwsuTsL_5n-WNPj6EnepQ3X6NgJQ",
+        "url_listing_search": "/thumb/ff/2026/05/kgtq66bv2lj62yaj2eos0zkeexzl6wxky5drw3kc87t8mmq93u.jpg?alias=listing_search&signature=q_HiFZdnAS-0e8UBKRpNzjOXu_CQXX-LP89R-OCqsq0",
+        "ordering": 18,
+        "width": 1000,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      731757
+    ],
+    "agency": {
+      "name": "PRIVERA AG",
+      "name_2": "",
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2025/02/30uqqm4eiedts62v24d479arx6zg2j7pgqkss2xi3xi95ffcq8.png",
+        "url_org_logo_m": "/thumb/org/2025/02/30uqqm4eiedts62v24d479arx6zg2j7pgqkss2xi3xi95ffcq8.png?alias=org_logo_m&signature=wV0Vhi5c15AONbPxixJGBHO3lp-KHAgeMK5ah7IUtsE"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "1300m² Gewerbe in Woblaufen mieten",
+    "livingspace": 1300
+  }
+}

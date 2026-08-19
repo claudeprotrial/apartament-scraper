@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1622.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/effingerstrasse-53-3008-bern/61417907/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 61417907,
+    "slug": "effingerstrasse-53-3008-bern",
+    "url": "/de/wohnung/effingerstrasse-53-3008-bern/61417907/",
+    "short_url": "/61417907/",
+    "submit_url": "/de/listing/61417907/submit/",
+    "status": "act",
+    "created": "2025-07-07T17:23:05.534223+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "",
+    "alternative_reference": "",
+    "price_display": 170,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-07-07T17:23:05.792189+02:00",
+    "rent_net": 170,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "330m² Büro",
+    "public_title": "Effingerstrasse 53, 3008 Bern - CHF 170 exkl. NK pro m² / Jahr",
+    "pitch_title": "330m² Büro in Bern mieten",
+    "description_title": "zentrale Büroräumlichkeiten auf 330m2 mit Terrasse",
+    "description": "Ab sofort bieten wir Ihnen attraktive Büro- und Schulungsräumlichkeit in unmittelbarer Nähe des Inselspitals.  \n  \nIm angehängten Factsheet finden Sie alle wichtigen Informationen sowie den Grundrissplan zum Flächenangebot. Werfen Sie einen Blick hinein und entdecken Sie die vielseitigen Möglichkeiten!  \n  \n**Mietfläche:**  \nEffingerstrasse 53 ca. 330 m2 im 1. OG  \n  \nZusätzlich stehen im UG (Archiv- / Lagerräume) ca. 100 m2 zur Verfügung.  \n  \nWenn wir Ihr Interesse geweckt haben, freuen wir uns darauf, Ihnen die Räumlichkeiten bei einem Besichtigungstermin näher vorzustellen.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 330,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 330,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "balconygarden"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Effingerstrasse 53",
+    "zipcode": 3008,
+    "city": "Bern",
+    "public_address": "Effingerstrasse 53, 3008 Bern",
+    "latitude": 46.945653,
+    "longitude": 7.429040599999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2025-10-01",
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 33555692,
+    "images": [
+      {
+        "pk": 33555692,
+        "caption": null,
+        "url": "/media/ff/2026/02/bcrdjtsr4i633b5fdsjxd92xici77iwbd4wab8d0u8jlc3cmia.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/bcrdjtsr4i633b5fdsjxd92xici77iwbd4wab8d0u8jlc3cmia.jpg?alias=thumb_m&signature=kkfbQrNOohXcladch2QrrvLgNTLLvIzcRs2iL0D3WPc",
+        "url_listing_search": "/thumb/ff/2026/02/bcrdjtsr4i633b5fdsjxd92xici77iwbd4wab8d0u8jlc3cmia.jpg?alias=listing_search&signature=EoUzGHQY_tiuGCHWeoTLu4r5aRqzlBcmuG4SmQYtz0Y",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555653,
+        "caption": null,
+        "url": "/media/ff/2026/02/z3q20ob7acx0qm31wtk1mdybjp6hvup1kh2ej5gx81qge98qjm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/z3q20ob7acx0qm31wtk1mdybjp6hvup1kh2ej5gx81qge98qjm.jpg?alias=thumb_m&signature=RMXR-NmglGTYPXzpuYJBuj0PLglB24FyK5937PUrCPc",
+        "url_listing_search": "/thumb/ff/2026/02/z3q20ob7acx0qm31wtk1mdybjp6hvup1kh2ej5gx81qge98qjm.jpg?alias=listing_search&signature=jGGM-31WA9vIvkN6narVFk0AbGQ-ldC3P26apWJjguQ",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555649,
+        "caption": null,
+        "url": "/media/ff/2026/02/g9e0177jts0xz14cjktctkarykm205ithccs6lfr9g8aw427n0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/g9e0177jts0xz14cjktctkarykm205ithccs6lfr9g8aw427n0.jpg?alias=thumb_m&signature=I5AM-GZc-KIyonnKZl77ZqIoUmk0BmkCQdQcXg2IBjM",
+        "url_listing_search": "/thumb/ff/2026/02/g9e0177jts0xz14cjktctkarykm205ithccs6lfr9g8aw427n0.jpg?alias=listing_search&signature=YDxbkLB1lBP9s_y3Ue1aV3MlM75HU1mqxkjHm9Upue4",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555707,
+        "caption": null,
+        "url": "/media/ff/2026/02/myhowwf0uqodydzs68q6yxklwnu1bfb0oy3ycdivrn797dbloo.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/myhowwf0uqodydzs68q6yxklwnu1bfb0oy3ycdivrn797dbloo.jpg?alias=thumb_m&signature=tuXxN4UmvrMEv6MNr9tEypMov9mFiAfOFoN8GuXzjQM",
+        "url_listing_search": "/thumb/ff/2026/02/myhowwf0uqodydzs68q6yxklwnu1bfb0oy3ycdivrn797dbloo.jpg?alias=listing_search&signature=rQMkpeD7Og06C322E-UY53ACAwIU8rXRANLWH1Ko4zA",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555650,
+        "caption": null,
+        "url": "/media/ff/2026/02/kv1h62xr4cdupjj7lccd4euw88h4iu61u4gz0fthixa8l6h72o.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/kv1h62xr4cdupjj7lccd4euw88h4iu61u4gz0fthixa8l6h72o.jpg?alias=thumb_m&signature=vh4OvVlIUIzOaZMH7OOsxrE95Dow3tb6kTMzLhwLb38",
+        "url_listing_search": "/thumb/ff/2026/02/kv1h62xr4cdupjj7lccd4euw88h4iu61u4gz0fthixa8l6h72o.jpg?alias=listing_search&signature=bWzypf8JwO2zfkcnbyZWXXWhBct2FjP8evtlrC0paUM",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555656,
+        "caption": null,
+        "url": "/media/ff/2026/02/1extj82b2s0sctzl6wd2dgftbfgo7fy1w6qp3yfe8rwg9ceknk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/1extj82b2s0sctzl6wd2dgftbfgo7fy1w6qp3yfe8rwg9ceknk.jpg?alias=thumb_m&signature=fq9fScJaC3GxzLMPcbC9yoNeSXNtfuV-4lsC5rKtMmY",
+        "url_listing_search": "/thumb/ff/2026/02/1extj82b2s0sctzl6wd2dgftbfgo7fy1w6qp3yfe8rwg9ceknk.jpg?alias=listing_search&signature=wkLfIeDWQBb3SO1D3vO4T7aDUPlGz7SrDxtnNeJNIv8",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555632,
+        "caption": null,
+        "url": "/media/ff/2026/02/2yl9teo4rww3zz0sce5qk6zo20wti456xf9ozddm2o5vhca22j.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/2yl9teo4rww3zz0sce5qk6zo20wti456xf9ozddm2o5vhca22j.jpg?alias=thumb_m&signature=Mk9P_VJiCURHgCfedxXjSFVdjr1AGE3rJK8JlG74hS0",
+        "url_listing_search": "/thumb/ff/2026/02/2yl9teo4rww3zz0sce5qk6zo20wti456xf9ozddm2o5vhca22j.jpg?alias=listing_search&signature=UwhKxjo0UDGulQ_CobLouRncL1eH54b282XtTKWeosE",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555628,
+        "caption": null,
+        "url": "/media/ff/2026/02/pxwjk7ceqdr911syzy7nn8hagque23vmexpy0mmmnu8hyla106.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/pxwjk7ceqdr911syzy7nn8hagque23vmexpy0mmmnu8hyla106.jpg?alias=thumb_m&signature=MvWj06olvZb-mTvAwvkbtlfemE0BuXRSD5CmxmOKQnI",
+        "url_listing_search": "/thumb/ff/2026/02/pxwjk7ceqdr911syzy7nn8hagque23vmexpy0mmmnu8hyla106.jpg?alias=listing_search&signature=nhPml8alCFwL05oZnjH9_DLi2PCpi9MhenF6-Fzqop8",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555618,
+        "caption": null,
+        "url": "/media/ff/2026/02/ga5g38xe50yw9tebt3guptieeghjisv9wa7tukg0085vfev3gi.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/ga5g38xe50yw9tebt3guptieeghjisv9wa7tukg0085vfev3gi.jpg?alias=thumb_m&signature=6jrgVEWi2BwhXrlZRa-2X6t7DzDIsyst9CscBRPgisI",
+        "url_listing_search": "/thumb/ff/2026/02/ga5g38xe50yw9tebt3guptieeghjisv9wa7tukg0085vfev3gi.jpg?alias=listing_search&signature=SBViEdTXYysmbUUjga1Lp3NlM1QjfDpwVKSkwufCYMw",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555726,
+        "caption": null,
+        "url": "/media/ff/2026/02/cz1ryw7ybp4owfvm4urlc0jz0rzdx0ru2p1q2fg3t080nefo24.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/cz1ryw7ybp4owfvm4urlc0jz0rzdx0ru2p1q2fg3t080nefo24.jpg?alias=thumb_m&signature=UcLNqRTXhKQ1qScoBR1uA2ybMEF_6zM_hFg_dl3_j4Q",
+        "url_listing_search": "/thumb/ff/2026/02/cz1ryw7ybp4owfvm4urlc0jz0rzdx0ru2p1q2fg3t080nefo24.jpg?alias=listing_search&signature=mOrOFpO1Da9r2xKGrICETM6Ug_B5v0wWnvSQrbLozR8",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555651,
+        "caption": null,
+        "url": "/media/ff/2026/02/269m23ssrh964eobwt4i28ut38js6r53z4wlcs74eozpauuykg.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/269m23ssrh964eobwt4i28ut38js6r53z4wlcs74eozpauuykg.jpg?alias=thumb_m&signature=7Hqr3fMAVQBJZH-8bDcD6NGfSqplaf1JfgLEOJBz3XU",
+        "url_listing_search": "/thumb/ff/2026/02/269m23ssrh964eobwt4i28ut38js6r53z4wlcs74eozpauuykg.jpg?alias=listing_search&signature=lWvuufKoRpFu4YOh5pQQj069T4uSSfgx5J2SNw2JN0U",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 33555790,
+        "caption": null,
+        "url": "/media/ff/2026/02/rddt8nn79zrwkteh4hl02yzuysn5gyi533ozhh4r304iswq8rd.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/rddt8nn79zrwkteh4hl02yzuysn5gyi533ozhh4r304iswq8rd.jpg?alias=thumb_m&signature=rstLpHqxNeLCy26UCq6iAgC1CQtDkxaZxMyZKaqs0mU",
+        "url_listing_search": "/thumb/ff/2026/02/rddt8nn79zrwkteh4hl02yzuysn5gyi533ozhh4r304iswq8rd.jpg?alias=listing_search&signature=X2YsqGYrUbX3ZO1YW32aX48UfPJUyGQfjW6khs48818",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [
+      758322
+    ],
+    "agency": {
+      "name": "Haussener Verwaltungen AG",
+      "name_2": "",
+      "street": "Monbijoustrasse 22",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2025/03/rte2h9gfe75kw7bh12umq0as178azt43s5tobtlavv1zcghbk5.jpg",
+        "url_org_logo_m": "/thumb/org/2025/03/rte2h9gfe75kw7bh12umq0as178azt43s5tobtlavv1zcghbk5.jpg?alias=org_logo_m&signature=RvyKIdrgGfCVP4oAZu2yHTM1XawxeXvXHbjIS1exysk"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "330m² Büro in Bern mieten",
+    "livingspace": 330
+  }
+}

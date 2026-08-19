@@ -1,0 +1,223 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1716.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/kasernenstrasse-27-3013-bern/85701015/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "einzelbüro",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 11
+  },
+  "raw": {
+    "pk": 85701015,
+    "slug": "kasernenstrasse-27-3013-bern",
+    "url": "/de/wohnung/kasernenstrasse-27-3013-bern/85701015/",
+    "short_url": "/85701015/",
+    "submit_url": "/de/listing/85701015/submit/",
+    "status": "act",
+    "created": "2026-01-19T15:49:19.969408+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "18390.01.430011",
+    "ref_property": "18390",
+    "ref_house": "01",
+    "ref_object": "430011",
+    "alternative_reference": null,
+    "price_display": 220,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-02-06T16:12:33.382628+01:00",
+    "rent_net": 220,
+    "rent_charges": 0,
+    "rent_gross": 220,
+    "short_title": "356m² Büro",
+    "public_title": "Kasernenstrasse 27, 3013 Bern - CHF 220 inkl. NK pro m² / Jahr",
+    "pitch_title": "356m² Büro in Bern mieten",
+    "description_title": "Neuer Standort an Top Lage",
+    "description": "An der Kasernenstrasse 27 in 3013 Bern vermieten wir per 1. September 2026 oder nach Vereinbarung eine grosszügige Bürofläche im 3. Obergeschoss. \n\nDie rund 356 m2 grosse Fläche ist bereits im ausgebauten Zustand und verfügt über 11 abgetrennte Räume - ideal für Unternehmen mit Bedarf an Einzelbüros, Teamräumen oder Besprechungszonen. Nebst der Büronutzung eignet sich die Raumaufteilung auch hervorragend für schulische Nutzungen oder Beratungszwecke, bei denen mehrere separate Räume benötigt werden. Die WC-Anlagen befinden sich auf den allgemeinen Etagen und stehen zur Mitbenutzung zur Verfügung. \n\n**Ihre Vorteile auf einen Blick:**\n\n  * 356 m2 Bürofläche im 3. Obergeschoss \n  * Separate Räume mit grossen Fensterfronten. Bestehende Einzelabtrennungen können bei Bedarf entfernt werden, um grössere, zusammenhängende Flächen zu schaffen. \n  * Personenlift vorhanden \n  * Ausgebauter Zustand sofort nutzbar \n  * Nebenkosten CHF 30.- / p.J. \n  * Zentrale Lage in Bern Nord \n  * Sehr gute ÖV-Anbindung \n  * Autobahnanschlüsse in kurzer Distanz \n\n\n\n\nZusätzlich besteht die Möglichkeit, Lagerfläche anzumieten. Einstellplätze stehen für CHF 150.00 exkl. MwSt pro Monat zur Verfügung. \n\nDer Standort überzeugt durch seine zentrale Lage im Stadtteil Bern Nord. Mehrere Tram- und Buslinien befinden sich in unmittelbarer Nähe und gewährleisten eine schnelle Verbindung zum Bahnhof Bern sowie in die Innenstadt, welche auch bequem zu Fuss oder mit dem Velo erreichbar sind. Die nahegelegenen Hauptverkehrsachsen ermöglichen eine rasche Erreichbarkeit der Autobahnanschlüsse in alle Richtungen. \n\n  \n\n\n**Haben wir Ihr Interesse geweckt? Über die Onlinekontaktanfrage-Funktion erhalten Sie Auskunft zu den Besichtigungsmöglichkeiten.**",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 356,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 356,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Kasernenstrasse 27",
+    "zipcode": 3013,
+    "city": "Bern",
+    "public_address": "Kasernenstrasse 27, 3013 Bern",
+    "latitude": 46.9565954,
+    "longitude": 7.4573632,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2026-09-01",
+    "video_url": "",
+    "tour_url": "",
+    "website_url": null,
+    "live_viewing_url": "",
+    "cover_image": 33472575,
+    "images": [
+      {
+        "pk": 33472575,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/02/fpuw9i265q1oesdvgyznpt1c35wgfyuetilosj06542w8wohff.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/fpuw9i265q1oesdvgyznpt1c35wgfyuetilosj06542w8wohff.jpg?alias=thumb_m&signature=iPdnDlQfCNEEpwNyF3ZL2dStb1uOgUPfN8S7qnEJJIc",
+        "url_listing_search": "/thumb/ff/2026/02/fpuw9i265q1oesdvgyznpt1c35wgfyuetilosj06542w8wohff.jpg?alias=listing_search&signature=7F_V-PQ6lNUdyiliYE3KxmTyXx1cc2cje60-nVs6WE4",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48337292,
+        "caption": "Visualisierung Grossraumbüro",
+        "url": "/media/ff/2026/07/x2rsakv1eqfxdruft7mpvnpn298wh8wvem5napkpz215z0x18v.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/x2rsakv1eqfxdruft7mpvnpn298wh8wvem5napkpz215z0x18v.jpg?alias=thumb_m&signature=IBE7aLIZNoOU1F0BWYx1d822uxAZoyHFl9JEL8artEA",
+        "url_listing_search": "/thumb/ff/2026/07/x2rsakv1eqfxdruft7mpvnpn298wh8wvem5napkpz215z0x18v.jpg?alias=listing_search&signature=FzWOwy7H7XwjzZz5npd9GOKPWHwg5GvznkiV2fNCt5o",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48337293,
+        "caption": "Visualisierung  Sitzungszimmer",
+        "url": "/media/ff/2026/07/yomj0wngr8cymsddt5ww4lqu2vswzof398fm7h31r7d7iept2f.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/yomj0wngr8cymsddt5ww4lqu2vswzof398fm7h31r7d7iept2f.jpg?alias=thumb_m&signature=CqtEkCiWrWGQ7AtdgPOZU5EJj--zppQRs1--SDtsQqI",
+        "url_listing_search": "/thumb/ff/2026/07/yomj0wngr8cymsddt5ww4lqu2vswzof398fm7h31r7d7iept2f.jpg?alias=listing_search&signature=_H9e7nwYqkeoqjSYoSJpIeesDssENlplRl4Cl_hfXVw",
+        "ordering": 3,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 33472576,
+        "caption": "Visualisierung  Büro ",
+        "url": "/media/ff/2026/02/9kc5up3ulkwx72yscfdeqf3xksnpdd91ar9vu5f9kbfegmbk4o.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/9kc5up3ulkwx72yscfdeqf3xksnpdd91ar9vu5f9kbfegmbk4o.jpg?alias=thumb_m&signature=Or9qYy1qsmxKn9Dxto-FCPacj_Q668HUJ4-Cb5k7awA",
+        "url_listing_search": "/thumb/ff/2026/02/9kc5up3ulkwx72yscfdeqf3xksnpdd91ar9vu5f9kbfegmbk4o.jpg?alias=listing_search&signature=Otnc5ZMkKmMIzFhMiizQsbWu5-zHYLSBQBqB32ETd_E",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48337294,
+        "caption": "Korridor",
+        "url": "/media/ff/2026/07/dm4zomgo3d1r53wvfhh8c4xfyv2eedg3wlp8gspiztwhn4f4au.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/dm4zomgo3d1r53wvfhh8c4xfyv2eedg3wlp8gspiztwhn4f4au.jpg?alias=thumb_m&signature=bvG54INVVg2gjHEvyb5ZzCZlhN4cVOgkq60qUwSNYTg",
+        "url_listing_search": "/thumb/ff/2026/07/dm4zomgo3d1r53wvfhh8c4xfyv2eedg3wlp8gspiztwhn4f4au.jpg?alias=listing_search&signature=1TLBdBaycZblNjwqqQqQuR5MDAOwCLnYdEQ7fmb53xs",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48337295,
+        "caption": "Büro",
+        "url": "/media/ff/2026/07/zp1ttf2tixzckzmfkqiairawiwr9xf2w0vry2kdxgqpkjxvgyt.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/zp1ttf2tixzckzmfkqiairawiwr9xf2w0vry2kdxgqpkjxvgyt.jpg?alias=thumb_m&signature=ZUOWpzXUxYKNQwQkltHVwzFnLZFPHrVXZXrwqClnVQY",
+        "url_listing_search": "/thumb/ff/2026/07/zp1ttf2tixzckzmfkqiairawiwr9xf2w0vry2kdxgqpkjxvgyt.jpg?alias=listing_search&signature=XB-bagePvhXHMkPwCYuAREvhjmPClTiiT-EFr66ypyc",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48337296,
+        "caption": "Variante Grossraumbüro",
+        "url": "/media/ff/2026/07/mj65ub9fj301vaeifr1v0dso2bipsezby5e16vd5itebr81cnv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/mj65ub9fj301vaeifr1v0dso2bipsezby5e16vd5itebr81cnv.jpg?alias=thumb_m&signature=J0Tcw8vZwMDKzw_DELpwqe6HX3vIHMiVDIZjXlwie_o",
+        "url_listing_search": "/thumb/ff/2026/07/mj65ub9fj301vaeifr1v0dso2bipsezby5e16vd5itebr81cnv.jpg?alias=listing_search&signature=vVrcy0TVRIhkJ5FVnDTXVfhUupXNnsI-linn_wjuw74",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48337297,
+        "caption": "Variante Grossraumbüro",
+        "url": "/media/ff/2026/07/0dha02qd9kjvdc0twzlz1k1csjsz0gm5uat2a45u3mzocz7rhb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/0dha02qd9kjvdc0twzlz1k1csjsz0gm5uat2a45u3mzocz7rhb.jpg?alias=thumb_m&signature=EaqdBFTQUuHJsEm_IX2rjhh_5JUjHF0QquZOEYnUwe4",
+        "url_listing_search": "/thumb/ff/2026/07/0dha02qd9kjvdc0twzlz1k1csjsz0gm5uat2a45u3mzocz7rhb.jpg?alias=listing_search&signature=d3DFk0dVH4C7f104CmFsZbeaXjIpo89Tw4DQrpx1frM",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48337298,
+        "caption": "Büro",
+        "url": "/media/ff/2026/07/5rwpjmejn2clondcjrtyo6ylmc611ddlg8lr3pcetsv1mj7vm9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/5rwpjmejn2clondcjrtyo6ylmc611ddlg8lr3pcetsv1mj7vm9.jpg?alias=thumb_m&signature=T_u0OAknKApEfksJcRkNFYIfftu16QyT3QkQe7pF9CQ",
+        "url_listing_search": "/thumb/ff/2026/07/5rwpjmejn2clondcjrtyo6ylmc611ddlg8lr3pcetsv1mj7vm9.jpg?alias=listing_search&signature=HsF5Vttx_eEh2uIVK3RwBshyIrqUvWmylNCERDDGFUI",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48337299,
+        "caption": "Allgemeine WC-Anlage zur Mitbenützung",
+        "url": "/media/ff/2026/07/ib4l2bdgz3qyt08g5s3lgp0xg1wji2dc0k5ohqdm86p872ydyd.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/ib4l2bdgz3qyt08g5s3lgp0xg1wji2dc0k5ohqdm86p872ydyd.jpg?alias=thumb_m&signature=sWi3Qq-EyIlALjXr-4Do7ZGdrjotr7xz3ZrZlwqLi20",
+        "url_listing_search": "/thumb/ff/2026/07/ib4l2bdgz3qyt08g5s3lgp0xg1wji2dc0k5ohqdm86p872ydyd.jpg?alias=listing_search&signature=5DMu4hUmH5JJ3yAhsaVOTUwzP0WVyLsLwQPZJl-DzLo",
+        "ordering": 10,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 33472590,
+        "caption": "Allgemeine WC-Anlage zur Mitbenützung",
+        "url": "/media/ff/2026/02/sljyzh1v7f15g9mgikjxs5sebcj6prq3s7vklkrx2vionlqxtx.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/sljyzh1v7f15g9mgikjxs5sebcj6prq3s7vklkrx2vionlqxtx.jpg?alias=thumb_m&signature=eNRhcGZosYcBygVRK-F1Meafk2Q_aqw7u4g5QJIuYEA",
+        "url_listing_search": "/thumb/ff/2026/02/sljyzh1v7f15g9mgikjxs5sebcj6prq3s7vklkrx2vionlqxtx.jpg?alias=listing_search&signature=_Je0KqCU3ifhRKFWl4hC3gNOT80JUZ_1jUxA-OObbLw",
+        "ordering": 11,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "documents": [
+      672413
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "356m² Büro in Bern mieten",
+    "livingspace": 356
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1712.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/auf-anfrage-3012-bern/86258245/",
+    "descarcat": "2026-08-17 12:29",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "behandlungszimmer",
+        "praxis"
+      ],
+      "kw_praxis_slabe": [
+        "therapie"
+      ],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "empfang",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 4
+  },
+  "raw": {
+    "pk": 86258245,
+    "slug": "auf-anfrage-3012-bern",
+    "url": "/de/wohnung/auf-anfrage-3012-bern/86258245/",
+    "short_url": "/86258245/",
+    "submit_url": "/de/listing/86258245/submit/",
+    "status": "act",
+    "created": "2026-08-09T04:23:20.083431+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..1412236",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "1412236",
+    "alternative_reference": null,
+    "price_display": 3120,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-09T04:23:21.274144+02:00",
+    "rent_net": 2835,
+    "rent_charges": 285,
+    "rent_gross": 3120,
+    "short_title": "136m² Büro",
+    "public_title": "Auf Anfrage, 3012 Bern - CHF 3’120 inkl. NK pro Monat",
+    "pitch_title": "136m² Büro in Bern mieten",
+    "description_title": "ZENTRAL, GEPFLEGT UND VIELSEITIG NUTZBAR",
+    "description": "Diese lichtdurchflutete 3-Zimmer-Bürofläche im beliebten Länggassquartier vereint zentrale Lage mit angenehmer Ruhe. Grosszügige Räume schaffen eine professionelle, gleichzeitig entspannte Arbeitsatmosphäre - ideal für Teams, Einzelunternehmen oder eine Praxis mit Empfang und Behandlungszimmern. Dank flexibler Nutzung eignet sich die Fläche auch hervorragend für Therapie- oder Beratungsräume. Eine kleine Büroküche ist integriert, der Aussensitzplatz im Grünen lädt zu Pausen ein. Einstellhallenplatz optional (CHF 145.-/Monat).   \n  \nDieses BETTERHOMES-Angebot zeichnet sich durch folgende Vorteile aus:   \n\\- zentrale und doch ruhige Lage in Länggassquartier   \n  \n\\- lichtdurchflutete und grosszügige Räumlichkeiten   \n  \n\\- vielseitige Nutzung als Büro, Praxis oder Therapieräume möglich   \n  \n\\- kleine Büroküche eingebaut   \n  \n\\- Aussensitzplatz im Grünen   \n  \n\\- Einstellhallenplatz optional CHF 145.-/mtl.   \n  \n\\- und, und, und ...   \n  \n  \nInteressiert? Kontaktieren Sie uns für eine unverbindliche Besichtigung  auch Online-Besichtigung möglich!   \n  \nNichts Passendes gefunden? Über 2'000 weitere Angebote unter: www.betterhomes.ch - der Immobilienfairmittler®   \n  \nSelber eine Immobilie zu vermarkten?   \nProfitieren Sie von unserem Know-how: https://www.betterhomes.ch/de/profitieren   \n  \nSie möchten eine Immobilie schätzen lassen?   \nErfahren Sie jetzt ihren Wert über unsere Gratis-Schätzung, sofort und unverbindlich!   \nhttps://www.betterhomes.ch/de/knowledge/estimation   \n  \n  \nMehr Details   \nLage: zentral   \nZustand: gut   \n  \nBäder / Nasszellen: 1 (1x WC / Lavabo)   \nÖffentliche Verkehrsmittel: Bus, 100 m   \nGeschäfte: Migros, 100 m / diverse Geschäfte in unmittelbarer Umgebung",
+    "surface_living": null,
+    "surface_property": 0,
+    "surface_usable": 136,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 136,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Auf Anfrage",
+    "zipcode": 3012,
+    "city": "Bern",
+    "public_address": "Auf Anfrage, 3012 Bern",
+    "latitude": 46.9588575,
+    "longitude": 7.427328599999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.betterhomes.ch/de/immobilie-suchen/detail/objectId/536fbd6fbfce231a2d63c24b9a68c649",
+    "live_viewing_url": null,
+    "cover_image": 48790433,
+    "images": [
+      {
+        "pk": 48790433,
+        "caption": "",
+        "url": "/media/ff/2026/08/2q02yjdgisjbom326vdb9uodup6x7wzzt39dvehqjh1vbx0fq8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/2q02yjdgisjbom326vdb9uodup6x7wzzt39dvehqjh1vbx0fq8.jpg?alias=thumb_m&signature=94JW6ocjWnELLcPYQmzuYDmGmMbj785b5bwGCYlyyFA",
+        "url_listing_search": "/thumb/ff/2026/08/2q02yjdgisjbom326vdb9uodup6x7wzzt39dvehqjh1vbx0fq8.jpg?alias=listing_search&signature=F36pb69q5Upqv_0JxKGj90Bf5TL-EUi7BKHu_GC8PYw",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48790434,
+        "caption": "",
+        "url": "/media/ff/2026/08/agquuztz0a4aaippkt05chk8uuw3rgt6utbm0yifg2lzh6orhk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/agquuztz0a4aaippkt05chk8uuw3rgt6utbm0yifg2lzh6orhk.jpg?alias=thumb_m&signature=bfUCjKngjBUpenQCKOFlk-PC81FpO-Peliik5mk2Avo",
+        "url_listing_search": "/thumb/ff/2026/08/agquuztz0a4aaippkt05chk8uuw3rgt6utbm0yifg2lzh6orhk.jpg?alias=listing_search&signature=djQoq6URv-t-QFOZrLo7Ch2CDMEh7ApIr9C531lJwbs",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48790435,
+        "caption": "",
+        "url": "/media/ff/2026/08/utf3383ao1naxdi2jgjmgstj0psqo1ypj1sdsrffui3p6f69n4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/utf3383ao1naxdi2jgjmgstj0psqo1ypj1sdsrffui3p6f69n4.jpg?alias=thumb_m&signature=WxH_Kzui_qL2-VuKt70C7IRyxS4uxVGQJRCnL3zlqZA",
+        "url_listing_search": "/thumb/ff/2026/08/utf3383ao1naxdi2jgjmgstj0psqo1ypj1sdsrffui3p6f69n4.jpg?alias=listing_search&signature=-rEyDpU0qzOzzcTm1YVRTVOJVwLgoAnpe5SAhnUY-gc",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48790436,
+        "caption": "",
+        "url": "/media/ff/2026/08/6uqw6x4zgh5biact38nfz6qrr8sh4pmuegt07pln1d2nacxs55.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/6uqw6x4zgh5biact38nfz6qrr8sh4pmuegt07pln1d2nacxs55.jpg?alias=thumb_m&signature=gJlLy5FvCvFfmtgiSzWee6nQuqixWAlXtC5ehHU3mtc",
+        "url_listing_search": "/thumb/ff/2026/08/6uqw6x4zgh5biact38nfz6qrr8sh4pmuegt07pln1d2nacxs55.jpg?alias=listing_search&signature=MLP8jkjNOdE-5bK0ftNlVXJHZSi4_tU9QlKvn7xDbOo",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "BETTERHOMES (Schweiz) AG",
+      "name_2": null,
+      "street": "Weltpoststrasse 3E",
+      "zipcode": "3015",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png",
+        "url_org_logo_m": "/thumb/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png?alias=org_logo_m&signature=huwCQjEiPzMWjK8iEAg-X9wK_Gf3W-DAREVe4V8_TuQ"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "136m² Büro in Bern mieten",
+    "livingspace": 136
+  }
+}

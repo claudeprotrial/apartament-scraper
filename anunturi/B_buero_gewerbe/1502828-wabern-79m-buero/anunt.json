@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1736.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/funkstrasse-104-3084-wabern/1502828/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "büroräume",
+        "office",
+        "showroom"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 1502828,
+    "slug": "funkstrasse-104-3084-wabern",
+    "url": "/de/wohnung/funkstrasse-104-3084-wabern/1502828/",
+    "short_url": "/1502828/",
+    "submit_url": "/de/listing/1502828/submit/",
+    "status": "act",
+    "created": "2025-01-22T10:22:54.590195+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "12660.02.390010",
+    "ref_property": "12660",
+    "ref_house": "02",
+    "ref_object": "390010",
+    "alternative_reference": null,
+    "price_display": 243,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-01-22T12:08:20.541563+01:00",
+    "rent_net": 200,
+    "rent_charges": 43,
+    "rent_gross": 243,
+    "short_title": "79m² Büro",
+    "public_title": "Funkstrasse 104, 3084 Wabern - CHF 243 inkl. NK pro m² / Jahr",
+    "pitch_title": "79m² Büro in Wabern mieten",
+    "description_title": "Helles, neu saniertes Büro - modern, komfortabel, bereit für Ihr Team",
+    "description": "Dieses kompakte Büro befindet sich in einer gepflegten fünfstöckigen Liegenschaft mit Lift und überzeugt durch eine zentrale, dennoch ruhige Lage. Die Nähe zur Tramhaltestelle Sandrain ermöglicht schnelle Verbindungen in die Stadt, während Einkaufsmöglichkeiten, Grünflächen am Gurten und die Aare in unmittelbarer Reichweite für kurze Pausen und Erholung sorgen.   \n  \n**Ausstattung im Überblick**   \n\n\n  * Drei abgeschlossene Büroräume mit Fenstern für viel Tageslicht \n  * Einladender Eingangsbereich \n  * Moderne, neue Toilette \n  * Neue Teeküche für kreative Pausen \n  * Neue Novilonböden für eine ruhige, elegante Arbeitsatmosphäre \n\n\n\n**Vorteile**\n\n  * Helle, freundliche Arbeitsumgebung durch lichtdurchflutete Räume \n  * Frisch renoviert - sofort bezugsbereit \n  * Praktischer Grundriss ideal für kleine Teams, Beratung oder Praxis \n\n\n\n**Benefits**\n\n  * Zentrale, dennoch ruhige Arbeitsatmosphäre - ideal für Kleinstunternehmen, Startups und Freiberufler \n  * Hervorragende Anbindung an öffentliche Verkehrsmittel; kurze Wege zu Bahn, Bus und Tram \n  * Vielfältige Nutzungsmöglichkeiten: reines Büro, Beratung, Atelier oder Showroom auf kleinem Raumbedarf \n  * Gute Sichtbarkeit in gepflegter Umgebung mit attraktiver Nachbarschaft \n\n  \nHaben wir Ihr Interesse geweckt? Dann können Sie sich via Kontaktformular bei uns melden. Wir freuen uns auf Ihre Kontaktaufnahme!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 79,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 79,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "cable"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Funkstrasse 104",
+    "zipcode": 3084,
+    "city": "Wabern",
+    "public_address": "Funkstrasse 104, 3084 Wabern",
+    "latitude": 46.9303406,
+    "longitude": 7.442387699999999,
+    "year_built": 1974,
+    "year_renovated": 2024,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 37204995,
+    "images": [
+      {
+        "pk": 37204995,
+        "caption": "Aussenansicht_nach_Sanierung.jpg",
+        "url": "/media/ff/2026/06/iwr6k9akwnz728qla1ar9sertml8yysftofhzxlrapnfnke3cp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/iwr6k9akwnz728qla1ar9sertml8yysftofhzxlrapnfnke3cp.jpg?alias=thumb_m&signature=isqeBlWLUoaHYizXhP_w1CgJf28P1_LPgsfdHDTY9QI",
+        "url_listing_search": "/thumb/ff/2026/06/iwr6k9akwnz728qla1ar9sertml8yysftofhzxlrapnfnke3cp.jpg?alias=listing_search&signature=vuqzM6V6QOIO_X1FEa5Azhdw7M08Bh9RV-NaaUxEkDs",
+        "ordering": 1,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 37204996,
+        "caption": "IMG_7167.JPG",
+        "url": "/media/ff/2026/06/w8fpc28wjkm4e6b6k7sgtf9z19deps9iel8netwrnz3vglx5mo.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/w8fpc28wjkm4e6b6k7sgtf9z19deps9iel8netwrnz3vglx5mo.jpg?alias=thumb_m&signature=IILzOonnpLN_Ywo57ZyE3VVuurzplfVA-QXSQulSI1A",
+        "url_listing_search": "/thumb/ff/2026/06/w8fpc28wjkm4e6b6k7sgtf9z19deps9iel8netwrnz3vglx5mo.jpg?alias=listing_search&signature=4piDzwg_lS6oEIhhorV3sP3EK_z0Z62w4ji3ddEhghU",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37204998,
+        "caption": "IMG_7168.JPG",
+        "url": "/media/ff/2026/06/om3u6410wd07axn9oyj0nwiyjxyd60x3xna3uk4feamzjlahwn.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/om3u6410wd07axn9oyj0nwiyjxyd60x3xna3uk4feamzjlahwn.jpg?alias=thumb_m&signature=9ksmsdqpLvNExWRDdkxIyBLrL1sraHsl6-A4d9ufwcs",
+        "url_listing_search": "/thumb/ff/2026/06/om3u6410wd07axn9oyj0nwiyjxyd60x3xna3uk4feamzjlahwn.jpg?alias=listing_search&signature=hDK4BP_7C3YUKeRGlF102lj6fhewVEOhwfRGtjlx3wE",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37204999,
+        "caption": "IMG_7165.JPG",
+        "url": "/media/ff/2026/06/l9quyyg4novp6vg8bn94vvrbxkwgtptk6uza81kfdifi7sbk3b.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/l9quyyg4novp6vg8bn94vvrbxkwgtptk6uza81kfdifi7sbk3b.jpg?alias=thumb_m&signature=CXwb1iMDFUs-r94p_5PQQd6xiB-tg4kypreprg-MzBY",
+        "url_listing_search": "/thumb/ff/2026/06/l9quyyg4novp6vg8bn94vvrbxkwgtptk6uza81kfdifi7sbk3b.jpg?alias=listing_search&signature=2xaICrD7XFiCXgb2qc-QC7VYAuvJBlDJy0ywBjHxkbw",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205000,
+        "caption": "IMG_7166.JPG",
+        "url": "/media/ff/2026/06/gk14shy6j48xemrvs5h4nny9uxwcakx5kgtv9w5pvkhcwns1ff.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/gk14shy6j48xemrvs5h4nny9uxwcakx5kgtv9w5pvkhcwns1ff.jpg?alias=thumb_m&signature=3eVkMLhELLeCus7PPFTIEs1UBrA3bLSsLswVZG0Io_8",
+        "url_listing_search": "/thumb/ff/2026/06/gk14shy6j48xemrvs5h4nny9uxwcakx5kgtv9w5pvkhcwns1ff.jpg?alias=listing_search&signature=D1iegqpWbL-eoxonIv-MKUQCk-Yn6F3TsgI1UYnMaMo",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205002,
+        "caption": "IMG_7162.JPG",
+        "url": "/media/ff/2026/06/dlhnt8kshvfkztkiqtdayp4kve9168i7g3ir923d8ebj55dkz2.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/dlhnt8kshvfkztkiqtdayp4kve9168i7g3ir923d8ebj55dkz2.jpg?alias=thumb_m&signature=osgdN33QRnuRpo5U0PZmRmCnx2ft7EJj4Q4SLq0CPiQ",
+        "url_listing_search": "/thumb/ff/2026/06/dlhnt8kshvfkztkiqtdayp4kve9168i7g3ir923d8ebj55dkz2.jpg?alias=listing_search&signature=qqOACDfzxLY4-ubaSRXrYghE5VG8HSgQQv2E1Rwyxuw",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205004,
+        "caption": "IMG_7164.JPG",
+        "url": "/media/ff/2026/06/vw2d2squ4ykit4ezb0u6k4g3scfmnh2cljjpgjq3roujnq4bsa.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/vw2d2squ4ykit4ezb0u6k4g3scfmnh2cljjpgjq3roujnq4bsa.jpg?alias=thumb_m&signature=m_5yO8QUhV165nKu7EmAOF9V8z51Zg-o3moHYR4RGhU",
+        "url_listing_search": "/thumb/ff/2026/06/vw2d2squ4ykit4ezb0u6k4g3scfmnh2cljjpgjq3roujnq4bsa.jpg?alias=listing_search&signature=tjJITH0cJjKHwpBHA0bfF1TDrt2CnKou15L8eyvFWMI",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205005,
+        "caption": "IMG_7170.JPG",
+        "url": "/media/ff/2026/06/enk9s5zqs9axpyx856i6vgin6wo7wlqy006wz8sbi6dt6gofrt.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/enk9s5zqs9axpyx856i6vgin6wo7wlqy006wz8sbi6dt6gofrt.jpg?alias=thumb_m&signature=u3cdxztfCtRJ7esMgus8xDlyeAVRBG45GKgYFVVntVY",
+        "url_listing_search": "/thumb/ff/2026/06/enk9s5zqs9axpyx856i6vgin6wo7wlqy006wz8sbi6dt6gofrt.jpg?alias=listing_search&signature=vPi5OJ6IKMgR8Mrqh99jtOz7a8UGWevvPlFbwCxYtuI",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205006,
+        "caption": "IMG_7173.JPG",
+        "url": "/media/ff/2026/06/gwb2n6f6jy6be4g9p4ye8g3mz07h3unglk4hnxw3qm2pyn9q74.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/gwb2n6f6jy6be4g9p4ye8g3mz07h3unglk4hnxw3qm2pyn9q74.jpg?alias=thumb_m&signature=skUv15667FOGbV9kq39nuu7RkhHCkO6WCW1QCi9zPwA",
+        "url_listing_search": "/thumb/ff/2026/06/gwb2n6f6jy6be4g9p4ye8g3mz07h3unglk4hnxw3qm2pyn9q74.jpg?alias=listing_search&signature=h2npxFevKGJ6rNvMZBKx4KG35-1gPR_75MFSR1Tle28",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205007,
+        "caption": "IMG_7172.JPG",
+        "url": "/media/ff/2026/06/ntnyponprpx22eiekfepj6t1yht683n7lq9ouel0c9v5kyuf2m.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/ntnyponprpx22eiekfepj6t1yht683n7lq9ouel0c9v5kyuf2m.jpg?alias=thumb_m&signature=K3FffcV84DCIUc1CJYuEU3NEYK0HM9KZV0ei70E2fzs",
+        "url_listing_search": "/thumb/ff/2026/06/ntnyponprpx22eiekfepj6t1yht683n7lq9ouel0c9v5kyuf2m.jpg?alias=listing_search&signature=OeOw_vtHl3Hq3LiCRez0wROhgLwxEGOMJxZO5V-zz18",
+        "ordering": 10,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [
+      252215
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "79m² Büro in Wabern mieten",
+    "livingspace": 79
+  }
+}

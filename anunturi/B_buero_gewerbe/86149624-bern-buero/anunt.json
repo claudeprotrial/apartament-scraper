@@ -1,0 +1,240 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1751.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/holzikofenweg-8-3007-bern/86149624/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "einzelbüro",
+        "geschäftsfläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 86149624,
+    "slug": "holzikofenweg-8-3007-bern",
+    "url": "/de/wohnung/holzikofenweg-8-3007-bern/86149624/",
+    "short_url": "/86149624/",
+    "submit_url": "/de/listing/86149624/submit/",
+    "status": "act",
+    "created": "2026-06-29T11:33:44.276627+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..vqoxg.4jgvx",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "vqoxg.4jgvx",
+    "alternative_reference": null,
+    "price_display": 6375,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-29T11:33:45.356972+02:00",
+    "rent_net": 5610,
+    "rent_charges": 765,
+    "rent_gross": 6375,
+    "short_title": "Büro",
+    "public_title": "Holzikofenweg 8, 3007 Bern - CHF 6’375",
+    "pitch_title": "Büro in Bern mieten",
+    "description_title": "Repräsentative gestaltbare Bürofläche an Top-Lage in Bern",
+    "description": "Suchen Sie den perfekten neuen Standort für Ihr Unternehmen? Am Holzikofenweg 8 in Bern erwartet Sie eine hochwertig ausgebaute und helle Bürofläche von 306 m². Dank der flexiblen Trennwände lässt sich die Raumaufteilung optimal an Ihre individuellen Bedürfnisse anpassen – ob Open-Space-Office, Einzelbüros oder kreative Meetingräume. \n\n**Die Highlights auf einen Blick**\n\n  * **Vollausgestattete Teeküche:** Moderne Küche mit Kochfeld, Geschirrspüler und Kühlschrank – ideal für die Kaffeepause oder das gemeinsame Mittagessen im Team. \n\n  * **Flexibles Raumkonzept:** Die bestehenden Trennwände können flexibel angepasst oder versetzt werden, um Ihre Wunsch-Struktur zu realisieren. \n\n  * **Komfort & Licht: ** Die Fensterfronten sorgen für ein helles Arbeitsklima. Die Storen sind teilweise elektrisch bedienbar. \n\n  * Toiletten auf der gleichen Etage zur Mitbenutzung \n\n  * **Bezugsbereit:** Die Fläche ist bereits ausgebaut und nach Vereinbarung verfügbar \n\n\n\n\n**Mietkonditionen im Überblick**\n\n**Nettomiete**\n\nCHF 220.00 / m2 / Jahr \n\nCHF 5'610.00 pro Monat \n\n**Heiz- & Nebenkosten (Akonto) **\n\nCHF 30.00 / m2 / Jahr \n\nCHF 765.00 / Monat \n\n**Bruttomiete**\n\nCHF 250.00 / m2 / Jahr \n\nCHF 6'375.00 / Monat \n\n**Parkplätze:** In der hauseigenen Einstellhalle stehen genügend Parkplätze zur Verfügung. Diese können unkompliziert für **CHF 130.00/Monat** dazu gemietet werden. \n\n**Lage & Erreichbarkeit **\n\nDas Bürogebäude am Holzikofenweg 8 zeichnet sich durch seine erstklassige und dennoch ruhige Lage in Bern aus. \n\n  * Hervorragende Anbindung an den öffentlichen Verkehr (Tram/Bus in Gehdistanz). \n\n  * Der Autobahnanschluss ist in wenigen Minuten erreichbar. \n\n  * Verpflegungs- und Einkaufsmöglichkeiten für Ihre Mitarbeitenden befinden sich in unmittelbarer Umgebung. \n\n\n\n\n**Haben wir Ihr Interesse geweckt?**\n\nVereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den Vorzügen dieser erstklassigen Geschäftsfläche. Wir freuen uns auf Ihre Kontaktaufnahme. \n\nBemerkung: Die Aufnahmen zeigen Einrichtungsbeispiele; insbesondere das Beleuchtungskonzept kann vor Ort individuell angepasst werden und von den Bildern abweichen",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Holzikofenweg 8",
+    "zipcode": 3007,
+    "city": "Bern",
+    "public_address": "Holzikofenweg 8, 3007 Bern",
+    "latitude": 46.9369606,
+    "longitude": 7.433482100000001,
+    "year_built": null,
+    "year_renovated": 2022,
+    "moving_date_type": "dat",
+    "moving_date": "2026-10-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48838945,
+    "images": [
+      {
+        "pk": 48838945,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/21f2c3f7308cf5df5ccebb907d47a42d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/21f2c3f7308cf5df5ccebb907d47a42d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/21f2c3f7308cf5df5ccebb907d47a42d.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1145
+      },
+      {
+        "pk": 48838946,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/da6b175fd8239034e4396e84cd0b408e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/da6b175fd8239034e4396e84cd0b408e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/da6b175fd8239034e4396e84cd0b408e.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48838947,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/19b0c1e7f89e9aca3fa0c07917135aff.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/19b0c1e7f89e9aca3fa0c07917135aff.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/19b0c1e7f89e9aca3fa0c07917135aff.jpg",
+        "ordering": 3,
+        "width": 480,
+        "height": 640
+      },
+      {
+        "pk": 48838948,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/1cc75ebf3111d61adf3dfe7be3f52e09.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/1cc75ebf3111d61adf3dfe7be3f52e09.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/1cc75ebf3111d61adf3dfe7be3f52e09.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1124
+      },
+      {
+        "pk": 48838949,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/0518ffdeb97b94137c066ad29c0cd03f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/0518ffdeb97b94137c066ad29c0cd03f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/0518ffdeb97b94137c066ad29c0cd03f.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48838950,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/a47e96d6a0d99e808203f8c9d34a1c57.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/a47e96d6a0d99e808203f8c9d34a1c57.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/a47e96d6a0d99e808203f8c9d34a1c57.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48838951,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/dfe4a9be8ed85aa60bdfec58a124d834.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/dfe4a9be8ed85aa60bdfec58a124d834.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/dfe4a9be8ed85aa60bdfec58a124d834.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48838952,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/216a292697735f63dcdf24489dc8221a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/216a292697735f63dcdf24489dc8221a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/216a292697735f63dcdf24489dc8221a.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48838953,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/f7c2c9250769ef1d49834d792504acc8.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/f7c2c9250769ef1d49834d792504acc8.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/f7c2c9250769ef1d49834d792504acc8.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48838954,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/9b43f202c2b42660d07f5ad425854003.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/9b43f202c2b42660d07f5ad425854003.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/9b43f202c2b42660d07f5ad425854003.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48838955,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/f631899798b733de57611e2ffb8bd6f1.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/f631899798b733de57611e2ffb8bd6f1.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/f631899798b733de57611e2ffb8bd6f1.jpg",
+        "ordering": 11,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48838956,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/c007/4003275293/image/c5ae42eaabe94c795c4abbfaebd74dab.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/c007/4003275293/image/c5ae42eaabe94c795c4abbfaebd74dab.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/c007/4003275293/image/c5ae42eaabe94c795c4abbfaebd74dab.jpg",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [
+      783068
+    ],
+    "agency": {
+      "name": "Emanuel Immobilien",
+      "name_2": null,
+      "street": "Luzernerstrasse 8",
+      "zipcode": "6045",
+      "city": "Meggen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/06/j3wf5zkbq0km82usgpzq4z9ydxxj01ro0f0x268cez3m1694a9.png",
+        "url_org_logo_m": "/thumb/org/2026/06/j3wf5zkbq0km82usgpzq4z9ydxxj01ro0f0x268cez3m1694a9.png?alias=org_logo_m&signature=Ek7Kg3Xmxu7H-bh2lo76OYWLRtleVpv8A1-bpd-yd7M"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003275293",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Büro in Bern mieten",
+    "livingspace": null
+  }
+}

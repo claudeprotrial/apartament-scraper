@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1642.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/kornhausplatz-14-3011-bern/86212866/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisraum"
+      ],
+      "kw_praxis_slabe": [
+        "therapie"
+      ],
+      "kw_business": [
+        "<type>",
+        "atelier"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 4
+  },
+  "raw": {
+    "pk": 86212866,
+    "slug": "kornhausplatz-14-3011-bern",
+    "url": "/de/wohnung/kornhausplatz-14-3011-bern/86212866/",
+    "short_url": "/86212866/",
+    "submit_url": "/de/listing/86212866/submit/",
+    "status": "act",
+    "created": "2026-07-23T11:58:09.521274+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "ATELIER",
+    "reference": ".104170.430010",
+    "ref_property": "",
+    "ref_house": "104170",
+    "ref_object": "430010",
+    "alternative_reference": null,
+    "price_display": 312,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-07-23T11:58:10.200148+02:00",
+    "rent_net": 277,
+    "rent_charges": 35,
+    "rent_gross": 312,
+    "short_title": "41m² Atelier",
+    "public_title": "Kornhausplatz 14, 3011 Bern - CHF 312",
+    "pitch_title": "41m² Atelier in Bern mieten",
+    "description_title": "Atelier, 3. Stock",
+    "description": "Die Liegenschaft befindet sich an sehr zentraler Lage. Verkehrstechnisch ist die Liegenschaft optimal gelegen: die Haltestellen der öffentlichen Verkehrsmittel befinden sich in unmittelbarer Nähe zur Liegenschaft - der Hauptbahnhof ist nur ein paar Gehminuten entfernt. Einkaufsmöglichkeiten in Filialen von Grossverteilern und in Spezialgeschäften sind vor Ort und bequem zu Fuss erreichbar.   \nAtelier / Therapie- oder Praxisraum mit Laminatböden. Eigenes WC vorhanden. Es handelt sich im Inserat um Beispielbilder.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 41,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 41,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Kornhausplatz 14",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Kornhausplatz 14, 3011 Bern",
+    "latitude": 46.94837270000001,
+    "longitude": 7.447238199999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2027-02-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48588026,
+    "images": [
+      {
+        "pk": 48588026,
+        "caption": "Liegenschaft",
+        "url": "https://cdn.flatfox.ch/listings/v2/f072/4003333137/image/fcb4e03d20bf1311205108734a089b03.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f072/4003333137/image/fcb4e03d20bf1311205108734a089b03.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f072/4003333137/image/fcb4e03d20bf1311205108734a089b03.jpg",
+        "ordering": 1,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48588027,
+        "caption": "Bild 1",
+        "url": "https://cdn.flatfox.ch/listings/v2/f072/4003333137/image/9df0f6aef43d632a55a842565f1e5f35.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f072/4003333137/image/9df0f6aef43d632a55a842565f1e5f35.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f072/4003333137/image/9df0f6aef43d632a55a842565f1e5f35.jpg",
+        "ordering": 2,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48588028,
+        "caption": "Bild 2",
+        "url": "https://cdn.flatfox.ch/listings/v2/f072/4003333137/image/fd733be78d2e6d45172f2a7d06651e27.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f072/4003333137/image/fd733be78d2e6d45172f2a7d06651e27.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f072/4003333137/image/fd733be78d2e6d45172f2a7d06651e27.jpg",
+        "ordering": 3,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48588029,
+        "caption": "Bild 3",
+        "url": "https://cdn.flatfox.ch/listings/v2/f072/4003333137/image/1ce0e570fe8d3a585e3a3e6e9a65990f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/f072/4003333137/image/1ce0e570fe8d3a585e3a3e6e9a65990f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/f072/4003333137/image/1ce0e570fe8d3a585e3a3e6e9a65990f.jpg",
+        "ordering": 4,
+        "width": 576,
+        "height": 768
+      }
+    ],
+    "documents": [
+      775474
+    ],
+    "agency": {
+      "name": "Robert Pfister AG",
+      "name_2": null,
+      "street": "Neuengasse 17",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/04/yzinq55e0804h0zvzihyte8s7elmr52151yt7h8o29ws33qhnf.jpg",
+        "url_org_logo_m": "/thumb/org/2026/04/yzinq55e0804h0zvzihyte8s7elmr52151yt7h8o29ws33qhnf.jpg?alias=org_logo_m&signature=mfR-9_G8NW_gPhVrsbsYwy4OCquhtVO-UYXekYssMTc"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003333137",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "41m² Atelier in Bern mieten",
+    "livingspace": 41
+  }
+}

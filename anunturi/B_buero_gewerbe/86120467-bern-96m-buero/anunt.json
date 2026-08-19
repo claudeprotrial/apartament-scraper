@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1652.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/belpstrasse-23-3007-bern/86120467/",
+    "descarcat": "2026-08-17 12:34",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "arbeitsplätze",
+        "bürofläche",
+        "dienstleistung",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 86120467,
+    "slug": "belpstrasse-23-3007-bern",
+    "url": "/de/wohnung/belpstrasse-23-3007-bern/86120467/",
+    "short_url": "/86120467/",
+    "submit_url": "/de/listing/86120467/submit/",
+    "status": "act",
+    "created": "2026-06-17T09:44:46.936136+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..6030001",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "6030001",
+    "alternative_reference": null,
+    "price_display": 2200,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-17T09:44:47.532220+02:00",
+    "rent_net": 2000,
+    "rent_charges": 200,
+    "rent_gross": 2200,
+    "short_title": "96m² Büro",
+    "public_title": "Belpstrasse 23, 3007 Bern - CHF 2’200",
+    "pitch_title": "96m² Büro in Bern mieten",
+    "description_title": "Modernes Büro in CityPop Gebäude",
+    "description": "**Moderne Bürofläche an Top-Lage in Bern - sofort bezugsbereit**   \nSichern Sie sich Ihren neuen Unternehmensstandort im beliebten Monbijou-Quartier. An der Belpstrasse 23 vermieten wir eine **komplett ausgebaute Bürofläche mit ca. 96 m²** im 1. Obergeschoss - ideal für **Kleinunternehmen mit 6 bis 8 Mitarbeitenden** , Start-ups oder Dienstleistungsunternehmen.   \nDie hellen Räumlichkeiten mit grosszügigen Fensterfronten schaffen eine angenehme Arbeitsatmosphäre und bieten dank bestehender Grundbeleuchtung, Strom- und Netzwerkanschlüssen sowie eigenen Sanitäranlagen beste Voraussetzungen für einen **sofortigen Einzug.**   \nDie zentrale Lage überzeugt auf ganzer Linie: Der Bahnhof Bern ist in nur **5 Gehminuten** erreichbar, ein **Coop** befindet sich direkt im Erdgeschoss und die **City Pop Apartments** im selben Gebäude bieten eine praktische Übernachtungsmöglichkeit für Gäste oder Mitarbeitende.   \n  \n**Highlights auf einen Blick**   \n\n\n  * Ca. 96 m² komplett ausgebaute Bürofläche \n  * Ideal für 6-8 Arbeitsplätze \n  * Sofort bezugsbereit \n  * Helle Räume mit grosszügigen Fensterfronten \n  * Eigene Sanitäranlagen \n  * Bahnhof Bern in nur 5 Gehminuten \n  * Coop im Haus \n  * City Pop Apartments im selben Gebäude \n\n  \nNutzen Sie diese Gelegenheit und bringen Sie Ihr Unternehmen an einen modernen, zentralen Standort mit bester Infrastruktur. Vereinbaren Sie noch heute eine Besichtigung - wir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 96,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 96,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Belpstrasse 23",
+    "zipcode": 3007,
+    "city": "Bern",
+    "public_address": "Belpstrasse 23, 3007 Bern",
+    "latitude": 46.9446756,
+    "longitude": 7.433286599999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48698830,
+    "images": [
+      {
+        "pk": 48698830,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003363095/image/4e0e8848ecbc228f3cc56c2e2ccb33da.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003363095/image/4e0e8848ecbc228f3cc56c2e2ccb33da.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003363095/image/4e0e8848ecbc228f3cc56c2e2ccb33da.jpg",
+        "ordering": 1,
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "pk": 48698831,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003363095/image/d71135ac528face312d0791f4eecee52.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003363095/image/d71135ac528face312d0791f4eecee52.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003363095/image/d71135ac528face312d0791f4eecee52.jpg",
+        "ordering": 2,
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "pk": 48698832,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003363095/image/a1235c41276d639303605629cb4ef67d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003363095/image/a1235c41276d639303605629cb4ef67d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003363095/image/a1235c41276d639303605629cb4ef67d.jpg",
+        "ordering": 3,
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "pk": 48698833,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003363095/image/b8e817f90b73ce262cf1b8f2f54b365c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003363095/image/b8e817f90b73ce262cf1b8f2f54b365c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003363095/image/b8e817f90b73ce262cf1b8f2f54b365c.jpg",
+        "ordering": 4,
+        "width": 1280,
+        "height": 1008
+      },
+      {
+        "pk": 48698834,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003363095/image/9ec4a904eae2fda6ee34beec5eb7fabd.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003363095/image/9ec4a904eae2fda6ee34beec5eb7fabd.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003363095/image/9ec4a904eae2fda6ee34beec5eb7fabd.jpg",
+        "ordering": 5,
+        "width": 1280,
+        "height": 960
+      },
+      {
+        "pk": 48698835,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003363095/image/134bfffe896482edd5da12e67dfc7675.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003363095/image/134bfffe896482edd5da12e67dfc7675.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003363095/image/134bfffe896482edd5da12e67dfc7675.jpg",
+        "ordering": 6,
+        "width": 1280,
+        "height": 960
+      }
+    ],
+    "documents": [
+      779173
+    ],
+    "agency": {
+      "name": "H&B Real Estate AG",
+      "name_2": null,
+      "street": "Lagerstrasse 107",
+      "zipcode": "8004",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/avq773jc7ff9jstskppn003394b9r2701hw6t16fp9r2ph1xvb.jpg",
+        "url_org_logo_m": "/thumb/org/2026/07/avq773jc7ff9jstskppn003394b9r2701hw6t16fp9r2ph1xvb.jpg?alias=org_logo_m&signature=OTbQwO7Oi0EsWYvMe7ynJGRIsOHMYByzK0Bw6LHUiwc"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003363095",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "96m² Büro in Bern mieten",
+    "livingspace": 96
+  }
+}

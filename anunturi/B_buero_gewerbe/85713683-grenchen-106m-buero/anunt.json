@@ -1,0 +1,178 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1640.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/kapellstrasse-26-2540-grenchen/85713683/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "gewerbefläche",
+        "gewerberaum",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 85713683,
+    "slug": "kapellstrasse-26-2540-grenchen",
+    "url": "/de/wohnung/kapellstrasse-26-2540-grenchen/85713683/",
+    "short_url": "/85713683/",
+    "submit_url": "/de/listing/85713683/submit/",
+    "status": "act",
+    "created": "2026-01-23T08:18:35.348063+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..xlxt1.elp02",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "xlxt1.elp02",
+    "alternative_reference": null,
+    "price_display": 1062,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-01-23T08:18:43.253526+01:00",
+    "rent_net": 782,
+    "rent_charges": 280,
+    "rent_gross": 1062,
+    "short_title": "106m² Büro",
+    "public_title": "Kapellstrasse 26, 2540 Grenchen - CHF 1’062",
+    "pitch_title": "106m² Büro in Grenchen mieten",
+    "description_title": "Moderne Büroräumlichkeit in Grenchen",
+    "description": "Das EBOSA-Areal in Grenchen verfügt im Ganzen über 18'000m2 Gewerbeflächen, welche sich für verschiedenste Nutzungen eignen und auch über eine eigene Mensa, welche durch den Verein Netzwerke Grenchen bewirtschaftet wird. \n\nZur Zeit vermieten wir einen hellen Büro-/Gewerberaum **106m2 im 2.Obergeschoss** . Nicht zu unterschätzen ist auch die zentrale Lage des EBOSA-Areals in der Stadt Grenchen. Der Bahnhof der Stadt ist eifach zu Fuss erreichbar. Die Kapellstrasse mündet in die Verkehrsachse Bielstrasse, von welcher aus die Autobahn bequem in 3-4 Minuten zu erreichen ist. Auch ist Grenchen die ideale Umgebung dank des Flughafens und renomierten Unternehmen mit internationaler Bedeutung. \n\nWeitere Pluspunkt sind: \n\n  * Nettomietzins CHF 782.00 pro Monat \n\n  * HK/NK-Akonto CHF 280.00 pro Monat \n\n  * Vinyl-Bodenbelag \n\n  * neuere Fenster mit IV-Verglasung \n\n  * lichtdurchflutete Räumlichkeiten \n\n  * Beleuchtung und Standard-Elektroinstallation installiert \n\n  * Mitbenützung allg. WC-Anlagen \n\n  * 2 vollamtliche Hauswarte vor Ort \n\n  * Besucherparkplätze \n\n  * im Areal vorhandene Mensa \n\n  * Parkplätze können dazu gemietet werden \n\n  * Zentrumsnahe Lage \n\n  * Restaurants, Einkaufsläden, Praxen, usw. in unmittelbarer Nähe \n\n\n\n\nGerne stehen wir Ihnen für weitere Auskünfte und/oder einer individuellen Besichtigung zur Verfügung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 106,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 106,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Kapellstrasse 26",
+    "zipcode": 2540,
+    "city": "Grenchen",
+    "public_address": "Kapellstrasse 26, 2540 Grenchen",
+    "latitude": 47.1957127,
+    "longitude": 7.396931899999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47415652,
+    "images": [
+      {
+        "pk": 47415652,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4002863237/image/32882921a2c055c92a1d88ef027acfd5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4002863237/image/32882921a2c055c92a1d88ef027acfd5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4002863237/image/32882921a2c055c92a1d88ef027acfd5.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 47415659,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4002863237/image/1505cde4afc76a39d4ba0341a3a701ba.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4002863237/image/1505cde4afc76a39d4ba0341a3a701ba.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4002863237/image/1505cde4afc76a39d4ba0341a3a701ba.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 47415664,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4002863237/image/11106049d3be9a876c5dd54469c07551.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4002863237/image/11106049d3be9a876c5dd54469c07551.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4002863237/image/11106049d3be9a876c5dd54469c07551.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 47415670,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4002863237/image/833e8e39c1aeed72840a344f52216a97.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4002863237/image/833e8e39c1aeed72840a344f52216a97.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4002863237/image/833e8e39c1aeed72840a344f52216a97.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 47415675,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4002863237/image/2192e5e1a5333137097bb7681850dbd0.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4002863237/image/2192e5e1a5333137097bb7681850dbd0.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4002863237/image/2192e5e1a5333137097bb7681850dbd0.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 47415682,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4002863237/image/5d88c5ebf1dc3aae64f0b14fccd7ff19.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4002863237/image/5d88c5ebf1dc3aae64f0b14fccd7ff19.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4002863237/image/5d88c5ebf1dc3aae64f0b14fccd7ff19.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 2000
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Roth Immobilien Management",
+      "name_2": null,
+      "street": "Florastrasse 30",
+      "zipcode": "2500",
+      "city": "Biel/Bienne",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/iw5l9vv2w7tckb7bon12gpj30dtbab0m6kmzd3ua06s6j3uslw.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/iw5l9vv2w7tckb7bon12gpj30dtbab0m6kmzd3ua06s6j3uslw.jpg?alias=org_logo_m&signature=lbecF4iza-ejEjxDvzGn1mA2-CKHd2mJi_XUg5xTK4Y"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4002863237",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "106m² Büro in Grenchen mieten",
+    "livingspace": 106
+  }
+}

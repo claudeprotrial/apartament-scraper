@@ -1,0 +1,212 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1722.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/werkstrasse-20-3084-wabern/84797173/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisfläche",
+        "praxisräume"
+      ],
+      "kw_praxis_slabe": [
+        "therapie"
+      ],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "dienstleistung",
+        "empfang",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": [
+        "mietwohnung"
+      ]
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 84797173,
+    "slug": "werkstrasse-20-3084-wabern",
+    "url": "/de/wohnung/werkstrasse-20-3084-wabern/84797173/",
+    "short_url": "/84797173/",
+    "submit_url": "/de/listing/84797173/submit/",
+    "status": "act",
+    "created": "2025-08-07T09:24:09.156560+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "1481.01.01001",
+    "ref_property": "1481",
+    "ref_house": "01",
+    "ref_object": "01001",
+    "alternative_reference": null,
+    "price_display": 225,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-09-08T13:12:17.594063+02:00",
+    "rent_net": 195,
+    "rent_charges": 30,
+    "rent_gross": 225,
+    "short_title": "200m² Büro",
+    "public_title": "Werkstrasse 20, 3084 Wabern - CHF 225 inkl. NK pro m² / Jahr",
+    "pitch_title": "200m² Büro in Wabern mieten",
+    "description_title": "Top angebundene Büro- und Praxisflächen in Wabern",
+    "description": "Suchen Sie einen gut erreichbaren, modernen Standort für Ihre Räumlichkeiten? \n\nDiese hellen und flexibel nutzbaren Büro-, und Praxisflächen (200 m  2  ) in Wabern bieten ideale Voraussetzungen für einen professionellen Firmenauftritt nur wenige Minuten von Bern entfernt. \n\nDank der unmittelbaren Nähe zum Tram erreichen Mitarbeitende, Kunden und Patienten den Standort schnell und unkompliziert. \n\n**Ihre Vorteile auf einen Blick:**\n\n\n\n  * Moderne, hochwertige und voll ausgebaute Räumlichkeiten - sofort bezugsbereit \n  * Arbeiten mit Blick und viel Tageslicht \n  * Perfekt erreichbar für Kunden und Mitarbeitende \n  * Effiziente Belüftung \n  * Küche und Sanitäranlagen vorhanden \n  * Personenlift im Gebäude \n  * Besucherparkplätze vorhanden \n  * Repräsentativer Standort für Kundenempfang \n  * Einstellhallenplätze können bei Bedarf gerne dazu gemietet werden \n\n\n\n  \n\n\n**Ideal geeignet für:**\n\n  * KMU und Dienstleistungsunternehmen \n  * Treuhand-, Beratungs- oder IT-Firmen \n  * Schulungs-, Therapie- oder Praxisräume \n  * Start-ups mit Wachstumspotenzial \n\n\n\n\n**Lage & Erreichbarkeit: **\n\n  * Tram (Linie 9) und S-Bahnhof Wabern in unmittelbarer Gehdistanz \n  * Sehr gute Anbindung an den Bahnhof Bern (ca. 15 Minuten) \n  * Einkaufsmöglichkeiten und Verpflegung in Gehdistanz \n  * Schnelle Erreichbarkeit mit dem Auto \n\n\n\n  \n\n\nGerne zeigen wir Ihnen die Flächen bei einer persönlichen Besichtigung und besprechen individuelle Ausbau- oder Nutzungswünsche. \n\nWir freuen uns auf Ihre Kontaktaufnahme. \n\n**Achtung. Eigenwerbung** : Sie ziehen in eine Mietwohnung und benötigen Unterstützung für den bestmöglichen Verkauf Ihrer Immobilie? Kontaktieren Sie die Dr.Meyer Immobilien AG für eine unverbindliche Offerte - wir sind gut darin.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 200,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 200,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Werkstrasse 20",
+    "zipcode": 3084,
+    "city": "Wabern",
+    "public_address": "Werkstrasse 20, 3084 Wabern",
+    "latitude": 46.9272742,
+    "longitude": 7.450960899999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": "https://my.matterport.com/show/?m=sQXJ6tHEF9C",
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 35079766,
+    "images": [
+      {
+        "pk": 35079766,
+        "caption": "_DM31123.jpg",
+        "url": "/media/ff/2026/04/wanmlxquwfwiqwst40jao6yzvcovvwhals94qirqtsbjlfo6sd.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/wanmlxquwfwiqwst40jao6yzvcovvwhals94qirqtsbjlfo6sd.jpg?alias=thumb_m&signature=Tbi54vmcl-tfzum8MzLfY2HpezAX0hgNUdIGlYaVREU",
+        "url_listing_search": "/thumb/ff/2026/04/wanmlxquwfwiqwst40jao6yzvcovvwhals94qirqtsbjlfo6sd.jpg?alias=listing_search&signature=MEeFgxmjEkItVOnQjkzQJmEJU5M3KQtyl1iPOJI5G9U",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 32244390,
+        "caption": "Buero_4.jpg",
+        "url": "/media/ff/2025/12/d44zlzeydu29cex5s3dvafzbd8fqz9t8cbb9i0z445ynqtk8uy.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/d44zlzeydu29cex5s3dvafzbd8fqz9t8cbb9i0z445ynqtk8uy.jpg?alias=thumb_m&signature=hmBsGTdldb_76I2jEqMlHXCYUqb3hmWFzBlMaIZ6Rys",
+        "url_listing_search": "/thumb/ff/2025/12/d44zlzeydu29cex5s3dvafzbd8fqz9t8cbb9i0z445ynqtk8uy.jpg?alias=listing_search&signature=CxzH1kOSKCjUzBZV3Rf7nUVL_D47mwmUl3v5KeB7iQo",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 32244391,
+        "caption": "Buero_5.jpg",
+        "url": "/media/ff/2025/12/jjhvsxh8b8zymw8iuqtyl5q57olch3rz2beenmgu53lq1wglel.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/jjhvsxh8b8zymw8iuqtyl5q57olch3rz2beenmgu53lq1wglel.jpg?alias=thumb_m&signature=Ud7UhQ6PivlkyQCA_ZgzOZHNiE5tnxsOxyRZeKeM56s",
+        "url_listing_search": "/thumb/ff/2025/12/jjhvsxh8b8zymw8iuqtyl5q57olch3rz2beenmgu53lq1wglel.jpg?alias=listing_search&signature=XbImbb4l5zwDf37my8pTcfwaIj2gd-1kGVWn18nh9Qs",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 32244388,
+        "caption": "Buero_1.jpg",
+        "url": "/media/ff/2025/12/slesagb9idunz5sroqo5e7vq64bezpciztzls2a1wl7ujvd0te.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/slesagb9idunz5sroqo5e7vq64bezpciztzls2a1wl7ujvd0te.jpg?alias=thumb_m&signature=S1hC_ft5WhRCfS3YbCA5xIRPXElCrp3dP90RcupgF3o",
+        "url_listing_search": "/thumb/ff/2025/12/slesagb9idunz5sroqo5e7vq64bezpciztzls2a1wl7ujvd0te.jpg?alias=listing_search&signature=cYlkuA8HzjQh-Cx7orX1K9gLaCZoJSw5x3j-qKZ2mWw",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 32244393,
+        "caption": "Korridor_2.jpg",
+        "url": "/media/ff/2025/12/klu8xtqglr5iqwlz66l8sc7nbfxrr546vx4p19tqsgfccpa95q.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/klu8xtqglr5iqwlz66l8sc7nbfxrr546vx4p19tqsgfccpa95q.jpg?alias=thumb_m&signature=HBc4Mc0It5HN72U91lQcFDGdc055Ko4vdIHUiZUkUR0",
+        "url_listing_search": "/thumb/ff/2025/12/klu8xtqglr5iqwlz66l8sc7nbfxrr546vx4p19tqsgfccpa95q.jpg?alias=listing_search&signature=-RdenKPdSRCBhLqUz_rnFR3TXsr3H2PEoi458I4zkyE",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 32244395,
+        "caption": "Kueche.jpg",
+        "url": "/media/ff/2025/12/fsjuyd45tk3bhry5sl86lubbpn2g49s8ffcbdmphh7sdobkohf.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/fsjuyd45tk3bhry5sl86lubbpn2g49s8ffcbdmphh7sdobkohf.jpg?alias=thumb_m&signature=JOg2-Nnbab8j9HoJJ8ORSLxMyrVn_XtD4fsMsL_UtGY",
+        "url_listing_search": "/thumb/ff/2025/12/fsjuyd45tk3bhry5sl86lubbpn2g49s8ffcbdmphh7sdobkohf.jpg?alias=listing_search&signature=HV48NDjKRcThrUOkbMNrrgBWJZXnoH0AMiSJF3Af4hc",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 32244396,
+        "caption": "Toilettenanlage_1.jpg",
+        "url": "/media/ff/2025/12/mm1k8i9cjwv8keeqxukla0czz75gppykbj3tjsrzae9n58pt7h.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/mm1k8i9cjwv8keeqxukla0czz75gppykbj3tjsrzae9n58pt7h.jpg?alias=thumb_m&signature=LHstTYstGX1X5U9eYx5l52cHBehQvQRAKZKE0C-W6ZA",
+        "url_listing_search": "/thumb/ff/2025/12/mm1k8i9cjwv8keeqxukla0czz75gppykbj3tjsrzae9n58pt7h.jpg?alias=listing_search&signature=wTkBQBiiRXLpMRhACVFYPsuitKd89Jqhlia6jhzq1S8",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 32244397,
+        "caption": "Toilettenanlage_2.jpg",
+        "url": "/media/ff/2025/12/39trb3om6r3e1xheskvnkg1a9ubgcqtc6xmd8qkgdidg6tsb4x.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/39trb3om6r3e1xheskvnkg1a9ubgcqtc6xmd8qkgdidg6tsb4x.jpg?alias=thumb_m&signature=FIBpUdf94dqwMvjiWH9qRQO6duZkjwAo8QeviR6Y7zY",
+        "url_listing_search": "/thumb/ff/2025/12/39trb3om6r3e1xheskvnkg1a9ubgcqtc6xmd8qkgdidg6tsb4x.jpg?alias=listing_search&signature=QUNltOEUGczLgt39hNifGr7ZU5bW4jDT3z6nrCnS70k",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 32244387,
+        "caption": "Aussenansicht.jpg",
+        "url": "/media/ff/2025/12/sz0k0z9wrcqscxunkh0iv4yg096loszsql12p1a7uf0dwzexd2.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/sz0k0z9wrcqscxunkh0iv4yg096loszsql12p1a7uf0dwzexd2.jpg?alias=thumb_m&signature=Dg3RMTt3rMRvmwjmfE_CI8lRqKoXuy8D1wZ6zyIAR5c",
+        "url_listing_search": "/thumb/ff/2025/12/sz0k0z9wrcqscxunkh0iv4yg096loszsql12p1a7uf0dwzexd2.jpg?alias=listing_search&signature=XhHw9qr7NG3ZJBh3DzzOAU3-qG6T-8S90ac8LgsM2OU",
+        "ordering": 9,
+        "width": 1024,
+        "height": 682
+      }
+    ],
+    "documents": [
+      644960
+    ],
+    "agency": {
+      "name": "Dr.Meyer Immobilien AG",
+      "name_2": null,
+      "street": "Morgenstrasse 83A",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png",
+        "url_org_logo_m": "/thumb/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png?alias=org_logo_m&signature=ELJVfbZ9i264CGjnir9SWpQCju4MUITBGC0sqvZAlz0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "200m² Büro in Wabern mieten",
+    "livingspace": 200
+  }
+}

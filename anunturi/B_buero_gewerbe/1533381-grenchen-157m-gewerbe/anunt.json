@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1708.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/girardstrasse-19-2540-grenchen/1533381/",
+    "descarcat": "2026-08-17 12:29",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche",
+        "showroom"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 1533381,
+    "slug": "girardstrasse-19-2540-grenchen",
+    "url": "/de/wohnung/girardstrasse-19-2540-grenchen/1533381/",
+    "short_url": "/1533381/",
+    "submit_url": "/de/listing/1533381/submit/",
+    "status": "act",
+    "created": "2025-02-06T13:47:58.174212+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "1611..2002",
+    "ref_property": "1611",
+    "ref_house": "",
+    "ref_object": "2002",
+    "alternative_reference": "",
+    "price_display": 3400,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-02-06T13:47:58.469687+01:00",
+    "rent_net": 3000,
+    "rent_charges": 400,
+    "rent_gross": null,
+    "short_title": "157m² Gewerbe",
+    "public_title": "Girardstrasse 19, 2540 Grenchen - CHF 3’400 inkl. NK pro Monat",
+    "pitch_title": "157m² Gewerbe in Grenchen mieten",
+    "description_title": "Flexible Gewerbeflächen an bester Lage – Nahe Zentrum Grenchen",
+    "description": "Sie suchen die ideale Gewerbefläche für Ihr Unternehmen? Direkt in der Nähe des Zentrums von Grenchen bieten wir Ihnen moderne, flexible Mietflächen, die sich perfekt für Büro, Handel oder Dienstleistung eignen.  \n  \n**Top-Lage**  \nUnsere Gewerbeflächen zeichnen sich durch ihre erstklassige Lage aus: Sie befinden sich nur wenige Minuten vom Stadtzentrum Grenchen entfernt und sind hervorragend an das öffentliche Verkehrsnetz sowie die wichtigsten Verkehrsadern angeschlossen.  \n  \n**Vielseitige Nutzungsmöglichkeiten**  \nOb als Büro, Showroom, Praxis oder Geschäftslokal – die Mietflächen sind variabel und lassen sich perfekt an Ihre Bedürfnisse anpassen. Mit großzügigen Raumaufteilungen und flexiblen Mietkonditionen bieten wir Ihnen die Freiheit, Ihre Geschäftsideen in einem modernen Umfeld zu verwirklichen.  \n  \n**Moderne Ausstattung**  \nDie Gewerbeeinheiten verfügen über eine moderne Ausstattung inklusive großer Fensterfronten für optimale Belichtung, sowie über Einbauschränke. Auch Einstellhallenplätze sind ausreichend vorhanden.  \n  \n**Ihre Vorteile im Überblick**:  \n  \n\n*   Hervorragende Erreichbarkeit und Nähe zum Zentrum\n*   Flexible Raumaufteilungen für verschiedene Nutzungen\n*   Moderne Ausstattung und Infrastruktur\n*   Attraktive Mietkonditionen\n\nKontaktieren Sie uns noch heute, um die verfügbaren Gewerbeflächen zu besichtigen und mehr über die Mietkonditionen zu erfahren.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 157,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 157,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Girardstrasse 19",
+    "zipcode": 2540,
+    "city": "Grenchen",
+    "public_address": "Girardstrasse 19, 2540 Grenchen",
+    "latitude": 47.1912932,
+    "longitude": 7.3994917,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 42024242,
+    "images": [
+      {
+        "pk": 42024242,
+        "caption": null,
+        "url": "/media/ff/2026/06/n2m9xen1okp5595h6asrwzhlfj9uygfhc5hc8ecj4uf8n0irny.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/n2m9xen1okp5595h6asrwzhlfj9uygfhc5hc8ecj4uf8n0irny.jpg?alias=thumb_m&signature=YmRjEhuGfBatDloOGz_tMp0qIcfwmCnw2Zocj1p4F7Y",
+        "url_listing_search": "/thumb/ff/2026/06/n2m9xen1okp5595h6asrwzhlfj9uygfhc5hc8ecj4uf8n0irny.jpg?alias=listing_search&signature=go85AqjvgyDkGSSWIRhXqB7SFQMsbcahD0edR26cQCQ",
+        "ordering": 1,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 42024240,
+        "caption": null,
+        "url": "/media/ff/2026/06/23asxw6vmiw3havbyor3hbinwafbqi6o4uipn02uva41qf3q6p.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/23asxw6vmiw3havbyor3hbinwafbqi6o4uipn02uva41qf3q6p.jpg?alias=thumb_m&signature=wdSeOaZeM20-le_oSyXJlfEC0fT7wjZthTMlDvTaIIo",
+        "url_listing_search": "/thumb/ff/2026/06/23asxw6vmiw3havbyor3hbinwafbqi6o4uipn02uva41qf3q6p.jpg?alias=listing_search&signature=2KsCma0Dwtxtz1jeABV6cdZli7T7XYwNZm4G3hOXFqY",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 42024245,
+        "caption": null,
+        "url": "/media/ff/2026/06/he1rgaxs6hhaztl3aongukh0424i9m5m6j0o8slgn9jzbhqp5h.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/he1rgaxs6hhaztl3aongukh0424i9m5m6j0o8slgn9jzbhqp5h.jpg?alias=thumb_m&signature=tL6WYce_4spiWPGKq3903zZncKC5q3GoKGKTjvevuao",
+        "url_listing_search": "/thumb/ff/2026/06/he1rgaxs6hhaztl3aongukh0424i9m5m6j0o8slgn9jzbhqp5h.jpg?alias=listing_search&signature=uw0cOsevW32VJ255-0bD97IcCk-AnbEg_nl2OdlDwWM",
+        "ordering": 3,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 42024259,
+        "caption": null,
+        "url": "/media/ff/2026/06/f1a6l4a8o17903zbjkia05xex5kuycfjwyxm29b834a6mvw3xl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/f1a6l4a8o17903zbjkia05xex5kuycfjwyxm29b834a6mvw3xl.jpg?alias=thumb_m&signature=eNDzbGXctcFfa49mvAEunDPrn5iVNZ2aljLn5ctKxNk",
+        "url_listing_search": "/thumb/ff/2026/06/f1a6l4a8o17903zbjkia05xex5kuycfjwyxm29b834a6mvw3xl.jpg?alias=listing_search&signature=64NSiUWAm--WsucehpilQ7fpmST986LkNFE5qrgHYG0",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 42024241,
+        "caption": null,
+        "url": "/media/ff/2026/06/2a4ov9frkcvb788rcvnqmg4d7focjtc5af9drqeraf1yrc5nvq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/2a4ov9frkcvb788rcvnqmg4d7focjtc5af9drqeraf1yrc5nvq.jpg?alias=thumb_m&signature=edN1V7ASiNkkvURbzJ4kInMQBrGKqEiheheMeWG0_n0",
+        "url_listing_search": "/thumb/ff/2026/06/2a4ov9frkcvb788rcvnqmg4d7focjtc5af9drqeraf1yrc5nvq.jpg?alias=listing_search&signature=BCLwIX8YmeaPn0MQPmPXcGjqZNjzzTA_8eXFA1Dkgys",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 42024247,
+        "caption": null,
+        "url": "/media/ff/2026/06/7masj9a9ob0sk7ywvw86a39xz32zh9plkt18jjdxx3hpcnil7l.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/7masj9a9ob0sk7ywvw86a39xz32zh9plkt18jjdxx3hpcnil7l.jpg?alias=thumb_m&signature=J3HGxQgj-qaGpI4YkbN_BRfn6xNKAarn2xVmzWTyZLs",
+        "url_listing_search": "/thumb/ff/2026/06/7masj9a9ob0sk7ywvw86a39xz32zh9plkt18jjdxx3hpcnil7l.jpg?alias=listing_search&signature=YByNHAbtT2J9IWtlNHvJVWCzk3-kbOm239sy37kDWlI",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 42024248,
+        "caption": null,
+        "url": "/media/ff/2026/06/vk5zqno4tkptduha54o7bwnnlfc1etzo1hfurh7x1bb79g1mkk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/vk5zqno4tkptduha54o7bwnnlfc1etzo1hfurh7x1bb79g1mkk.jpg?alias=thumb_m&signature=UvQKFs-XXuwdK2lJYwtNffwUL1tOCqM5rKm07j8fKu4",
+        "url_listing_search": "/thumb/ff/2026/06/vk5zqno4tkptduha54o7bwnnlfc1etzo1hfurh7x1bb79g1mkk.jpg?alias=listing_search&signature=rTrj48ZzH0X5VtyF-T7eB1GyssjTj4XgYvxeUmeqtXM",
+        "ordering": 7,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 42024239,
+        "caption": null,
+        "url": "/media/ff/2026/06/yjuloussndvaj4yfaqiykd53z5rnd9s9feim7qcmcbcu9kbzvy.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/yjuloussndvaj4yfaqiykd53z5rnd9s9feim7qcmcbcu9kbzvy.jpg?alias=thumb_m&signature=nct6FLN22GFBBw_EWIKEWT7DWPenuLX2TT_P6dMhBPk",
+        "url_listing_search": "/thumb/ff/2026/06/yjuloussndvaj4yfaqiykd53z5rnd9s9feim7qcmcbcu9kbzvy.jpg?alias=listing_search&signature=Nnqs9umpIHAVhfTFFkVTTh3M1oMFiUAYmjgEHSi7nVw",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      255394
+    ],
+    "agency": {
+      "name": "Immovisa GmbH",
+      "name_2": "",
+      "street": "Gibelinstrasse 25",
+      "zipcode": "4500",
+      "city": "Solothurn",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2025/03/ewibop9z5thjr2qraqvdc09j9mr0eqalx4h555gxaxfbhbio77.jpg",
+        "url_org_logo_m": "/thumb/org/2025/03/ewibop9z5thjr2qraqvdc09j9mr0eqalx4h555gxaxfbhbio77.jpg?alias=org_logo_m&signature=sfWup_i1b7Yw-bH9PcHo_OdJq0ajD8402Z2VcD2SjEs"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "157m² Gewerbe in Grenchen mieten",
+    "livingspace": 157
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1641.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/sahlistrasse-42-3012-bern/86009863/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "behandlungszimmer"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 1
+  },
+  "raw": {
+    "pk": 86009863,
+    "slug": "sahlistrasse-42-3012-bern",
+    "url": "/de/wohnung/sahlistrasse-42-3012-bern/86009863/",
+    "short_url": "/86009863/",
+    "submit_url": "/de/listing/86009863/submit/",
+    "status": "act",
+    "created": "2026-05-05T12:01:06.839408+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "7640..9001",
+    "ref_property": "7640",
+    "ref_house": "",
+    "ref_object": "9001",
+    "alternative_reference": null,
+    "price_display": 235,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-05-05T12:01:11.777211+02:00",
+    "rent_net": 200,
+    "rent_charges": 35,
+    "rent_gross": 235,
+    "short_title": "Gewerbe",
+    "public_title": "Sahlistrasse 42, 3012 Bern - CHF 235 inkl. NK pro m² / Jahr",
+    "pitch_title": "Gewerbe in Bern mieten",
+    "description_title": "Gewerbe-/Dienstleistungsfläche 171 m² oder Teilfläche ca. 81 m²",
+    "description": "Lage:   \n\\- Zentrale Lage in der Länggasse   \n\\- Nähe zum Stadtzentrum   \n\\- Gute Erreichbarkeit (ÖV und Individualverkehr)   \n\\- Nähe zum Inselspital   \n\\- Schnelle Anbindung an die Autobahn   \n\\- Angenehmes und ruhiges Arbeitsumfeld   \n  \nRaumangebot:   \nDie Gewerbefläche im Erdgeschoss verfügt über eine durchdachte und flexible Raumaufteilung.   \n  \n\\- Grosszügiger Hauptraum   \n\\- Sechs kleinere Räume (ideal als Büros oder Behandlungszimmer o.ä.)   \n\\- Küchennische   \n\\- Zwei separate Toiletten-Anlagen   \n\\- Waschküche mit Dusche   \n\\- Gemütliche Terrasse zur exklusiven Nutzung   \n  \nAusbau:   \nAusbauwünsche können berücksichtigt werden   \n  \nBesonderes:   \n\\- Flexible Nutzung dank separater Zugänge   \n\\- Anmietung der Gesamtfläche 171 m² oder Teilfläche von ca. 81 m² möglich   \n  \nMietzins:   \nCHF 200.00/m²/Jahr exkl. Nebenkosten   \n  \nNebenkosten   \nCHF 35.00/m²/Jahr   \n  \nHaben wir Ihr Interesse geweckt? Wir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Sahlistrasse 42",
+    "zipcode": 3012,
+    "city": "Bern",
+    "public_address": "Sahlistrasse 42, 3012 Bern",
+    "latitude": 46.9524442,
+    "longitude": 7.426095800000001,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 35626368,
+    "images": [
+      {
+        "pk": 35626368,
+        "caption": "Unbenannt (1)",
+        "url": "/media/ff/2026/05/kuqvhrbz5k0mlfky7cd7g548v7y3p18q4xzig1i2qr9iwk3fac.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/kuqvhrbz5k0mlfky7cd7g548v7y3p18q4xzig1i2qr9iwk3fac.jpg?alias=thumb_m&signature=yoBMfGYriYJzt6q1jXlFdapDGZPQG4hQ6nAn3nB9L9E",
+        "url_listing_search": "/thumb/ff/2026/05/kuqvhrbz5k0mlfky7cd7g548v7y3p18q4xzig1i2qr9iwk3fac.jpg?alias=listing_search&signature=LIgtwvR6EkunJUjDRouOLLzkdA-WvZgg9uyVeB1oK0A",
+        "ordering": 1,
+        "width": 1500,
+        "height": 844
+      }
+    ],
+    "documents": [
+      721652
+    ],
+    "agency": {
+      "name": "BDO AG Bern",
+      "name_2": null,
+      "street": null,
+      "zipcode": null,
+      "city": null,
+      "country": null,
+      "logo": {
+        "url": "/media/org/2021/04/0gzyev2e9ghkqpnay9quhf0p4ka41jqy2l7epjt59ttxxdn127.png",
+        "url_org_logo_m": "/thumb/org/2021/04/0gzyev2e9ghkqpnay9quhf0p4ka41jqy2l7epjt59ttxxdn127.png?alias=org_logo_m&signature=Ehs86dx7XCdcabuKR5NhHBYfBAICLj3xcbEC6uRqyu0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Gewerbe in Bern mieten",
+    "livingspace": null
+  }
+}

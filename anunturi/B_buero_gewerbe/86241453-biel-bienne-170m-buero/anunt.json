@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1678.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bahnhofplatz-7-2502-bielbienne/86241453/",
+    "descarcat": "2026-08-17 12:31",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 86241453,
+    "slug": "bahnhofplatz-7-2502-bielbienne",
+    "url": "/de/wohnung/bahnhofplatz-7-2502-bielbienne/86241453/",
+    "short_url": "/86241453/",
+    "submit_url": "/de/listing/86241453/submit/",
+    "status": "act",
+    "created": "2026-08-03T15:03:09.288706+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "11011.12127.kqobc.qyhfq",
+    "ref_property": "11011",
+    "ref_house": "12127",
+    "ref_object": "kqobc.qyhfq",
+    "alternative_reference": null,
+    "price_display": 3855,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-03T15:03:09.450293+02:00",
+    "rent_net": 3395,
+    "rent_charges": 460,
+    "rent_gross": 3855,
+    "short_title": "170m² Büro",
+    "public_title": "Bahnhofplatz 7, 2502 Biel/Bienne - CHF 3’855",
+    "pitch_title": "170m² Büro in Biel/Bienne mieten",
+    "description_title": "Attraktiver Standort vis-à-vis des Bahnhofs mit hellen, grossen Räumen",
+    "description": "Direkt am Bahnhofplatz in Biel vermieten wir eine moderne und helle \n\n**Gewerbefläche im 1. Obergeschoss**\n\nmit folgender Ausstattung: \n\n  * Praxis- oder Büroräumlichkeit von 170 m² mit vielseitigen Nutzungsmöglichkeiten und viel individuellem Gestaltungsspielraum \n\n  * Grosszügige Fensterflächen für helle und angenehme Arbeitsräume \n\n  * Zusätzliche praktische Einbauschränke \n\n  * Klimaanlage für ein angenehmes Raumklima \n\n  * Vorinstallierte Serververkabelung inklusive Verteilung \n\n  * Eigene WC-Anlage \n\n  * Moderne Liftanlage \n\n\n\n\nIn unmittelbarer Nähe befinden sich zudem zwei Parkings. \n\nHaben wir Ihr Interesse geweckt? Gerne zeigen wir Ihnen diese attraktive Gewerbefläche!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 170,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 170,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "view"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bahnhofplatz 7",
+    "zipcode": 2502,
+    "city": "Biel/Bienne",
+    "public_address": "Bahnhofplatz 7, 2502 Biel/Bienne",
+    "latitude": 47.1338295,
+    "longitude": 7.242796299999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48611785,
+    "images": [
+      {
+        "pk": 48611785,
+        "caption": "Grossraumbüro mit Einbauschränken",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/61cd57ff1492e741998240c5c4bca276.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/61cd57ff1492e741998240c5c4bca276.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/61cd57ff1492e741998240c5c4bca276.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611786,
+        "caption": "Grossraumbüro mit Einbauschränken",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/b63624295debd6111f13cdf5fe48439d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/b63624295debd6111f13cdf5fe48439d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/b63624295debd6111f13cdf5fe48439d.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611787,
+        "caption": "Zimmer 1",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/d808fbae46895abc108aac931fa06b07.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/d808fbae46895abc108aac931fa06b07.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/d808fbae46895abc108aac931fa06b07.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611788,
+        "caption": "Zimmer 1",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/ecd1357e05648e6e038aa45ca50ce8d9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/ecd1357e05648e6e038aa45ca50ce8d9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/ecd1357e05648e6e038aa45ca50ce8d9.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611789,
+        "caption": "Zimmer 2",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/59c4d80dda1f9c44e7a51cbbe314af6a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/59c4d80dda1f9c44e7a51cbbe314af6a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/59c4d80dda1f9c44e7a51cbbe314af6a.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611790,
+        "caption": "Zimmer 2",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/51faafcb5f8cb0695d932fdaadc51975.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/51faafcb5f8cb0695d932fdaadc51975.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/51faafcb5f8cb0695d932fdaadc51975.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611791,
+        "caption": "Zimmer 3",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/0728141129e7de0dfe1a539f4b19d686.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/0728141129e7de0dfe1a539f4b19d686.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/0728141129e7de0dfe1a539f4b19d686.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611792,
+        "caption": "Zimmer 3",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/6c2a9f88597847f04c180b91cc11c7de.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/6c2a9f88597847f04c180b91cc11c7de.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/6c2a9f88597847f04c180b91cc11c7de.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611793,
+        "caption": "Korridor",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/70f4cf619bd99ad26478a24cf4bdb7a9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/70f4cf619bd99ad26478a24cf4bdb7a9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/70f4cf619bd99ad26478a24cf4bdb7a9.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 48611794,
+        "caption": "WC-Anlage",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx217950/4003357853/image/81b820c29f5f26592809ead9f4c61012.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx217950/4003357853/image/81b820c29f5f26592809ead9f4c61012.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx217950/4003357853/image/81b820c29f5f26592809ead9f4c61012.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 844
+      }
+    ],
+    "documents": [
+      776303
+    ],
+    "agency": {
+      "name": "Schmitz Immobilien AG",
+      "name_2": null,
+      "street": "Esplanade Kongresshaus 5",
+      "zipcode": "2502",
+      "city": "Biel/Bienne",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/3jpf04s4w3uucst5qt9l6q2t165fgpzhgmzt84lrh1wevr9a9x.jpg",
+        "url_org_logo_m": "/thumb/org/2026/07/3jpf04s4w3uucst5qt9l6q2t165fgpzhgmzt84lrh1wevr9a9x.jpg?alias=org_logo_m&signature=Yczjng8JNNZF40vKAjMJQkoctfPoxZRJZxqJpnUBwXg"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003357853",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "170m² Büro in Biel/Bienne mieten",
+    "livingspace": 170
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1624.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/steindleren-1a-3210-kerzers/85794543/",
+    "descarcat": "2026-08-17 12:37",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 5
+  },
+  "raw": {
+    "pk": 85794543,
+    "slug": "steindleren-1a-3210-kerzers",
+    "url": "/de/wohnung/steindleren-1a-3210-kerzers/85794543/",
+    "short_url": "/85794543/",
+    "submit_url": "/de/listing/85794543/submit/",
+    "status": "act",
+    "created": "2026-02-18T12:47:28.869108+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "62011.02.0103",
+    "ref_property": "62011",
+    "ref_house": "02",
+    "ref_object": "0103",
+    "alternative_reference": null,
+    "price_display": 184,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-02-18T12:47:29.395960+01:00",
+    "rent_net": 184,
+    "rent_charges": 0,
+    "rent_gross": 184,
+    "short_title": "84m² Büro",
+    "public_title": "Steindleren 1a, 3210 Kerzers - CHF 184 inkl. NK pro m² / Jahr",
+    "pitch_title": "84m² Büro in Kerzers mieten",
+    "description_title": "Flexibel nutzbare Rohbauflächen - Surface commerciale brut à louer",
+    "description": "An der Einfahrt von Kerzers erwartet Sie ein strategisch günstiger Standort !   \n  \nDieses ideal gelegene Gebäude bietet dank der unmittelbaren Nähe zur Autobahn und den Bahnverbindunge Murten-Aarberg-Lyss so wie Bern-Neeuenburg eine optimale Erreichbarkeit.   \n  \nDie Rohbaufläche befindet sich im 1. Stock eines Mehrfamilienhauses und kann flexibel nach Ihren Bedürfnissen, Ihrer Kreativität und Ihren Vorlieben gestaltet werden. Dieser Raum eignet sich perfekt für ein Büro oder andere vielseitige Nutzungskonzepte.   \n  \nDie Flächen eignen sich hervorragend für Praxen, Büros oder andere vielseitige Nutzungskonzepte.   \n  \nDans Gebäude ist mit einem Lift augestattet.   \n  \nTiefgaragenplätze sind zusätzlich zur Miete verfügbar und Besucherpakplätze befinden sich direkt vor dem Gebäude.   \n  \n\\-------   \n  \nA l'entrée de Chiètres, un emplacement stratégique vous attend ! Cet immeuble idéalement situé offre une accessibilité optimale grâce à la proximité imméditate de l'autoroute et des axes ferroviaires Morat-Aarberg-Lyss et Berne-Neuchâtel.   \n  \nLa surface en état brut est disponible au 1er étage d'un immeuble locatif et peut être aménagée de manière flexible selon vos besoins, votre créativité ainsi que vos préférences. Cet espace convient parfaitement à un bureau ou à d'autres concepts d'utilisation polyvalents.   \n  \nL'immeuble est équipé d'un ascenseur pour plus de confort.   \n  \nParking souterrain disponible en supplément et places visiteurs juste devant l'entrée pour accueillir vos clients facilement.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 84,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 84,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Steindleren 1a",
+    "zipcode": 3210,
+    "city": "Kerzers",
+    "public_address": "Steindleren 1a, 3210 Kerzers",
+    "latitude": 46.977594,
+    "longitude": 7.191346299999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 33763625,
+    "images": [
+      {
+        "pk": 33763625,
+        "caption": "Immeuble",
+        "url": "/media/ff/2026/02/hezuouo8ib6o5r3x4iofu389w711i617jvxp64rktq24b523gt.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/hezuouo8ib6o5r3x4iofu389w711i617jvxp64rktq24b523gt.jpg?alias=thumb_m&signature=1bTzTYf87A2Q85yZvfhFJjEgfxboYydr1GA_HqEXphI",
+        "url_listing_search": "/thumb/ff/2026/02/hezuouo8ib6o5r3x4iofu389w711i617jvxp64rktq24b523gt.jpg?alias=listing_search&signature=tvH8ZrB78ownhMQ5OLyxHElqPJgIZZB4q5EHX4dIwnA",
+        "ordering": 1,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 33763626,
+        "caption": "Surface",
+        "url": "/media/ff/2026/02/tki73eawtv0nrh4cqn1d3mz8ak0c55sqzp4zajz81bo4sed429.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/tki73eawtv0nrh4cqn1d3mz8ak0c55sqzp4zajz81bo4sed429.jpg?alias=thumb_m&signature=AI9fof76b4FvhNxjTtucfxUVJKb1K-FwBjtEZXYT4BI",
+        "url_listing_search": "/thumb/ff/2026/02/tki73eawtv0nrh4cqn1d3mz8ak0c55sqzp4zajz81bo4sed429.jpg?alias=listing_search&signature=A1yJgiqoYN-Sr9Q-PoaLyXz8vXHYglwoGYWPNPVAZl8",
+        "ordering": 2,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 33763627,
+        "caption": "Surface",
+        "url": "/media/ff/2026/02/jd1ji2o1ku6sq5gq4f6li5vxlvj3p8y7aoezcfk81va3gwa1fu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/jd1ji2o1ku6sq5gq4f6li5vxlvj3p8y7aoezcfk81va3gwa1fu.jpg?alias=thumb_m&signature=uhsuAGdWjibbynlzdBEsj1oR123_7HbOMm_-JGnVqWs",
+        "url_listing_search": "/thumb/ff/2026/02/jd1ji2o1ku6sq5gq4f6li5vxlvj3p8y7aoezcfk81va3gwa1fu.jpg?alias=listing_search&signature=Y_DHBeOfRvEHY4_8OWyOh_mcHVqz89mfD1GuA3mxdHE",
+        "ordering": 3,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 33763628,
+        "caption": "Salle de bains",
+        "url": "/media/ff/2026/02/0cs2rpmf426wvrgw37vnltm46mjp1gu841zwl7gku4y8zqin7k.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/0cs2rpmf426wvrgw37vnltm46mjp1gu841zwl7gku4y8zqin7k.jpg?alias=thumb_m&signature=k9ckWLy9V8gNR1HjsTGwXUtooXAFGIqCnSuURC4vs8A",
+        "url_listing_search": "/thumb/ff/2026/02/0cs2rpmf426wvrgw37vnltm46mjp1gu841zwl7gku4y8zqin7k.jpg?alias=listing_search&signature=U5TNBhdgPty__HMwzUWoVvd_EKn1ddfueEP7c4POW98",
+        "ordering": 4,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 47870732,
+        "caption": "Plans_surface_commerciale_84.jpg",
+        "url": "/media/ff/2026/07/t8f1yumfhkfi21ary8nahrlcjozqou48bv8qmeetur02ob67tu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/t8f1yumfhkfi21ary8nahrlcjozqou48bv8qmeetur02ob67tu.jpg?alias=thumb_m&signature=pE8xfhSAqnSf55UsW_alhDYtYQG82LJvtAl5Ylu-st0",
+        "url_listing_search": "/thumb/ff/2026/07/t8f1yumfhkfi21ary8nahrlcjozqou48bv8qmeetur02ob67tu.jpg?alias=listing_search&signature=VRQrjrbyLBoIpmi_KokODe-6KTfj4hk0H0x5xMp9xRs",
+        "ordering": 5,
+        "width": 800,
+        "height": 1008
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Apleona Suisse SA",
+      "name_2": null,
+      "street": "Avenue de la Gare 1",
+      "zipcode": "1700",
+      "city": "Fribourg",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/lq24r9tk3yfw4xgag3g00infnn1lsaztmhx3bbzxfosizw384l.png",
+        "url_org_logo_m": "/thumb/org/2023/10/lq24r9tk3yfw4xgag3g00infnn1lsaztmhx3bbzxfosizw384l.png?alias=org_logo_m&signature=FLoPX0m6E7rUWTQHHi2GKLWc00Wzp4x3ROlq4VW0mJA"
+      }
+    },
+    "reserved": false,
+    "state": "FR",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "84m² Büro in Kerzers mieten",
+    "livingspace": 84
+  }
+}

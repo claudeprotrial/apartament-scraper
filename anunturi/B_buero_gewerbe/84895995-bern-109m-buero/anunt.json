@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1736.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/ostermundigenstrasse-93-3006-bern/84895995/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisräume"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "dienstleistung",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 2
+  },
+  "raw": {
+    "pk": 84895995,
+    "slug": "ostermundigenstrasse-93-3006-bern",
+    "url": "/de/wohnung/ostermundigenstrasse-93-3006-bern/84895995/",
+    "short_url": "/84895995/",
+    "submit_url": "/de/listing/84895995/submit/",
+    "status": "act",
+    "created": "2025-08-12T16:29:30.743443+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "26116.01.6021",
+    "ref_property": "26116",
+    "ref_house": "01",
+    "ref_object": "6021",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "yearlym2",
+    "published": "2025-08-26T02:10:23.715145+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "109m² Büro",
+    "public_title": "Ostermundigenstrasse 93, 3006 Bern - auf Anfrage",
+    "pitch_title": "109m² Büro in Bern mieten",
+    "description_title": "Büroflächen im Hochhuus: Ankommen, einrichten, durchstarten",
+    "description": "An der Ostermundigenstrasse 93, am östlichen Stadteingang von Bern, erwartet Sie eine Bürofläche mit bester Erreichbarkeit. Der Bus hält direkt vor dem Gebäude, der Bahnhof Ostermundigen ist in wenigen Minuten zu Fuss erreichbar und auch die Autobahn liegt ganz in der Nähe. So gelangen Mitarbeitende, Kunden und Partner jederzeit bequem an Ihren Standort.   \n  \nIm 2.Obergeschoss erwartet Sie eine moderne Bürofläche, die sich flexibel an Ihre Bedürfnisse anpassen lässt. Die klare Grundstruktur sorgt für eine helle und offene Atmosphäre und bietet zugleich viel Spielraum für individuelle Gestaltung. Ob moderne Bürokonzepte, Praxisräume, Dienstleistungsflächen oder andere innovative Nutzungen, hier finden Sie die passende Basis für Ihre Ideen.   \n  \n**Gut fürs Geschäft:**   \n\\- flexible Nutzungsmöglichkeiten   \n\\- vorhandener Boden- und Wandbelag   \n\\- vorhandene elektrische Installationen   \n\\- Toilettenanlagen   \n\\- komplett ausgebaute Küche   \n\\- Elektrogrundinstallation mit Bodensteckdosen   \n\\- auf Wunsch Abstellplatz für CHF 80.00 pro Monat   \n  \n**Ihre Vorteile mit Regimo Business:**   \n1\\. Individuelle Mietpreis- und Vertragsmodelle   \n2\\. Beratung und Unterstützung bei der Umbau- und Einrichtungsplanung durch ausgewiesene Spezialisten.   \n3\\. Persönliche Betreuung und hohe Flexibilität im Hinblick auf Mieterwünsche während der gesamten Vertragsdauer.   \n  \nDas Hochhuus ist ein architektonisches Wahrzeichen mit Geschichte. Es verleiht Ihrem Unternehmen eine repräsentative Adresse und verbindet Funktionalität mit Charakter. Mehr Informationen: [ **Hochhuus** ](https://navigator5.beyonity.ch/?id=2FE9C154&language=ch) .   \n  \nHaben wir Ihr Interesse geweckt? Dann zögern Sie nicht und kontaktieren Sie uns, um einen individuellen Besichtigungstermin zu vereinbaren.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 109,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 109,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Ostermundigenstrasse 93",
+    "zipcode": 3006,
+    "city": "Bern",
+    "public_address": "Ostermundigenstrasse 93, 3006 Bern",
+    "latitude": 46.9545715,
+    "longitude": 7.4764747,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "http://www.hochhuus.ch",
+    "live_viewing_url": null,
+    "cover_image": 27005379,
+    "images": [
+      {
+        "pk": 27005379,
+        "caption": "Visualisierung Gebäude",
+        "url": "/media/ff/2025/08/3ikzoytctad64rwklpzv83m91zpzpd5fyta9ui673oqpqgo97m.jpg",
+        "url_thumb_m": "/thumb/ff/2025/08/3ikzoytctad64rwklpzv83m91zpzpd5fyta9ui673oqpqgo97m.jpg?alias=thumb_m&signature=e2e_sDLa_zmNfCen5I1GZkYC1RI0chpVlypSUil8ifQ",
+        "url_listing_search": "/thumb/ff/2025/08/3ikzoytctad64rwklpzv83m91zpzpd5fyta9ui673oqpqgo97m.jpg?alias=listing_search&signature=ajUkNfamG_jwC0fZmx9KtBKRmHr70wA-YIkM5tAFHcM",
+        "ordering": 1,
+        "width": 724,
+        "height": 1024
+      },
+      {
+        "pk": 27005380,
+        "caption": "Grundrissplan",
+        "url": "/media/ff/2025/08/rfy6ohav1i8p3137mlp01d950zmtf39i0a8jn4gmxw2yfi1ex9.jpg",
+        "url_thumb_m": "/thumb/ff/2025/08/rfy6ohav1i8p3137mlp01d950zmtf39i0a8jn4gmxw2yfi1ex9.jpg?alias=thumb_m&signature=A35rFB8q8ECeJYf1UQRw5x2wMzTerwlHEVJLsUkYFMY",
+        "url_listing_search": "/thumb/ff/2025/08/rfy6ohav1i8p3137mlp01d950zmtf39i0a8jn4gmxw2yfi1ex9.jpg?alias=listing_search&signature=gV3lA1lScpHKlrcvpaGv_48Engpnit5UYSxbobgDzWk",
+        "ordering": 2,
+        "width": 724,
+        "height": 1024
+      }
+    ],
+    "documents": [
+      534000
+    ],
+    "agency": {
+      "name": "Regimo Bern",
+      "name_2": null,
+      "street": "Thunstrasse 32",
+      "zipcode": "3005",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2021/12/2dnnxk3molu2gs3rl9kmq3gnnvyiinqss6ecdwlui5net3gago.png",
+        "url_org_logo_m": "/thumb/org/2021/12/2dnnxk3molu2gs3rl9kmq3gnnvyiinqss6ecdwlui5net3gago.png?alias=org_logo_m&signature=kzSOc6Nsvbq-rPa4B2ObOeHKVrzCtkRo1-Qv4x0RmH0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "109m² Büro in Bern mieten",
+    "livingspace": 109
+  }
+}

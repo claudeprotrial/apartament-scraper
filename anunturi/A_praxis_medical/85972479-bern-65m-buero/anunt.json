@@ -1,0 +1,161 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1690.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/niesenweg-4-3012-bern/85972479/",
+    "descarcat": "2026-08-17 12:30",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisräume",
+        "praxisräumlichkeiten"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 5
+  },
+  "raw": {
+    "pk": 85972479,
+    "slug": "niesenweg-4-3012-bern",
+    "url": "/de/wohnung/niesenweg-4-3012-bern/85972479/",
+    "short_url": "/85972479/",
+    "submit_url": "/de/listing/85972479/submit/",
+    "status": "act",
+    "created": "2026-04-21T13:58:43.412776+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "",
+    "alternative_reference": "Niesenweg 4/ Abtrennung",
+    "price_display": 1170,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-04-21T13:58:43.531042+02:00",
+    "rent_net": null,
+    "rent_charges": 180,
+    "rent_gross": 1170,
+    "short_title": "65m² Büro",
+    "public_title": "Niesenweg 4, 3012 Bern - CHF 1’170 inkl. NK pro Monat",
+    "pitch_title": "65m² Büro in Bern mieten",
+    "description_title": "Büro-/Praxisräume Nähe Bahnhof mit flexibler Raumaufteilung",
+    "description": "er 01.05.2026, oder nach Vereinbarung vermieten wir in einem gepflegten Mehrfamilienhaus am Niesenweg 4, Büro- oder Praxisräumlichkeiten. Das Mehrfamilienhaus befindet sich nächst dem Inselspital, dem Hauptbahnhof Bern sowie der Bushaltestelle Inselplatz.  \n  \nDie Räumlichkeiten befinden sich im Erdgeschoss und bieten Ihnen auf 65 m2 folgendes:  \n  \n\\- Toilettenanlage  \n\\- praktische Archivräume mit Wasseranschluss  \n\\- pflegeleichter PVC-Bodenbelag  \n\\- Kellerabteil für mehr Stauraum  \n  \n**Gemäss Aufteilungsplan kann entweder der rot, oder blau eingefärbte Bereich gemietet werden!**  \n  \nSie sind interessiert? Wir freuen uns auf Ihre Anfrage!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 65,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 65,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Niesenweg 4",
+    "zipcode": 3012,
+    "city": "Bern",
+    "public_address": "Niesenweg 4, 3012 Bern",
+    "latitude": 46.949381,
+    "longitude": 7.429492600000001,
+    "year_built": 1974,
+    "year_renovated": 2013,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 35315551,
+    "images": [
+      {
+        "pk": 35315551,
+        "caption": null,
+        "url": "/media/ff/2026/04/yd0tyodhptabmd875b4dtbghnb9xw4tryttisr8s394ajn9r9e.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/yd0tyodhptabmd875b4dtbghnb9xw4tryttisr8s394ajn9r9e.jpg?alias=thumb_m&signature=xQjjgjMEkyYnV8IPQdIM2MDWNTQd6aGSZfPQhGB6yXk",
+        "url_listing_search": "/thumb/ff/2026/04/yd0tyodhptabmd875b4dtbghnb9xw4tryttisr8s394ajn9r9e.jpg?alias=listing_search&signature=gY9j4Z313Z1B7mPdqCR2gLNv49oViRTwAWq2edoMR_8",
+        "ordering": 1,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35315617,
+        "caption": null,
+        "url": "/media/ff/2026/04/kpyeehzd5ebr1zyutnvpbsbvqos91mgt13ieny7bpksgu3s7od.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/kpyeehzd5ebr1zyutnvpbsbvqos91mgt13ieny7bpksgu3s7od.jpg?alias=thumb_m&signature=WufmGFKx3dOFR_cHgpfob1KXAVrMXfPQAhqMSpQECak",
+        "url_listing_search": "/thumb/ff/2026/04/kpyeehzd5ebr1zyutnvpbsbvqos91mgt13ieny7bpksgu3s7od.jpg?alias=listing_search&signature=Rf6OYiX13l0wG7hp3ykuQ0t2KIUG8kMeD2eptW9lAeU",
+        "ordering": 2,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35315619,
+        "caption": null,
+        "url": "/media/ff/2026/04/pxs5srsr9kwld0e0ko4pg52sevwsfym8rannp5xv1ko8jab2jn.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/pxs5srsr9kwld0e0ko4pg52sevwsfym8rannp5xv1ko8jab2jn.jpg?alias=thumb_m&signature=escQjpwdxj9EKdccbTGl18-XgUxfpE2Oj82D0x1GC7g",
+        "url_listing_search": "/thumb/ff/2026/04/pxs5srsr9kwld0e0ko4pg52sevwsfym8rannp5xv1ko8jab2jn.jpg?alias=listing_search&signature=nRclo4rMfAB4qnXO4_GdCPzbJ4Y3Mz-FvkbFGpKknYI",
+        "ordering": 3,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35315621,
+        "caption": null,
+        "url": "/media/ff/2026/04/akjiyt8tc6t0juvo431rsskd6xqkz734dxmfwibkc1q018l660.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/akjiyt8tc6t0juvo431rsskd6xqkz734dxmfwibkc1q018l660.jpg?alias=thumb_m&signature=x014FJxy-fZtyEsTD6kRkBLKLS1dLgfwttiKZOHysiI",
+        "url_listing_search": "/thumb/ff/2026/04/akjiyt8tc6t0juvo431rsskd6xqkz734dxmfwibkc1q018l660.jpg?alias=listing_search&signature=k405Ya0czpHVfDCJ03-s5j6VOMTE4KPTWiXOpGIF578",
+        "ordering": 4,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 35315623,
+        "caption": null,
+        "url": "/media/ff/2026/04/axunnog8r3kuv1nhdjin43jalbj93raks2re34ddkmzrsotdye.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/axunnog8r3kuv1nhdjin43jalbj93raks2re34ddkmzrsotdye.jpg?alias=thumb_m&signature=zBp5TklaCS2UTOI2d2Tn1NypaoNE-ocMz7ifyVSjawA",
+        "url_listing_search": "/thumb/ff/2026/04/axunnog8r3kuv1nhdjin43jalbj93raks2re34ddkmzrsotdye.jpg?alias=listing_search&signature=ABfETphv5q2Z870M4nCbjkSyK0RbWWKZSN_-C55MK1U",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      714386
+    ],
+    "agency": {
+      "name": "PRIVERA AG",
+      "name_2": "",
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png",
+        "url_org_logo_m": "/thumb/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png?alias=org_logo_m&signature=AShB2wTW9RgBQlL5EayIx5KA4p6RhJExHnOr31HV8GA"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "65m² Büro in Bern mieten",
+    "livingspace": 65
+  }
+}

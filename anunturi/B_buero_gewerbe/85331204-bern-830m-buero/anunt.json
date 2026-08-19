@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1650.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/morgenstrasse-131-3018-bern/85331204/",
+    "descarcat": "2026-08-17 12:34",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "café"
+      ],
+      "kw_wohnen": [
+        "wohnung"
+      ]
+    },
+    "nr_imagini": 13
+  },
+  "raw": {
+    "pk": 85331204,
+    "slug": "morgenstrasse-131-3018-bern",
+    "url": "/de/wohnung/morgenstrasse-131-3018-bern/85331204/",
+    "short_url": "/85331204/",
+    "submit_url": "/de/listing/85331204/submit/",
+    "status": "act",
+    "created": "2025-09-19T17:28:21.754671+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "25558..61103",
+    "ref_property": "25558",
+    "ref_house": "",
+    "ref_object": "61103",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2025-09-19T17:28:22.778874+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "830m² Büro",
+    "public_title": "Morgenstrasse 131, 3018 Bern - auf Anfrage",
+    "pitch_title": "830m² Büro in Bern mieten",
+    "description_title": "Freie Gewerbefläche von 830 m²",
+    "description": "Wir vermieten ab sofort oder nach Vereinbarung repräsentative Büroräumlichkeiten von 830 m² an der Morgenstrasse 131 in Bümpliz. Die Räumlichkeiten befinden sich im 1. OG und bieten Ihnen folgende Vorzüge:   \n  \n\\- Caféteria inkl. Küchenzeile   \n\\- Separate Toiletten-Anlage   \n\\- Skelettbauweise  Unterteilung der Räumlichkeiten nach Ihren Wünschen   \n\\- Moderne IT-Infrastruktur   \n  \nBei Bedarf stehen Einstellhallenplätze für je CHF 150.-- sowie Lagerflächen (https://flatfox.ch/de/wohnung/morgenstrasse-131-3018-bern/1088925/) zur Verfügung. Detaillierte Grundrisspläne können auf Anfrage ausgehändigt werden.   \n  \nDas Gewerbehaus liegt 2 Fahrtminuten vom Autobahnanschluss Niederwangen entfernt. Bahnhof Bümpliz Süd (S-Bahn) ist zu Fuss in 10 min., die Busstation Nr. 27 und 31 in 4 min. zu erreichen. Vom Hauptbahnhof Bern gelangt man mit dem ÖV innerhalb von 25 min. zur Liegenschaft.   \n  \nMietzins auf Anfrage.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 830,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 830,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "view"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Morgenstrasse 131",
+    "zipcode": 3018,
+    "city": "Bern",
+    "public_address": "Morgenstrasse 131, 3018 Bern",
+    "latitude": 46.9338176,
+    "longitude": 7.388941099999999,
+    "year_built": 1991,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 29657251,
+    "images": [
+      {
+        "pk": 29657251,
+        "caption": "Liegenschaft",
+        "url": "/media/ff/2025/09/b6x4shaarvfi4wxfim9kp7kxjg5572r5fvm3k9orhqn6adb1ur.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/b6x4shaarvfi4wxfim9kp7kxjg5572r5fvm3k9orhqn6adb1ur.jpg?alias=thumb_m&signature=jnEKn2jCtDlUVNREVekQESndQG1Zj831w03TM8C23LM",
+        "url_listing_search": "/thumb/ff/2025/09/b6x4shaarvfi4wxfim9kp7kxjg5572r5fvm3k9orhqn6adb1ur.jpg?alias=listing_search&signature=JxP5jbcqNZefBn2FjVXw_BJgMdimxvaigzbZN3dv1p8",
+        "ordering": 1,
+        "width": 1500,
+        "height": 998
+      },
+      {
+        "pk": 29657252,
+        "caption": "Liegenschaft",
+        "url": "/media/ff/2025/09/7cyefxe0kpgd3smtq1x1qd9l922x4tiwl67pw9uvedmb1luki4.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/7cyefxe0kpgd3smtq1x1qd9l922x4tiwl67pw9uvedmb1luki4.jpg?alias=thumb_m&signature=9dLHOGokNPLmHBddZEXRiJNDr78An2WaYc5Mnb0wz2g",
+        "url_listing_search": "/thumb/ff/2025/09/7cyefxe0kpgd3smtq1x1qd9l922x4tiwl67pw9uvedmb1luki4.jpg?alias=listing_search&signature=q2YILhyhMqpP2SAhSfmfZ5YXZyb1bjgH82sPhGssSjc",
+        "ordering": 2,
+        "width": 1281,
+        "height": 852
+      },
+      {
+        "pk": 29657253,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/3tjasacg3m0d0mgkb9mang66dck4z1nd4l19y2mzo4epvu88ev.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/3tjasacg3m0d0mgkb9mang66dck4z1nd4l19y2mzo4epvu88ev.jpg?alias=thumb_m&signature=8tedZh3lpJryzNbnHeKiBHptkpr0QhShnO6u7f1U_cM",
+        "url_listing_search": "/thumb/ff/2025/09/3tjasacg3m0d0mgkb9mang66dck4z1nd4l19y2mzo4epvu88ev.jpg?alias=listing_search&signature=L0rdhF6cPByCKKZVb6J3A1XQw2Vf4vmkUL3GhlLMILs",
+        "ordering": 3,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 29657254,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/u2nykesv0rvmx19m7rlgeo16r4s7e4jdlg4ebvmltc9wxhlm9e.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/u2nykesv0rvmx19m7rlgeo16r4s7e4jdlg4ebvmltc9wxhlm9e.jpg?alias=thumb_m&signature=JsMjNGi3AHJmfQjIQfznOGs1HatbvVq9m34t6PUX3_4",
+        "url_listing_search": "/thumb/ff/2025/09/u2nykesv0rvmx19m7rlgeo16r4s7e4jdlg4ebvmltc9wxhlm9e.jpg?alias=listing_search&signature=hRJnzuEQRqHb0F4cnNcTjzvE_nUn02pdUHJD3oGsR9A",
+        "ordering": 4,
+        "width": 1381,
+        "height": 921
+      },
+      {
+        "pk": 29657255,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/ruaem8vjia3uyadh7bu0tyefiutmih7dinmipvr362gb4x6rzf.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/ruaem8vjia3uyadh7bu0tyefiutmih7dinmipvr362gb4x6rzf.jpg?alias=thumb_m&signature=P5JVz--wikPKHP9kVwFBIGrsBYbb6tatKyHJY7pOCV0",
+        "url_listing_search": "/thumb/ff/2025/09/ruaem8vjia3uyadh7bu0tyefiutmih7dinmipvr362gb4x6rzf.jpg?alias=listing_search&signature=jticC4ayv5oSnAHUSSg30xetqmiTaaZ-d_01AyE7CsM",
+        "ordering": 5,
+        "width": 1381,
+        "height": 921
+      },
+      {
+        "pk": 29657256,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/9athm0aybkgoqr81x9qqwgu67hfb4z7v188nb6djg8roh12xmn.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/9athm0aybkgoqr81x9qqwgu67hfb4z7v188nb6djg8roh12xmn.jpg?alias=thumb_m&signature=eY3KL_5rhfIbUOvtQ3n68I5e-Siuwvaem7u8ZugVwnw",
+        "url_listing_search": "/thumb/ff/2025/09/9athm0aybkgoqr81x9qqwgu67hfb4z7v188nb6djg8roh12xmn.jpg?alias=listing_search&signature=2WuUhwUX050uUgLZjyiPiH1l3LVUfffoMue0QRu4I3s",
+        "ordering": 6,
+        "width": 1381,
+        "height": 921
+      },
+      {
+        "pk": 29657257,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/1di0e7ml73w8w6g0ensb9ziwohyj9873rmmcvufovsipdnk4bj.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/1di0e7ml73w8w6g0ensb9ziwohyj9873rmmcvufovsipdnk4bj.jpg?alias=thumb_m&signature=4QV9t8vOBFGeIeoplxyBGNF1WntLz-bn8dZjS9cd288",
+        "url_listing_search": "/thumb/ff/2025/09/1di0e7ml73w8w6g0ensb9ziwohyj9873rmmcvufovsipdnk4bj.jpg?alias=listing_search&signature=vphqbJ7W0Eswmr4VkMoUQIYEgePjF7jJDqngu5tskEw",
+        "ordering": 7,
+        "width": 1381,
+        "height": 921
+      },
+      {
+        "pk": 29657258,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/wnz187u5df4eqwfiremtizdleneudd4t8hvlkgckt63i3iqe21.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/wnz187u5df4eqwfiremtizdleneudd4t8hvlkgckt63i3iqe21.jpg?alias=thumb_m&signature=U63zD6lHmViF57BGof8zt8ZCqxC3TxZ-2O76tzYAqmA",
+        "url_listing_search": "/thumb/ff/2025/09/wnz187u5df4eqwfiremtizdleneudd4t8hvlkgckt63i3iqe21.jpg?alias=listing_search&signature=HVGEuP96VQgjGLR9WicWsbYXJYCuZqOUI0x3h9kV5HA",
+        "ordering": 8,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 29657259,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/qcj06rips6qn9gwciubychejsthqtyt5fiz7otyyw1n52xvw6r.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/qcj06rips6qn9gwciubychejsthqtyt5fiz7otyyw1n52xvw6r.jpg?alias=thumb_m&signature=pZFDe0uGl7mrd6By4-utVXrP3WR21Ta3o-1RcGAXFHU",
+        "url_listing_search": "/thumb/ff/2025/09/qcj06rips6qn9gwciubychejsthqtyt5fiz7otyyw1n52xvw6r.jpg?alias=listing_search&signature=7KrG8eo3KXnLpSe5W56HjG6SAstYtrQ-ahvvigym7as",
+        "ordering": 9,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 29657260,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/9upgd4imgzez4l6rhr5oez5s0v0lisfb162s9id5ikup6g9uod.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/9upgd4imgzez4l6rhr5oez5s0v0lisfb162s9id5ikup6g9uod.jpg?alias=thumb_m&signature=7VFohqSsx31lT0nYtdR53eRyz0jvhQjSnWixZBa4BwE",
+        "url_listing_search": "/thumb/ff/2025/09/9upgd4imgzez4l6rhr5oez5s0v0lisfb162s9id5ikup6g9uod.jpg?alias=listing_search&signature=fhWYrqV-xcQ_IiFkvzJoNk_0yVd-aTliCXqULEIlY08",
+        "ordering": 10,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 29657261,
+        "caption": "Bürofläche",
+        "url": "/media/ff/2025/09/on6c9uflc4o550mhl3lhc5gqhmfcjaujt7ws02xveukgtkvusn.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/on6c9uflc4o550mhl3lhc5gqhmfcjaujt7ws02xveukgtkvusn.jpg?alias=thumb_m&signature=d9Vs2sglCAHhg8tRI7XTk26uVSBr9FN5WHIGUvIbLPo",
+        "url_listing_search": "/thumb/ff/2025/09/on6c9uflc4o550mhl3lhc5gqhmfcjaujt7ws02xveukgtkvusn.jpg?alias=listing_search&signature=-5921KOL7S57C6Fa3fILTQEn8hTEyIodUpf42ymdAfY",
+        "ordering": 11,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 29657262,
+        "caption": "Toiletten",
+        "url": "/media/ff/2025/09/2cw14khk7kdjltxge7d7m7x3rwc3v2trpl8208xmjago1vkyg7.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/2cw14khk7kdjltxge7d7m7x3rwc3v2trpl8208xmjago1vkyg7.jpg?alias=thumb_m&signature=B30oiyVFjPFR8G2Z4cZO2OxiJ-frjd9GD30Eeaqrg6k",
+        "url_listing_search": "/thumb/ff/2025/09/2cw14khk7kdjltxge7d7m7x3rwc3v2trpl8208xmjago1vkyg7.jpg?alias=listing_search&signature=4B7P_NmcbCpIEAbb1JK88Uy-_WsnXwrfvp4_SB0dfro",
+        "ordering": 12,
+        "width": 585,
+        "height": 390
+      },
+      {
+        "pk": 29657263,
+        "caption": "Toiletten",
+        "url": "/media/ff/2025/09/1p5obmaul8odma288fa9w38fdnn5gsb7b5660ooa4k66cxbime.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/1p5obmaul8odma288fa9w38fdnn5gsb7b5660ooa4k66cxbime.jpg?alias=thumb_m&signature=HqKDsaLu3xnQ4CNgFTUERkMBvuE3DfEA_48W47UrxSY",
+        "url_listing_search": "/thumb/ff/2025/09/1p5obmaul8odma288fa9w38fdnn5gsb7b5660ooa4k66cxbime.jpg?alias=listing_search&signature=zHcccxJnKiGMIwAx24Zod4wGptbtvjhHv4vFp9hsmbo",
+        "ordering": 13,
+        "width": 585,
+        "height": 390
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Niederer AG",
+      "name_2": null,
+      "street": "Unterdorfstrasse 5",
+      "zipcode": "3072",
+      "city": "Ostermundigen",
+      "country": null,
+      "logo": {
+        "url": "/media/org/2026/06/ccegcu7ikigy7plkvw3n1atpxu3eiys27wsx90eqpq7mdi1uwn.png",
+        "url_org_logo_m": "/thumb/org/2026/06/ccegcu7ikigy7plkvw3n1atpxu3eiys27wsx90eqpq7mdi1uwn.png?alias=org_logo_m&signature=s347aJ_Mnd4NXfWOohb6bCYL8XdlmSggTJbksPCneaM"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "830m² Büro in Bern mieten",
+    "livingspace": 830
+  }
+}

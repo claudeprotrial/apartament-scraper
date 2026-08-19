@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1628.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/industriestrasse-23-4922-butzberg/86077675/",
+    "descarcat": "2026-08-17 12:37",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "gewerberaum"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 13
+  },
+  "raw": {
+    "pk": 86077675,
+    "slug": "industriestrasse-23-4922-butzberg",
+    "url": "/de/wohnung/industriestrasse-23-4922-butzberg/86077675/",
+    "short_url": "/86077675/",
+    "submit_url": "/de/listing/86077675/submit/",
+    "status": "act",
+    "created": "2026-06-01T15:29:22.885219+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": ".._5889311.MOI.TF1",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "_5889311.MOI.TF1",
+    "alternative_reference": null,
+    "price_display": 100,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-06-01T15:29:26.772150+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 100,
+    "short_title": "1500m² Gewerbe",
+    "public_title": "Industriestrasse 23, 4922 Bützberg - CHF 100",
+    "pitch_title": "1500m² Gewerbe in Bützberg mieten",
+    "description_title": "Günstige Lagerflächen mit idealer Infrastruktur & Anbindung",
+    "description": "An der Industriestrasse 23 in Bützberg (Thunstetten) stehen rund 20'000 m² Gewerbe-/Lagerfläche zur Vermietung. Die Flächen sind bezugsbereit und können per 01.01.2028 übernommen werden.   \n  \n**Teilflächen ab sofort verfügbar:**   \n\n\n  * Gewerberaum 2. OG - 581.40 m² \n  * Lagerraum 2.OG - 722.15 m² \n  * Lagerraum 3.OG - 1'375.99 m² \n  * Lagerraum 4.OG - 1'383.31 m² \n\n  \n**Flächen verfügbar ab 2028:**   \n\n\n  * Gewerberaum Erdgeschoss - ca. 5'000 m² \n  * Gewerberaum 1.OG - ca. 3'700 m² \n  * Gewerberaum 3.OG - ca. 115.75 m² \n  * Gewerberaum 1.UG - ca. 4'000 m² \n\n  \n**Highlights:**   \n\n\n  * Zwei stützenlose Hallen mit grossen Raumhöhen \n  * 21 LKW-Rampen auf beiden Gebäudeseiten (optimale Anlieferung) \n  * 4 Warenlifte \n  * 3 Palettenförderanlagen \n  * Caffeteria im 3.OG \n  * 130 Parkplätze direkt vor Ort \n  * sehr grosse Aussenflächen als LKW-Rangierfläche und Parkplatz \n  * Grosszügige Raumhöhen \n  * Hohe Bodenbelastbarkeit \n  * Bestehender Mieterausbau (sofort nutzbar) \n  * Flexible Nutzungsmöglichkeiten \n\n  \n**Lage:**   \n\n\n  * Gewerbegebiet Thunstetten / Bützberg \n  * Sehr gute Erschliessung \n  * Autobahn A1 in ca. 20 Minuten erreichbar \n  * Gute Anbindung an regionale und nationale Verkehrsachsen \n\n  \n**Nutzung:**   \nIdeal für Logistik, Distribution, Produktion oder Industrie",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 1500,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 1500,
+    "number_of_rooms": null,
+    "floor": 3,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Industriestrasse 23",
+    "zipcode": 4922,
+    "city": "Bützberg",
+    "public_address": "Industriestrasse 23, 4922 Bützberg",
+    "latitude": 47.2136759,
+    "longitude": 7.7537297,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47603304,
+    "images": [
+      {
+        "pk": 47603304,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/66a6f4938b4383ba4cb42ec1edd58716.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/66a6f4938b4383ba4cb42ec1edd58716.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/66a6f4938b4383ba4cb42ec1edd58716.jpg",
+        "ordering": 1,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603311,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/f3cf05b688aab9f9f9c20f88a8a249aa.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/f3cf05b688aab9f9f9c20f88a8a249aa.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/f3cf05b688aab9f9f9c20f88a8a249aa.jpg",
+        "ordering": 2,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603314,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/714dcae7a4ae855867d5ef887201f9b4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/714dcae7a4ae855867d5ef887201f9b4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/714dcae7a4ae855867d5ef887201f9b4.jpg",
+        "ordering": 3,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603318,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/e77def67ce389bfc1728696b2b100fb4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/e77def67ce389bfc1728696b2b100fb4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/e77def67ce389bfc1728696b2b100fb4.jpg",
+        "ordering": 4,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603323,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/637394e2cb5b76b82750b5339d84c3bd.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/637394e2cb5b76b82750b5339d84c3bd.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/637394e2cb5b76b82750b5339d84c3bd.jpg",
+        "ordering": 5,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603329,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/a26e121ce8802b7b267175f17ef00a0b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/a26e121ce8802b7b267175f17ef00a0b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/a26e121ce8802b7b267175f17ef00a0b.jpg",
+        "ordering": 6,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603334,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/fda56b352ef23a8657e3e943f1aae157.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/fda56b352ef23a8657e3e943f1aae157.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/fda56b352ef23a8657e3e943f1aae157.jpg",
+        "ordering": 7,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603337,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/ad14ffed9132e8a88680776f297e7d0b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/ad14ffed9132e8a88680776f297e7d0b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/ad14ffed9132e8a88680776f297e7d0b.jpg",
+        "ordering": 8,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603341,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/2e63549f853a183c0337f9266a304f37.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/2e63549f853a183c0337f9266a304f37.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/2e63549f853a183c0337f9266a304f37.jpg",
+        "ordering": 9,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603347,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/3ebdde420ca8bd4f69f4885da67741a2.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/3ebdde420ca8bd4f69f4885da67741a2.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/3ebdde420ca8bd4f69f4885da67741a2.jpg",
+        "ordering": 10,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603351,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/b6c4c67340781ac41698a75cbbaf40ad.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/b6c4c67340781ac41698a75cbbaf40ad.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/b6c4c67340781ac41698a75cbbaf40ad.jpg",
+        "ordering": 11,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603355,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/5327116df21f2b85f2a14ba2699a6860.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/5327116df21f2b85f2a14ba2699a6860.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/5327116df21f2b85f2a14ba2699a6860.jpg",
+        "ordering": 12,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47603361,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h297866/4003204397/image/3218e754182337dc7d47ffb39f3d9e2c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h297866/4003204397/image/3218e754182337dc7d47ffb39f3d9e2c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h297866/4003204397/image/3218e754182337dc7d47ffb39f3d9e2c.jpg",
+        "ordering": 13,
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "documents": [
+      749848
+    ],
+    "agency": {
+      "name": "H&B Real Estate AG",
+      "name_2": null,
+      "street": "Lagerstrasse 107",
+      "zipcode": "8004",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/avq773jc7ff9jstskppn003394b9r2701hw6t16fp9r2ph1xvb.jpg",
+        "url_org_logo_m": "/thumb/org/2026/07/avq773jc7ff9jstskppn003394b9r2701hw6t16fp9r2ph1xvb.jpg?alias=org_logo_m&signature=OTbQwO7Oi0EsWYvMe7ynJGRIsOHMYByzK0Bw6LHUiwc"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003204397",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "1500m² Gewerbe in Bützberg mieten",
+    "livingspace": 1500
+  }
+}

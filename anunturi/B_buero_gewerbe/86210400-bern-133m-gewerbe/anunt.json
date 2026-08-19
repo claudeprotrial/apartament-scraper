@@ -1,0 +1,209 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1772.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/aarbergergasse-21-3011-bern/86210400/",
+    "descarcat": "2026-08-17 12:26",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche",
+        "gewerblich",
+        "showroom"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": [
+        "studio"
+      ]
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 86210400,
+    "slug": "aarbergergasse-21-3011-bern",
+    "url": "/de/wohnung/aarbergergasse-21-3011-bern/86210400/",
+    "short_url": "/86210400/",
+    "submit_url": "/de/listing/86210400/submit/",
+    "status": "act",
+    "created": "2026-07-22T12:06:31.655733+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "28410.01.0201",
+    "ref_property": "28410",
+    "ref_house": "01",
+    "ref_object": "0201",
+    "alternative_reference": null,
+    "price_display": 2890,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-22T12:06:33.151913+02:00",
+    "rent_net": 2550,
+    "rent_charges": 340,
+    "rent_gross": 2890,
+    "short_title": "133m² Gewerbe",
+    "public_title": "Aarbergergasse 21, 3011 Bern - CHF 2’890 inkl. NK pro Monat",
+    "pitch_title": "133m² Gewerbe in Bern mieten",
+    "description_title": "Attraktive Gewerbefläche an zentraler Lage in Bern",
+    "description": "An der Aarbergergasse 21 in Bern vermieten wir per sofort oder nach Vereinbarung eine vielseitig nutzbare Gewerbefläche an zentraler Lage. \n\n  \n\n\nDie Fläche mit rund 133 m2 liegt im 2. Obergeschoss (Personenaufzug vorhanden) und eignet sich für unterschiedlichste Nutzungen - sei es als Büro, Praxis, Atelier, Showroom, Studio oder für andere gewerbliche Konzepte. Lagerräumlichkeiten im Untergeschoss sind vorhanden und können bei Bedarf separat dazu gemietet werden. \n\n  \n\n\nDank der flexiblen Gestaltungsmöglichkeiten können die Räumlichkeiten individuell auf Ihre Bedürfnisse abgestimmt werden. \n\n  \n\n\n**Ihre Vorteile auf einen Blick:**\n\n  * Zentrale Lage in der Berner Innenstadt \n  * Nur 5 Gehminuten vom Hauptbahnhof Bern entfernt \n  * Individuell nutzbare Gewerbefläche \n  * Vielseitige Einsatzmöglichkeiten \n  * Attraktives Umfeld mit guter Infrastruktur sowie zahlreichen Restaurants, Einkaufsmöglichkeiten und Dienstleistungen in unmittelbarer Nähe \n\n  \n\n\nDer ausgeschriebene Mietzins gilt bei einer Übernahme der Gewerbefläche im heutigen Ausbaustandard. Individuelle Anpassungen oder Ausbauten können nach Absprache realisiert werden. Umfang und Ausführung der gewünschten Arbeiten werden gemeinsam definiert und entsprechend bei der Festlegung des Mietzinses berücksichtigt. \n\n  \n\n\nNutzen Sie diese Gelegenheit und verwirklichen Sie Ihr Geschäftskonzept an einem hervorragend erschlossenen Standort! \n\n  \n\n\nWir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 133,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 133,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Aarbergergasse 21",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Aarbergergasse 21, 3011 Bern",
+    "latitude": 46.949788,
+    "longitude": 7.440812,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "http://www.previs-immobilien.ch",
+    "live_viewing_url": null,
+    "cover_image": 48247669,
+    "images": [
+      {
+        "pk": 48247669,
+        "caption": "DSC_0184.jpg",
+        "url": "/media/ff/2026/07/sdhkvoo07aodu1l079qmo16p4gghe6wabzg67xhyfsloq0ize3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/sdhkvoo07aodu1l079qmo16p4gghe6wabzg67xhyfsloq0ize3.jpg?alias=thumb_m&signature=NYbCl7j-npC1ok5Bl7Ol9FITv8Cs9JPFJDUQLZc4wEo",
+        "url_listing_search": "/thumb/ff/2026/07/sdhkvoo07aodu1l079qmo16p4gghe6wabzg67xhyfsloq0ize3.jpg?alias=listing_search&signature=Kl-TRzleZQglm83Y3OfD06qYxCLlSeUxkm_nurBdcZY",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48247670,
+        "caption": "DSC_0206.jpg",
+        "url": "/media/ff/2026/07/oowf1wtd8a2wuns2ford6g79d4uckkjvvcrau0mtroktm601p9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/oowf1wtd8a2wuns2ford6g79d4uckkjvvcrau0mtroktm601p9.jpg?alias=thumb_m&signature=rjVpId9BAzINOv-i35NLVpbulNkWwxfHAup3POiuqrU",
+        "url_listing_search": "/thumb/ff/2026/07/oowf1wtd8a2wuns2ford6g79d4uckkjvvcrau0mtroktm601p9.jpg?alias=listing_search&signature=xt3alzh6eiLC8PWhG3mds7r9fGIbE8qR395zgfZPgoQ",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48247671,
+        "caption": "DSC_0178.jpg",
+        "url": "/media/ff/2026/07/5um25t0q00yibx62h66jj09u85sg4t2joouqaj6d0l94anjjel.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/5um25t0q00yibx62h66jj09u85sg4t2joouqaj6d0l94anjjel.jpg?alias=thumb_m&signature=yjO5s5pGTi_J1Q4Mwq0nwfSstfrKmXPSoUNi2uJ8msI",
+        "url_listing_search": "/thumb/ff/2026/07/5um25t0q00yibx62h66jj09u85sg4t2joouqaj6d0l94anjjel.jpg?alias=listing_search&signature=VHsE3VWE3G1aF80ajPWResJ1ZmvO8PipkTUUjJsriKs",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48247672,
+        "caption": "DSC_0182.jpg",
+        "url": "/media/ff/2026/07/xu96amq7oiqtgcm0mhkj11iqe0p8br3xihj4kuxvnh7lz61cou.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/xu96amq7oiqtgcm0mhkj11iqe0p8br3xihj4kuxvnh7lz61cou.jpg?alias=thumb_m&signature=Vz2znl1EKPU6YcJ981lTKBvWZncj_Wgx2TDiRz9Ruxo",
+        "url_listing_search": "/thumb/ff/2026/07/xu96amq7oiqtgcm0mhkj11iqe0p8br3xihj4kuxvnh7lz61cou.jpg?alias=listing_search&signature=rENAS0wPnabhL4-qeyVax500Dm2L8rZ0moddYdHZgAc",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48247674,
+        "caption": "DSC_0187.jpg",
+        "url": "/media/ff/2026/07/hcvj86o2ngf4a934y3cmydlgr2799xkbnzkvesmigrfods75nb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/hcvj86o2ngf4a934y3cmydlgr2799xkbnzkvesmigrfods75nb.jpg?alias=thumb_m&signature=SqFg0IacV7l-BvDw48NiaedyuVTuZ5Z2YcdN0a7vkb0",
+        "url_listing_search": "/thumb/ff/2026/07/hcvj86o2ngf4a934y3cmydlgr2799xkbnzkvesmigrfods75nb.jpg?alias=listing_search&signature=Vf2WnLcpiXcRhfvzfnlgWtWP8EZPi9sJ-FtwXJc8FjI",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48247675,
+        "caption": "DSC_0204.jpg",
+        "url": "/media/ff/2026/07/lbr1fx01t1ghh6wo8tiie7spqo1w2zrbyhxc5o35e3ox0stsr9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/lbr1fx01t1ghh6wo8tiie7spqo1w2zrbyhxc5o35e3ox0stsr9.jpg?alias=thumb_m&signature=tZMppsbLqFNt5rUtSBZB0SwzDHkTK5BUNujZClSxPnA",
+        "url_listing_search": "/thumb/ff/2026/07/lbr1fx01t1ghh6wo8tiie7spqo1w2zrbyhxc5o35e3ox0stsr9.jpg?alias=listing_search&signature=7JTpSAAC8j_419fMDpJxigPLQMh4dqNdXXe3EgQ0MhU",
+        "ordering": 6,
+        "width": 677,
+        "height": 1024
+      },
+      {
+        "pk": 48247676,
+        "caption": "DSC_0194.jpg",
+        "url": "/media/ff/2026/07/tzcum59xssh5pc2gmk5zfnf2tng9fpmv32j6gz37b52qykn0z4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/tzcum59xssh5pc2gmk5zfnf2tng9fpmv32j6gz37b52qykn0z4.jpg?alias=thumb_m&signature=dDxjxCBwUsLvhd17Di7LrDR1fswejCVFs1k9ugFUpVM",
+        "url_listing_search": "/thumb/ff/2026/07/tzcum59xssh5pc2gmk5zfnf2tng9fpmv32j6gz37b52qykn0z4.jpg?alias=listing_search&signature=cmmB-PLtXJrfpZYFD6da1cBiHJh1HNL1OYWca43nqK8",
+        "ordering": 7,
+        "width": 683,
+        "height": 1024
+      },
+      {
+        "pk": 48247677,
+        "caption": "DSC_0266.jpg",
+        "url": "/media/ff/2026/07/vel38c05hhf1nv1e5ovu7ts104afzou5oq503jvj52k9l57169.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/vel38c05hhf1nv1e5ovu7ts104afzou5oq503jvj52k9l57169.jpg?alias=thumb_m&signature=Iw2Zn4bIae2E3RTKzyGTbC-mZR45ZGaQA4N02aPby1k",
+        "url_listing_search": "/thumb/ff/2026/07/vel38c05hhf1nv1e5ovu7ts104afzou5oq503jvj52k9l57169.jpg?alias=listing_search&signature=_NuTTBMgGRxZ8kLEshV-2EtggOpkpyAbvWNrsVUGyL8",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48247678,
+        "caption": "DSC_0263.jpg",
+        "url": "/media/ff/2026/07/f7orsladh5pco54k9vlu0vhknlqfr35enndfc3qnqydkb6bb26.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/f7orsladh5pco54k9vlu0vhknlqfr35enndfc3qnqydkb6bb26.jpg?alias=thumb_m&signature=s8Qsuq-5gRGgcLYF-8nyFauzH9gPy-UI-86saMZ0dKc",
+        "url_listing_search": "/thumb/ff/2026/07/f7orsladh5pco54k9vlu0vhknlqfr35enndfc3qnqydkb6bb26.jpg?alias=listing_search&signature=jJRD-e1-48XIbwNOFFlEJ2dkF8KYp5VJOuL1zZsbY-8",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Previs Vorsorge",
+      "name_2": null,
+      "street": "Brückfeldstrasse 16",
+      "zipcode": "3001",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/01/prnvob1zxoqmk8h4670cdx97wvzag3lhdu8btaz61w8k2ksme8.png",
+        "url_org_logo_m": "/thumb/org/2022/01/prnvob1zxoqmk8h4670cdx97wvzag3lhdu8btaz61w8k2ksme8.png?alias=org_logo_m&signature=U8T1ygn9Yrr3bkAHziOnds2oxyVSxL_OIKss53JI7KE"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "133m² Gewerbe in Bern mieten",
+    "livingspace": 133
+  }
+}

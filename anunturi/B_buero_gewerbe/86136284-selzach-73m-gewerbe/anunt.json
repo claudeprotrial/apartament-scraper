@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1748.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/dorfstrasse-34-2545-selzach/86136284/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "arbeitsplätze",
+        "büro",
+        "dienstleistung",
+        "gewerbeobjekt"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 86136284,
+    "slug": "dorfstrasse-34-2545-selzach",
+    "url": "/de/wohnung/dorfstrasse-34-2545-selzach/86136284/",
+    "short_url": "/86136284/",
+    "submit_url": "/de/listing/86136284/submit/",
+    "status": "act",
+    "created": "2026-06-23T19:21:51.181936+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..10156.2.1001.1",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "10156.2.1001.1",
+    "alternative_reference": null,
+    "price_display": 1190,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-23T19:21:51.893674+02:00",
+    "rent_net": 1040,
+    "rent_charges": 150,
+    "rent_gross": 1190,
+    "short_title": "73m² Gewerbe",
+    "public_title": "Dorfstrasse 34, 2545 Selzach - CHF 1’190 inkl. NK pro Monat",
+    "pitch_title": "73m² Gewerbe in Selzach mieten",
+    "description_title": "EINLADENDES GEWERBEOBJEKT FÜR IHREN GESCHÄFTSERFOLG IN SELZACH",
+    "description": "Per sofort oder nach Vereinbarung vermieten wir diese hochwertig renovierten Gewerberäumlichkeiten an zentraler Lage in Selzach. Das vielseitig nutzbare Objekt im Erdgeschoss eignet sich hervorragend als Büro, moderne Praxis oder für kreative Dienstleistungen. Dank der attraktiven Ecklage und den grossen Fensterfronten profitieren Sie hier von einer lichtdurchfluteten Atmosphäre, die eine äusserst motivierende Arbeitsumgebung schafft und Ihrem Unternehmen eine erstklassige repräsentative Wirkung verleiht. Die Raumaufteilung bietet Ihnen maximale Flexibilität bei der Gestaltung Ihrer Arbeitsplätze und Kundenbereiche.   \n  \n**Profitieren Sie von unserem exklusiven Einzugsgeschenk im Wert von CHF 2'600!**   \nErleichtern Sie sich den Umzug und sparen Sie bares Geld. Wir gewähren Ihnen für die ersten 10 Monate einen Mietzinsrabatt von CHF 260. Die monatliche Miete beträgt in diesem Zeitraum lediglich CHF 1190.- brutto inklusive Nebenkosten. Anschliessend gilt wieder der reguläre Mietzins von CHF 1450.- brutto.   \n  \nDie Highlights im Überblick:   \n\\- Lichtdurchflutete Räumlichkeiten mit grossen Fensterfronten für einen rundum professionellen Firmenauftritt und ein freundliches Arbeitsumfeld   \n\\- Attraktives Mitspracherecht beim finalen Innenausbau inklusive der Möglichkeit zum Einbau einer massgeschneiderten Teeküche ganz nach Ihren Vorstellungen   \n\\- Hervorragende Parksituation mit eigenen Tiefgaragenplätzen für Sie sowie bequemen Besucherparkplätzen direkt vor dem Gebäude für Ihre Kundschaft   \n\\- Eigener separater Zugang für maximale Unabhängigkeit und Flexibilität im täglichen Geschäftsbetrieb   \n\\- Viel zusätzlicher Platz durch einen grosszügigen Lagerraum oder Archivraum im Untergeschoss   \n\\- Wohlfühlatmosphäre dank der modernen Fussbodenheizung sowie einer tollen Option zur Aussennutzung für erholsame Teampausen an der frischen Luft   \n\\- Zeitgemässe Infrastruktur mit komplett erneuerten und separat geführten Toilettenanlagen für Damen und Herren   \n  \nDer Standort:   \nDie Dorfstrasse 34 befindet sich an einer erstklassigen und gut sichtbaren Ecklage mitten in Selzach. Ihr Team und Ihre Kundschaft profitieren von einer hervorragenden Anbindung an den öffentlichen Verkehr, da der Bahnhof sowie die Bushaltestellen in bequemer Gehdistanz liegen. Zudem bietet der Standort eine optimale Erreichbarkeit für den Individualverkehr und verbindet ein charmantes Umfeld perfekt mit einer professionellen Infrastruktur für Ihren Betrieb.   \n  \nHaben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre Kontaktaufnahme über das Inserat.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 73,
+    "surface_usable_minimum": null,
+    "volume": 0,
+    "space_display": 73,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Dorfstrasse 34",
+    "zipcode": 2545,
+    "city": "Selzach",
+    "public_address": "Dorfstrasse 34, 2545 Selzach",
+    "latitude": 47.2066557,
+    "longitude": 7.4534935,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47464385,
+    "images": [
+      {
+        "pk": 47464385,
+        "caption": "",
+        "url": "/media/ff/2026/06/zbh7zsuvgvmi4n7h0ozz8eisv5mfjfi0vcpadrlt7sxq2l9txm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/zbh7zsuvgvmi4n7h0ozz8eisv5mfjfi0vcpadrlt7sxq2l9txm.jpg?alias=thumb_m&signature=-gVob-SKUL7mkd_V4F70joDsKHZCT5qu5WOFMYnwfuM",
+        "url_listing_search": "/thumb/ff/2026/06/zbh7zsuvgvmi4n7h0ozz8eisv5mfjfi0vcpadrlt7sxq2l9txm.jpg?alias=listing_search&signature=wA_khGoOFcbKD3M-p6RRpf8HWxSA8cQintyR-xeRGLM",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 47464386,
+        "caption": "",
+        "url": "/media/ff/2026/06/zvjhiinpzg4q0a3dr5tymwpcbaa8cwqh74npqls1v402voy69w.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/zvjhiinpzg4q0a3dr5tymwpcbaa8cwqh74npqls1v402voy69w.jpg?alias=thumb_m&signature=rl-tjzzNwZKhmiAo4z7z5Un8HTC2oi4S9RjIjeDy2XI",
+        "url_listing_search": "/thumb/ff/2026/06/zvjhiinpzg4q0a3dr5tymwpcbaa8cwqh74npqls1v402voy69w.jpg?alias=listing_search&signature=wE6zIF55vIUjRmtB8YTGP5FVuIm745RZQeClw-C6p9k",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 47464387,
+        "caption": "",
+        "url": "/media/ff/2026/06/tt1mo9jg5xoxx6vq7aa26n64gb98wdzviodfrb8vefku8nkhn8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/tt1mo9jg5xoxx6vq7aa26n64gb98wdzviodfrb8vefku8nkhn8.jpg?alias=thumb_m&signature=e9CoiXKKUJYrPJdqZVASkfxoxyYkfx8tZ1ChVBQv2U0",
+        "url_listing_search": "/thumb/ff/2026/06/tt1mo9jg5xoxx6vq7aa26n64gb98wdzviodfrb8vefku8nkhn8.jpg?alias=listing_search&signature=ddTJ__-6FDAfVlSq7Ds6xH-uYv9u6W3-QDim6DhSRog",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 47464388,
+        "caption": "",
+        "url": "/media/ff/2026/06/mkhsscmxl9m6hcae6ny0kqb63fk6751w4sex5wnvhgci5ul8l7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/mkhsscmxl9m6hcae6ny0kqb63fk6751w4sex5wnvhgci5ul8l7.jpg?alias=thumb_m&signature=0U67zezH2a5pzW8iyUfo_JjGIXvcfXOY5B3M0HU33uU",
+        "url_listing_search": "/thumb/ff/2026/06/mkhsscmxl9m6hcae6ny0kqb63fk6751w4sex5wnvhgci5ul8l7.jpg?alias=listing_search&signature=5I1b7AWdCWGjdG16fj1ztOtW0P2mHBDSrmR3FUfNrfo",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 47464389,
+        "caption": "",
+        "url": "/media/ff/2026/06/jq5f7d8zos7a5uhbk69e70clzat86iabyivfx7ryj7ps15drov.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/jq5f7d8zos7a5uhbk69e70clzat86iabyivfx7ryj7ps15drov.jpg?alias=thumb_m&signature=lsTDwNeKr228eEaX5R8XDVXc9xq_i1gxk7DrIW-xwdI",
+        "url_listing_search": "/thumb/ff/2026/06/jq5f7d8zos7a5uhbk69e70clzat86iabyivfx7ryj7ps15drov.jpg?alias=listing_search&signature=d18zUlJBbsDdR73smwg2WSBMEjFs-HEE4du0Mj7AvVQ",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 47464390,
+        "caption": "",
+        "url": "/media/ff/2026/06/3gei51jbu90q61yl7mttyzm12saapr8l9sxi2g5met2scrtg5c.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/3gei51jbu90q61yl7mttyzm12saapr8l9sxi2g5met2scrtg5c.jpg?alias=thumb_m&signature=uYzOTU3Q0LsVJ_DCJLv8wXIr0sYwPyTmNeaYiCx_mzc",
+        "url_listing_search": "/thumb/ff/2026/06/3gei51jbu90q61yl7mttyzm12saapr8l9sxi2g5met2scrtg5c.jpg?alias=listing_search&signature=IFwb7_JN8f63DiWgoZpBZyiq54yfn_FQpOfitgmBD-k",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 47464391,
+        "caption": "",
+        "url": "/media/ff/2026/06/0mhg085tx3dot952i7aqkgeo87prfcuadbonwmf5a55ffa2mzf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/0mhg085tx3dot952i7aqkgeo87prfcuadbonwmf5a55ffa2mzf.jpg?alias=thumb_m&signature=Q-bnEA3EJnmdWuXp2w_fHQl8uks9qlRYFPCBDMkuRkk",
+        "url_listing_search": "/thumb/ff/2026/06/0mhg085tx3dot952i7aqkgeo87prfcuadbonwmf5a55ffa2mzf.jpg?alias=listing_search&signature=WspEgEiUh4_a_APbjsb6KE8hPzmpqbMZBtm7SlHvU_0",
+        "ordering": 7,
+        "width": 683,
+        "height": 1024
+      },
+      {
+        "pk": 47464392,
+        "caption": "",
+        "url": "/media/ff/2026/06/13yyp67ou2cssnqpgixctenwaoeftz3rihf5pllxxpiu1zpw5w.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/13yyp67ou2cssnqpgixctenwaoeftz3rihf5pllxxpiu1zpw5w.jpg?alias=thumb_m&signature=Bq0NlvovUvXVqQJeA4KYOo3FyPTYCLpdLRFEsD4ktx8",
+        "url_listing_search": "/thumb/ff/2026/06/13yyp67ou2cssnqpgixctenwaoeftz3rihf5pllxxpiu1zpw5w.jpg?alias=listing_search&signature=5ctTaNhaABnVokFC7OHLAzIpr4dfHqIu28UkPK3qnpk",
+        "ordering": 8,
+        "width": 683,
+        "height": 1024
+      },
+      {
+        "pk": 47464393,
+        "caption": "",
+        "url": "/media/ff/2026/06/5u8f1qu5f6ora7o8depk0afb5nq9iassbct50egut1fc0ngvc0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/5u8f1qu5f6ora7o8depk0afb5nq9iassbct50egut1fc0ngvc0.jpg?alias=thumb_m&signature=djCFmL3oiBOysAGp5XpE_zPMtR4Dtp_RIayyi5KpbaY",
+        "url_listing_search": "/thumb/ff/2026/06/5u8f1qu5f6ora7o8depk0afb5nq9iassbct50egut1fc0ngvc0.jpg?alias=listing_search&signature=sopW6KiGKD0OiHU2XAK0GCck5SDCCo36g2kAx51tdOw",
+        "ordering": 9,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "documents": [
+      746882
+    ],
+    "agency": {
+      "name": "VIVIQ",
+      "name_2": null,
+      "street": "Lerchenstrasse 24",
+      "zipcode": "8045",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2024/10/jbomvz1twtauykb1ok0c5xw0s5ojx3jr9ao6b0sg47llcp6pf8.png",
+        "url_org_logo_m": "/thumb/org/2024/10/jbomvz1twtauykb1ok0c5xw0s5ojx3jr9ao6b0sg47llcp6pf8.png?alias=org_logo_m&signature=Z7d_R1rF6rmvK6ShZc9g966grveYVwRvjp0dtkeOX9o"
+      }
+    },
+    "reserved": false,
+    "state": "SO",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "73m² Gewerbe in Selzach mieten",
+    "livingspace": 73
+  }
+}

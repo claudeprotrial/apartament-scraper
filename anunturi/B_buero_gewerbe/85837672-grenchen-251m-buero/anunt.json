@@ -1,0 +1,244 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1744.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bundengasse-22-2540-grenchen/85837672/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "arbeitsplätze",
+        "büro-",
+        "dienstleistung",
+        "einzelbüro",
+        "gewerbe",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 13
+  },
+  "raw": {
+    "pk": 85837672,
+    "slug": "bundengasse-22-2540-grenchen",
+    "url": "/de/wohnung/bundengasse-22-2540-grenchen/85837672/",
+    "short_url": "/85837672/",
+    "submit_url": "/de/listing/85837672/submit/",
+    "status": "act",
+    "created": "2026-03-04T19:35:57.831471+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "30058.02.420020",
+    "ref_property": "30058",
+    "ref_house": "02",
+    "ref_object": "420020",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2026-03-04T19:35:58.022914+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "251m² Büro",
+    "public_title": "Bündengasse 22, 2540 Grenchen - auf Anfrage",
+    "pitch_title": "251m² Büro in Grenchen mieten",
+    "description_title": "Attraktive Büro- und Gewerberäumlichkeiten in Solothurn!",
+    "description": "An gut erschlossener Lage in Grenchen vermieten wir per sofort oder nach Vereinbarung attraktive Büro- bzw. Gewerberäumlichkeiten mit einer Nutzfläche von rund **251 m2** . Die Räumlichkeiten eignen sich ideal für Unternehmen aus den Bereichen Büro, Dienstleistung, Beratung, Praxis, Schulung oder für stilles Gewerbe. \n\n  \n\n\nDie Fläche überzeugt durch eine durchdachte Raumaufteilung , die eine flexible Nutzung ermöglicht. Mehrere separate Räume bieten ideale Voraussetzungen sowohl für **Einzelbüros, Besprechungsräume oder Teamarbeitsplätze** . Dank der grosszügigen Fensterflächen profitieren die Räume von **viel Tageslicht** , was zu einer angenehmen und produktiven Arbeitsatmosphäre beiträgt. \n\n  \n\n\n**Highlights der Räumlichkeiten**\n\n  * Helle und freundliche Arbeitsräume \n\n  * Praktische Unterteilung in mehrere kleinere Büros bzw. Arbeitsbereiche \n\n  * Flexible Nutzungsmöglichkeiten für Büro, Dienstleistung, Praxis, Schulung oder stilles Gewerbe \n\n  * Zwei separate WC-Anlagen vorhanden \n\n  * Parkplätze direkt beim Gebäude verfügbar \n\n  * Gute Erreichbarkeit sowohl mit dem Auto als auch mit öffentlichen Verkehrsmitteln \n\n  * Angenehmes und professionelles Arbeitsumfeld \n\n\n\n\nDie Lage bietet eine **sehr gute Anbindung an das Verkehrsnetz** , sodass Mitarbeitende, Kundinnen und Kunden die Räumlichkeiten bequem erreichen können. Parkmöglichkeiten in unmittelbarer Nähe sorgen zusätzlich für Komfort im Arbeitsalltag. \n\n  \n\n\nHaben wir Ihr Interesse geweckt?   \nGerne zeigen wir Ihnen die Räumlichkeiten bei einer persönlichen Besichtigung vor Ort und stehen Ihnen für weitere Informationen jederzeit zur Verfügung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 251,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 251,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bündengasse 22",
+    "zipcode": 2540,
+    "city": "Grenchen",
+    "public_address": "Bündengasse 22, 2540 Grenchen",
+    "latitude": 47.1964625,
+    "longitude": 7.3935911,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 34326853,
+    "images": [
+      {
+        "pk": 34326853,
+        "caption": "604554-A-backbonephoto-004.jpg",
+        "url": "/media/ff/2026/03/28rc6ldjqsg449ueglarm6q3nn0m2a13cwacwb6t875njr443a.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/28rc6ldjqsg449ueglarm6q3nn0m2a13cwacwb6t875njr443a.jpg?alias=thumb_m&signature=_jKM_Fh4XdMt5vEiECtbp69UcBOz2e18ckDACQWxb98",
+        "url_listing_search": "/thumb/ff/2026/03/28rc6ldjqsg449ueglarm6q3nn0m2a13cwacwb6t875njr443a.jpg?alias=listing_search&signature=ZMUPQpCvMpDZGU_9_YNy8aKztCWlT-a-Lszieb-sNX8",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326854,
+        "caption": "604554-A-backbonephoto-010.jpg",
+        "url": "/media/ff/2026/03/nyylnmwnqh29cpf0clxk7jr28f3vfgqovcwdu333tla77ii7cr.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/nyylnmwnqh29cpf0clxk7jr28f3vfgqovcwdu333tla77ii7cr.jpg?alias=thumb_m&signature=eE8V3KMR6m5rOR3eSDdNTeZhmnKfA6BjKH4mqdQAaEE",
+        "url_listing_search": "/thumb/ff/2026/03/nyylnmwnqh29cpf0clxk7jr28f3vfgqovcwdu333tla77ii7cr.jpg?alias=listing_search&signature=7YnTELS5SWpA-7GD3JniSFYNJMkeiDTVEV-aER-Ckfg",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326855,
+        "caption": "604554-A-backbonephoto-019.jpg",
+        "url": "/media/ff/2026/03/7vshyipuyvbcmnbugb3dz9eaqu8y6k95d3gqjpq91xwauo14vh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/7vshyipuyvbcmnbugb3dz9eaqu8y6k95d3gqjpq91xwauo14vh.jpg?alias=thumb_m&signature=PKX6htG2_Z_B_xUAtb0RpUTRQZGDlWXp7POBD9t0BKY",
+        "url_listing_search": "/thumb/ff/2026/03/7vshyipuyvbcmnbugb3dz9eaqu8y6k95d3gqjpq91xwauo14vh.jpg?alias=listing_search&signature=TNeqDjKloiX5_-JzQAfg1DtLx3OflDsoc-6o6m7B0wM",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326856,
+        "caption": "604554-A-backbonephoto-016.jpg",
+        "url": "/media/ff/2026/03/4udxcavtsdwesvli3tlaig6oh78wad62e37bfb1wjbyhmgj0jf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/4udxcavtsdwesvli3tlaig6oh78wad62e37bfb1wjbyhmgj0jf.jpg?alias=thumb_m&signature=yiVoLlCKppT-m8Kpy5jZowaEzmzigL9bCczSwTSRh3Y",
+        "url_listing_search": "/thumb/ff/2026/03/4udxcavtsdwesvli3tlaig6oh78wad62e37bfb1wjbyhmgj0jf.jpg?alias=listing_search&signature=qlBTydTi0DAU92vV1PQQd8vdoKEW5j7yQ8MM2oV-uKo",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326857,
+        "caption": "604554-A-backbonephoto-028.jpg",
+        "url": "/media/ff/2026/03/p3zr5eefk84w9s0jb3y0edxtuywo9wuwsvufjji1kw1jw709hf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/p3zr5eefk84w9s0jb3y0edxtuywo9wuwsvufjji1kw1jw709hf.jpg?alias=thumb_m&signature=WtmFRScNpsfLIshZvh5tJ1PVgatJn__CFrsxxvhS9u4",
+        "url_listing_search": "/thumb/ff/2026/03/p3zr5eefk84w9s0jb3y0edxtuywo9wuwsvufjji1kw1jw709hf.jpg?alias=listing_search&signature=N5WglYfSwNQ3q0YHt-MZi9VlCG9yJMdbDotMyPIWA3E",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326858,
+        "caption": "604554-A-backbonephoto-022.jpg",
+        "url": "/media/ff/2026/03/39m5e7dbygvv1zstyuco2pzn0aevy8e1zfr7uirn62lm6m8mki.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/39m5e7dbygvv1zstyuco2pzn0aevy8e1zfr7uirn62lm6m8mki.jpg?alias=thumb_m&signature=F4zOaNfcNxYRrARWmMM1tuyeftmKp-OpdX09L8SPWiI",
+        "url_listing_search": "/thumb/ff/2026/03/39m5e7dbygvv1zstyuco2pzn0aevy8e1zfr7uirn62lm6m8mki.jpg?alias=listing_search&signature=Z53UxKWmuzlyhmwfejJRAebq1E6q-bmi5CVTnlI9qLQ",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326859,
+        "caption": "604554-A-backbonephoto-034.jpg",
+        "url": "/media/ff/2026/03/u3cfvwi63kywfycjuzigv9n9w6utc96bu3qhuzydw99fuvdntf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/u3cfvwi63kywfycjuzigv9n9w6utc96bu3qhuzydw99fuvdntf.jpg?alias=thumb_m&signature=rKwMzW3gRernqeaNH-quWxVLcUKafg-hQ53gOMsZ_6o",
+        "url_listing_search": "/thumb/ff/2026/03/u3cfvwi63kywfycjuzigv9n9w6utc96bu3qhuzydw99fuvdntf.jpg?alias=listing_search&signature=FSRTpMe4vm4Y8xhUTsSBNnoikCHluHz7RZrTutSfFdo",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326860,
+        "caption": "604554-A-backbonephoto-031.jpg",
+        "url": "/media/ff/2026/03/wh6yiwydnqwe1uzrn0930kh3ti22hgf4gr8196mqygg0sv6hwz.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/wh6yiwydnqwe1uzrn0930kh3ti22hgf4gr8196mqygg0sv6hwz.jpg?alias=thumb_m&signature=V9HFkpwgxbAKSAH4JGTCCHaS6i-4Xfc-KwMmTkl0Xyg",
+        "url_listing_search": "/thumb/ff/2026/03/wh6yiwydnqwe1uzrn0930kh3ti22hgf4gr8196mqygg0sv6hwz.jpg?alias=listing_search&signature=0-Nfin_-nfBJ3u31NBKEoqqXo2OUzWGWIoC7COnTj2M",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326861,
+        "caption": "604554-A-backbonephoto-043.jpg",
+        "url": "/media/ff/2026/03/grow4odi2lluhvzjeyqf1kc52r9wcmnv992za1ks96qbk759t6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/grow4odi2lluhvzjeyqf1kc52r9wcmnv992za1ks96qbk759t6.jpg?alias=thumb_m&signature=UtKGT4ad-OWLBwICIRFWJPNuYtEZEgQ_QAie6NkCqWs",
+        "url_listing_search": "/thumb/ff/2026/03/grow4odi2lluhvzjeyqf1kc52r9wcmnv992za1ks96qbk759t6.jpg?alias=listing_search&signature=XG9G6Dp0BnvO3BTBSGnmWYhkEFx_8ISYUoUOu9EOXO4",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326863,
+        "caption": "604554-A-backbonephoto-049.jpg",
+        "url": "/media/ff/2026/03/ysts6jcsvw8w0uu1kn2rkxaer72tvox6almn5bhiviq4mgrduk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/ysts6jcsvw8w0uu1kn2rkxaer72tvox6almn5bhiviq4mgrduk.jpg?alias=thumb_m&signature=8GXzSlGK-bpGMo11UsDg3PKuJ-cknlazr2hTigQjNW4",
+        "url_listing_search": "/thumb/ff/2026/03/ysts6jcsvw8w0uu1kn2rkxaer72tvox6almn5bhiviq4mgrduk.jpg?alias=listing_search&signature=8NSOvFpRpmRFZ9AOfdz5IcfUSp4IVyqdiU_kAWsV-9k",
+        "ordering": 10,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326865,
+        "caption": "604554-A-backbonephoto-040.jpg",
+        "url": "/media/ff/2026/03/0pc2l6t8zs0cjxttn8na7s409umv5x6qrpky5u0at5cuq96j0r.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/0pc2l6t8zs0cjxttn8na7s409umv5x6qrpky5u0at5cuq96j0r.jpg?alias=thumb_m&signature=TO1tUkRWv9lU9irOA35F0WwHDyITnLEzilaJ11avbfU",
+        "url_listing_search": "/thumb/ff/2026/03/0pc2l6t8zs0cjxttn8na7s409umv5x6qrpky5u0at5cuq96j0r.jpg?alias=listing_search&signature=UR0ut34jlECeZte1a5W5UzhMPaki658QQTuYVK6sRrI",
+        "ordering": 11,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326867,
+        "caption": "604554-A-backbonephoto-064.jpg",
+        "url": "/media/ff/2026/03/auhla937rdh4vj8x8esnvzn8pn7d21ks1e596rqj573bgtrtp6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/auhla937rdh4vj8x8esnvzn8pn7d21ks1e596rqj573bgtrtp6.jpg?alias=thumb_m&signature=j7cS5lUrizwa_VJ5EO5haqEDAJl0skDMs01HjbB-5n8",
+        "url_listing_search": "/thumb/ff/2026/03/auhla937rdh4vj8x8esnvzn8pn7d21ks1e596rqj573bgtrtp6.jpg?alias=listing_search&signature=UDYt9dRUzm0wK6AlH1ugAZiLk4zeE1FCZNQOKrWg7Qg",
+        "ordering": 12,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 34326868,
+        "caption": "604554-A-backbonephoto-046.jpg",
+        "url": "/media/ff/2026/03/8gp4d5u2b25yyncmzp59wnsu5hxlsfu1mfi15zzkyrn89hlnzc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/8gp4d5u2b25yyncmzp59wnsu5hxlsfu1mfi15zzkyrn89hlnzc.jpg?alias=thumb_m&signature=Wc9p2tKl9mr6a6OWKRbcX64Co1AdFWH4ui5lNDKBTVs",
+        "url_listing_search": "/thumb/ff/2026/03/8gp4d5u2b25yyncmzp59wnsu5hxlsfu1mfi15zzkyrn89hlnzc.jpg?alias=listing_search&signature=CLC7xfuyNpZ1QnP3kK3jIdhYfatTwhr_r8onXeOF4_Q",
+        "ordering": 13,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [
+      692459
+    ],
+    "agency": {
+      "name": "Privera AG",
+      "name_2": null,
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png",
+        "url_org_logo_m": "/thumb/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png?alias=org_logo_m&signature=AShB2wTW9RgBQlL5EayIx5KA4p6RhJExHnOr31HV8GA"
+      }
+    },
+    "reserved": false,
+    "state": "SO",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "251m² Büro in Grenchen mieten",
+    "livingspace": 251
+  }
+}

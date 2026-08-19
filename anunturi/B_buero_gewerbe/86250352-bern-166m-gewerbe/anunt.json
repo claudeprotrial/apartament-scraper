@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1736.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/effingerstrasse-55-3008-bern/86250352/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "bürofläche",
+        "gewerbe"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": [
+        "mietwohnung",
+        "studio"
+      ]
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 86250352,
+    "slug": "effingerstrasse-55-3008-bern",
+    "url": "/de/wohnung/effingerstrasse-55-3008-bern/86250352/",
+    "short_url": "/86250352/",
+    "submit_url": "/de/listing/86250352/submit/",
+    "status": "act",
+    "created": "2026-08-05T18:08:20.297900+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "15301.01.39103",
+    "ref_property": "15301",
+    "ref_house": "01",
+    "ref_object": "39103",
+    "alternative_reference": null,
+    "price_display": 2690,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-05T18:08:21.276147+02:00",
+    "rent_net": 2210,
+    "rent_charges": 480,
+    "rent_gross": 2690,
+    "short_title": "166m² Gewerbe",
+    "public_title": "Effingerstrasse 55, 3008 Bern - CHF 2’690 inkl. NK pro Monat",
+    "pitch_title": "166m² Gewerbe in Bern mieten",
+    "description_title": "Ihre Idee. Ihr Raum. Ihr Erfolg.",
+    "description": "**Was würden Sie aus dieser Fläche machen?**\n\n  \n\n\nSeminarräume? Kreativatelier? Yoga- oder Pilatesstudio? Coaching-Praxis? Schulungszentrum? Oder doch etwas ganz Anderes? \n\n  \n\n\nPer sofort oder nach Vereinbarung wartet im Effingerhaus eine vielseitige Fläche darauf, mit Leben gefüllt zu werden. Im Tiefparterre gelegen - dank grosszügiger Fenster jedoch überraschend hell und mit einer angenehmen Atmosphäre für konzentriertes Arbeiten, inspirierende Begegnungen oder entspannte Bewegung. \n\n  \n\n\n**Warum diese Fläche?**\n\n  * Vollständig ausgebaut und sofort bezugsbereit \n  * Flexible Nutzungsmöglichkeiten realisierbar \n  * Grosszügige Teeküche und Sanitäranlage zur alleinigen Nutzung \n  * Zentrale Lage mit hervorragender Erreichbarkeit \n  * Erweiterungsmöglichkeiten mit zusätzlichen Büroflächen im 1. Obergeschoss \n\n\n\n  \n\n\nIhre Vision passt noch nicht ganz zum bestehenden Ausbau? Gemeinsam finden wir eine Lösung - individuelle Ausbauwünsche sind willkommen. \n\n  \n\n\nÜberzeugen Sie sich selbst und kontaktieren Sie uns noch heute! \n\n  \n\n\n**Achtung. Eigenwerbung:** Sie ziehen in eine Mietwohnung und benötigen Unterstützung für den bestmöglichen Verkauf Ihrer Immobilie? Kontaktieren Sie die Dr.Meyer Immobilien AG für eine unverbindliche Offerte **\\- wir sind gut darin.**",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 166,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 166,
+    "number_of_rooms": null,
+    "floor": -1,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Effingerstrasse 55",
+    "zipcode": 3008,
+    "city": "Bern",
+    "public_address": "Effingerstrasse 55, 3008 Bern",
+    "latitude": 46.9456255,
+    "longitude": 7.4287195,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48704669,
+    "images": [
+      {
+        "pk": 48704669,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/08/bvtbkhamzabs1vkx44tadnafcbn4zjebnx81btl9pezy619f6t.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/bvtbkhamzabs1vkx44tadnafcbn4zjebnx81btl9pezy619f6t.jpg?alias=thumb_m&signature=Zes5Zdvy4N96ahmS87R4SIto1QzX8sAJIhcyeOh2Y_8",
+        "url_listing_search": "/thumb/ff/2026/08/bvtbkhamzabs1vkx44tadnafcbn4zjebnx81btl9pezy619f6t.jpg?alias=listing_search&signature=R2wgifwkhl_6lmKvt-ACAWx4r5v0REngq5Pme2Dg4dI",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48704670,
+        "caption": "Treppenabgang",
+        "url": "/media/ff/2026/08/wy03ehe4vs09up9p612h082l1oq0dwhcqwxbbf3grz4yl4lrzg.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/wy03ehe4vs09up9p612h082l1oq0dwhcqwxbbf3grz4yl4lrzg.jpg?alias=thumb_m&signature=O1ujg3vQ5MDGtyfuZ4ISbkbwXn8O8Kjup5CwqBDVLs0",
+        "url_listing_search": "/thumb/ff/2026/08/wy03ehe4vs09up9p612h082l1oq0dwhcqwxbbf3grz4yl4lrzg.jpg?alias=listing_search&signature=3QmJdxoecuFPz_P0MjOV2wypWJNcyVfOSlTrMVPxvzE",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 48704671,
+        "caption": "Teeküche",
+        "url": "/media/ff/2026/08/jocl1z8ck7mnrn90e09fkziolqc5jmg4ejp6brszon5ioujcx9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/jocl1z8ck7mnrn90e09fkziolqc5jmg4ejp6brszon5ioujcx9.jpg?alias=thumb_m&signature=tp-9witLp3fx2EknPcIUw340ETzzT1UjyVVQ2iseTE0",
+        "url_listing_search": "/thumb/ff/2026/08/jocl1z8ck7mnrn90e09fkziolqc5jmg4ejp6brszon5ioujcx9.jpg?alias=listing_search&signature=m3Ckx3a4h73P7zrBqNnN9Lo9A-Wr33pys7kuRBiNmnA",
+        "ordering": 3,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 48704672,
+        "caption": "Pausenraum / Sitzungszimmer",
+        "url": "/media/ff/2026/08/h3gwckltro1fszbc1wg5tlgoqek548qa1kilrif3nyfb7qctiw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/h3gwckltro1fszbc1wg5tlgoqek548qa1kilrif3nyfb7qctiw.jpg?alias=thumb_m&signature=Fn7uqQOvXURlJt95G66zwoAk1oFkgT1OJQIt3f1L4sY",
+        "url_listing_search": "/thumb/ff/2026/08/h3gwckltro1fszbc1wg5tlgoqek548qa1kilrif3nyfb7qctiw.jpg?alias=listing_search&signature=Zff_yo5fSZqP5ZS2Oo9XoHkWXsdGGcZptrOSmL_a-CY",
+        "ordering": 4,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 48704673,
+        "caption": "Büro / Atelier",
+        "url": "/media/ff/2026/08/f34gbjq1q813lukem5ntpqzn8jw5ivkzvte585povq6od72lrp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/f34gbjq1q813lukem5ntpqzn8jw5ivkzvte585povq6od72lrp.jpg?alias=thumb_m&signature=4m7_A_Dm50yPVhg_2q1VNHYNKeQmr6q8iZEuvcvIR6M",
+        "url_listing_search": "/thumb/ff/2026/08/f34gbjq1q813lukem5ntpqzn8jw5ivkzvte585povq6od72lrp.jpg?alias=listing_search&signature=1OW7-Z4TUe86g_uc6oA1vLKC5DeiUb4QCQ2sCbVgTJ4",
+        "ordering": 5,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 48704674,
+        "caption": "Grundrissplan",
+        "url": "/media/ff/2026/08/kt74j1ya7yw1y8vsveahj7ch6e1soi8eok884oriyw1ywvre9d.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/kt74j1ya7yw1y8vsveahj7ch6e1soi8eok884oriyw1ywvre9d.jpg?alias=thumb_m&signature=GhuPiNL-twQUI3Zgyre4xp5XyaKX5cFtIqQULau6GSM",
+        "url_listing_search": "/thumb/ff/2026/08/kt74j1ya7yw1y8vsveahj7ch6e1soi8eok884oriyw1ywvre9d.jpg?alias=listing_search&signature=ZkCtweDYKpIFxIByIi5JnapRXPy55LYOI0Qb_JaCX9k",
+        "ordering": 6,
+        "width": 1024,
+        "height": 755
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Dr.Meyer Immobilien AG",
+      "name_2": null,
+      "street": "Morgenstrasse 83A",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2024/07/woj4lopa7chdn8dh87rltp0smpb3932txsx0vdemwv59pi8se7.png",
+        "url_org_logo_m": "/thumb/org/2024/07/woj4lopa7chdn8dh87rltp0smpb3932txsx0vdemwv59pi8se7.png?alias=org_logo_m&signature=RXRff7dvi1t4gXbApybXP5-mE33QN1P8tJzkGkiMiPg"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "166m² Gewerbe in Bern mieten",
+    "livingspace": 166
+  }
+}

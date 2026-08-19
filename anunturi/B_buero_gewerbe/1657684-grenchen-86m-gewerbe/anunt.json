@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1660.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/girardstrasse-17-2540-grenchen/1657684/",
+    "descarcat": "2026-08-17 12:32",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche",
+        "showroom"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 4
+  },
+  "raw": {
+    "pk": 1657684,
+    "slug": "girardstrasse-17-2540-grenchen",
+    "url": "/de/wohnung/girardstrasse-17-2540-grenchen/1657684/",
+    "short_url": "/1657684/",
+    "submit_url": "/de/listing/1657684/submit/",
+    "status": "act",
+    "created": "2025-04-17T12:51:59.208451+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "1611..1006",
+    "ref_property": "1611",
+    "ref_house": "",
+    "ref_object": "1006",
+    "alternative_reference": "",
+    "price_display": 1350,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-04-17T12:51:59.623897+02:00",
+    "rent_net": 1200,
+    "rent_charges": 150,
+    "rent_gross": null,
+    "short_title": "86m² Gewerbe",
+    "public_title": "Girardstrasse 17, 2540 Grenchen - CHF 1’350 inkl. NK pro Monat",
+    "pitch_title": "86m² Gewerbe in Grenchen mieten",
+    "description_title": "Flexible Gewerbeflächen an bester Lage – Nahe Zentrum Grenchen",
+    "description": "Sie suchen die ideale Gewerbefläche für Ihr Unternehmen? Direkt in der Nähe des Zentrums von Grenchen bieten wir Ihnen moderne, flexible Mietflächen, die sich perfekt für Büro, Handel oder Dienstleistung eignen.  \n  \n**Top-Lage**  \nUnsere Gewerbeflächen zeichnen sich durch ihre erstklassige Lage aus: Sie befinden sich nur wenige Minuten vom Stadtzentrum Grenchen entfernt und sind hervorragend an das öffentliche Verkehrsnetz sowie die wichtigsten Verkehrsadern angeschlossen.  \n  \n**Vielseitige Nutzungsmöglichkeiten**  \nOb als Büro, Showroom, Praxis oder Geschäftslokal – die Mietflächen sind variabel und lassen sich perfekt an Ihre Bedürfnisse anpassen. Mit großzügigen Raumaufteilungen und flexiblen Mietkonditionen bieten wir Ihnen die Freiheit, Ihre Geschäftsideen in einem modernen Umfeld zu verwirklichen.  \n  \n**Moderne Ausstattung**  \nDie Gewerbeeinheiten verfügen über eine moderne Ausstattung inklusive großer Fensterfronten für optimale Belichtung, sowie über Einbauschränke. Auch Einstellhallenplätze sind ausreichend vorhanden.  \n  \n**Ihre Vorteile im Überblick**:  \n  \n\n*   Hervorragende Erreichbarkeit und Nähe zum Zentrum\n*   Flexible Raumaufteilungen für verschiedene Nutzungen\n*   Moderne Ausstattung und Infrastruktur\n*   Attraktive Mietkonditionen\n\nKontaktieren Sie uns noch heute, um die verfügbaren Gewerbeflächen zu besichtigen und mehr über die Mietkonditionen zu erfahren.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 86,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 86,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Girardstrasse 17",
+    "zipcode": 2540,
+    "city": "Grenchen",
+    "public_address": "Girardstrasse 17, 2540 Grenchen",
+    "latitude": 47.19144360000001,
+    "longitude": 7.400083899999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 12862249,
+    "images": [
+      {
+        "pk": 12862249,
+        "caption": "",
+        "url": "/media/ff/2025/04/dinuek9ymkk69u4jydmc0oy1y9sl9kiyctgwvqtab95pdkhjnk.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/dinuek9ymkk69u4jydmc0oy1y9sl9kiyctgwvqtab95pdkhjnk.jpg?alias=thumb_m&signature=sR9zXKZyHYd8S23MDnTqtd7nDizQqgyJGaYYik3ThtA",
+        "url_listing_search": "/thumb/ff/2025/04/dinuek9ymkk69u4jydmc0oy1y9sl9kiyctgwvqtab95pdkhjnk.jpg?alias=listing_search&signature=Gq02Qlwz-PTAti85j6Z63usRSBu9ZSU2hTnudN3DoPQ",
+        "ordering": 1,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 12862250,
+        "caption": "",
+        "url": "/media/ff/2025/04/1zsx0l785zngbixbbw4k5xp86qxr1tos6vprt58o2bxdxoaxuk.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/1zsx0l785zngbixbbw4k5xp86qxr1tos6vprt58o2bxdxoaxuk.jpg?alias=thumb_m&signature=VvDs4ecorsplacpQk7Y1BYFLXYjAWHc-vrJYy_2K2z4",
+        "url_listing_search": "/thumb/ff/2025/04/1zsx0l785zngbixbbw4k5xp86qxr1tos6vprt58o2bxdxoaxuk.jpg?alias=listing_search&signature=xzrmF4wSLYafSUi6N3wD6JEfewH5xirXVKQEhycK9SU",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 12862248,
+        "caption": "",
+        "url": "/media/ff/2025/04/t1zhqcj3v8kv4bao5qwpg9hqrpzxeajb85v35l8ijf8mv6p1zl.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/t1zhqcj3v8kv4bao5qwpg9hqrpzxeajb85v35l8ijf8mv6p1zl.jpg?alias=thumb_m&signature=4vEcdUqcCxVVUoRYsq21lEk3IcucBa0N1sXss4_8Ip0",
+        "url_listing_search": "/thumb/ff/2025/04/t1zhqcj3v8kv4bao5qwpg9hqrpzxeajb85v35l8ijf8mv6p1zl.jpg?alias=listing_search&signature=CpSMwgy9yTUf_n9qXbKGWYDmYgpyaUb-IpWjRr55C_w",
+        "ordering": 3,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 12862247,
+        "caption": "",
+        "url": "/media/ff/2025/04/57z06qejo932b2jy764mwgu659p8dt2cbmo0y3vd4an2d1x20f.jpg",
+        "url_thumb_m": "/thumb/ff/2025/04/57z06qejo932b2jy764mwgu659p8dt2cbmo0y3vd4an2d1x20f.jpg?alias=thumb_m&signature=Hk1is8VQdL7eM1zPITNjWLMtahsohJRnZr4V3ZCvOjI",
+        "url_listing_search": "/thumb/ff/2025/04/57z06qejo932b2jy764mwgu659p8dt2cbmo0y3vd4an2d1x20f.jpg?alias=listing_search&signature=w-AVx-0nxHYo3YHkDFZlh19tb17Jm8fWOABJbnp7a44",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [
+      270766
+    ],
+    "agency": {
+      "name": "Immovisa GmbH",
+      "name_2": "",
+      "street": "Gibelinstrasse 25",
+      "zipcode": "4500",
+      "city": "Solothurn",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2025/03/ewibop9z5thjr2qraqvdc09j9mr0eqalx4h555gxaxfbhbio77.jpg",
+        "url_org_logo_m": "/thumb/org/2025/03/ewibop9z5thjr2qraqvdc09j9mr0eqalx4h555gxaxfbhbio77.jpg?alias=org_logo_m&signature=sfWup_i1b7Yw-bH9PcHo_OdJq0ajD8402Z2VcD2SjEs"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "86m² Gewerbe in Grenchen mieten",
+    "livingspace": 86
+  }
+}

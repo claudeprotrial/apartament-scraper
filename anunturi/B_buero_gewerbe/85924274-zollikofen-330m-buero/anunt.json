@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1646.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bernstr-131-3052-zollikofen/85924274/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "arbeitsplatz",
+        "bürofläche",
+        "dienstleistung",
+        "einzelbüro",
+        "empfang",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 11
+  },
+  "raw": {
+    "pk": 85924274,
+    "slug": "bernstr-131-3052-zollikofen",
+    "url": "/de/wohnung/bernstr-131-3052-zollikofen/85924274/",
+    "short_url": "/85924274/",
+    "submit_url": "/de/listing/85924274/submit/",
+    "status": "act",
+    "created": "2026-04-01T17:55:23.486650+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "9209.01.0008",
+    "ref_property": "9209",
+    "ref_house": "01",
+    "ref_object": "0008",
+    "alternative_reference": null,
+    "price_display": 248,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-07-20T12:42:38.124531+02:00",
+    "rent_net": 224,
+    "rent_charges": 24,
+    "rent_gross": 248,
+    "short_title": "330m² Büro",
+    "public_title": "Bernstr. 131, 3052 Zollikofen - CHF 248 inkl. NK pro m² / Jahr",
+    "pitch_title": "330m² Büro in Zollikofen mieten",
+    "description_title": "Attraktive Bürofläche mit top Anbindung in Zollikofen",
+    "description": "Sie suchen einen repräsentativen Standort für Ihr Unternehmen? An frequentierter Lage, im Herzen von Zollikofen stehen Ihnen per 01.04.2027 oder nach Vereinbarung, diese vielseitig nutzbaren Büroräumlichkeiten mit 330m2 zur Verfügung. \n\n  \n\n\nDie hellen und gepflegten Räume eignen sich ideal für Dienstleistungsbetriebe, Beratungen, Start-ups oder als ruhiger Arbeitsplatz für Einzelunternehmen. Die zentrale Lage bietet eine ausgezeichnete Erreichbarkeit und eine attraktive Umgebung für Mitarbeitende sowie Kundschaft. \n\n  \n\n\n**Ihre Vorteile auf einen Blick**\n\n  * Vielseitige Büroräumlichkeiten mit einladendem Empfangsbereich \n  * Flexible Nutzungsmöglichkeiten: Einzelbüro / Meeting-Room \n  * Voll ausgestattete Küche und Pausenbereich zur alleinigen Nutzung \n  * WC Anlagen zur Mitbenutzung \n  * Lift mit Zugang zur Einstellhalle \n  * Gut frequentierte Lage in Zollikofen \n  * Gute Erreichbarkeit mit ÖV sowie naher Anschluss an die Autobahn \n  * Nähe zu Einkaufsmöglichkeiten, Restaurants und weiteren Dienstleistungen \n\n\n\n  \n\n\nEin praktischer Lagerraum mit 16 m2 steht Ihnen zusätzlich zum Mietobjekt zur Verfügung und bietet idealen Platz für Archiv, Material und Equipment. Ebenfalls können mehrere Auto-Einstellplätze à CHF 120.- / Monat (ohne MWST) dazu gemietet werden. \n\n  \n\n\nHaben wir Ihr Interesse geweckt? \n\n  \n\n\nWir freuen uns auf Ihre Kontaktaufnahme und zeigen Ihnen das Objekt gerne vor Ort.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 330,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 330,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bernstr. 131",
+    "zipcode": 3052,
+    "city": "Zollikofen",
+    "public_address": "Bernstr. 131, 3052 Zollikofen",
+    "latitude": 46.9956736,
+    "longitude": 7.4578707,
+    "year_built": 1988,
+    "year_renovated": 2022,
+    "moving_date_type": "dat",
+    "moving_date": "2027-04-01",
+    "video_url": null,
+    "tour_url": "https://my.matterport.com/show/?m=q8dBsDxpZaJ",
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48205259,
+    "images": [
+      {
+        "pk": 48205259,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/07/bz3u888z6257vdyusisi37oe30su3esehy401r5hv17nusx2fq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/bz3u888z6257vdyusisi37oe30su3esehy401r5hv17nusx2fq.jpg?alias=thumb_m&signature=wflbDiL7UkM_TqOyYO1K27F6dRhbBuQAzceBwkaKvVI",
+        "url_listing_search": "/thumb/ff/2026/07/bz3u888z6257vdyusisi37oe30su3esehy401r5hv17nusx2fq.jpg?alias=listing_search&signature=EPlXTDdfjypCYGS3fTZcmXU--y_SKqy4kgRSBykrcaY",
+        "ordering": 1,
+        "width": 1024,
+        "height": 684
+      },
+      {
+        "pk": 48205260,
+        "caption": "Buero 4",
+        "url": "/media/ff/2026/07/7ri89km4notk0smazbsoqgu5zs4zuywn1ia4yd85d2j55p3jjc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/7ri89km4notk0smazbsoqgu5zs4zuywn1ia4yd85d2j55p3jjc.jpg?alias=thumb_m&signature=rdgWiWHKkV92AV3sRIGJ8mzheKrylWLe3Z8tGTlq0Yg",
+        "url_listing_search": "/thumb/ff/2026/07/7ri89km4notk0smazbsoqgu5zs4zuywn1ia4yd85d2j55p3jjc.jpg?alias=listing_search&signature=eu27C6Hv3OOp6NqK3ywEic69Znb5kxXJ2c_Mw3_YNxk",
+        "ordering": 2,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205261,
+        "caption": "Buero 4",
+        "url": "/media/ff/2026/07/55uhbcsozmjd3pvbllelnrmueflzyxdzj2u3s2b7y595d7uk53.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/55uhbcsozmjd3pvbllelnrmueflzyxdzj2u3s2b7y595d7uk53.jpg?alias=thumb_m&signature=pyQR1YQPfp9laA6YW02H9Oyr2D1rvnjJ5_7-zV774EE",
+        "url_listing_search": "/thumb/ff/2026/07/55uhbcsozmjd3pvbllelnrmueflzyxdzj2u3s2b7y595d7uk53.jpg?alias=listing_search&signature=e6NIhQRbHK3j0mRshGQtkFNMwQNcbnse3IJBE_I1wKc",
+        "ordering": 3,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205262,
+        "caption": "Buero 2",
+        "url": "/media/ff/2026/07/uiq790fsq7u7b7lih8q6egs8zrx1v8rz2dkkdsdgb5wpyjh19y.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/uiq790fsq7u7b7lih8q6egs8zrx1v8rz2dkkdsdgb5wpyjh19y.jpg?alias=thumb_m&signature=PCodF3D-EAEjX2x6N-km1ydsrMfTDc_RN-ffhlfI7m8",
+        "url_listing_search": "/thumb/ff/2026/07/uiq790fsq7u7b7lih8q6egs8zrx1v8rz2dkkdsdgb5wpyjh19y.jpg?alias=listing_search&signature=PTM4o9LexdVBrRQDydsR_FxRaNE5bDkBt2p-cTwzazA",
+        "ordering": 4,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205263,
+        "caption": "Buero 3",
+        "url": "/media/ff/2026/07/qmz0g45qcc5nlz41fl3tzjssuujvfij7z1njfrqsdezsrvbylj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/qmz0g45qcc5nlz41fl3tzjssuujvfij7z1njfrqsdezsrvbylj.jpg?alias=thumb_m&signature=wLKDi86luXXEvC7ncR_ROjxJY5gqEeU67-6qEQrn2gs",
+        "url_listing_search": "/thumb/ff/2026/07/qmz0g45qcc5nlz41fl3tzjssuujvfij7z1njfrqsdezsrvbylj.jpg?alias=listing_search&signature=MqWwjcc4WeCQTy0u4ggIPP60hDhXSbGTbI6P-HsNovk",
+        "ordering": 5,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205264,
+        "caption": " Buero 4",
+        "url": "/media/ff/2026/07/ap1bx5m5nga71pfabq0gj0fojocs7pwr8odtxidgtct25nn73j.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/ap1bx5m5nga71pfabq0gj0fojocs7pwr8odtxidgtct25nn73j.jpg?alias=thumb_m&signature=YhWofp9XovNi3riGHTboGx0vieSFN_6lRMIfbI2lL9o",
+        "url_listing_search": "/thumb/ff/2026/07/ap1bx5m5nga71pfabq0gj0fojocs7pwr8odtxidgtct25nn73j.jpg?alias=listing_search&signature=-nUg9em10H0Xc9EFvajTVfqG5CcOlpqxHDLvcC0shyg",
+        "ordering": 6,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205265,
+        "caption": "Buero 1",
+        "url": "/media/ff/2026/07/1utnp10qujr0qx3q46qlxg1s46dd3kroiamy8i6l2zbwl7y8cv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/1utnp10qujr0qx3q46qlxg1s46dd3kroiamy8i6l2zbwl7y8cv.jpg?alias=thumb_m&signature=qmezxiEy9reg-JOtrRVA4TMsiCtBOvwgabTWk19dzFg",
+        "url_listing_search": "/thumb/ff/2026/07/1utnp10qujr0qx3q46qlxg1s46dd3kroiamy8i6l2zbwl7y8cv.jpg?alias=listing_search&signature=_7IyCYzlJ0ipAu-_Zjy6W4CaPmDiq2qPUjLZzIKJ7TQ",
+        "ordering": 7,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205266,
+        "caption": "Meetingraum",
+        "url": "/media/ff/2026/07/0spzoq15t6zewvwqm9uo0l1ic5op18906eqp8a1ynvto89rrd2.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/0spzoq15t6zewvwqm9uo0l1ic5op18906eqp8a1ynvto89rrd2.jpg?alias=thumb_m&signature=wNd1gt3JjEHd1gsPZMSp_e0kFFhc0mATkZ28Ctdgy1A",
+        "url_listing_search": "/thumb/ff/2026/07/0spzoq15t6zewvwqm9uo0l1ic5op18906eqp8a1ynvto89rrd2.jpg?alias=listing_search&signature=kWDcmIhSg65D2ghjxpLJGzjZ2SlsEZPZd7j4Sb-y1b8",
+        "ordering": 8,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205267,
+        "caption": " Eingang",
+        "url": "/media/ff/2026/07/3eo8rk8sq2ab9vsszynacunhrymsd91wo83923r1pobz5np1or.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/3eo8rk8sq2ab9vsszynacunhrymsd91wo83923r1pobz5np1or.jpg?alias=thumb_m&signature=tIfq49WDeuKxxNxTuY9YpGhmcG-c_0AkJLX6X5TY7JY",
+        "url_listing_search": "/thumb/ff/2026/07/3eo8rk8sq2ab9vsszynacunhrymsd91wo83923r1pobz5np1or.jpg?alias=listing_search&signature=LdcvgWdT3XQQj9scFEEL6-oLWr4TzppEpXnDi5hrN9k",
+        "ordering": 9,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205268,
+        "caption": " Flur",
+        "url": "/media/ff/2026/07/fdmtrru1m81urstxzb9cvqh528ykmjbwj9nrjdjf4qfds0p4og.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/fdmtrru1m81urstxzb9cvqh528ykmjbwj9nrjdjf4qfds0p4og.jpg?alias=thumb_m&signature=sHCGjOJi8kuTk5iFDLlgn2SHkIHa8mc2GlI4Y_amLLc",
+        "url_listing_search": "/thumb/ff/2026/07/fdmtrru1m81urstxzb9cvqh528ykmjbwj9nrjdjf4qfds0p4og.jpg?alias=listing_search&signature=7cDw30VGz0Zp7cG47TCXM2PoKdst12NoTvBstj-OohY",
+        "ordering": 10,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48205269,
+        "caption": "Kueche",
+        "url": "/media/ff/2026/07/d4qeii9vno3q0x7urha6pw5j5gunph188xb2cnteo6y5t3hoq8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/d4qeii9vno3q0x7urha6pw5j5gunph188xb2cnteo6y5t3hoq8.jpg?alias=thumb_m&signature=r0pTX82azmmf3YAREtSRz_DuRnHqBJOfyRBTOogwDHo",
+        "url_listing_search": "/thumb/ff/2026/07/d4qeii9vno3q0x7urha6pw5j5gunph188xb2cnteo6y5t3hoq8.jpg?alias=listing_search&signature=n7fVsYEImSaunTWV2VCzAwjSvR3A4S_ue_Y9dvFPoFI",
+        "ordering": 11,
+        "width": 1024,
+        "height": 576
+      }
+    ],
+    "documents": [
+      765487
+    ],
+    "agency": {
+      "name": "Apleona Schweiz AG",
+      "name_2": null,
+      "street": "Kirchstrasse 24",
+      "zipcode": "3097",
+      "city": "Liebefeld",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/lq24r9tk3yfw4xgag3g00infnn1lsaztmhx3bbzxfosizw384l.png",
+        "url_org_logo_m": "/thumb/org/2023/10/lq24r9tk3yfw4xgag3g00infnn1lsaztmhx3bbzxfosizw384l.png?alias=org_logo_m&signature=FLoPX0m6E7rUWTQHHi2GKLWc00Wzp4x3ROlq4VW0mJA"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "330m² Büro in Zollikofen mieten",
+    "livingspace": 330
+  }
+}

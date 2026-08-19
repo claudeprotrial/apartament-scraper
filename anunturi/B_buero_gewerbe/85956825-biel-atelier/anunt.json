@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1723.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/unterer-quai-43-2502-biel/85956825/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "büroräume"
+      ],
+      "kw_retail": [
+        "laden"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 85956825,
+    "slug": "unterer-quai-43-2502-biel",
+    "url": "/de/wohnung/unterer-quai-43-2502-biel/85956825/",
+    "short_url": "/85956825/",
+    "submit_url": "/de/listing/85956825/submit/",
+    "status": "act",
+    "created": "2026-04-15T07:48:13.451134+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "ATELIER",
+    "reference": "401-1-2.401-1-2.yzg0p.r4e97",
+    "ref_property": "401-1-2",
+    "ref_house": "401-1-2",
+    "ref_object": "yzg0p.r4e97",
+    "alternative_reference": null,
+    "price_display": 1100,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-04-15T07:48:25.398400+02:00",
+    "rent_net": 800,
+    "rent_charges": 300,
+    "rent_gross": 1100,
+    "short_title": "Atelier",
+    "public_title": "Unterer Quai 43, 2502 Biel - CHF 1’100",
+    "pitch_title": "Atelier in Biel mieten",
+    "description_title": "Moderne Büroräume am Unteren Quai in Biel",
+    "description": "Entdecken Sie diese attraktiven Büroräume im 1. Stock am Unteren Quai 43 in Biel. \n\nDie Räumlichkeiten bieten eine ideale Arbeitsatmosphäre und einer erstklassigen Lage im Herzen der zweisprachigen Stadt. \n\n_Die Büroräume zeichnen sich aus durch:_\n\n  * **Materialien:** Holzwände und warme Holzböden schaffen eine einladende Atmosphäre \n\n  * **Helle Räume:** Grosse Fenster sorgen für viel Tageslicht und eine angenehme Arbeitsumgebung \n\n  * **Flexible Raumaufteilung:** Die Räume ermöglichen eine individuelle Gestaltung nach Ihren Bedürfnissen \n\n  * **Ruhige Lage:** Trotz zentraler Lage geniessen Sie eine ruhige Arbeitsatmosphäre \n\n\n\n\n**Erstklassige Lage:** Die Büroräume befinden sich in optimaler Lage mit hervorragender Verkehrsanbindung. Der Bahnhof Biel/Bienne ist nur 7 Gehminuten entfernt, die Bushaltestelle Zentralplatz/Place Centrale erreichen Sie in 3 Minuten. Für die täglichen Besorgungen finden Sie einen Aldi-Supermarkt in 4 Minuten Fussdistanz und eine Apotheke bereits nach 2 Gehminuten. \n\nDie sonnige Lage sorgt das ganze Jahr über für angenehme Lichtverhältnisse in den Büroräumen. Die Nähe zum Fluss und die ruhige Umgebung schaffen ideale Bedingungen für konzentriertes Arbeiten. \n\nDiese Büroräume sind perfekt geeignet für Unternehmen, die Wert auf eine repräsentative Adresse und eine ausgezeichnete Infrastruktur legen. \n\n+++++++++++++++++++++++++++++++++++++ \n\nDécouvrez ces bureaux attractifs situés au 1er étage, Unterer Quai 43 à Bienne. \n\nCes locaux offrent une atmosphère de travail idéale et bénéficient d’un emplacement de premier ordre au cœur de la ville bilingue. \n\n_Les bureaux se distinguent par :_\n\n  * **Matériaux de qualité** : Des parois en bois et des sols en bois chaleureux créent une atmosphère accueillante \n\n  * **Espaces lumineux** : De grandes fenêtres apportent une abondante lumière naturelle et garantissent un environnement de travail agréable \n\n  * **Aménagement flexible** : Les espaces permettent une organisation personnalisée selon vos besoins \n\n  * **Situation calme** : Malgré leur emplacement central, les bureaux offrent une atmosphère de travail paisible \n\n\n\n\n**Emplacement de premier choix** : Les bureaux bénéficient d’une situation optimale avec une excellente accessibilité. La gare de Bienne/Biel se trouve à seulement 7 minutes à pied, l’arrêt de bus Centralplatz / Place Centrale à 3 minutes. Pour les courses quotidiennes, un supermarché Aldi est accessible en 4 minutes à pied et une pharmacie en seulement 2 minutes. \n\nL’exposition ensoleillée garantit des conditions lumineuses agréables tout au long de l’année. La proximité de la rivière et l’environnement calme créent des conditions idéales pour un travail concentré. \n\nCes bureaux conviennent parfaitement aux entreprises qui recherchent une adresse représentative ainsi qu’une infrastructure d’excellente qualité.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Unterer Quai 43",
+    "zipcode": 2502,
+    "city": "Biel",
+    "public_address": "Unterer Quai 43, 2502 Biel",
+    "latitude": 47.1367141,
+    "longitude": 7.245131600000001,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47254261,
+    "images": [
+      {
+        "pk": 47254261,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/57a963d7a54f34166e96f3c5de2a071d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/57a963d7a54f34166e96f3c5de2a071d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/57a963d7a54f34166e96f3c5de2a071d.jpg",
+        "ordering": 1,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254264,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/a1d72213f71a6c6bf8fb34acb1117fcc.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/a1d72213f71a6c6bf8fb34acb1117fcc.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/a1d72213f71a6c6bf8fb34acb1117fcc.jpg",
+        "ordering": 2,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254266,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/fef2efebcc60a1f1d9a9191eca256eb6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/fef2efebcc60a1f1d9a9191eca256eb6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/fef2efebcc60a1f1d9a9191eca256eb6.jpg",
+        "ordering": 3,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254268,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/ba3ecb8d2b5da064e50f53989c518499.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/ba3ecb8d2b5da064e50f53989c518499.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/ba3ecb8d2b5da064e50f53989c518499.jpg",
+        "ordering": 4,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254274,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/ea409be8e9b028ab4fb6d807cbd2b02b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/ea409be8e9b028ab4fb6d807cbd2b02b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/ea409be8e9b028ab4fb6d807cbd2b02b.jpg",
+        "ordering": 5,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254280,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/ef53f97237e890a3795b2028770c6861.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/ef53f97237e890a3795b2028770c6861.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/ef53f97237e890a3795b2028770c6861.jpg",
+        "ordering": 6,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254284,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/9813c229f8936da2729600a863237b7e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/9813c229f8936da2729600a863237b7e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/9813c229f8936da2729600a863237b7e.jpg",
+        "ordering": 7,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254288,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/d751db9aa2d0ae53ea899956ab8bbb7b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/d751db9aa2d0ae53ea899956ab8bbb7b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/d751db9aa2d0ae53ea899956ab8bbb7b.jpg",
+        "ordering": 8,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254299,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/7bea6b9315074067d3103cc95e64b54a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/7bea6b9315074067d3103cc95e64b54a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/7bea6b9315074067d3103cc95e64b54a.jpg",
+        "ordering": 9,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254301,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/e6ecbc65cc2e206154f1299a1ae0807a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/e6ecbc65cc2e206154f1299a1ae0807a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/e6ecbc65cc2e206154f1299a1ae0807a.jpg",
+        "ordering": 10,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254303,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/fea1558961a731c0d1998972ea7dfef7.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/fea1558961a731c0d1998972ea7dfef7.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/fea1558961a731c0d1998972ea7dfef7.jpg",
+        "ordering": 11,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47254306,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx314896/4003087971/image/7c69e0c74549725af52a292215e06b4f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx314896/4003087971/image/7c69e0c74549725af52a292215e06b4f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx314896/4003087971/image/7c69e0c74549725af52a292215e06b4f.jpg",
+        "ordering": 12,
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "IMMOVENTA GmbH",
+      "name_2": null,
+      "street": "Buchenweg 3",
+      "zipcode": "2563",
+      "city": "Ipsach",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/08/5ia5iinx0uuqkrs1qrntfwhssjp7vl1s1hopqwjvz0el6cupqo.png",
+        "url_org_logo_m": "/thumb/org/2026/08/5ia5iinx0uuqkrs1qrntfwhssjp7vl1s1hopqwjvz0el6cupqo.png?alias=org_logo_m&signature=Y-vvKWNeNtJSgziwZfLxXQaSCuS613J_8SQiBQ7AivY"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003087971",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Atelier in Biel mieten",
+    "livingspace": null
+  }
+}

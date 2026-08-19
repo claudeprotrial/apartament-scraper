@@ -1,9 +1,9 @@
-# Anunturile descarcate: continut al flatfox.ch si al agentiilor imobiliare.
-# Materialul e pentru studiu local — nu se publica.
-anunturi/
-
-# Indexul brut (221 MB, peste limita de 100 MB/fisier a GitHub)
+# Indexul brut al portalului (221 MB — peste limita de 100 MB/fisier a GitHub)
 .cache/
+
+# Snapshot-urile paginilor flatfox: copii integrale ale paginilor lor, cu
+# branding si CSS/JS proprii. Dashboard-ul nu le foloseste, deci nu se publica.
+anunturi/**/pagina.html
 
 # Python
 __pycache__/

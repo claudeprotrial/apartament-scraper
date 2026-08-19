@@ -1,0 +1,243 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1642.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/jurastrasse-63-3013-bern/85291953/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "gewerbefläche",
+        "gewerberaum"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 13
+  },
+  "raw": {
+    "pk": 85291953,
+    "slug": "jurastrasse-63-3013-bern",
+    "url": "/de/wohnung/jurastrasse-63-3013-bern/85291953/",
+    "short_url": "/85291953/",
+    "submit_url": "/de/listing/85291953/submit/",
+    "status": "act",
+    "created": "2025-09-09T17:28:21.962089+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "40131..6001",
+    "ref_property": "40131",
+    "ref_house": "",
+    "ref_object": "6001",
+    "alternative_reference": null,
+    "price_display": 2530,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-09-09T17:28:22.078642+02:00",
+    "rent_net": 2180,
+    "rent_charges": 350,
+    "rent_gross": 2530,
+    "short_title": "130m² Gewerbe",
+    "public_title": "Jurastrasse 63, 3013 Bern - CHF 2’530 inkl. NK pro Monat",
+    "pitch_title": "130m² Gewerbe in Bern mieten",
+    "description_title": "Gewerbefläche an TOP Lage à 130 m² / 1 Monat gratis Sommeraktion!",
+    "description": "Wir vermieten ab sofort oder nach Vereinbarung im Lorraine-Quartier einen Gewerberaum an ca. 130 m², der sich unterhalb einer Wohnliegenschaft befindet. Die Liegenschaft wurde im Jahr 2023 totalsaniert. Folgende Eckdaten dazu:   \n  \n\\- Eingangsbereich mit separatem Raum, Trennscheibe / Trennwand.   \n\\- Zwei grosse Nebenräume   \n\\- Grosse Garagenbox (im Mietzins inklusive)   \n\\- Nutzungszweck nach Absprache   \n\\- Separate Garagenbox für ein weiteres Fahrzeug kann dazu gemietet werden   \n\\- Zwei Toiletten vorhanden   \n\\- Dusche + Waschmaschine vorhanden   \n  \nIn der ruhigen und naturnahen Umgebung an der Jurastrasse werden Sie sich bestimmt wohlfühlen. Nur ein Sprung von der Aare entfernt und direkt neben dem Zentrum von Bern werden Sie alles finden was Sie brauchen. Perfekt auch, um sich mit dem Velo oder dem ÖV auf den Weg zu machen.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 130,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 130,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Jurastrasse 63",
+    "zipcode": 3013,
+    "city": "Bern",
+    "public_address": "Jurastrasse 63, 3013 Bern",
+    "latitude": 46.960914,
+    "longitude": 7.4435339,
+    "year_built": 1954,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 34310122,
+    "images": [
+      {
+        "pk": 34310122,
+        "caption": "Liegenschaft",
+        "url": "/media/ff/2026/03/9qusy4l3zmc24pteb6f22kvz68x4tvqmvsdmljqwr5y05oy2wd.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/9qusy4l3zmc24pteb6f22kvz68x4tvqmvsdmljqwr5y05oy2wd.jpg?alias=thumb_m&signature=cOk0MlMBB0J_0Mkp4DOlNH15WPvXH7nFLgyyO7FcTVU",
+        "url_listing_search": "/thumb/ff/2026/03/9qusy4l3zmc24pteb6f22kvz68x4tvqmvsdmljqwr5y05oy2wd.jpg?alias=listing_search&signature=_stDxNUWa-9xLE2kpyO0B7nnQVrxdx1AZfepAL-jGPs",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310123,
+        "caption": "Liegenschaft",
+        "url": "/media/ff/2026/03/wwxky4p3v8uwfxxgt5dena315kix1xd08h114bl7hjbgbrk6fz.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/wwxky4p3v8uwfxxgt5dena315kix1xd08h114bl7hjbgbrk6fz.jpg?alias=thumb_m&signature=-PgJGQ7uw0O-03eI3qb1qOQAfbWK_8nUKIVQBPPO5EM",
+        "url_listing_search": "/thumb/ff/2026/03/wwxky4p3v8uwfxxgt5dena315kix1xd08h114bl7hjbgbrk6fz.jpg?alias=listing_search&signature=biipvh-z6gMcW3L2okRzWHH97Bn3YOAEd19DRX08j9Q",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310124,
+        "caption": "Gewerberaum",
+        "url": "/media/ff/2026/03/mr3vbjcg74wgtey6mfggltg64lahyj344zk18lktkolf8mpti0.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/mr3vbjcg74wgtey6mfggltg64lahyj344zk18lktkolf8mpti0.jpg?alias=thumb_m&signature=B2r-reJjXlurAiUPx7PenCU4hoyqcPSpi_AGjzDab0E",
+        "url_listing_search": "/thumb/ff/2026/03/mr3vbjcg74wgtey6mfggltg64lahyj344zk18lktkolf8mpti0.jpg?alias=listing_search&signature=3eDUDwE0BR3iimEx-GfmIF59_8Zn9Drc8pqvJ08biP0",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310125,
+        "caption": "Gewerberaum",
+        "url": "/media/ff/2026/03/3dg2uir9cstva59qkwzbwurkhtu9rrgddyylvkecubsmvzvoua.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/3dg2uir9cstva59qkwzbwurkhtu9rrgddyylvkecubsmvzvoua.jpg?alias=thumb_m&signature=gck9aPnESIZQ6GxtcLtVF0NUEqhZlvR7aIxmJoIlZYU",
+        "url_listing_search": "/thumb/ff/2026/03/3dg2uir9cstva59qkwzbwurkhtu9rrgddyylvkecubsmvzvoua.jpg?alias=listing_search&signature=TpDnXJUtjS5PYbrt5tYC-opiVL6dxn9z8KD-dOyyBRA",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310126,
+        "caption": "Gewerberaum",
+        "url": "/media/ff/2026/03/fu5ukcfy4al6ktkyhng8ztfahs7fd3vrcxmaiu1uktbi3z7wjj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/fu5ukcfy4al6ktkyhng8ztfahs7fd3vrcxmaiu1uktbi3z7wjj.jpg?alias=thumb_m&signature=vlCvgKyTFy64pt4k83gS8U8k7rMVanJ9LGKAFXhWFtI",
+        "url_listing_search": "/thumb/ff/2026/03/fu5ukcfy4al6ktkyhng8ztfahs7fd3vrcxmaiu1uktbi3z7wjj.jpg?alias=listing_search&signature=9JJJqoFolP8hNpJhvgsxzJXpDE30LMXo_Onh7S6sYoc",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310127,
+        "caption": "Büro",
+        "url": "/media/ff/2026/03/13g79dyv3hprqe8z1emr423od3qvomdggmptemlta0g9lvfk2p.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/13g79dyv3hprqe8z1emr423od3qvomdggmptemlta0g9lvfk2p.jpg?alias=thumb_m&signature=B6tDd7ZhW7B6pnujIsdm6pwFnrYpu3CASEfQe6PhtNI",
+        "url_listing_search": "/thumb/ff/2026/03/13g79dyv3hprqe8z1emr423od3qvomdggmptemlta0g9lvfk2p.jpg?alias=listing_search&signature=gkb9Z7Su02LsmORSctt3L4Y2SikxbV9lgGMjuE8HPek",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310128,
+        "caption": "Büro",
+        "url": "/media/ff/2026/03/x3dza753f1714p3j2aeowcv1rx11sfokde0257gipciydsxrx8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/x3dza753f1714p3j2aeowcv1rx11sfokde0257gipciydsxrx8.jpg?alias=thumb_m&signature=JMk2VPNsRKI7Pyj4UnJ76pGURHUPgT7QyLO4gpVr-xI",
+        "url_listing_search": "/thumb/ff/2026/03/x3dza753f1714p3j2aeowcv1rx11sfokde0257gipciydsxrx8.jpg?alias=listing_search&signature=38ari0c_bLKTfSLFF3Ee3an3Iafo8zF49dGAbG5WBb4",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310129,
+        "caption": "Nebenraum",
+        "url": "/media/ff/2026/03/kr56pdgqvonzn83t40wwsgm24170ly76xeug5al1281gggf8mq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/kr56pdgqvonzn83t40wwsgm24170ly76xeug5al1281gggf8mq.jpg?alias=thumb_m&signature=JDzq2nsFJcdoqtH8RzSuCYCfbKP8VYLa7UsU6xtJcdo",
+        "url_listing_search": "/thumb/ff/2026/03/kr56pdgqvonzn83t40wwsgm24170ly76xeug5al1281gggf8mq.jpg?alias=listing_search&signature=sRxIGOfM_h1IbHXMEqHVK2mw3A_o4rj8Vd74drKPWgY",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310130,
+        "caption": "Sanitäre Räumlichkeiten",
+        "url": "/media/ff/2026/03/0l4cdm9mribzgdz07i56g18bxgi44z81mvwzkrq157ydzn4yhz.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/0l4cdm9mribzgdz07i56g18bxgi44z81mvwzkrq157ydzn4yhz.jpg?alias=thumb_m&signature=C0Ld0e53Asu5UwzsBIW_4bRsDPJRfLS_FHyDiefBg6Q",
+        "url_listing_search": "/thumb/ff/2026/03/0l4cdm9mribzgdz07i56g18bxgi44z81mvwzkrq157ydzn4yhz.jpg?alias=listing_search&signature=x9rKd9VKEmbb07Xo1brGyvBa68_wbGAkyxoE1HAotxE",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310131,
+        "caption": "Sanitäre Räumlichkeiten",
+        "url": "/media/ff/2026/03/lk2rcg8a1u8gin2ilrip3jifxpci2z9irwechzy8odwgxvcaef.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/lk2rcg8a1u8gin2ilrip3jifxpci2z9irwechzy8odwgxvcaef.jpg?alias=thumb_m&signature=2Of2FiLe-G6x6aHEEjrlRg5c9zGh_kLtkvG07Fvt4J8",
+        "url_listing_search": "/thumb/ff/2026/03/lk2rcg8a1u8gin2ilrip3jifxpci2z9irwechzy8odwgxvcaef.jpg?alias=listing_search&signature=se_043ym-nF5M12SDNJsJgqWBfrgcC5QCPgG9XS8vIQ",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310132,
+        "caption": "Garage",
+        "url": "/media/ff/2026/03/y7qysn67v1shbxarbb59hdignqxwe5fdun539wxss3qfaegl5i.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/y7qysn67v1shbxarbb59hdignqxwe5fdun539wxss3qfaegl5i.jpg?alias=thumb_m&signature=FC5OR8b_KVRF178xl_2z5CK5VgAS7-ScLFNnpZzpOHo",
+        "url_listing_search": "/thumb/ff/2026/03/y7qysn67v1shbxarbb59hdignqxwe5fdun539wxss3qfaegl5i.jpg?alias=listing_search&signature=_YlQHx0SKSsPvEGntG0kmfSTuV37AgPWHm7AllO67OE",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310133,
+        "caption": "Garage",
+        "url": "/media/ff/2026/03/vxkfxicp65jjt6xrm37342ysnt5lpy105ko5gid7wpvskx11lu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/vxkfxicp65jjt6xrm37342ysnt5lpy105ko5gid7wpvskx11lu.jpg?alias=thumb_m&signature=WYjby5UKobyAoNcBCtUVMayrla1llNCn6Yj7xLeXIHo",
+        "url_listing_search": "/thumb/ff/2026/03/vxkfxicp65jjt6xrm37342ysnt5lpy105ko5gid7wpvskx11lu.jpg?alias=listing_search&signature=7NLPncGDhW5nMNvKuJWHcPfG1XSMc4_8M7nMCPVHsgw",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 34310135,
+        "caption": "Eingangsbereich",
+        "url": "/media/ff/2026/03/wb1loirnlx10fc9uwc48qseoc3y846b8tz0npq2i7nxqmfmohr.jpg",
+        "url_thumb_m": "/thumb/ff/2026/03/wb1loirnlx10fc9uwc48qseoc3y846b8tz0npq2i7nxqmfmohr.jpg?alias=thumb_m&signature=uZsNaEg_il-hjo88ePcrhpcOpP01g9B2DY4aJvbr-T0",
+        "url_listing_search": "/thumb/ff/2026/03/wb1loirnlx10fc9uwc48qseoc3y846b8tz0npq2i7nxqmfmohr.jpg?alias=listing_search&signature=NAdvKQi5mxDy_JBWakGEFsmmF8_nV5-aXCVg2zHWZW4",
+        "ordering": 13,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Niederer AG",
+      "name_2": null,
+      "street": "Unterdorfstrasse 5",
+      "zipcode": "3072",
+      "city": "Ostermundigen",
+      "country": null,
+      "logo": {
+        "url": "/media/org/2026/06/ccegcu7ikigy7plkvw3n1atpxu3eiys27wsx90eqpq7mdi1uwn.png",
+        "url_org_logo_m": "/thumb/org/2026/06/ccegcu7ikigy7plkvw3n1atpxu3eiys27wsx90eqpq7mdi1uwn.png?alias=org_logo_m&signature=s347aJ_Mnd4NXfWOohb6bCYL8XdlmSggTJbksPCneaM"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "130m² Gewerbe in Bern mieten",
+    "livingspace": 130
+  }
+}

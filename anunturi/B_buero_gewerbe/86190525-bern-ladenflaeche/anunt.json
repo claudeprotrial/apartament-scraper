@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1641.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bumplizstrasse-111-3018-bern/86190525/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "büro",
+        "gewerberaum"
+      ],
+      "kw_retail": [
+        "<type>",
+        "bar",
+        "ladenfläche",
+        "ladenlokal",
+        "shop"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 11
+  },
+  "raw": {
+    "pk": 86190525,
+    "slug": "bumplizstrasse-111-3018-bern",
+    "url": "/de/wohnung/bumplizstrasse-111-3018-bern/86190525/",
+    "short_url": "/86190525/",
+    "submit_url": "/de/listing/86190525/submit/",
+    "status": "act",
+    "created": "2026-07-14T13:16:54.583333+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "SHOP",
+    "reference": "22940.01.403010",
+    "ref_property": "22940",
+    "ref_house": "01",
+    "ref_object": "403010",
+    "alternative_reference": null,
+    "price_display": 1730,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-07T12:11:43.405313+02:00",
+    "rent_net": 1500,
+    "rent_charges": 230,
+    "rent_gross": 1730,
+    "short_title": "Ladenfläche",
+    "public_title": "Bümplizstrasse 111, 3018 Bern - CHF 1’730 inkl. NK pro Monat",
+    "pitch_title": "Ladenfläche in Bern mieten",
+    "description_title": "Attraktives Büro oder Ladenlokal im Zentrum von Bümpliz zu vermieten",
+    "description": "Per 01. November 2026 oder nach Vereinbarung vermieten wir an der beliebten Lage Bachmätteli in Bern-Bümpliz ein vielseitig nutzbares Büro oder Ladenlokal. \n\n  \n\n\nDie Räumlichkeiten eignen sich ideal für stilles Gewerbe , beispielsweise als Büro oder ein Ladenlokal. \n\n  \n\n\nIhre Vorteile auf einen Blick: \n\n  * Heller und gut geschnittener Gewerberaum \n  * Vielseitige Nutzungsmöglichkeiten für stilles Gewerbe \n  * Plattenboden in allem Räumen \n  * WC \n  * Loggia und gemütlichem Gärtchen \n  * Gute Erreichbarkeit mit dem öffentlichen Verkehr und dem Auto \n  * Attraktive Lage im Quartier Bachmätteli \n  * Kundenparkplätze in der Umgebung (Blaue Zone), keine Parkplätze vor der Liegenschaft \n\n  \n\n\nNutzen Sie diese Gelegenheit und verwirklichen Sie Ihre Geschäftsidee an einem attraktiven Standort in Bern-Bümpliz. \n\n  \n\n\n**Haben wir Ihr Interesse geweckt?** Gerne stehen wir Ihnen für weitere Auskünfte oder einen Besichtigungstermin zur Verfügung. Wir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bümplizstrasse 111",
+    "zipcode": 3018,
+    "city": "Bern",
+    "public_address": "Bümplizstrasse 111, 3018 Bern",
+    "latitude": 46.9414897,
+    "longitude": 7.390885900000001,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2026-11-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48759350,
+    "images": [
+      {
+        "pk": 48759350,
+        "caption": "",
+        "url": "/media/ff/2026/08/7fz1mfonpn848zxfm56a9tstc5f7isr7xvl9oqt3hh3hzz2ros.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/7fz1mfonpn848zxfm56a9tstc5f7isr7xvl9oqt3hh3hzz2ros.jpg?alias=thumb_m&signature=KKGW7iTW4kI67YgoAvPbu1ImBHiT6cIulwMeOCPoMlw",
+        "url_listing_search": "/thumb/ff/2026/08/7fz1mfonpn848zxfm56a9tstc5f7isr7xvl9oqt3hh3hzz2ros.jpg?alias=listing_search&signature=bwaIfl9SiFznGDd1mYGBZLjMmOOa64JYrvWzxdn0Zks",
+        "ordering": 1,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 48759351,
+        "caption": "",
+        "url": "/media/ff/2026/08/85eo5l04faphbhkr03cqz8xk1fpnqijb27ic15mypdrxm67vmc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/85eo5l04faphbhkr03cqz8xk1fpnqijb27ic15mypdrxm67vmc.jpg?alias=thumb_m&signature=yQBFRAN1tMZ0TpN8F8nuK5wLm3NGHYM7DlnWf3Im1FA",
+        "url_listing_search": "/thumb/ff/2026/08/85eo5l04faphbhkr03cqz8xk1fpnqijb27ic15mypdrxm67vmc.jpg?alias=listing_search&signature=ip3WH2EGM9P41MRbKwtyUaEhZWxfChPtj5CCYllAUWU",
+        "ordering": 2,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48759352,
+        "caption": "",
+        "url": "/media/ff/2026/08/g0jympl799g9juxzo587vjlz1a30m8ffs9v0vzdi7cdthinjjj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/g0jympl799g9juxzo587vjlz1a30m8ffs9v0vzdi7cdthinjjj.jpg?alias=thumb_m&signature=-KKIhh5Trd0wITglbzluLC_mjWKLfnc_qq_S_JrpkaY",
+        "url_listing_search": "/thumb/ff/2026/08/g0jympl799g9juxzo587vjlz1a30m8ffs9v0vzdi7cdthinjjj.jpg?alias=listing_search&signature=jJDmV4l1Ci8y3X3d4Y3-ryjP4_oLkIaWvM6m5ka17NE",
+        "ordering": 3,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 48759353,
+        "caption": "",
+        "url": "/media/ff/2026/08/l9485ak0nfwm62aukn6bhs32vzptxmuuygtmcoqrt2zapcacbi.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/l9485ak0nfwm62aukn6bhs32vzptxmuuygtmcoqrt2zapcacbi.jpg?alias=thumb_m&signature=ZaQazlKzRuglWpIuIGPXtVb87B0ReSqQ_Ha6pefbcxE",
+        "url_listing_search": "/thumb/ff/2026/08/l9485ak0nfwm62aukn6bhs32vzptxmuuygtmcoqrt2zapcacbi.jpg?alias=listing_search&signature=tk_FWuYST-JjLGtY5iNc6OqY1CV63TMWAIw-7USY28A",
+        "ordering": 4,
+        "width": 576,
+        "height": 1024
+      },
+      {
+        "pk": 48759354,
+        "caption": "",
+        "url": "/media/ff/2026/08/5bm89tfme5ebzfsqrlchqduj2u2t1twduslg4wjvwjap62md12.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/5bm89tfme5ebzfsqrlchqduj2u2t1twduslg4wjvwjap62md12.jpg?alias=thumb_m&signature=1yxM09cv8eBzYdBaiJxyPc_yygzQuTxxMsrT_-vHHRs",
+        "url_listing_search": "/thumb/ff/2026/08/5bm89tfme5ebzfsqrlchqduj2u2t1twduslg4wjvwjap62md12.jpg?alias=listing_search&signature=StLyGAp7fdlWW53D6mbj60uE46I2AcF-KkLZidxL7VU",
+        "ordering": 5,
+        "width": 576,
+        "height": 1024
+      },
+      {
+        "pk": 48759355,
+        "caption": "",
+        "url": "/media/ff/2026/08/5gbu8dfo5i6g82ewi4chbwo388v5vlydach09mn0ylsqi9culx.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/5gbu8dfo5i6g82ewi4chbwo388v5vlydach09mn0ylsqi9culx.jpg?alias=thumb_m&signature=_Va8qT4c6Fdj7PdypwkWDXfLHRhAQslRx7pNC2drMC4",
+        "url_listing_search": "/thumb/ff/2026/08/5gbu8dfo5i6g82ewi4chbwo388v5vlydach09mn0ylsqi9culx.jpg?alias=listing_search&signature=ykXORHhiIjwvb3RJ-GWBh4lTInAmAyl63j84l1dyoys",
+        "ordering": 6,
+        "width": 576,
+        "height": 1024
+      },
+      {
+        "pk": 48759356,
+        "caption": "",
+        "url": "/media/ff/2026/08/vi8muqd7cjcwyyttetxs0ynmfplu8zhq2h63q9cjofw5rfpvo7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/vi8muqd7cjcwyyttetxs0ynmfplu8zhq2h63q9cjofw5rfpvo7.jpg?alias=thumb_m&signature=ZH_8SXowJY5M3iEez9WwplUIG9jrF3ldkCwlVJ_i-v8",
+        "url_listing_search": "/thumb/ff/2026/08/vi8muqd7cjcwyyttetxs0ynmfplu8zhq2h63q9cjofw5rfpvo7.jpg?alias=listing_search&signature=w6LK_jy9zxzmLN8PtTPKGWVjG-JcXp-0WRNeTRHzw8o",
+        "ordering": 7,
+        "width": 576,
+        "height": 1024
+      },
+      {
+        "pk": 48759357,
+        "caption": "",
+        "url": "/media/ff/2026/08/23clpddtdcfui2pu239t8kvh0241ditme1ct9gx6z996cgpk1i.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/23clpddtdcfui2pu239t8kvh0241ditme1ct9gx6z996cgpk1i.jpg?alias=thumb_m&signature=cVv59tKKyLsNpGsCT06t1Lu_-nRGNk1-BMttLIw5NK4",
+        "url_listing_search": "/thumb/ff/2026/08/23clpddtdcfui2pu239t8kvh0241ditme1ct9gx6z996cgpk1i.jpg?alias=listing_search&signature=AmQbgop5jGLSWxcnUJcxknYrzSsHC-uHsCDSfatgWLI",
+        "ordering": 8,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48759358,
+        "caption": "",
+        "url": "/media/ff/2026/08/qtdfw39yw6cbq2mohvylom3uzm9zkp54qe28m2ytio2o1907yb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/qtdfw39yw6cbq2mohvylom3uzm9zkp54qe28m2ytio2o1907yb.jpg?alias=thumb_m&signature=wS-WNWgt0Xx2_70XXWJMZKx0MqpvFZDiJyUno3coCEA",
+        "url_listing_search": "/thumb/ff/2026/08/qtdfw39yw6cbq2mohvylom3uzm9zkp54qe28m2ytio2o1907yb.jpg?alias=listing_search&signature=CUMCiz4Rmw5hK7ImNHeWazOo6Mj-t-YA1FXL8JMUoz0",
+        "ordering": 9,
+        "width": 576,
+        "height": 1024
+      },
+      {
+        "pk": 48759359,
+        "caption": "",
+        "url": "/media/ff/2026/08/2iij7f3t2tdi01mtreb827jx9zzsl6ouyzfw46vi89jex4283w.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/2iij7f3t2tdi01mtreb827jx9zzsl6ouyzfw46vi89jex4283w.jpg?alias=thumb_m&signature=ITGw5OZgr0a1lV8Jzvy3MOpaDrrocKXLmHsZp2a4GfQ",
+        "url_listing_search": "/thumb/ff/2026/08/2iij7f3t2tdi01mtreb827jx9zzsl6ouyzfw46vi89jex4283w.jpg?alias=listing_search&signature=nzzOkwOiNALBAJ1X8ouWH41Q51qEE5QKHlJa8oaoocA",
+        "ordering": 10,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 48759360,
+        "caption": "",
+        "url": "/media/ff/2026/08/f3irftunkfuku6gd1m4ey80rnq02gft3ydulsurwby85yjje5o.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/f3irftunkfuku6gd1m4ey80rnq02gft3ydulsurwby85yjje5o.jpg?alias=thumb_m&signature=JCbSbQ7oqBXYJUoKOzEYwGIwdqabc4yjKNxHaabA07U",
+        "url_listing_search": "/thumb/ff/2026/08/f3irftunkfuku6gd1m4ey80rnq02gft3ydulsurwby85yjje5o.jpg?alias=listing_search&signature=7rN76zekvVIflo39Yp4fbjbMMveg9uswovnIP1n2rU0",
+        "ordering": 11,
+        "width": 1000,
+        "height": 750
+      }
+    ],
+    "documents": [
+      780905
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Ladenfläche in Bern mieten",
+    "livingspace": null
+  }
+}

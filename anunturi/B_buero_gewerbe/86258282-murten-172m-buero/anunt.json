@@ -1,0 +1,164 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1624.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/auf-anfrage-3280-murten/86258282/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "agentur",
+        "bürofläche",
+        "büroräume",
+        "empfang",
+        "office"
+      ],
+      "kw_retail": [
+        "cafe"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 4
+  },
+  "raw": {
+    "pk": 86258282,
+    "slug": "auf-anfrage-3280-murten",
+    "url": "/de/wohnung/auf-anfrage-3280-murten/86258282/",
+    "short_url": "/86258282/",
+    "submit_url": "/de/listing/86258282/submit/",
+    "status": "act",
+    "created": "2026-08-09T04:25:16.437368+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..1412289",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "1412289",
+    "alternative_reference": null,
+    "price_display": 3730,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-09T04:25:17.693009+02:00",
+    "rent_net": 3380,
+    "rent_charges": 350,
+    "rent_gross": 3730,
+    "short_title": "172m² Büro",
+    "public_title": "Auf Anfrage, 3280 Murten - CHF 3’730 inkl. NK pro Monat",
+    "pitch_title": "172m² Büro in Murten mieten",
+    "description_title": "ZENTRAL , MODERN UND GROSSZÜGIG",
+    "description": "Diese grosszügige, helle Bürofläche in zentraler Lage in Murten bietet moderne Zimmer mit durchdachter Raumaufteilung und lichtdurchflutetem Ambiente. Die repräsentative Liegenschaft eignet sich ideal für Agenturen, Beratungen, Praxen oder Teams, die stilvoll arbeiten und Kundschaft professionell empfangen möchten. Highlights sind die grosse Terrasse für Pausen im Freien sowie die Mitbenutzung der Cafeteria. Einstellplatz CHF 120.- / Monat, Aussenparkplatz CHF 80.- / Monat.   \n  \nDieses BETTERHOMES-Angebot zeichnet sich durch folgende Vorteile aus:   \n\\- grosszügig und lichtdurchflutet   \n  \n\\- grosszügige Raumaufteilung   \n  \n\\- moderne Büroräume   \n  \n\\- grosse Terrasse   \n  \n\\- zentral gelegen   \n  \n\\- exklusive Liegenschaft   \n  \n\\- Mitbenutzung der Cafeteria   \n  \n\\- Einstellplatz zzgl.CHF 120.- pro Monat / Aussenparkplatz zzgl. CHF 80.- pro Monat   \n  \n\\- und, und, und ...   \n  \n  \nInteressiert? Kontaktieren Sie uns für eine unverbindliche Besichtigung  auch Online-Besichtigung möglich!   \n  \nNichts Passendes gefunden? Über 2'000 weitere Angebote unter: www.betterhomes.ch - der Immobilienfairmittler®   \n  \nSelber eine Immobilie zu vermarkten?   \nProfitieren Sie von unserem Know-how: https://www.betterhomes.ch/de/profitieren   \n  \nSie möchten eine Immobilie schätzen lassen?   \nErfahren Sie jetzt ihren Wert über unsere Gratis-Schätzung, sofort und unverbindlich!   \nhttps://www.betterhomes.ch/de/knowledge/estimation   \n  \n  \nMehr Details   \nLage: zentral   \nZustand: Gut   \n  \nBäder / Nasszellen: 1 ( 1 x / WC / Lavabo)   \nHeizsystem: Wärmepumpe /Erdsonde   \nÖffentliche Verkehrsmittel: Bahnhof, 50 m   \nGeschäfte: Einkaufsmöglichkeiten, 100 m",
+    "surface_living": null,
+    "surface_property": 0,
+    "surface_usable": 172,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 172,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "balconygarden"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Auf Anfrage",
+    "zipcode": 3280,
+    "city": "Murten",
+    "public_address": "Auf Anfrage, 3280 Murten",
+    "latitude": 46.92848,
+    "longitude": 7.1384139,
+    "year_built": 2015,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.betterhomes.ch/de/immobilie-suchen/detail/objectId/b458bd46a79e545b1a520e55d9c2bc43",
+    "live_viewing_url": null,
+    "cover_image": 48790578,
+    "images": [
+      {
+        "pk": 48790578,
+        "caption": "",
+        "url": "/media/ff/2026/08/s012nsty0wzokmqr4m0liedniutpanjtjbtmnlcplkoek9flpw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/s012nsty0wzokmqr4m0liedniutpanjtjbtmnlcplkoek9flpw.jpg?alias=thumb_m&signature=7oVlUV4EJQ7srZfxEWpoO7rvsfFyx3CkjORL_m0x1PI",
+        "url_listing_search": "/thumb/ff/2026/08/s012nsty0wzokmqr4m0liedniutpanjtjbtmnlcplkoek9flpw.jpg?alias=listing_search&signature=EEkWpEvNxQWyF6A6ALzecVzRzNaISENLYR08fy5trIY",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48790579,
+        "caption": "",
+        "url": "/media/ff/2026/08/hkzmffu6aayckavtzy31k8yp79giqlwgtubcwtduzb1kmrxgwj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/hkzmffu6aayckavtzy31k8yp79giqlwgtubcwtduzb1kmrxgwj.jpg?alias=thumb_m&signature=yMxz4SFtaXsbJm1Hm2nvQjqX4INHfiuT7LbcaaCMXdI",
+        "url_listing_search": "/thumb/ff/2026/08/hkzmffu6aayckavtzy31k8yp79giqlwgtubcwtduzb1kmrxgwj.jpg?alias=listing_search&signature=PYaB1GlEfuXXpoI8jx9KQqeCQ0aRj1Ud_I189ItoIBA",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48790580,
+        "caption": "",
+        "url": "/media/ff/2026/08/2iav9uvvvj0g4vckqrc2ija5zhm5vqr6d0gfxyks07kds7lk8c.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/2iav9uvvvj0g4vckqrc2ija5zhm5vqr6d0gfxyks07kds7lk8c.jpg?alias=thumb_m&signature=GUwEeaVXI5OlEmg0Uffa6QIe10KgN6ueqkoN8Vp0WoI",
+        "url_listing_search": "/thumb/ff/2026/08/2iav9uvvvj0g4vckqrc2ija5zhm5vqr6d0gfxyks07kds7lk8c.jpg?alias=listing_search&signature=f_5Jn0kbX6hpvWHLYP5mkXl-9c6yjLjm9jg3Mu04jN4",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48790581,
+        "caption": "",
+        "url": "/media/ff/2026/08/1viyvyazcdn7tykqpe3w7fte2qzfgx51wjqy57oik346qswk45.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/1viyvyazcdn7tykqpe3w7fte2qzfgx51wjqy57oik346qswk45.jpg?alias=thumb_m&signature=EINnOFHKRP_89CM_-jgzH-2IoLQcwphnkUdsySv2TqI",
+        "url_listing_search": "/thumb/ff/2026/08/1viyvyazcdn7tykqpe3w7fte2qzfgx51wjqy57oik346qswk45.jpg?alias=listing_search&signature=iyzyuO25a4k3_w22s81wm0MWrEWBPVdbqjttiD9ovd8",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "BETTERHOMES (Schweiz) AG",
+      "name_2": null,
+      "street": "Weltpoststrasse 3E",
+      "zipcode": "3015",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png",
+        "url_org_logo_m": "/thumb/org/2023/09/2niaouq9rj3uvm6gzwddr8g8ubdmi38k0ib7u9fidmebp8tah3.png?alias=org_logo_m&signature=huwCQjEiPzMWjK8iEAg-X9wK_Gf3W-DAREVe4V8_TuQ"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "172m² Büro in Murten mieten",
+    "livingspace": 172
+  }
+}

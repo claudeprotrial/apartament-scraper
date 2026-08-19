@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1650.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/oberburgstrasse-10-3400-burgdorf/619829/",
+    "descarcat": "2026-08-17 12:34",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "agentur",
+        "arbeitsplätze",
+        "büro-",
+        "dienstleistung",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 5
+  },
+  "raw": {
+    "pk": 619829,
+    "slug": "oberburgstrasse-10-3400-burgdorf",
+    "url": "/de/wohnung/oberburgstrasse-10-3400-burgdorf/619829/",
+    "short_url": "/619829/",
+    "submit_url": "/de/listing/619829/submit/",
+    "status": "act",
+    "created": "2022-06-07T16:49:16.520135+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "25201.02.20106",
+    "ref_property": "25201",
+    "ref_house": "02",
+    "ref_object": "20106",
+    "alternative_reference": null,
+    "price_display": 160,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-04-27T14:14:28.196865+02:00",
+    "rent_net": 160,
+    "rent_charges": 0,
+    "rent_gross": 160,
+    "short_title": "254m² Büro",
+    "public_title": "Oberburgstrasse 10, 3400 Burgdorf - CHF 160 inkl. NK pro m² / Jahr",
+    "pitch_title": "254m² Büro in Burgdorf mieten",
+    "description_title": "Büro- und Gewerbeflächen mit flexiblen Nutzungsmöglichkeiten",
+    "description": "Per sofort oder nach Vereinbarung vermieten wir an attraktiver Lage in Burgdorf (nur ca. 1 km vom Bahnhof entfernt) flexible Büro- und Gewerbeflächen mit einer Gesamtfläche von bis zu 759 m2. Die Flächen eignen sich ideal für ein breites Spektrum an Nutzungen und können individuell an Ihre Bedürfnisse angepasst werden. \n\n  \n\n\n**Das bietet Ihnen die Immobilie:**\n\n  \n\n\n\\- Flexible Nutzungsmöglichkeiten: Ideal geeignet für Büroarbeitsplätze, Agenturen, Praxen, Start-ups, Dienstleistungs- oder Gewerbebetriebe. \n\n\\- Teilflächen ab 60 m2 bis 250 m2 können nach Ihren Anforderungen abgetrennt und gestaltet werden. \n\n\\- Attraktiver Mietermix: Das Areal überzeugt durch ein angenehmes, professionelles Umfeld mit vielfältigen Gewerbe- und Dienstleistungsnutzungen. \n\n  \n\n\n**Moderne Ausstattung und Infrastruktur:**\n\n  \n\n\n\\- Liftanlage für bequemen Zugang \n\n\\- Küchenzeile und Aufenthaltsraum \n\n\\- Separate Toilettenanlagen \n\n\\- Terrasse für Pausen und Begegnungen \n\n\\- Lagerräume / Keller verfügbar \n\n  \n\n\n**Lage & Erreichbarkeit: **\n\n  \n\n\nDie Liegenschaft befindet sich in zentraler, gut erreichbarer Lage in Burgdorf. \n\n  \n\n\nÖffentliche Verkehrsmittel sowie die Autobahnanschlüsse sind in kurzer Zeit erreichbar - optimal für Mitarbeitende und Kundschaft gleichermassen. \n\n  \n\n\n**Interesse geweckt?**\n\n  \n\n\nWir freuen uns auf Ihre Kontaktaufnahme für einen unverbindlichen Besichtigungstermin.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 254,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 254,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Oberburgstrasse 10",
+    "zipcode": 3400,
+    "city": "Burgdorf",
+    "public_address": "Oberburgstrasse 10, 3400 Burgdorf",
+    "latitude": 47.0535771,
+    "longitude": 7.6233733,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": "https://my.matterport.com/show/?m=U1kZAuPAbfS",
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 35445380,
+    "images": [
+      {
+        "pk": 35445380,
+        "caption": "_slash_uploads_slash_2024_slash_04_slash_27f5e3a1-fd7f-11ee-afda-0a4bde28e6f6.jpg",
+        "url": "/media/ff/2026/04/8khkov1arae2rihoigm9ahqok642wbdb694fxle37k3ohq1vs5.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/8khkov1arae2rihoigm9ahqok642wbdb694fxle37k3ohq1vs5.jpg?alias=thumb_m&signature=X-fXBWh4i3Kv7C3di2RRlXQ3M0ep_rg4WPdYLmj3Ojs",
+        "url_listing_search": "/thumb/ff/2026/04/8khkov1arae2rihoigm9ahqok642wbdb694fxle37k3ohq1vs5.jpg?alias=listing_search&signature=FLoF_kkC6Vm0UaeZerMf5ZM62uDxB3IjsYHkZfiJUcQ",
+        "ordering": 1,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 35445381,
+        "caption": "_slash_uploads_slash_2025_slash_03_slash_6c54d2c1-0561-11f0-a9d5-069ae14c7a06.jpg",
+        "url": "/media/ff/2026/04/luha60e86ujcrhchkwpudar817zpk8mjc9gskxlaz76ze8axxb.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/luha60e86ujcrhchkwpudar817zpk8mjc9gskxlaz76ze8axxb.jpg?alias=thumb_m&signature=uDhC2XW2R53l3lcERC-WYpoJSI-pRRzFLQAJNVpiiFQ",
+        "url_listing_search": "/thumb/ff/2026/04/luha60e86ujcrhchkwpudar817zpk8mjc9gskxlaz76ze8axxb.jpg?alias=listing_search&signature=X_c5pivaLhSR_QEGyFy1_L9CmQK2Vn_o8oIDiY96qVE",
+        "ordering": 2,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 35445382,
+        "caption": "_slash_uploads_slash_2025_slash_03_slash_6c57c6ce-0561-11f0-a9d5-069ae14c7a06.jpg",
+        "url": "/media/ff/2026/04/rbp012165abv4atupd4phdf0f3l8tz3zyyfcxlbml6ploxvk9o.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/rbp012165abv4atupd4phdf0f3l8tz3zyyfcxlbml6ploxvk9o.jpg?alias=thumb_m&signature=EGxagiHkvERBvZK3d06rQJGKMIx64jvGIoKMBB14xnU",
+        "url_listing_search": "/thumb/ff/2026/04/rbp012165abv4atupd4phdf0f3l8tz3zyyfcxlbml6ploxvk9o.jpg?alias=listing_search&signature=-LALgwBR54HP7VScFAce4kXSQfSvTCJEDXHUfUPB7IU",
+        "ordering": 3,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 35445384,
+        "caption": "_slash_uploads_slash_2025_slash_03_slash_6c53f15e-0561-11f0-a9d5-069ae14c7a06.jpg",
+        "url": "/media/ff/2026/04/cna1gefoxdcbsvwqotucwm3nd090w9q9zvbc4091h0x28dt5uv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/cna1gefoxdcbsvwqotucwm3nd090w9q9zvbc4091h0x28dt5uv.jpg?alias=thumb_m&signature=rnB35qjKCfMBRIgqIEuSFN_Q8shuMMuDxZkjdWQNr6k",
+        "url_listing_search": "/thumb/ff/2026/04/cna1gefoxdcbsvwqotucwm3nd090w9q9zvbc4091h0x28dt5uv.jpg?alias=listing_search&signature=KaqlnxQbdLrL6oeFZ712lTJoBFlXvCHQZZAHhj9--uk",
+        "ordering": 4,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 35445386,
+        "caption": "_slash_uploads_slash_2025_slash_03_slash_6c52f73c-0561-11f0-a9d5-069ae14c7a06.jpg",
+        "url": "/media/ff/2026/04/ovotv9njvkf3ikgb7s5skw13bwju9gcrkbvchy9f12bh6an021.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/ovotv9njvkf3ikgb7s5skw13bwju9gcrkbvchy9f12bh6an021.jpg?alias=thumb_m&signature=jw-OYWKtVYW7G0zcVucuJnU7nj-DYsDHT_8QQoxeDOc",
+        "url_listing_search": "/thumb/ff/2026/04/ovotv9njvkf3ikgb7s5skw13bwju9gcrkbvchy9f12bh6an021.jpg?alias=listing_search&signature=fzF5ugyntmGOrAgHj8YmzEXgicaW0g59jKKfo3F8EnQ",
+        "ordering": 5,
+        "width": 1024,
+        "height": 576
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Lubana AG",
+      "name_2": null,
+      "street": "Fischermätteliweg 19",
+      "zipcode": "3400",
+      "city": "Burgdorf",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/06/g70726lr61mohu3mb9im3faw2st815yxg9oi5sasx7i2qf0msn.png",
+        "url_org_logo_m": "/thumb/org/2026/06/g70726lr61mohu3mb9im3faw2st815yxg9oi5sasx7i2qf0msn.png?alias=org_logo_m&signature=6JeGQY99WqRFunaRNdXJsuURGzSol_8-EquVrIg-vGc"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "254m² Büro in Burgdorf mieten",
+    "livingspace": 254
+  }
+}

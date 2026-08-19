@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1844.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/giacomettistrasse-15-3006-bern/85330462/",
+    "descarcat": "2026-08-17 12:25",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "office"
+      ],
+      "kw_retail": [],
+      "kw_wohnen": [
+        "mietwohnung"
+      ]
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 85330462,
+    "slug": "giacomettistrasse-15-3006-bern",
+    "url": "/de/wohnung/giacomettistrasse-15-3006-bern/85330462/",
+    "short_url": "/85330462/",
+    "submit_url": "/de/listing/85330462/submit/",
+    "status": "act",
+    "created": "2025-09-19T15:02:04.048981+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..1275.01.04003",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "1275.01.04003",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "yearlym2",
+    "published": "2025-09-19T15:02:05.824244+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "332m² Büro",
+    "public_title": "Giacomettistrasse 15, 3006 Bern - auf Anfrage",
+    "pitch_title": "332m² Büro in Bern mieten",
+    "description_title": "Herzlich willkommen im Zentrum Freudenberg - Ihre neue Erfolgsadresse!",
+    "description": "Nur einen Steinwurf von der Tramstation \"Ostring\" und dem Autobahnanschluss A6 entfernt, empfängt Sie das Zentrum Freudenberg mit exzellenter Lage. Im 4. Obergeschoss erwartet Sie eine helle, lichtdurchflutete Fläche - perfekt für Ihr Büro oder Ihre Praxis.   \n  \nDie Fläche besticht durch einen flexiblen Grundriss, der sich ideal an Ihre Vision anpassen lässt. Der bestehende Ausbau kann bei Bedarf übernommen werden. Sie haben andere Vorstellungen? Kein Problem! Gerne setzen wir den Grundausbau nach Ihren Wünschen um.   \n  \n**Die Highlights im Überblick**   \n\n\n  * Beste Lage im Berner Ostring \n  * Optimale Anbindung an den öffentlichen Verkehr und die Autobahn A6 \n  * Einkaufs- und Verpflegungsmöglichkeiten direkt im Zentrum \n  * Individuelle Grundriss- und Flächengestaltung \n  * Grundausbau nach Ihren Vorstellungen \n  * Einstellhalle für Ihre Kunden \n\n  \nHaben wir Ihr Interesse geweckt? Gerne überzeugen wir Sie bei einer gemeinsamen Besichtigung.   \n  \n**Achtung. Eigenwerbung:** Sie ziehen in eine Mietwohnung oder benötigen Unterstützung für den bestmöglichen Verkauf Ihrer Immobilie? Kontaktieren Sie die Dr.Meyer Immobilien AG für eine unverbindliche Offerte -  **wir sind gut darin.**",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 332,
+    "surface_usable_minimum": null,
+    "volume": 0,
+    "space_display": 332,
+    "number_of_rooms": null,
+    "floor": 4,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "ramp"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "view"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Giacomettistrasse 15",
+    "zipcode": 3006,
+    "city": "Bern",
+    "public_address": "Giacomettistrasse 15, 3006 Bern",
+    "latitude": 46.945441,
+    "longitude": 7.472765399999998,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 29650508,
+    "images": [
+      {
+        "pk": 29650508,
+        "caption": "Bild1.jpg",
+        "url": "/media/ff/2025/09/4zgbvybfiujqtcletshkwc3ajrcbwcq0jii1ybjbgb0cspzpd7.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/4zgbvybfiujqtcletshkwc3ajrcbwcq0jii1ybjbgb0cspzpd7.jpg?alias=thumb_m&signature=m4KBE_aE_8CV6Omp_lfNB-TEeKKMnw7EVrpynmzfKT0",
+        "url_listing_search": "/thumb/ff/2025/09/4zgbvybfiujqtcletshkwc3ajrcbwcq0jii1ybjbgb0cspzpd7.jpg?alias=listing_search&signature=-5blKxynXC-qZk2UhvfSmMZc6yHDZVs-ZjbXgJMncXc",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650509,
+        "caption": "backbone_571865-B_084_WEB.jpg",
+        "url": "/media/ff/2025/09/zr3k7s23hd486q1kul5aabsrw323y3anz2w61j78y0mzou2fxg.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/zr3k7s23hd486q1kul5aabsrw323y3anz2w61j78y0mzou2fxg.jpg?alias=thumb_m&signature=dB1J6zS2sC5EGDL8k6BcVQC5dHCKpavMVmnoJaWZ75E",
+        "url_listing_search": "/thumb/ff/2025/09/zr3k7s23hd486q1kul5aabsrw323y3anz2w61j78y0mzou2fxg.jpg?alias=listing_search&signature=vO9Qho8KJ0o7YXCLFSeiY2MsSa9oAawT4fyigdhd8xc",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650510,
+        "caption": "backbone_571865-B_068_WEB.jpg",
+        "url": "/media/ff/2025/09/hjqi19xsgneok1hkztx7o0gg63kig8zp75jeb8ufxvsceem6oa.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/hjqi19xsgneok1hkztx7o0gg63kig8zp75jeb8ufxvsceem6oa.jpg?alias=thumb_m&signature=64TF_Wl-Q2Si-TQyROut_v7Psh2MQbty1M5ofsPsPI8",
+        "url_listing_search": "/thumb/ff/2025/09/hjqi19xsgneok1hkztx7o0gg63kig8zp75jeb8ufxvsceem6oa.jpg?alias=listing_search&signature=bYLMduietL2M-3avaozZiJhgEYAcvDSPV6a4rqARnXc",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650511,
+        "caption": "backbone_571865-B_053_WEB.jpg",
+        "url": "/media/ff/2025/09/qn1czubzszvrwckbf3qc8z4spes43bbaympksxfof9tg0avppb.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/qn1czubzszvrwckbf3qc8z4spes43bbaympksxfof9tg0avppb.jpg?alias=thumb_m&signature=02VhfaF-Y6pD7edrR-VqQJ_XbSvLe5QMlIvZ-5-nQrU",
+        "url_listing_search": "/thumb/ff/2025/09/qn1czubzszvrwckbf3qc8z4spes43bbaympksxfof9tg0avppb.jpg?alias=listing_search&signature=tR5E-WIBNNFD3fJGqUSAINzqpWKZJkbDuC6a6BQW0fw",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650512,
+        "caption": "backbone_571865-B_056_WEB.jpg",
+        "url": "/media/ff/2025/09/8tq0a4g9t3lrfud8ojhjaqe25jlq2o0smtev2ewfjr5jhx2wwy.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/8tq0a4g9t3lrfud8ojhjaqe25jlq2o0smtev2ewfjr5jhx2wwy.jpg?alias=thumb_m&signature=jw0f-FXO7OqTdl_OJOavT84da0Y7EjdBBoAEQq4Dlqw",
+        "url_listing_search": "/thumb/ff/2025/09/8tq0a4g9t3lrfud8ojhjaqe25jlq2o0smtev2ewfjr5jhx2wwy.jpg?alias=listing_search&signature=gobYpmXbdD7m4ndZa7Nd_PKuhwOxDWKdVI-Hy_0_Vzw",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650513,
+        "caption": "backbone_571865-B_085_WEB.jpg",
+        "url": "/media/ff/2025/09/9qwvt43li89o7d24qr107lb13i5rctve6nhaln3pz87bw7cve1.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/9qwvt43li89o7d24qr107lb13i5rctve6nhaln3pz87bw7cve1.jpg?alias=thumb_m&signature=Rx7Vo__nZhzXQl2AkFBUoXBuY541Hbp8dctg4iHLejg",
+        "url_listing_search": "/thumb/ff/2025/09/9qwvt43li89o7d24qr107lb13i5rctve6nhaln3pz87bw7cve1.jpg?alias=listing_search&signature=6qVYR_fxLxZ8ZoGd7-zmpe4QNhWwRcsbFmIpDC2S2zo",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650514,
+        "caption": "backbone_571865-B_035_WEB.jpg",
+        "url": "/media/ff/2025/09/klkch396ixsi26jhsv73q2rb0vqwxmjd9rt4vrrb2p0wh8muw2.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/klkch396ixsi26jhsv73q2rb0vqwxmjd9rt4vrrb2p0wh8muw2.jpg?alias=thumb_m&signature=vjwULHANBNxrDuBcJP9CqbgwIZJCGig6cANDHBRzlLk",
+        "url_listing_search": "/thumb/ff/2025/09/klkch396ixsi26jhsv73q2rb0vqwxmjd9rt4vrrb2p0wh8muw2.jpg?alias=listing_search&signature=RkpJiY0oj5N0e7inA2Yb1vgyAtADeO0JGBoe-00rqNg",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650515,
+        "caption": "backbone_571865-B_081_WEB.jpg",
+        "url": "/media/ff/2025/09/4rnsvqub0vcn65pfg766d813lgf3gj8mwtewk65coaxfibnmvi.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/4rnsvqub0vcn65pfg766d813lgf3gj8mwtewk65coaxfibnmvi.jpg?alias=thumb_m&signature=Y_xrwTq0HzIDciV0qmM3bdLCVuLoi03Lb0taRWwNiw4",
+        "url_listing_search": "/thumb/ff/2025/09/4rnsvqub0vcn65pfg766d813lgf3gj8mwtewk65coaxfibnmvi.jpg?alias=listing_search&signature=eexdJ4XHBU5f_FGY1aeJNzizESZlJRaf3ao8wBmjX1I",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650516,
+        "caption": "Treppenhaus",
+        "url": "/media/ff/2025/09/h8nht6llfn9tammmsavdy75rav8l6uciy47ydv39hxir5vpoxf.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/h8nht6llfn9tammmsavdy75rav8l6uciy47ydv39hxir5vpoxf.jpg?alias=thumb_m&signature=mrQaBI-nqAh25mq3eXt3iiQckchNcNmIHM69NEQr5gA",
+        "url_listing_search": "/thumb/ff/2025/09/h8nht6llfn9tammmsavdy75rav8l6uciy47ydv39hxir5vpoxf.jpg?alias=listing_search&signature=vs31a54Zks1IP4iq3CPi0nCFzVuGYt-6A5HCNyE2cZQ",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 29650517,
+        "caption": "Bild8.jpg",
+        "url": "/media/ff/2025/09/3843j0bapqax4zxj4p71vousjspkji4jj2cetf6uvaq5b6nteo.jpg",
+        "url_thumb_m": "/thumb/ff/2025/09/3843j0bapqax4zxj4p71vousjspkji4jj2cetf6uvaq5b6nteo.jpg?alias=thumb_m&signature=nbBlhW4gbTKWKTPbAIUrRGvlSlqaquROmRkbTVGJyzM",
+        "url_listing_search": "/thumb/ff/2025/09/3843j0bapqax4zxj4p71vousjspkji4jj2cetf6uvaq5b6nteo.jpg?alias=listing_search&signature=Idpww9OJpxB7SoQ8BhrKUp0LFeSHz7oB-9lb1zDZO9I",
+        "ordering": 10,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [
+      709965
+    ],
+    "agency": {
+      "name": "Dr.Meyer Immobilien AG",
+      "name_2": null,
+      "street": "Morgenstrasse 83A",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png",
+        "url_org_logo_m": "/thumb/org/2023/10/74iwb9tg6clizlment4o8h0hrsr4t1lfm8sjie2m1phvpdc4zz.png?alias=org_logo_m&signature=ELJVfbZ9i264CGjnir9SWpQCju4MUITBGC0sqvZAlz0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "332m² Büro in Bern mieten",
+    "livingspace": 332
+  }
+}

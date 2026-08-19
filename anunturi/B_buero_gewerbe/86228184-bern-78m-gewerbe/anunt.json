@@ -1,0 +1,182 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1664.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/monbijoustrasse-124-3007-bern/86228184/",
+    "descarcat": "2026-08-17 12:32",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "bürofläche",
+        "dienstleistung",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden",
+        "schaufenster"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 86228184,
+    "slug": "monbijoustrasse-124-3007-bern",
+    "url": "/de/wohnung/monbijoustrasse-124-3007-bern/86228184/",
+    "short_url": "/86228184/",
+    "submit_url": "/de/listing/86228184/submit/",
+    "status": "act",
+    "created": "2026-07-30T10:04:11.713965+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "3401..10001",
+    "ref_property": "3401",
+    "ref_house": "",
+    "ref_object": "10001",
+    "alternative_reference": "",
+    "price_display": 1885,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-30T17:22:15.417691+02:00",
+    "rent_net": 1635,
+    "rent_charges": 250,
+    "rent_gross": null,
+    "short_title": "78m² Gewerbe",
+    "public_title": "Monbijoustrasse 124, 3007 Bern - CHF 1’885 inkl. NK pro Monat",
+    "pitch_title": "78m² Gewerbe in Bern mieten",
+    "description_title": "Attraktive Gewerbefläche an bester Lage im Monbijouquartier in Bern",
+    "description": "Wir vermieten per sofort oder nach Vereinbarung attraktive Gewerberäumlichkeiten mit einer Gesamtfläche von ca. 78.4 m² an ausgezeichneter Lage im beliebten Monbijouquartier in Bern.  \n  \nDie Liegenschaft überzeugt durch ihre hervorragende Verkehrsanbindung. Sowohl mit dem öffentlichen Verkehr als auch mit dem Auto ist die Immobilie optimal erreichbar. Der Hauptbahnhof Bern befindet sich nur wenige Minuten entfernt.  \n  \nDie Räumlichkeiten bieten Ihnen eine grosszügige und helle Laden- oder Bürofläche von ca. 78.4 m². Es handelt sich um zwei Räume, welche durch eine Schiebetüre abgetrennt werden können und ein Reduit.  \nIm Mietobjekt ist eine Toilette mit Lavabo zur ausschliesslichen Nutzung vorhanden.  \nDas Objekt verfügt über eine attraktive Schaufensterfront mit Vitrine. Ideal für eine ansprechende Warenpräsentation oder als repräsentativer Eingangsbereich.  \nDerzeit ist das Mietobjekt als Lebensmittelladen eingerichtet. Die Räumlichkeiten eignen sich jedoch auch für viele weitere Nutzungen wie Detailhandel, Büro, Dienstleistung oder Atelier.  \n  \nNutzen Sie die Gelegenheit, Ihren Geschäftssitz an einer attraktiven und gut frequentierten Lage zu etablieren.  \n  \nWir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 78,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 78,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Monbijoustrasse 124",
+    "zipcode": 3007,
+    "city": "Bern",
+    "public_address": "Monbijoustrasse 124, 3007 Bern",
+    "latitude": 46.93585030000001,
+    "longitude": 7.436485299999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 48425659,
+    "images": [
+      {
+        "pk": 48425659,
+        "caption": null,
+        "url": "/media/ff/2026/07/wviybo6po7n9g3r8kg9fqjomwc7e2vsmw3ypwixwrjnd4onbab.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/wviybo6po7n9g3r8kg9fqjomwc7e2vsmw3ypwixwrjnd4onbab.jpg?alias=thumb_m&signature=lgNfJ9q_U0F2eMkM0RTqy64olc9fP3s3GHz-Rj0LPM0",
+        "url_listing_search": "/thumb/ff/2026/07/wviybo6po7n9g3r8kg9fqjomwc7e2vsmw3ypwixwrjnd4onbab.jpg?alias=listing_search&signature=qJCU4OKuF3KGJH3HcKHYaF4AwZlnBJdKEv31LapltNA",
+        "ordering": 1,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 48425660,
+        "caption": null,
+        "url": "/media/ff/2026/07/sn7981e0at9g8t80rgyswhisp3gpe82e96fz08xnzex977wiex.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/sn7981e0at9g8t80rgyswhisp3gpe82e96fz08xnzex977wiex.jpg?alias=thumb_m&signature=W3UE6DPkJqUHA-jJQet3YwZGCoAmzZAygZ_ydRJrXos",
+        "url_listing_search": "/thumb/ff/2026/07/sn7981e0at9g8t80rgyswhisp3gpe82e96fz08xnzex977wiex.jpg?alias=listing_search&signature=oFVAEUWc1uwdBodspMfUGnJOWUI4S4kpHyaA32O9sLM",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1500
+      },
+      {
+        "pk": 48423385,
+        "caption": null,
+        "url": "/media/ff/2026/07/2glrrz1oxmjcy6ccnm5b2h5x6tqsb644fckg3xh9eeyip9bv4o.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/2glrrz1oxmjcy6ccnm5b2h5x6tqsb644fckg3xh9eeyip9bv4o.jpg?alias=thumb_m&signature=AQF1ItlJENd0g9xuoYY5ePGcJE8e2HtchZJyghMZ-xs",
+        "url_listing_search": "/thumb/ff/2026/07/2glrrz1oxmjcy6ccnm5b2h5x6tqsb644fckg3xh9eeyip9bv4o.jpg?alias=listing_search&signature=fH8DmU9dR46ttwr0-VNjx1CuA8Ia4D-XlI73024USB0",
+        "ordering": 3,
+        "width": 1500,
+        "height": 949
+      },
+      {
+        "pk": 48423384,
+        "caption": null,
+        "url": "/media/ff/2026/07/c2p08644aogdv9d65wjlk9qp2mjou0tgmfk17u5cv4f8rtaqw4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/c2p08644aogdv9d65wjlk9qp2mjou0tgmfk17u5cv4f8rtaqw4.jpg?alias=thumb_m&signature=v6hBnBsdiUY69x200TX5GybmmuMTZmufzuJ0Wk9g9iE",
+        "url_listing_search": "/thumb/ff/2026/07/c2p08644aogdv9d65wjlk9qp2mjou0tgmfk17u5cv4f8rtaqw4.jpg?alias=listing_search&signature=OssT2nP-1-n40mGcvit--HVmd3X_Xz7fU-CYVXhKJl8",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48423383,
+        "caption": null,
+        "url": "/media/ff/2026/07/3j7p1i7j0ltwwk3x00lsp36wp3geb6vsowz47nral0agha10h8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/07/3j7p1i7j0ltwwk3x00lsp36wp3geb6vsowz47nral0agha10h8.jpg?alias=thumb_m&signature=PNdiXap2r_jiOjyYf43jpjSIwQ-7wKEM_-HZqiAP9Ck",
+        "url_listing_search": "/thumb/ff/2026/07/3j7p1i7j0ltwwk3x00lsp36wp3geb6vsowz47nral0agha10h8.jpg?alias=listing_search&signature=TyIj4JOtqVwaEK8O1h4TTyPrBWxf2KJ3sIpDUNFsxyM",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48574247,
+        "caption": null,
+        "url": "/media/ff/2026/08/eevebhzb4pvutg5ddsjra3luithg46idtj7s1rsgzlfhk0yzk5.png",
+        "url_thumb_m": "/thumb/ff/2026/08/eevebhzb4pvutg5ddsjra3luithg46idtj7s1rsgzlfhk0yzk5.png?alias=thumb_m&signature=t8O_42lBQdiKtRoFROu1dzqk6G-TvFNH3LVolsAUqSI",
+        "url_listing_search": "/thumb/ff/2026/08/eevebhzb4pvutg5ddsjra3luithg46idtj7s1rsgzlfhk0yzk5.png?alias=listing_search&signature=luQd1c9mQuk2wblWp00HIuivZw8FZKXipcSCBeVc5fU",
+        "ordering": 6,
+        "width": 981,
+        "height": 649
+      },
+      {
+        "pk": 48573631,
+        "caption": null,
+        "url": "/media/ff/2026/08/vqbos76vqdj9bwoe0hip7cs7luju1op36zzkats0u9bytlrqjf.png",
+        "url_thumb_m": "/thumb/ff/2026/08/vqbos76vqdj9bwoe0hip7cs7luju1op36zzkats0u9bytlrqjf.png?alias=thumb_m&signature=NRT8QnCFpyNicc6wc0KYCKsWe2cpU17hZPYJOkKySh8",
+        "url_listing_search": "/thumb/ff/2026/08/vqbos76vqdj9bwoe0hip7cs7luju1op36zzkats0u9bytlrqjf.png?alias=listing_search&signature=9yvPXzz0BAI_e3u3mIq09Z9C3Do0yighiH0-GDMfipo",
+        "ordering": 7,
+        "width": 980,
+        "height": 708
+      }
+    ],
+    "documents": [
+      771758
+    ],
+    "agency": {
+      "name": "Haussener Verwaltungen AG",
+      "name_2": "",
+      "street": "Monbijoustrasse 22",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2025/03/rte2h9gfe75kw7bh12umq0as178azt43s5tobtlavv1zcghbk5.jpg",
+        "url_org_logo_m": "/thumb/org/2025/03/rte2h9gfe75kw7bh12umq0as178azt43s5tobtlavv1zcghbk5.jpg?alias=org_logo_m&signature=RvyKIdrgGfCVP4oAZu2yHTM1XawxeXvXHbjIS1exysk"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "78m² Gewerbe in Bern mieten",
+    "livingspace": 78
+  }
+}

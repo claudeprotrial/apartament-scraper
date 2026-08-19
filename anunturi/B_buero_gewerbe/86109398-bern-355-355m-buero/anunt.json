@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1740.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/strandweg-35-3004-bern/86109398/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "empfang",
+        "gewerbe",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 14
+  },
+  "raw": {
+    "pk": 86109398,
+    "slug": "strandweg-35-3004-bern",
+    "url": "/de/wohnung/strandweg-35-3004-bern/86109398/",
+    "short_url": "/86109398/",
+    "submit_url": "/de/listing/86109398/submit/",
+    "status": "act",
+    "created": "2026-06-12T11:44:04.667398+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "",
+    "alternative_reference": "",
+    "price_display": 6865,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-19T15:41:01.519924+02:00",
+    "rent_net": 5920,
+    "rent_charges": 945,
+    "rent_gross": null,
+    "short_title": "355-355m² Büro",
+    "public_title": "Strandweg 35, 3004 Bern - CHF 6’865 inkl. NK pro Monat",
+    "pitch_title": "355-355m² Büro in Bern mieten",
+    "description_title": "Am Aarestrand kommt man gerne zur Arbeit!",
+    "description": "Auf dem Felsenauareal bieten sich nach Vereinbarung vielseitig nutzbare Büro- und Empfangsflächen zur Miete an. Zur Verfügung stehen repräsentative Räumlichkeiten im Erdgeschoss sowie zusätzliche Büroflächen im Zwischengeschoss, insgesamt rund 355 m2 mit flexiblem Nutzungspotenzial.  \n  \nDie heutigen Mieter bündeln ihre Standorte und werden die Flächen ab Herbst 2026 freigeben. Die bestehende Büroeinrichtung sowie bereits realisierte Mieterausbauten, darunter die Empfangstheke im Erdgeschoss, können bei Interesse übernommen werden und ermöglichen einen unkomplizierten Start am neuen Standort.  \n  \nEin besonderes Plus bietet die gemeinschaftlich genutzte „Aarestube“ im 2. Obergeschoss. Sie steht allen Mietern für Pausen, informelle Meetings oder einen kurzen Perspektivenwechsel im Arbeitsalltag zur Verfügung. Der Balkon mit direktem Blick auf die Aare schafft dabei einen Ort, der Ruhe bringt und neue Energie schenkt. Die Nutzung ist bereits im Mietzins inbegriffen.  \n  \nDes weiteren stehen genügend Aussenparkplätze für Mitarbeiter und Kunden auf dem Areal zur Verfügung, welche zu CHF 70.00 dazu gemietet werden können. Ein allfälliger Bedarf an Lagerflächen lässt sich, in begrenztem Ausmass, auch abdecken.  \n  \nDas Brauereiareal erreichen Sie ab Hauptbahnhof Bern mit dem Bus Nr. 21 Richtung Bremgarten. Steigen Sie bei der Haltestelle Felsenau (direkt beim Gewerbepark) oder Fährstrasse aus und folgen Sie den Wegweisern zur Brauerei Felsenau. Von dort führt ein ca. 3-minütiger Fussweg entlang des Strandwegs am linken Aareufer direkt zum Areal.  \n  \nWenn Sie einen Standort suchen, der Funktionalität mit einem einzigartigen Arbeitsumfeld verbindet, zeigen wir Ihnen die Räumlichkeiten gerne persönlich bei einer Besichtigung vor Ort. Wir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 355,
+    "surface_usable_minimum": 355,
+    "volume": null,
+    "space_display": 355,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "view"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Strandweg 35",
+    "zipcode": 3004,
+    "city": "Bern",
+    "public_address": "Strandweg 35, 3004 Bern",
+    "latitude": 46.9716836,
+    "longitude": 7.440143600000001,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 36493118,
+    "images": [
+      {
+        "pk": 36493118,
+        "caption": "Balkon Aarestube",
+        "url": "/media/ff/2026/06/pws3mnbneh85h89hk33lgrnyd1izrk6r6ep6nhs717ihu276aq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/pws3mnbneh85h89hk33lgrnyd1izrk6r6ep6nhs717ihu276aq.jpg?alias=thumb_m&signature=wk6NpTTySN1XbZPr-4CRHM2P67agS14kcAL7YsYcWPA",
+        "url_listing_search": "/thumb/ff/2026/06/pws3mnbneh85h89hk33lgrnyd1izrk6r6ep6nhs717ihu276aq.jpg?alias=listing_search&signature=JYatOptU_-8yqHP3YA1ui2deUhVf0esNIWQ4f_1ozoQ",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 36493120,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/06/h2j8n23vm5luvyd4i0g39c8gmvk2j9yz2z04et0aq1ef7apho7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/h2j8n23vm5luvyd4i0g39c8gmvk2j9yz2z04et0aq1ef7apho7.jpg?alias=thumb_m&signature=HyTUk0tEKYlw9nKTDYgGKF7IbwYiqSg1Ege7RzrLskE",
+        "url_listing_search": "/thumb/ff/2026/06/h2j8n23vm5luvyd4i0g39c8gmvk2j9yz2z04et0aq1ef7apho7.jpg?alias=listing_search&signature=ussZWPg9MNNP_ZK5YKEtX7ClYNV4giVV4TqS8TNJ-ME",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 36493203,
+        "caption": "Empangsbereich EG",
+        "url": "/media/ff/2026/06/0iencoaptog0h20la2k5q2jr4p30bmtukmk9uhzu7b6fgwwtrm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/0iencoaptog0h20la2k5q2jr4p30bmtukmk9uhzu7b6fgwwtrm.jpg?alias=thumb_m&signature=ZYcNwbhDoQcHBseXP_B2En2__NVSK4HBDRWXS_mrhvM",
+        "url_listing_search": "/thumb/ff/2026/06/0iencoaptog0h20la2k5q2jr4p30bmtukmk9uhzu7b6fgwwtrm.jpg?alias=listing_search&signature=kb9VMkUp14UIHhPWalf-1_ya3S5iEWcV89GUHnzjGJI",
+        "ordering": 3,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493189,
+        "caption": "Aufenthaltsbereich EG",
+        "url": "/media/ff/2026/06/dap42pxk1uvsw3t5qxeohcrhcpdwr1tjaycpjte2bgxt7zhf3l.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/dap42pxk1uvsw3t5qxeohcrhcpdwr1tjaycpjte2bgxt7zhf3l.jpg?alias=thumb_m&signature=DsrK-Bzngp-qCDNtfs2T6ayHXBLNSckSKr1hYIHK-6w",
+        "url_listing_search": "/thumb/ff/2026/06/dap42pxk1uvsw3t5qxeohcrhcpdwr1tjaycpjte2bgxt7zhf3l.jpg?alias=listing_search&signature=kYsh60mVwfa0qJ0PPCwTmtaC-twxeg550jWvlKD9A88",
+        "ordering": 4,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493262,
+        "caption": "Empfangstheke EG",
+        "url": "/media/ff/2026/06/bvi4jwlcwpvngqa0ninugwjxku4rcq6mvsyumf9n7mgcvqs4l4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/bvi4jwlcwpvngqa0ninugwjxku4rcq6mvsyumf9n7mgcvqs4l4.jpg?alias=thumb_m&signature=etrEJsaLxh0S3i9n3-w0yKPdj7tkWxiLC6mZoqwOU8c",
+        "url_listing_search": "/thumb/ff/2026/06/bvi4jwlcwpvngqa0ninugwjxku4rcq6mvsyumf9n7mgcvqs4l4.jpg?alias=listing_search&signature=flYM0NCckcNBM3Emq_dAHgHa-M_RGSAajeyoVYVU-xs",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493278,
+        "caption": "Sitzungszimmer EG",
+        "url": "/media/ff/2026/06/wrhhm0b2160p8bmy43gap5xf337g4aa33un8yib1zck7bx1thl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/wrhhm0b2160p8bmy43gap5xf337g4aa33un8yib1zck7bx1thl.jpg?alias=thumb_m&signature=blraDhuBpuyuFf4-HgEU2hk3pscLUbqOHiXhYtjiJQY",
+        "url_listing_search": "/thumb/ff/2026/06/wrhhm0b2160p8bmy43gap5xf337g4aa33un8yib1zck7bx1thl.jpg?alias=listing_search&signature=V3Kebfjo76oxhUPMKoj3Fq-lYzpzRjVM_YKTwx5iQa0",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493290,
+        "caption": "Büro EG 1",
+        "url": "/media/ff/2026/06/j9wmynvl0kvax0fvsx93cntsj0tn8m2sa45bom5gabk4yd2ez1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/j9wmynvl0kvax0fvsx93cntsj0tn8m2sa45bom5gabk4yd2ez1.jpg?alias=thumb_m&signature=W989aXjyhE59uZwRjv-ORnFijwZ_BzX7q0C7amBCYEU",
+        "url_listing_search": "/thumb/ff/2026/06/j9wmynvl0kvax0fvsx93cntsj0tn8m2sa45bom5gabk4yd2ez1.jpg?alias=listing_search&signature=-vKLrMpY3t6yO5G5h3v-rDOiW0ohYl2d3r64tLKLW4Y",
+        "ordering": 7,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493349,
+        "caption": "Büro EG 2",
+        "url": "/media/ff/2026/06/ipn4l86k56qau39wq11craq084qexgnd7sm5wj6092h1dxszvm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/ipn4l86k56qau39wq11craq084qexgnd7sm5wj6092h1dxszvm.jpg?alias=thumb_m&signature=y6v08-f-O-0ENLct4k4-TebFi26zRSFO9p18zOwHWrE",
+        "url_listing_search": "/thumb/ff/2026/06/ipn4l86k56qau39wq11craq084qexgnd7sm5wj6092h1dxszvm.jpg?alias=listing_search&signature=yK5gIkh_HTP121ExlzLVhyrRsOtLOR5bKOjGLf5px84",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493404,
+        "caption": "Büro OG",
+        "url": "/media/ff/2026/06/0y13t0ku9qugiltgipz9mtdmx232xq6vpjem97e7ehiaziby1e.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/0y13t0ku9qugiltgipz9mtdmx232xq6vpjem97e7ehiaziby1e.jpg?alias=thumb_m&signature=hRDTfEdjaQKWw0u8IAT-dAoNGllz4lZBq2EzPww-pmI",
+        "url_listing_search": "/thumb/ff/2026/06/0y13t0ku9qugiltgipz9mtdmx232xq6vpjem97e7ehiaziby1e.jpg?alias=listing_search&signature=z4dcNjBpRyX7UfwG1_E89eNItvOOi7I4mxnD8mNIerI",
+        "ordering": 9,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493415,
+        "caption": "Büro OG",
+        "url": "/media/ff/2026/06/ra2p9p253ttxmncwiqqynppk4cc9ssbiqdc3kdzli3q6cslbn3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/ra2p9p253ttxmncwiqqynppk4cc9ssbiqdc3kdzli3q6cslbn3.jpg?alias=thumb_m&signature=KsnYMt5F29hpD9ldivXpThOm7mLBDt0gYdlMYYwcKsw",
+        "url_listing_search": "/thumb/ff/2026/06/ra2p9p253ttxmncwiqqynppk4cc9ssbiqdc3kdzli3q6cslbn3.jpg?alias=listing_search&signature=OZQdZ_W69Avhn1AqVeQlh9VcFrB7elyolWSabapwm3E",
+        "ordering": 10,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493426,
+        "caption": "Aarestube",
+        "url": "/media/ff/2026/06/jonhjqou33zoand2u8pbtc8eun7r2xct72e5nqi14lo432ol5x.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/jonhjqou33zoand2u8pbtc8eun7r2xct72e5nqi14lo432ol5x.jpg?alias=thumb_m&signature=FR-eyV3W9HVlTPixPNLJQi6NWpMbcqIuYKxjyayGf4M",
+        "url_listing_search": "/thumb/ff/2026/06/jonhjqou33zoand2u8pbtc8eun7r2xct72e5nqi14lo432ol5x.jpg?alias=listing_search&signature=a5I_dd42ZGj8MnMrMhp2iBRlTDQJ4FfSOr0V6mtZfaA",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 36493469,
+        "caption": "Galerie Aarestube",
+        "url": "/media/ff/2026/06/u0lvo91qqbdxim5l7f7guekgmhm72og701v9z5ch5r44i6yw0g.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/u0lvo91qqbdxim5l7f7guekgmhm72og701v9z5ch5r44i6yw0g.jpg?alias=thumb_m&signature=1tZmaYQVPXbHaqhpB4JAD5o95tLX2dc5Zr9yjWAYiQU",
+        "url_listing_search": "/thumb/ff/2026/06/u0lvo91qqbdxim5l7f7guekgmhm72og701v9z5ch5r44i6yw0g.jpg?alias=listing_search&signature=C1Rz7eoJH-3mgGP855HYrH0RgoIuxQaIc1MrVHu7uC0",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 36493511,
+        "caption": "Toilette Damen",
+        "url": "/media/ff/2026/06/hsf26hhdmril1e9x1ijyaw21uv0kkyivtfojb63ifcue2d0zea.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/hsf26hhdmril1e9x1ijyaw21uv0kkyivtfojb63ifcue2d0zea.jpg?alias=thumb_m&signature=XdKYRbhxc9-QD98NasIPMoyF-IuKqir9-p4JscP6Ajg",
+        "url_listing_search": "/thumb/ff/2026/06/hsf26hhdmril1e9x1ijyaw21uv0kkyivtfojb63ifcue2d0zea.jpg?alias=listing_search&signature=VXKF6f_tJyyMdk8NoyTtSFkZNAQkcTaPQOXJzICLBkM",
+        "ordering": 13,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 36493607,
+        "caption": "Toilette Herren",
+        "url": "/media/ff/2026/06/f21hmmup1ui0bkz4kgqqtigcyjzynzdx1y8883vqgvk4a5v5qc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/f21hmmup1ui0bkz4kgqqtigcyjzynzdx1y8883vqgvk4a5v5qc.jpg?alias=thumb_m&signature=BENgfWuNjB_j4dtxXBwHEzj6W7F1s0Mvo5mAI5Lni4E",
+        "url_listing_search": "/thumb/ff/2026/06/f21hmmup1ui0bkz4kgqqtigcyjzynzdx1y8883vqgvk4a5v5qc.jpg?alias=listing_search&signature=C6gb4iC3MxNPew5oAQANPBB_ZqDX2AZ46l-IJIO-yAc",
+        "ordering": 14,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      741509,
+      741515
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": "",
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "355-355m² Büro in Bern mieten",
+    "livingspace": 355
+  }
+}

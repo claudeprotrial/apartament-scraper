@@ -1,0 +1,253 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1658.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/kreuzfeldweg-24a-3373-rothenbach-herzogenbuchsee/85808541/",
+    "descarcat": "2026-08-17 12:33",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "gewerberaum",
+        "gewerberäume"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 14
+  },
+  "raw": {
+    "pk": 85808541,
+    "slug": "kreuzfeldweg-24a-3373-rothenbach-herzogenbuchsee",
+    "url": "/de/wohnung/kreuzfeldweg-24a-3373-rothenbach-herzogenbuchsee/85808541/",
+    "short_url": "/85808541/",
+    "submit_url": "/de/listing/85808541/submit/",
+    "status": "act",
+    "created": "2026-02-23T17:36:55.588920+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..1nvzy.89h6k",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "1nvzy.89h6k",
+    "alternative_reference": null,
+    "price_display": 1470,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-02-23T17:37:07.403940+01:00",
+    "rent_net": 1420,
+    "rent_charges": 50,
+    "rent_gross": 1470,
+    "short_title": "110m² Gewerbe",
+    "public_title": "Kreuzfeldweg 24a, 3373 Röthenbach Herzogenbuchsee - CHF 1’470",
+    "pitch_title": "110m² Gewerbe in Röthenbach Herzogenbuchsee mieten",
+    "description_title": "Moderne Gewerbeimmobilie in Röthenbach Herzogenbuchsee zu vermieten",
+    "description": "***** Beachten sie auch unseren 360° - Rundgang oben *****\n\n**LETZTE MIETBOX VERFÜGBAR! NR. 12**\n\nIm Kreuzfeld in Röthenbach bei Herzogenbuchsee ist per sofort oder nach Vereinbarung ein innovativer modularer Gewerberaum zu vermieten. Die Idee hinter diesen Gewerberäumen ist es, flexible Arbeitsflächen zu schaffen, die den Bedürfnissen verschiedenster Unternehmen, sowie für Kunst und Hobby gerecht werden können. \n\nDer Gewerberaum verfügt über: \n\n**Gewerberaum gross (110 m2) auf zwei Etagen:**\n\n  * Fläche EG 55m2 / OG 55m2 / Total 110m2 \n\n  * Nettomietzins: CHF 1'320.– / Monat \n\n  * Nebenkosten: CHF 50.– / Monat \n\n  * Nettomietzins Parkplatz: CHF 100.– / Monat \n\n  * Vorplatz mit Parkplatz \n\n  * OG mit Glasfaser-Internetanschluss \n\n  * EG mit Starkstromanschluss 400V und 230V \n\n  * Eigenes WC mit Lavabo \n\n  * **Beheizt und klimatisiert**\n\n  * Elektrische Storen \n\n  * Anschlüsse für Küche OG vorbereitet \n\n  * Sonnerie (Türklingel) \n\n  * Grosses Sektionaltor (4.00m x 4.50m) \n\n\n\n\nEgal, ob Sie ein kleines Start-up-Unternehmen sind oder ein etabliertes Unternehmen, das nach flexiblen Räumlichkeiten sucht, wir haben die passende Lösung für Sie. \n\nVereinbaren Sie noch heute eine Besichtigung und überzeugen Sie sich selbst von den Vorzügen dieser modernen Gewerbeimmobilie an zentraler Lage in Röthenbach bei Herzogenbuchsee.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 110,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 110,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Kreuzfeldweg 24a",
+    "zipcode": 3373,
+    "city": "Röthenbach Herzogenbuchsee",
+    "public_address": "Kreuzfeldweg 24a, 3373 Röthenbach Herzogenbuchsee",
+    "latitude": 47.2038106,
+    "longitude": 7.6873834,
+    "year_built": 2025,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": "https://my.matterport.com/show/?m=EzKR4Sf2H41",
+    "website_url": "https://www.negri-immobilien.ch",
+    "live_viewing_url": null,
+    "cover_image": 47372166,
+    "images": [
+      {
+        "pk": 47372166,
+        "caption": "warehouse style building, multiple doors and windows, garage entrance",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/82b489682f92880acb998ff6173dacfc.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/82b489682f92880acb998ff6173dacfc.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/82b489682f92880acb998ff6173dacfc.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47372177,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/53a92ec8b9bc610f9f1ec4f572355604.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/53a92ec8b9bc610f9f1ec4f572355604.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/53a92ec8b9bc610f9f1ec4f572355604.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47372183,
+        "caption": "blue exterior doors, wooden staircase, white brick walls, concrete floor, open garage door",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/ce28fc02d6b7aee45355ea740caf4f54.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/ce28fc02d6b7aee45355ea740caf4f54.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/ce28fc02d6b7aee45355ea740caf4f54.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 47372820,
+        "caption": "cement floor, white brick walls, wooden staircase, sink",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/cafd9e229b46bb303b5c95ad1a6bf235.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/cafd9e229b46bb303b5c95ad1a6bf235.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/cafd9e229b46bb303b5c95ad1a6bf235.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47372871,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/c2421a794c2467d59e9ade9f221bcef0.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/c2421a794c2467d59e9ade9f221bcef0.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/c2421a794c2467d59e9ade9f221bcef0.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47372873,
+        "caption": "tiled walls, concrete floor, white sink with faucet, mirror, toilet, power outlet, exposed plumbing",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/290efc466891caae725859a69e360707.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/290efc466891caae725859a69e360707.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/290efc466891caae725859a69e360707.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47372875,
+        "caption": "Empty room with white brick walls, wooden ceiling, concrete floor, wooden staircase, and a white garage door.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/081da3b415b9870825e7698a37192ed4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/081da3b415b9870825e7698a37192ed4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/081da3b415b9870825e7698a37192ed4.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47372877,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/86511b3f57b1176932431a3dcb44f2d5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/86511b3f57b1176932431a3dcb44f2d5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/86511b3f57b1176932431a3dcb44f2d5.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47372880,
+        "caption": "tiled walls, wooden beams, window, wooden flooring",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/ac36521918d95c75a311c627f272d2ee.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/ac36521918d95c75a311c627f272d2ee.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/ac36521918d95c75a311c627f272d2ee.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47372881,
+        "caption": "Large open room, wooden floor, white brick walls, wooden beams on the ceiling, recessed lighting",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/4241ca6f6f5d6fa8b8cd48d771a3e55c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/4241ca6f6f5d6fa8b8cd48d771a3e55c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/4241ca6f6f5d6fa8b8cd48d771a3e55c.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47372882,
+        "caption": "An empty room with hardwood floor, wooden beams on the ceiling, tiled walls, windows, and stairs",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/b54285241d6dd3301af93ca43ccef189.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/b54285241d6dd3301af93ca43ccef189.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/b54285241d6dd3301af93ca43ccef189.jpg",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47372883,
+        "caption": "Empty room, wooden floors, white brick walls, large window with solar panels view.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/8820966986edef1909ad988078d697ab.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/8820966986edef1909ad988078d697ab.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/8820966986edef1909ad988078d697ab.jpg",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47372886,
+        "caption": "Floor plan of a commercial space with gross sizes, dimensions, and annotations for water, waste, and parking.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/a6194d67e484980cf7dc88dc52f9ae0c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/a6194d67e484980cf7dc88dc52f9ae0c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/a6194d67e484980cf7dc88dc52f9ae0c.jpg",
+        "ordering": 13,
+        "width": 720,
+        "height": 1040
+      },
+      {
+        "pk": 47372888,
+        "caption": "3 rows, 8 parking places each row, 1 free place, rest all marked as rented",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4002954025/image/24b4d3e739646d3b315649835e430212.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4002954025/image/24b4d3e739646d3b315649835e430212.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4002954025/image/24b4d3e739646d3b315649835e430212.jpg",
+        "ordering": 14,
+        "width": 1500,
+        "height": 1504
+      }
+    ],
+    "documents": [
+      681471,
+      681472
+    ],
+    "agency": {
+      "name": "NEGRI Immobilien AG",
+      "name_2": null,
+      "street": "Untere Brühlstrasse 52",
+      "zipcode": "4800",
+      "city": "Zofingen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/q05d1y6rbsilvsam5b5tdskrrick5r7szkjopagz7p0uyrz0ei.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/q05d1y6rbsilvsam5b5tdskrrick5r7szkjopagz7p0uyrz0ei.jpg?alias=org_logo_m&signature=IQbP30vYmaSGbpJ_0c_6v1UUw5PXpNYcyO5_B7643z8"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4002954025",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "110m² Gewerbe in Röthenbach Herzogenbuchsee mieten",
+    "livingspace": 110
+  }
+}

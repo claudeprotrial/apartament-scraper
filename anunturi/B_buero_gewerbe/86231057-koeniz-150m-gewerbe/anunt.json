@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1624.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/kirchstrasse-192-3084-koniz/86231057/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "physiotherapie",
+        "praxen"
+      ],
+      "kw_praxis_slabe": [
+        "massage"
+      ],
+      "kw_business": [
+        "<type>",
+        "atelier",
+        "gewerbe",
+        "gewerblich"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 5
+  },
+  "raw": {
+    "pk": 86231057,
+    "slug": "kirchstrasse-192-3084-koniz",
+    "url": "/de/wohnung/kirchstrasse-192-3084-koniz/86231057/",
+    "short_url": "/86231057/",
+    "submit_url": "/de/listing/86231057/submit/",
+    "status": "act",
+    "created": "2026-07-31T08:19:38.992715+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..a73bh.759qo",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "a73bh.759qo",
+    "alternative_reference": null,
+    "price_display": 1900,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-31T08:19:39.200658+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 1900,
+    "short_title": "150m² Gewerbe",
+    "public_title": "Kirchstrasse 192, 3084 Köniz - CHF 1’900",
+    "pitch_title": "150m² Gewerbe in Köniz mieten",
+    "description_title": "Gewerbliche Räumlichkeiten in Wohn- und Geschäftsgebäude in Wabern",
+    "description": "Vielseitige Gewerberäumlichkeiten an zentraler Lage in Wabern zu vermieten \n\nEntdecken Sie diese vielseitige Gewerberäumlichkeit im Untergeschoss eines gepflegten Gebäudes an der Kirchstrasse 192 in Wabern. Die grosszügige und moderne Gewerbeeinheit bietet ideale Voraussetzungen für verschiedenste Betriebsarten und gewerbliche Nutzungen. \n\n**Die Räumlichkeiten bieten:**\n\n  * Grosszügiger, offener Arbeitsbereich \n\n  * Robuster Industrieboden \n\n  * Industrielle Beleuchtung \n\n  * Tageslicht \n\n  * Geflieste Wände \n\n  * Warenaufzug für den bequemen Transport von Material und Waren \n\n  * Separates WC \n\n\n\n\n**Optimale Lage**\n\nDie Liegenschaft befindet sich an zentraler Lage. Die Gurtenbahn, die Tramhaltestelle Gurtenbahn, Bushaltestellen, der Bahnhof Wabern sowie verschiedene Schulen sind in wenigen Gehminuten erreichbar. \n\nVielfältige Nutzungsmöglichkeiten \n\n**Die Räumlichkeiten eignen sich hervorragend für:**\n\n  * Catering- oder Lebensmittelverarbeitungsbetriebe \n\n  * Maler- und Gipserbetriebe \n\n  * Elektroinstallationsfirmen \n\n  * Bodenleger \n\n  * Massage- oder Physiotherapiepraxen \n\n  * Ateliers, Werkstätten oder Lager \n\n\n\n\nSelbstverständlich sind auch andere gewerbliche Nutzungen willkommen. Wir sind offen für Ihre Ideen und prüfen gerne verschiedene Nutzungskonzepte. \n\nDie zentrale Lage sowie die grosszügigen und funktionalen Räumlichkeiten machen dieses Objekt zu einer ausgezeichneten Wahl für Ihr Unternehmen. \n\n**Hinweis:** Es ist kein Inventar vorhanden. Es muss daher nichts übernommen werden. \n\nDer Aktuell vorhandene Ofen wird vor der Übergabe ausgebaut und gehört daher nicht zum Mietobjekt.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 150,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 150,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Kirchstrasse 192",
+    "zipcode": 3084,
+    "city": "Köniz",
+    "public_address": "Kirchstrasse 192, 3084 Köniz",
+    "latitude": 46.9293882,
+    "longitude": 7.4466601,
+    "year_built": 1910,
+    "year_renovated": 2010,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48476898,
+    "images": [
+      {
+        "pk": 48476898,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003351416/image/214d1f3a2a419e5d4695f2ea4fe81b0c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003351416/image/214d1f3a2a419e5d4695f2ea4fe81b0c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003351416/image/214d1f3a2a419e5d4695f2ea4fe81b0c.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48476899,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003351416/image/f908d5c3228e91926cadec164cbb59e5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003351416/image/f908d5c3228e91926cadec164cbb59e5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003351416/image/f908d5c3228e91926cadec164cbb59e5.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48476900,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003351416/image/eb755b0e3cf7364b5aa16a80d4848340.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003351416/image/eb755b0e3cf7364b5aa16a80d4848340.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003351416/image/eb755b0e3cf7364b5aa16a80d4848340.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 2000
+      },
+      {
+        "pk": 48476901,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003351416/image/6523f7f4e0baed12f992876fe7ecd3ce.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003351416/image/6523f7f4e0baed12f992876fe7ecd3ce.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003351416/image/6523f7f4e0baed12f992876fe7ecd3ce.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 48476902,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4003351416/image/f01eb9f0fa7c872a08502c8dd6bd2a18.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4003351416/image/f01eb9f0fa7c872a08502c8dd6bd2a18.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4003351416/image/f01eb9f0fa7c872a08502c8dd6bd2a18.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 2000
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "LAYF GmbH",
+      "name_2": null,
+      "street": "Buckhauserstrasse 36",
+      "zipcode": "8048",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/5uhzmji3ues4axveell35djyxqxk9hfyokgj38qi1ut8dzbl6h.png",
+        "url_org_logo_m": "/thumb/org/2026/07/5uhzmji3ues4axveell35djyxqxk9hfyokgj38qi1ut8dzbl6h.png?alias=org_logo_m&signature=FVUQAP9OLDIG1zYuAQbrOR-h4NTZExjKDGj-_k3qPUo"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003351416",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "150m² Gewerbe in Köniz mieten",
+    "livingspace": 150
+  }
+}

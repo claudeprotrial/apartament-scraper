@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1756.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/feldstrasse-32a-3073-gumligen/85475290/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "dienstleistung",
+        "empfang",
+        "gewerbefläche",
+        "office",
+        "showroom"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 85475290,
+    "slug": "feldstrasse-32a-3073-gumligen",
+    "url": "/de/wohnung/feldstrasse-32a-3073-gumligen/85475290/",
+    "short_url": "/85475290/",
+    "submit_url": "/de/listing/85475290/submit/",
+    "status": "act",
+    "created": "2025-11-03T09:37:57.577442+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..5629387",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "5629387",
+    "alternative_reference": null,
+    "price_display": 267,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-11-03T09:37:59.595948+01:00",
+    "rent_net": 242,
+    "rent_charges": 25,
+    "rent_gross": 267,
+    "short_title": "983m² Büro",
+    "public_title": "Feldstrasse 32a, 3073 Gümligen - CHF 267",
+    "pitch_title": "983m² Büro in Gümligen mieten",
+    "description_title": "ATTRAKTIVE BÜROFLÄCHE IN MURI BEI BERN",
+    "description": "OBJEKTBESCHRIEB:   \nAn zentraler und gut frequentierter Lage in Muri bei Bern vermieten wir eine äusserst attraktive und flexibel nutzbare Gewerbefläche mit insgesamt 983m² Nutzfläche. Die Verkaufsräume von Petfriends überzeugen durch ihre moderne Infrastruktur, lichtdurchflutete Flächen, funktionale Logistik und vielseitige Nutzungsmöglichkeiten - sowohl für Verkaufs- als auch Dienstleistungs- oder Lagerkonzepte.   \n  \nDie Liegenschaft befindet sich an verkehrsgünstiger und gut sichtbarer Lage in Muri bei Bern - nur wenige Fahrminuten von der Stadt Bern entfernt. Der Standort bietet eine ausgezeichnete Erreichbarkeit über die Autobahn A6 sowie mit öffentlichen Verkehrsmitteln. Bushaltestellen und Einkaufsmöglichkeiten befinden sich in unmittelbarer Nähe - was die Lage auch für Mitarbeitende und Kundschaft äusserst attraktiv macht.   \n  \nOb Fachgeschäft, Ausstellungsraum, Showroom, Praxis, Büroflächen oder eine Kombination aus Verkaufs- und Lagerfläche - diese Immobilie bietet Ihnen den idealen Rahmen, Ihre Geschäftsidee professionell umzusetzen.   \n  \nDAS WICHTIGSTE IN KÜRZE:   \n  \n\\- Zwei separate Kundenzugänge - über das Erdgeschoss sowie direkt aus der Einstellhalle, bequem erreichbar via Treppe oder Lift   \n\\- LKW-Zufahrt mit separatem Anlieferungsbereich - ideal für Anlieferung und Logistik   \n\\- Separater Anlieferungslift - bietet Platz für palettengrosse Güter (mit Rolli befahrbar)   \n\\- Grosszügige, exklusive Dachterrasse - nur über die Mietfläche zugänglich; perfekt für Mitarbeitende, Events oder Kundenempfang   \n\\- Raumhöhen von 2.50m bis 2.80m - geeignet für unterschiedlichste Nutzungskonzepte   \n\\- Helle Büroflächen mit moderner Ausstrahlung und idealer Tageslichtversorgung.   \n\\- Flexible Raumaufteilung - ideal für individuelle Anforderungen und kombinierte Nutzungen   \n\\- Kundenparkplätze vorhanden - im Aussenbereich sowie in der Einstellhalle im Untergeschoss   \n\\- Gepflegte Liegenschaft mit professionellem Erscheinungsbild   \n\\- Werbewirksame Lage mit hoher Sichtbarkeit   \n\\- Die Nebenkosten betragen 25.- pro m2/Jahr   \n  \nNutzen Sie das Potenzial dieser Bürofläche an einem etablierten Standort mit Perspektive.   \n  \nFür weitere Auskünfte oder für eine Besichtigung vor Ort stehen wir Ihnen jederzeit gerne zur Verfügung.   \n  \n\"Ihre Spezialisten für Gewerbe- und Wohn-Lifestyle\"",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 983,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 983,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Feldstrasse 32a",
+    "zipcode": 3073,
+    "city": "Gümligen",
+    "public_address": "Feldstrasse 32a, 3073 Gümligen",
+    "latitude": 46.926987,
+    "longitude": 7.503214700000001,
+    "year_built": 2018,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47503566,
+    "images": [
+      {
+        "pk": 47503566,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/3be84e7974a9181304f6017e0b4cf0c8.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/3be84e7974a9181304f6017e0b4cf0c8.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/3be84e7974a9181304f6017e0b4cf0c8.jpg",
+        "ordering": 1,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503567,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/cd3dfd0c7b840acf657fa5551a9387b8.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/cd3dfd0c7b840acf657fa5551a9387b8.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/cd3dfd0c7b840acf657fa5551a9387b8.jpg",
+        "ordering": 2,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503568,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/e9ea7d0da364718d845e6e537d12b155.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/e9ea7d0da364718d845e6e537d12b155.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/e9ea7d0da364718d845e6e537d12b155.jpg",
+        "ordering": 3,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503569,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/e01d5cc4a7fdd15fb0524ccb391e1294.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/e01d5cc4a7fdd15fb0524ccb391e1294.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/e01d5cc4a7fdd15fb0524ccb391e1294.jpg",
+        "ordering": 4,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503570,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/abd4e0372e5219ffc8e82a0d3734be38.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/abd4e0372e5219ffc8e82a0d3734be38.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/abd4e0372e5219ffc8e82a0d3734be38.jpg",
+        "ordering": 5,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503571,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/4c77d6667df5fa67e297605eafcaa13c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/4c77d6667df5fa67e297605eafcaa13c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/4c77d6667df5fa67e297605eafcaa13c.jpg",
+        "ordering": 6,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503572,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/3301c293d70f7a704f66c24b87dc4320.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/3301c293d70f7a704f66c24b87dc4320.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/3301c293d70f7a704f66c24b87dc4320.jpg",
+        "ordering": 7,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503573,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/5c4e9264e8cb401b5c787a51e32a9ac6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/5c4e9264e8cb401b5c787a51e32a9ac6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/5c4e9264e8cb401b5c787a51e32a9ac6.jpg",
+        "ordering": 8,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503574,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/20df9610c2d1901f0d379b580d0c98ae.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/20df9610c2d1901f0d379b580d0c98ae.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/20df9610c2d1901f0d379b580d0c98ae.jpg",
+        "ordering": 9,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503575,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/1c1441f2f1d994bc297cf47be60a4d91.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/1c1441f2f1d994bc297cf47be60a4d91.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/1c1441f2f1d994bc297cf47be60a4d91.jpg",
+        "ordering": 10,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503576,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/6093cb5ac484108370ad9025c07d105c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/6093cb5ac484108370ad9025c07d105c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/6093cb5ac484108370ad9025c07d105c.jpg",
+        "ordering": 11,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47503577,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w002/4002662545/image/2199da90d55083b7e9d23e90c290daaf.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w002/4002662545/image/2199da90d55083b7e9d23e90c290daaf.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w002/4002662545/image/2199da90d55083b7e9d23e90c290daaf.jpg",
+        "ordering": 12,
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Lifestyle Company AG",
+      "name_2": null,
+      "street": "Hallwylstrasse 48",
+      "zipcode": "3005",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/nx5oakk2fwfc4w9y2lrqdakaddnllk7ddl7dolbhswfj54zbkj.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/nx5oakk2fwfc4w9y2lrqdakaddnllk7ddl7dolbhswfj54zbkj.jpg?alias=org_logo_m&signature=J7wecxBR_z974k3lx-E_4htqDyL_NaH3kNI06jpSVY8"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4002662545",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "983m² Büro in Gümligen mieten",
+    "livingspace": 983
+  }
+}

@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1634.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/3360-herzogenbuchsee/85991561/",
+    "descarcat": "2026-08-17 12:36",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "grossraumbüro",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 17
+  },
+  "raw": {
+    "pk": 85991561,
+    "slug": "3360-herzogenbuchsee",
+    "url": "/de/wohnung/3360-herzogenbuchsee/85991561/",
+    "short_url": "/85991561/",
+    "submit_url": "/de/listing/85991561/submit/",
+    "status": "act",
+    "created": "2026-04-28T12:58:00.268791+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "3360-26-M001.1740363.9726e89d-42f0-11f1-8fa4-069ae14c7a06",
+    "ref_property": "3360-26-M001",
+    "ref_house": "1740363",
+    "ref_object": "9726e89d-42f0-11f1-8fa4-069ae14c7a06",
+    "alternative_reference": null,
+    "price_display": 2875,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-04-28T12:58:09.177914+02:00",
+    "rent_net": 2375,
+    "rent_charges": 500,
+    "rent_gross": 2875,
+    "short_title": "230m² Büro",
+    "public_title": "3360 Herzogenbuchsee - CHF 2’875",
+    "pitch_title": "230m² Büro in Herzogenbuchsee mieten",
+    "description_title": "Attraktives Grossraumbüro mit 230 m² - in Herzogenbuchsee - Repräsentativ und sofort nutzbar",
+    "description": "Attraktives Grossraumbüro mit 230 m² - in Herzogenbuchsee - Repräsentativ und sofort nutzbar \n\nDieses modern ausgestattete Grossraumbüro bietet etablierten Unternehmen eine repräsentative und flexible Arbeitsfläche im Herzen von Herzogenbuchsee. Vollständig möbliert und sofort bezugsbereit - hier kann Ihr Team vom ersten Tag an durchstarten. \n\n**Objekt Highlights**\n\n  * **Fläche:** 230 m² modernisierte Nutzfläche im 1. Obergeschoss \n  * **Ausstattung:** Vollständig möbliert und bezugsbereit \n  * **Konferenzraum:** Integrierter Konferenzraum für Meetings und Präsentationen \n  * **Küche:** Gemeinschaftsküche vorhanden \n  * **Terrasse:** Eigener Aussenbereich für Pausen und informelle Gespräche \n  * **Lift:** Barrierefreier Zugang mit Lift \n  * **Parkplatz:** Parkmöglichkeiten vorhanden \n  * **Miete:** Staffelmiete möglich \n\n\n\n**Objektbeschrieb**\n\nDas modernisierte Büro überzeugt durch seine durchdachte Raumaufteilung, die sowohl konzentriertes Arbeiten als auch offene Zusammenarbeit ermöglicht. Die Raumhöhe von 2.45 m und die sonnige Ausrichtung sorgen für ein angenehmes Arbeitsklima. Dank vollständiger Möblierung und sofortiger Verfügbarkeit entfällt jeglicher Einrichtungsaufwand. \n\n**Lage und Umfeld**\n\nHerzogenbuchsee liegt im Kanton Bern und ist dank seiner zentralen Lage im Mittelland optimal an die Hauptverkehrsachsen angebunden. Der Bahnhof Herzogenbuchsee bietet direkte Verbindungen nach Bern, Solothurn und Olten - ideal für Mitarbeitende und Geschäftspartner aus der ganzen Region. \n\n**Interessiert?**\n\nKontaktieren Sie uns für weitere Informationen oder zur Vereinbarung eines Besichtigungstermins. Weitere attraktive Immobilien in der Schweiz finden Sie auf www.coming-home.ch",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 230,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 230,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "petsallowed"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": null,
+    "zipcode": 3360,
+    "city": "Herzogenbuchsee",
+    "public_address": "3360 Herzogenbuchsee",
+    "latitude": 47.194344936660784,
+    "longitude": 7.7148589078090986,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": "https://tour.giraffe360.com/92b4e8b6079c4ab9bd8689a00ca2eb34",
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47215166,
+    "images": [
+      {
+        "pk": 47215166,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/aa794947082eda547db4e4b8a8188635.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/aa794947082eda547db4e4b8a8188635.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/aa794947082eda547db4e4b8a8188635.jpg",
+        "ordering": 1,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215272,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/84c81199c65b663f431b0662e68195d9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/84c81199c65b663f431b0662e68195d9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/84c81199c65b663f431b0662e68195d9.jpg",
+        "ordering": 2,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215253,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/33c13b25818efcd2b24e71c133ba08a4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/33c13b25818efcd2b24e71c133ba08a4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/33c13b25818efcd2b24e71c133ba08a4.jpg",
+        "ordering": 3,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215156,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/c4a709228e66d23e2f45c137592318b8.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/c4a709228e66d23e2f45c137592318b8.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/c4a709228e66d23e2f45c137592318b8.jpg",
+        "ordering": 4,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215177,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/2824562de9a07414b87850c98fb89450.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/2824562de9a07414b87850c98fb89450.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/2824562de9a07414b87850c98fb89450.png",
+        "ordering": 5,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215163,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/5c932b0898c25cb0871f4bed550f721b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/5c932b0898c25cb0871f4bed550f721b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/5c932b0898c25cb0871f4bed550f721b.jpg",
+        "ordering": 6,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215248,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/ea29ca80970a6ba746363933f6c7660c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/ea29ca80970a6ba746363933f6c7660c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/ea29ca80970a6ba746363933f6c7660c.jpg",
+        "ordering": 7,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215257,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/1d4b308bb44614d25e9ec67d0ccdf945.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/1d4b308bb44614d25e9ec67d0ccdf945.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/1d4b308bb44614d25e9ec67d0ccdf945.jpg",
+        "ordering": 8,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215266,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/25aecf35ca07e579ef7142c697334d8c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/25aecf35ca07e579ef7142c697334d8c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/25aecf35ca07e579ef7142c697334d8c.jpg",
+        "ordering": 9,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215277,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/922a167972ae524190da74018a2e9c2d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/922a167972ae524190da74018a2e9c2d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/922a167972ae524190da74018a2e9c2d.jpg",
+        "ordering": 10,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215281,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/19e60e19bf4cb0dd38770e358a84bf8c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/19e60e19bf4cb0dd38770e358a84bf8c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/19e60e19bf4cb0dd38770e358a84bf8c.jpg",
+        "ordering": 11,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215287,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/5d67589abc905ca1af5f0bf80814ca51.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/5d67589abc905ca1af5f0bf80814ca51.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/5d67589abc905ca1af5f0bf80814ca51.jpg",
+        "ordering": 12,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215159,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/09a1e83f466bc89583024b2cb11f7baf.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/09a1e83f466bc89583024b2cb11f7baf.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/09a1e83f466bc89583024b2cb11f7baf.jpg",
+        "ordering": 13,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215294,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/4a5fb7fbf17c64d5ce51107436a4ca08.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/4a5fb7fbf17c64d5ce51107436a4ca08.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/4a5fb7fbf17c64d5ce51107436a4ca08.jpg",
+        "ordering": 14,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215299,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/bc0f37e65621e01a2f7e9cb628b238d7.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/bc0f37e65621e01a2f7e9cb628b238d7.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/bc0f37e65621e01a2f7e9cb628b238d7.jpg",
+        "ordering": 15,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215303,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/f45919d55f4f1c4eb14820b2b1793440.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/f45919d55f4f1c4eb14820b2b1793440.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/f45919d55f4f1c4eb14820b2b1793440.jpg",
+        "ordering": 16,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47215306,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/w056/4003119851/image/35a554dcfbb28fac7fa6bfa38205a6e9.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/w056/4003119851/image/35a554dcfbb28fac7fa6bfa38205a6e9.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/w056/4003119851/image/35a554dcfbb28fac7fa6bfa38205a6e9.png",
+        "ordering": 17,
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "coming home GmbH",
+      "name_2": null,
+      "street": "Weidenweg 225",
+      "zipcode": "3902",
+      "city": "Glis",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/hg91l6s65e8nt5ndyz5yxob372uocblo2h5q2vwsbbpsflxa6z.png",
+        "url_org_logo_m": "/thumb/org/2026/07/hg91l6s65e8nt5ndyz5yxob372uocblo2h5q2vwsbbpsflxa6z.png?alias=org_logo_m&signature=xaiL0XBA9SizOyALMvEiwUKNM7IIB11-lay31oHLQHI"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003119851",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "230m² Büro in Herzogenbuchsee mieten",
+    "livingspace": 230
+  }
+}

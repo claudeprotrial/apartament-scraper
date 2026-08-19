@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1732.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/thunstrasse-26-3110-munsingen/85559528/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "medizinisch",
+        "physiotherapie",
+        "podologie",
+        "praxen",
+        "praxisräume"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "agentur",
+        "büro-",
+        "dienstleistung",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant",
+        "shop"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 17
+  },
+  "raw": {
+    "pk": 85559528,
+    "slug": "thunstrasse-26-3110-munsingen",
+    "url": "/de/wohnung/thunstrasse-26-3110-munsingen/85559528/",
+    "short_url": "/85559528/",
+    "submit_url": "/de/listing/85559528/submit/",
+    "status": "act",
+    "created": "2025-12-01T08:11:37.993730+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..zh8se.oqygm",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "zh8se.oqygm",
+    "alternative_reference": null,
+    "price_display": 2500,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-12-01T08:11:42.533272+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 2500,
+    "short_title": "180m² Büro",
+    "public_title": "Thunstrasse 26, 3110 Münsingen - CHF 2’500",
+    "pitch_title": "180m² Büro in Münsingen mieten",
+    "description_title": "Moderne Büro- oder Praxisräume in Münsingen – zentral, hell und vielseitig nutzbar",
+    "description": "An der **Thunstrasse 26 in Münsingen** vermieten wir attraktive Räumlichkeiten mit **180 m² Nutzfläche** im Erdgeschoss eines gepflegten Wohn- und Restaurantgebäudes (Baujahr 1984). Die Räume wurden **2016 umfassend renoviert** und bieten eine moderne Infrastruktur in idealer Lage – perfekt für Unternehmen, Dienstleister oder medizinische Praxen. \n\n**Ihre Vorteile im Überblick**\n\n  * **Grosszügige Raumaufteilung:** 5 helle, freundliche Räume mit Holzböden und weissen Wänden \n\n  * **Moderne Ausstattung:** Grosse Fenster für optimale Lichtverhältnisse, zeitgemässe Deckenbeleuchtung \n\n  * **Sanitäre Anlagen:** Zwei separate WC \n\n  * **Komfort und Extras:** Terrasse für Pausen im Freien, 3 Kundenparkplätze inklusive \n\n  * **Technische Infrastruktur:** Brüstungskanäle für Strom und UKV vorhanden – ideal für flexible Büroorganisation \n\n\n\n\n**Vielseitige Nutzungsmöglichkeiten**\n\nDie Räumlichkeiten eignen sich hervorragend für: \n\n  * **Büros** (Dienstleistungsunternehmen, Agenturen, Start-ups) \n\n  * **Beratungspraxen** (Coaching, Psychologie, Therapie) \n\n  * **Gesundheits- und Therapieangebote** (Physiotherapie, Ernährungsberatung, Podologie) \n\n\n\n\n**Top Lage und Anbindung**\n\n  * Bahnhof Münsingen in **7 Gehminuten** erreichbar \n\n  * Bushaltestelle **Aeschistrasse** direkt vor der Haustür \n\n  * Tankstellen-Shop und weitere Einkaufsmöglichkeiten in unmittelbarer Nähe",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 180,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 180,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Thunstrasse 26",
+    "zipcode": 3110,
+    "city": "Münsingen",
+    "public_address": "Thunstrasse 26, 3110 Münsingen",
+    "latitude": 46.8692532,
+    "longitude": 7.5632407,
+    "year_built": 1984,
+    "year_renovated": 2016,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47764532,
+    "images": [
+      {
+        "pk": 47764532,
+        "caption": "Two-story building, with multiple balconies, front door, pink bicycle parked.",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/e9c7d8d194f72521a0fbdf43c54e981a.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/e9c7d8d194f72521a0fbdf43c54e981a.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/e9c7d8d194f72521a0fbdf43c54e981a.png",
+        "ordering": 1,
+        "width": 1404,
+        "height": 964
+      },
+      {
+        "pk": 47764533,
+        "caption": "wooden floor, large windows, two lamps, view to outdoor",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/4b157ab5e875f8eaa576d1ce1df9b652.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/4b157ab5e875f8eaa576d1ce1df9b652.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/4b157ab5e875f8eaa576d1ce1df9b652.png",
+        "ordering": 2,
+        "width": 1404,
+        "height": 968
+      },
+      {
+        "pk": 47764534,
+        "caption": "an empty room with white walls, wooden floor, two windows with balcony, two ceiling lights",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/48e0d545f5705c5f9e1fe66c4d511c13.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/48e0d545f5705c5f9e1fe66c4d511c13.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/48e0d545f5705c5f9e1fe66c4d511c13.png",
+        "ordering": 3,
+        "width": 1406,
+        "height": 972
+      },
+      {
+        "pk": 47764535,
+        "caption": "empty room, double doors, windows, table, ceiling light",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/e24219330870206461047de2e7d0017d.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/e24219330870206461047de2e7d0017d.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/e24219330870206461047de2e7d0017d.png",
+        "ordering": 4,
+        "width": 1404,
+        "height": 970
+      },
+      {
+        "pk": 47764536,
+        "caption": "bathroom with white sink, white toilet, small window, mirror, blue buckets on the floor",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/1ffcb610a7d25bdb2a61d2ecd99f310b.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/1ffcb610a7d25bdb2a61d2ecd99f310b.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/1ffcb610a7d25bdb2a61d2ecd99f310b.png",
+        "ordering": 5,
+        "width": 790,
+        "height": 1004
+      },
+      {
+        "pk": 47764537,
+        "caption": "Empty room, white walls, gray carpet, two round ceiling lights",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/7d95ddaf9e84640002c66edafeb77656.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/7d95ddaf9e84640002c66edafeb77656.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/7d95ddaf9e84640002c66edafeb77656.png",
+        "ordering": 6,
+        "width": 1404,
+        "height": 972
+      },
+      {
+        "pk": 47764538,
+        "caption": "empty room, wooden floor, white walls, glass doors, closet",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/df1b2e7506775203846b20289491725e.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/df1b2e7506775203846b20289491725e.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/df1b2e7506775203846b20289491725e.png",
+        "ordering": 7,
+        "width": 1408,
+        "height": 956
+      },
+      {
+        "pk": 47764539,
+        "caption": "modern, white tiled walls, white sink, white toilet, overhead lighting, mirror, hand soap",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/814c0a4f4cbd5be5b5191dfc25f851a4.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/814c0a4f4cbd5be5b5191dfc25f851a4.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/814c0a4f4cbd5be5b5191dfc25f851a4.png",
+        "ordering": 8,
+        "width": 788,
+        "height": 1000
+      },
+      {
+        "pk": 47764540,
+        "caption": "A room with white walls and wooden floor. The ceiling has two white ceiling lights. There is a white door and another open door. The right open door leads to a dark area.",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/7917d160f2e6e10240ff54d498c2e7da.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/7917d160f2e6e10240ff54d498c2e7da.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/7917d160f2e6e10240ff54d498c2e7da.png",
+        "ordering": 9,
+        "width": 1406,
+        "height": 964
+      },
+      {
+        "pk": 47764541,
+        "caption": "Thai restaurant with a parking lot",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/330a6753addf78ca9ddac8fea192c2bd.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/330a6753addf78ca9ddac8fea192c2bd.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/330a6753addf78ca9ddac8fea192c2bd.png",
+        "ordering": 10,
+        "width": 1406,
+        "height": 964
+      },
+      {
+        "pk": 47764542,
+        "caption": "A gas station with the name 'COOP' is next to an apartment building. A red bus is driving by the gas station. A tree is on the left side, and some signs are near the road.",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/f3f11cd32d2a0e16b26f1350eff75701.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/f3f11cd32d2a0e16b26f1350eff75701.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/f3f11cd32d2a0e16b26f1350eff75701.png",
+        "ordering": 11,
+        "width": 1402,
+        "height": 966
+      },
+      {
+        "pk": 47764543,
+        "caption": "Empty hall way, gray carpet, bright white walls, white ceiling, ceiling lights",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/55a83e51a8ff5fca5aa581b9dd586582.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/55a83e51a8ff5fca5aa581b9dd586582.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/55a83e51a8ff5fca5aa581b9dd586582.png",
+        "ordering": 12,
+        "width": 1406,
+        "height": 980
+      },
+      {
+        "pk": 47764544,
+        "caption": "empty room with white walls and flooring, entrance with a white carpet, window, lamp",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/790637d0b7644d87e75cabd08ef748c9.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/790637d0b7644d87e75cabd08ef748c9.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/790637d0b7644d87e75cabd08ef748c9.png",
+        "ordering": 13,
+        "width": 788,
+        "height": 1004
+      },
+      {
+        "pk": 47764545,
+        "caption": "empty room, wooden floor, double-glazed window, white kitchen with sink and microwave, power outlets on the wall",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/077df1e667ba966a14ee2c2be4dd1986.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/077df1e667ba966a14ee2c2be4dd1986.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/077df1e667ba966a14ee2c2be4dd1986.png",
+        "ordering": 14,
+        "width": 1404,
+        "height": 970
+      },
+      {
+        "pk": 47764546,
+        "caption": "Empty room, light wooden ceiling, white walls, open door, carpet floor",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/81f9dd78278830577aac8f8e6a8791e9.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/81f9dd78278830577aac8f8e6a8791e9.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/81f9dd78278830577aac8f8e6a8791e9.png",
+        "ordering": 15,
+        "width": 1390,
+        "height": 964
+      },
+      {
+        "pk": 47764547,
+        "caption": "Empty room with large windows, ceiling mounted lights, wooden floors, and white walls.",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/7de0f7ffbfaa0e492ad84119b8fb4430.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/7de0f7ffbfaa0e492ad84119b8fb4430.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/7de0f7ffbfaa0e492ad84119b8fb4430.png",
+        "ordering": 16,
+        "width": 1404,
+        "height": 970
+      },
+      {
+        "pk": 47764548,
+        "caption": "empty room with wooden floor, large windows, ceiling lights",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002739379/image/dbcef5d0db84d9367453c4a318e5a30f.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002739379/image/dbcef5d0db84d9367453c4a318e5a30f.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002739379/image/dbcef5d0db84d9367453c4a318e5a30f.png",
+        "ordering": 17,
+        "width": 1406,
+        "height": 968
+      }
+    ],
+    "documents": [
+      753827
+    ],
+    "agency": {
+      "name": "LAYF GmbH",
+      "name_2": null,
+      "street": "Buckhauserstrasse 36",
+      "zipcode": "8048",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/5uhzmji3ues4axveell35djyxqxk9hfyokgj38qi1ut8dzbl6h.png",
+        "url_org_logo_m": "/thumb/org/2026/07/5uhzmji3ues4axveell35djyxqxk9hfyokgj38qi1ut8dzbl6h.png?alias=org_logo_m&signature=FVUQAP9OLDIG1zYuAQbrOR-h4NTZExjKDGj-_k3qPUo"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4002739379",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "180m² Büro in Münsingen mieten",
+    "livingspace": 180
+  }
+}

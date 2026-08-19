@@ -1,0 +1,135 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1728.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/ostermundigenstr-93a-3006-bern/84896019/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 2
+  },
+  "raw": {
+    "pk": 84896019,
+    "slug": "ostermundigenstr-93a-3006-bern",
+    "url": "/de/wohnung/ostermundigenstr-93a-3006-bern/84896019/",
+    "short_url": "/84896019/",
+    "submit_url": "/de/listing/84896019/submit/",
+    "status": "act",
+    "created": "2025-08-12T16:29:37.105486+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "26116.02.6002",
+    "ref_property": "26116",
+    "ref_house": "02",
+    "ref_object": "6002",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2025-08-26T02:10:03.958958+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "522m² Gewerbe",
+    "public_title": "Ostermundigenstr. 93a, 3006 Bern - auf Anfrage",
+    "pitch_title": "522m² Gewerbe in Bern mieten",
+    "description_title": "Hochhuus: Hier entsteht Raum für Erfolg",
+    "description": "An der Ostermundigenstrasse 93a, am östlichen Stadteingang von Bern, erwartet Sie eine Gewerbefläche mit bester Erreichbarkeit. Der Bus hält direkt vor dem Gebäude, der Bahnhof Ostermundigen ist in wenigen Minuten zu Fuss erreichbar und auch die Autobahn liegt ganz in der Nähe. So gelangen Mitarbeitende, Kunden und Partner jederzeit bequem an Ihren Standort.   \n  \nIm Erdgeschoss des Hochhuus eröffnet sich Ihnen eine grosszügige Gewerbefläche von 522 m2, die den idealen Rahmen für Ihre Geschäftsidee bietet. Dank des Rohbau-Standards können Sie die Fläche frei nach Ihren Vorstellungen ausbauen und so ein Umfeld schaffen, das perfekt zu Ihrem Unternehmen passt.   \n  \nDas Angebot umfasst vielseitige Nutzungsmöglichkeiten, von modernen Büros über Praxis- und Dienstleistungsflächen bis zu Fitness oder innovativen Konzepten. Ergänzend können im 2. Untergeschoss Lagerflächen gemietet werden, die dank Warenlift und Anlieferungsrampe direkt erreichbar sind.   \n**  \nGut fürs Geschäft: **   \n\\- flexible Nutzungsmöglichkeiten (Mieterausbau)   \n\\- auf Wunsch Abstellplatz für CHF 80.00 pro Monat   \n  \n**Ihre Vorteile mit Regimo Business:**   \n1\\. Individuelle Mietpreis- und Vertragsmodelle   \n2\\. Beratung und Unterstützung bei der Umbau- und Einrichtungsplanung durch ausgewiesene Spezialisten.   \n3\\. Persönliche Betreuung und hohe Flexibilität im Hinblick auf Mieterwünsche während der gesamten Vertragsdauer.   \n  \nDas Hochhuus ist ein architektonisches Wahrzeichen mit Geschichte. Es verleiht Ihrem Unternehmen eine repräsentative Adresse und verbindet Funktionalität mit Charakter. Mehr Informationen: [ **Hochhuus** ](https://navigator5.beyonity.ch/?id=2FE9C154&language=ch) .   \n  \nHaben wir Ihr Interesse geweckt? Dann zögern Sie nicht und kontaktieren Sie uns, um einen individuellen Besichtigungstermin zu vereinbaren.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 522,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 522,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Ostermundigenstr. 93a",
+    "zipcode": 3006,
+    "city": "Bern",
+    "public_address": "Ostermundigenstr. 93a, 3006 Bern",
+    "latitude": 46.9545715,
+    "longitude": 7.4764747,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "http://www.hochhuus.ch",
+    "live_viewing_url": null,
+    "cover_image": 27005313,
+    "images": [
+      {
+        "pk": 27005313,
+        "caption": "Visualisierung Gebäude",
+        "url": "/media/ff/2025/08/ibzezgq5q915jaemidvocgxxomfd754n0dwnjlbenl3q6g8wfq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/08/ibzezgq5q915jaemidvocgxxomfd754n0dwnjlbenl3q6g8wfq.jpg?alias=thumb_m&signature=ed_WddBf3Q1TmrMctnTWjgmhqry_XRZTERPUFeBRLFU",
+        "url_listing_search": "/thumb/ff/2025/08/ibzezgq5q915jaemidvocgxxomfd754n0dwnjlbenl3q6g8wfq.jpg?alias=listing_search&signature=9TXSA6dR4currFuc0AhMVYDuQUcjwZPJCZx1SLqc70Y",
+        "ordering": 1,
+        "width": 1024,
+        "height": 640
+      },
+      {
+        "pk": 27005315,
+        "caption": "Grundrissplan",
+        "url": "/media/ff/2025/08/azsnhprzuh2qhrfphxf93nbt2rvu4ox75cqticy2traf4wcdwr.jpg",
+        "url_thumb_m": "/thumb/ff/2025/08/azsnhprzuh2qhrfphxf93nbt2rvu4ox75cqticy2traf4wcdwr.jpg?alias=thumb_m&signature=XiXmLa0aNic1GlIAno0el6YVyV0nK5TKoJzeD9L8pHA",
+        "url_listing_search": "/thumb/ff/2025/08/azsnhprzuh2qhrfphxf93nbt2rvu4ox75cqticy2traf4wcdwr.jpg?alias=listing_search&signature=OvbCYnWSqbvK8JVe0-EvnI98KU5cj8w2QCZ9XJhQkmA",
+        "ordering": 2,
+        "width": 724,
+        "height": 1024
+      }
+    ],
+    "documents": [
+      533994
+    ],
+    "agency": {
+      "name": "Regimo Bern",
+      "name_2": null,
+      "street": "Thunstrasse 32",
+      "zipcode": "3005",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2021/12/2dnnxk3molu2gs3rl9kmq3gnnvyiinqss6ecdwlui5net3gago.png",
+        "url_org_logo_m": "/thumb/org/2021/12/2dnnxk3molu2gs3rl9kmq3gnnvyiinqss6ecdwlui5net3gago.png?alias=org_logo_m&signature=kzSOc6Nsvbq-rPa4B2ObOeHKVrzCtkRo1-Qv4x0RmH0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "522m² Gewerbe in Bern mieten",
+    "livingspace": 522
+  }
+}

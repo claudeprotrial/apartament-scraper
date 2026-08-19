@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1798.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/neuengasse-20-3011-bern/85981905/",
+    "descarcat": "2026-08-17 12:25",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "dienstleistung",
+        "gewerbeobjekt",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 19
+  },
+  "raw": {
+    "pk": 85981905,
+    "slug": "neuengasse-20-3011-bern",
+    "url": "/de/wohnung/neuengasse-20-3011-bern/85981905/",
+    "short_url": "/85981905/",
+    "submit_url": "/de/listing/85981905/submit/",
+    "status": "act",
+    "created": "2026-04-24T14:29:27.379341+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "4201..5001",
+    "ref_property": "4201",
+    "ref_house": "",
+    "ref_object": "5001",
+    "alternative_reference": "",
+    "price_display": 260,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-04-27T15:26:28.207141+02:00",
+    "rent_net": 260,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "606m² Büro",
+    "public_title": "Neuengasse 20, 3011 Bern - CHF 260 exkl. NK pro m² / Jahr",
+    "pitch_title": "606m² Büro in Bern mieten",
+    "description_title": "Büroräumlichkeiten mit über 600m² Nutzfläche mitten im Stadtzentrum",
+    "description": "An zentraler Lage in der Berner Innenstadt an der Neuengasse steht dieses grosszügige Gewerbeobjekt mit insgesamt 606 m² Nutzfläche zur Verfügung. Die Fläche verteilt sich auf das 5. und 6. Obergeschoss eines Geschäftshauses.  \nDie Räumlichkeiten bieten ein ruhiges und angenehmes Arbeitsumfeld mitten im Stadtzentrum und überzeugen durch eine flexible Raumaufteilung sowie viel Tageslicht. Sie eignen sich ideal für Büro-, Praxis-, Schulungs- oder Dienstleistungsnutzungen..  \n  \n\n*   606 m² Nutzfläche auf 2 Etagen (5. & 6. OG)\n*   Zentrale Lage an der Neuengasse in Bern\n*   Ruhige Arbeitsatmosphäre im Stadtzentrum\n*   Flexible Nutzungsmöglichkeiten\n*   Sehr gute Erreichbarkeit mit ÖV\n*   Lift vorhanden\n\nEine attraktive Gelegenheit für Unternehmen, die eine grosszügige Fläche an bester Innenstadtlage suchen.  \n  \nEin Mieterausbau kann individuell geprüft werden.  \n  \nHaben wir Interesse geweckt? Dann zögern Sie nicht und kontaktieren uns noch heute.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 606,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 606,
+    "number_of_rooms": null,
+    "floor": 5,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Neuengasse 20",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Neuengasse 20, 3011 Bern",
+    "latitude": 46.9490402,
+    "longitude": 7.442803800000001,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2027-03-01",
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 35394217,
+    "images": [
+      {
+        "pk": 35394217,
+        "caption": null,
+        "url": "/media/ff/2026/04/aeizvjraekqvmy29b48641cxx07bdfflz23qviwm7sn3kfogjm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/aeizvjraekqvmy29b48641cxx07bdfflz23qviwm7sn3kfogjm.jpg?alias=thumb_m&signature=JZIqfVeyEfxwo4ggwHqH3Fr2x6N66WyI5v3BQxxZrHk",
+        "url_listing_search": "/thumb/ff/2026/04/aeizvjraekqvmy29b48641cxx07bdfflz23qviwm7sn3kfogjm.jpg?alias=listing_search&signature=tbltBtlgxokUXxgSaJ9CKP4NqCTuiRJfhucK3y0F6f4",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394236,
+        "caption": null,
+        "url": "/media/ff/2026/04/0mpc4qfkmc34m1rbudtbgpcr5ifxd2sprjaetu9tlbqohdk2c3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/0mpc4qfkmc34m1rbudtbgpcr5ifxd2sprjaetu9tlbqohdk2c3.jpg?alias=thumb_m&signature=sFw-XBbSIXqo29UV2Tgm3CqQ1JZVa2sZ7TCXrYYwnw4",
+        "url_listing_search": "/thumb/ff/2026/04/0mpc4qfkmc34m1rbudtbgpcr5ifxd2sprjaetu9tlbqohdk2c3.jpg?alias=listing_search&signature=QiKMn_N8FU1QuZ4vRJepgEB0mlewDW8tzI6Pne-lHoM",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394243,
+        "caption": null,
+        "url": "/media/ff/2026/04/ep3rws1srjc18byokvzoqjqhgya2qn25ay7j7shyk3al33sngu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/ep3rws1srjc18byokvzoqjqhgya2qn25ay7j7shyk3al33sngu.jpg?alias=thumb_m&signature=sY40lNKgRJ_Mz-yKHZUphX8B8KOsGjk3rIw3yYIKI7A",
+        "url_listing_search": "/thumb/ff/2026/04/ep3rws1srjc18byokvzoqjqhgya2qn25ay7j7shyk3al33sngu.jpg?alias=listing_search&signature=ZMrBOushcmUIhdQUhsyUmmMezhoYGwbL7aZk4RFEqAE",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394256,
+        "caption": null,
+        "url": "/media/ff/2026/04/wua1maprew1qd80ti6kq0rvw6kjvvp50vcov047t9djs2gostx.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/wua1maprew1qd80ti6kq0rvw6kjvvp50vcov047t9djs2gostx.jpg?alias=thumb_m&signature=MQYq7hsnkfmJSi-aa8uBUz_B2ytAXaUQoV1neK4md2U",
+        "url_listing_search": "/thumb/ff/2026/04/wua1maprew1qd80ti6kq0rvw6kjvvp50vcov047t9djs2gostx.jpg?alias=listing_search&signature=kj-oN1qWhXl7RYam0mae-BQ3n5-pfwOZ-g2GN72r1NI",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394257,
+        "caption": null,
+        "url": "/media/ff/2026/04/8h0e6ypht3rifnwtobl8uteebypjski3f1hnohyyt58r2itj1t.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/8h0e6ypht3rifnwtobl8uteebypjski3f1hnohyyt58r2itj1t.jpg?alias=thumb_m&signature=Yu_9ScESyDkXEuWeK8D1ArlnonidlMdRC6hADnflXHs",
+        "url_listing_search": "/thumb/ff/2026/04/8h0e6ypht3rifnwtobl8uteebypjski3f1hnohyyt58r2itj1t.jpg?alias=listing_search&signature=vceQbyZkrZM9pCDLm3E6vm98tTeZpk_x9fUN47HbRkQ",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394258,
+        "caption": null,
+        "url": "/media/ff/2026/04/vglyxj9tt1aay0ozgzbuosmffkelmjzhnek6g9f24mlbosvlua.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/vglyxj9tt1aay0ozgzbuosmffkelmjzhnek6g9f24mlbosvlua.jpg?alias=thumb_m&signature=IGvQwUdiv2oHK7ehik0CK43zWLYdDoNuJxYb4U9jlns",
+        "url_listing_search": "/thumb/ff/2026/04/vglyxj9tt1aay0ozgzbuosmffkelmjzhnek6g9f24mlbosvlua.jpg?alias=listing_search&signature=kOVjncJC_7Cn44lZkd3dM_NShhobryDx8NQS_RR4t60",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394259,
+        "caption": null,
+        "url": "/media/ff/2026/04/vza23owdra6ksqbkg9lrgh640fkea77jlygjdu2l814mmvhyjq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/vza23owdra6ksqbkg9lrgh640fkea77jlygjdu2l814mmvhyjq.jpg?alias=thumb_m&signature=Y_fI893E0eSFyLuLhSQgG0Voi-pJ2nQcSIkL0Jq7dAk",
+        "url_listing_search": "/thumb/ff/2026/04/vza23owdra6ksqbkg9lrgh640fkea77jlygjdu2l814mmvhyjq.jpg?alias=listing_search&signature=AnhrYp9JGINKgCPbC9Doae7FU8KOw2JVHXS8boYw1GA",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394260,
+        "caption": null,
+        "url": "/media/ff/2026/04/sum8c2jgwb1h4r0xxq54v7j0ceodr8iiaswf8ec42qcsorz3kh.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/sum8c2jgwb1h4r0xxq54v7j0ceodr8iiaswf8ec42qcsorz3kh.jpg?alias=thumb_m&signature=tjZn25bc1PpcolgquugN6noXiWdV6L-t46jaoEiQ38s",
+        "url_listing_search": "/thumb/ff/2026/04/sum8c2jgwb1h4r0xxq54v7j0ceodr8iiaswf8ec42qcsorz3kh.jpg?alias=listing_search&signature=TYp0rZ7g_hQuUtha0H8v4ZyYzyrNKX_jXlyYR1m4f9s",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394261,
+        "caption": null,
+        "url": "/media/ff/2026/04/kzba2i4k08t5webainoacyvd8unq1g6itv23wmhan8cco96yq6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/kzba2i4k08t5webainoacyvd8unq1g6itv23wmhan8cco96yq6.jpg?alias=thumb_m&signature=Dve3MG-32iNF_Aq_UkookumpwgLUaV_HRQ5xno5f5e8",
+        "url_listing_search": "/thumb/ff/2026/04/kzba2i4k08t5webainoacyvd8unq1g6itv23wmhan8cco96yq6.jpg?alias=listing_search&signature=cfRuoRdvduNzJKGRVNF4SdJHOHjOCeITwCHPV32sogU",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394262,
+        "caption": null,
+        "url": "/media/ff/2026/04/oeakwd9sifjerlskhmujmqmlf6ip5rub1bzcobrewviy0t39o1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/oeakwd9sifjerlskhmujmqmlf6ip5rub1bzcobrewviy0t39o1.jpg?alias=thumb_m&signature=pE_OlK6xaJ7U076RgG1rbF6frP79CtYPvg7biVCuEDs",
+        "url_listing_search": "/thumb/ff/2026/04/oeakwd9sifjerlskhmujmqmlf6ip5rub1bzcobrewviy0t39o1.jpg?alias=listing_search&signature=9uq3Ju_i3KaKWWeQsSGBVndFN0IVCK-gyuRcqcb6uvQ",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394263,
+        "caption": null,
+        "url": "/media/ff/2026/04/tckhoa5t42fag991zayfcf90r8cbk8ul0gl2nih7z9297lf2hz.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/tckhoa5t42fag991zayfcf90r8cbk8ul0gl2nih7z9297lf2hz.jpg?alias=thumb_m&signature=NHp-Qs9TO5z0NOl-PFZqhyO9F_8jCrTBP5ozQa15M4s",
+        "url_listing_search": "/thumb/ff/2026/04/tckhoa5t42fag991zayfcf90r8cbk8ul0gl2nih7z9297lf2hz.jpg?alias=listing_search&signature=XxRC8kMeb7tnXmxJnQw3pzcmTBqqPR47HYMH2bRxbf0",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394264,
+        "caption": null,
+        "url": "/media/ff/2026/04/f5y3h6390j55b022eqe446hs0q6bu5cb4pss7g83u445iv53w3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/f5y3h6390j55b022eqe446hs0q6bu5cb4pss7g83u445iv53w3.jpg?alias=thumb_m&signature=88fyR1KT-kLapoDhka2Ms4Qdpkt3qVL5tWJJT1DRqDU",
+        "url_listing_search": "/thumb/ff/2026/04/f5y3h6390j55b022eqe446hs0q6bu5cb4pss7g83u445iv53w3.jpg?alias=listing_search&signature=DK2Wwq1R1apTyj21Mm1znsHn9WgL5yzm_QbHCi79Qgw",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394265,
+        "caption": null,
+        "url": "/media/ff/2026/04/pwh1ix8kdvog8n7o153lf3t56ihzyifiknlba6m3393n1f5l5l.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/pwh1ix8kdvog8n7o153lf3t56ihzyifiknlba6m3393n1f5l5l.jpg?alias=thumb_m&signature=RebLGlsJNTSganNjZBoESVKLn14FZ5EY6eN4EiMK968",
+        "url_listing_search": "/thumb/ff/2026/04/pwh1ix8kdvog8n7o153lf3t56ihzyifiknlba6m3393n1f5l5l.jpg?alias=listing_search&signature=KV-dBbtndb0wU_Ut-MbbSnaZCYlyCb-iHvrrXaRVcfc",
+        "ordering": 13,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394266,
+        "caption": null,
+        "url": "/media/ff/2026/04/whkffh6qesbpo7luv6q54mu26g160q7aphq4ut1gat9yv8dgr8.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/whkffh6qesbpo7luv6q54mu26g160q7aphq4ut1gat9yv8dgr8.jpg?alias=thumb_m&signature=hxqR-CMSDxtWQZesZ5AgJu3bqF5xvqNdKLiv82BFaUA",
+        "url_listing_search": "/thumb/ff/2026/04/whkffh6qesbpo7luv6q54mu26g160q7aphq4ut1gat9yv8dgr8.jpg?alias=listing_search&signature=nb8fVkP1WalWNAmfkxMf4e2MkWh8M-16qME4lB1RXF4",
+        "ordering": 14,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394267,
+        "caption": null,
+        "url": "/media/ff/2026/04/3bzqonynfjh0bs46hieriijpz89gfow4tmi494wxq9v72qgiiv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/3bzqonynfjh0bs46hieriijpz89gfow4tmi494wxq9v72qgiiv.jpg?alias=thumb_m&signature=BkZGQQ7M6O8eID_hbWHl3dZ2hO33cPFi6vzQIfIdvC8",
+        "url_listing_search": "/thumb/ff/2026/04/3bzqonynfjh0bs46hieriijpz89gfow4tmi494wxq9v72qgiiv.jpg?alias=listing_search&signature=yVDC-kOOfdMlpo79t9PsFbwvOH1N9rhltWpJnXqd3aY",
+        "ordering": 15,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394268,
+        "caption": null,
+        "url": "/media/ff/2026/04/jeueldcnl52w07v9wogpz7bbv776qo9fu0dlnf0f0ua7egyx3f.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/jeueldcnl52w07v9wogpz7bbv776qo9fu0dlnf0f0ua7egyx3f.jpg?alias=thumb_m&signature=P7BrS6a4TlpnMY6lDAwH0kI1Rw36goBVpDFVAdUosIk",
+        "url_listing_search": "/thumb/ff/2026/04/jeueldcnl52w07v9wogpz7bbv776qo9fu0dlnf0f0ua7egyx3f.jpg?alias=listing_search&signature=Ju1E7rA9DRUFjO2Pwlzhsfw8ficWBBOnkXJh_IR6agM",
+        "ordering": 16,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394269,
+        "caption": null,
+        "url": "/media/ff/2026/04/2j4tksqd4jskxj61o2dave59af5k9njtgc3w2f15i40mf8qhpk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/2j4tksqd4jskxj61o2dave59af5k9njtgc3w2f15i40mf8qhpk.jpg?alias=thumb_m&signature=k32xo4kLCJFJ-WZFAfzOKFLtBUGbxTh7ytfCdtUUKRk",
+        "url_listing_search": "/thumb/ff/2026/04/2j4tksqd4jskxj61o2dave59af5k9njtgc3w2f15i40mf8qhpk.jpg?alias=listing_search&signature=9sTTuMz2St82QCXYBGyxFCYuLuH_p6NuTZjlOFJcDFA",
+        "ordering": 17,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394270,
+        "caption": null,
+        "url": "/media/ff/2026/04/kuuxal3kmqmz0ns9f7d61w0k194femmgemj5dwu21muoby9rov.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/kuuxal3kmqmz0ns9f7d61w0k194femmgemj5dwu21muoby9rov.jpg?alias=thumb_m&signature=DggjM75cBrOgDF0Ws6URMI17STBrUHerDjyQ7-n7ds4",
+        "url_listing_search": "/thumb/ff/2026/04/kuuxal3kmqmz0ns9f7d61w0k194femmgemj5dwu21muoby9rov.jpg?alias=listing_search&signature=PXs6h1V3KAHx1ANQH0P6SWbPTY3O2QyAW3PaoChwkrI",
+        "ordering": 18,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 35394282,
+        "caption": null,
+        "url": "/media/ff/2026/04/oi3sd3qkx65kh07p9yjfojbyd2wquk2r9aa9wfret852w0j6d6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/oi3sd3qkx65kh07p9yjfojbyd2wquk2r9aa9wfret852w0j6d6.jpg?alias=thumb_m&signature=URdN6drVixmVVjMp9cSo0L7FdcRS-kzAJIIhZeBZz3A",
+        "url_listing_search": "/thumb/ff/2026/04/oi3sd3qkx65kh07p9yjfojbyd2wquk2r9aa9wfret852w0j6d6.jpg?alias=listing_search&signature=tGMxVQR57DSmTXG80UNPienaUX29g1OhkV_hfXmSdX8",
+        "ordering": 19,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      737044
+    ],
+    "agency": {
+      "name": "Haussener Verwaltungen AG",
+      "name_2": "",
+      "street": "Monbijoustrasse 22",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2025/03/rte2h9gfe75kw7bh12umq0as178azt43s5tobtlavv1zcghbk5.jpg",
+        "url_org_logo_m": "/thumb/org/2025/03/rte2h9gfe75kw7bh12umq0as178azt43s5tobtlavv1zcghbk5.jpg?alias=org_logo_m&signature=RvyKIdrgGfCVP4oAZu2yHTM1XawxeXvXHbjIS1exysk"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "606m² Büro in Bern mieten",
+    "livingspace": 606
+  }
+}

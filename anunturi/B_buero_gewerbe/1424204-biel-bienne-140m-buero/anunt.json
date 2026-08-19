@@ -1,0 +1,226 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1656.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/esplanade-kongresshaus-1-2501-bielbienne/1424204/",
+    "descarcat": "2026-08-17 12:33",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "dienstleistung",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "hotel",
+        "pub"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 1424204,
+    "slug": "esplanade-kongresshaus-1-2501-bielbienne",
+    "url": "/de/wohnung/esplanade-kongresshaus-1-2501-bielbienne/1424204/",
+    "short_url": "/1424204/",
+    "submit_url": "/de/listing/1424204/submit/",
+    "status": "act",
+    "created": "2024-12-02T11:47:52.902401+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "2801.1.1101",
+    "ref_property": "2801",
+    "ref_house": "1",
+    "ref_object": "1101",
+    "alternative_reference": null,
+    "price_display": 200,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2024-12-02T11:47:53.422964+01:00",
+    "rent_net": 200,
+    "rent_charges": 0,
+    "rent_gross": 200,
+    "short_title": "140m² Büro",
+    "public_title": "Esplanade-Kongresshaus 1, 2501 Biel/Bienne - CHF 200",
+    "pitch_title": "140m² Büro in Biel/Bienne mieten",
+    "description_title": "An der Esplanade: Bürofläche mit Balkon und Ausblick",
+    "description": "Diese Bürofläche mit 140 m² im ersten Obergeschoss befindet sich derzeit im Rohbau. Bei Bedarf kann diese Bürofläche mit der angrenzenden Bürofläche mit 113 m² zu einer Fläche von 253 m² erweitert werden. Ist Ihnen die Fläche mit 140 m² jedoch zu gross, kann die Räumlichkeit mit 113 m² auch einzeln gemietet werden.   \n  \nIm Zentrum der lebendigen Stadt Biel, unmittelbar zur Begegnungszone Kongresshaus Esplanade ist das Centre Esplanade entstanden. Das Areal bietet attraktive Wohneinheiten, ein internationales Businesshotel sowie ansprechende Büro- und Gewerbeflächen, die an die eigene Tiefgarage erschlossen sind. Für Kunden steht das öffentliche Parkhaus des Kongresshauses zur Verfügung, welches ebenfalls mit unserem Komplex verbunden ist.   \n  \nProfitieren Sie von der idealen Lage unserer Liegenschaft. Die Bushaltestellen sind in weniger als 5 Minuten zu Fuss erreichbar, den Bahnhof Biel erreichen Sie in rund 10 Gehminuten. Der naheliegende Autobahnanschluss bietet eine optimale Ausgangslage für Ihr Unternehmen.   \n  \nWeitere Informationen zum Areal und unserem Flächenangebot liefert Ihnen die Homepage Centre Esplanade.   \n  \nUnser erfahrenes Team unterstützt Sie, gemeinsam mit unseren externen Partnern für Planung und Bau, bei der Realisierung Ihrer Vorstellungen.   \n  \nAlpine ist ein familiengeführtes Immobilienunternehmen mit Sitz in Zürich und Berlin. Als Bestandshalter sind wir spezialisiert auf Büro- und Geschäftshäuser im Umfeld internationaler Flughäfen. Von der Entwicklung über die Vermietung bis zur Bewirtschaftung von Immobilien bietet Alpine alle Dienstleistungen aus einer Hand an.   \n  \nKontaktieren Sie uns und überzeugen Sie sich von unserem Angebot.   \n*************************   \nCette surface de bureau de 140 m² au premier étage est actuellement en construction brute. En cas de demande, cette surface de bureau peut être agrandie avec la surface de bureau adjacente de 113 m² pour atteindre une surface de 253 m². Si la surface de 140 m² est toutefois trop grande pour vous, le local de 113 m² peut également être loué séparément.   \n  \nLe Centre Esplanade a été réalisé au centre de la ville vivante de Bienne, à proximité immédiate de la zone de rencontre Palais des Congrès Esplanade. Le complexe offre des appartements attrayants, un hôtel business international ainsi que des bureaux et des surfaces commerciales agréables, reliés au propre parking souterrain. Les clients peuvent utiliser le parking public du Palais des Congrès.   \n  \nProfitez de la situation idéale de notre immeuble. Les arrêts de bus se trouvent à moins de 5 minutes à pied et la gare de Bienne est à environ 10 minutes à pied. L'accès à l'autoroute à proximité offre une situation de départ optimale pour votre entreprise.   \n  \nPour plus d'informations sur le complexe et notre offre de surfaces, consultez le homepage Centre Esplanade.   \n  \nNotre team expérimenté vous soutient, en collaboration avec nos partenaires externes pour la réalisation de la planification et de la construction, dans la réalisation de vos idées.   \n  \nAlpine est une entreprise immobilière familiale basée à Zurich et à Berlin. En tant que gestionnaire de portefeuille, nous sommes spécialisés dans les immeubles de bureaux et de commerces situés à proximité d'aéroports internationaux. Du développement à la gestion immobilière en passant par la location, Alpine propose tous les services d'un seul tenant.   \n  \nContactez-nous et laissez-vous convaincre par notre offre.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 140,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 140,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "view"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Esplanade-Kongresshaus 1",
+    "zipcode": 2501,
+    "city": "Biel/Bienne",
+    "public_address": "Esplanade-Kongresshaus 1, 2501 Biel/Bienne",
+    "latitude": 47.13553719999999,
+    "longitude": 7.2483553,
+    "year_built": 2022,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.centre-esplanade.ch/gewerbe",
+    "live_viewing_url": null,
+    "cover_image": 47754613,
+    "images": [
+      {
+        "pk": 47754613,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/1ba6669e24ce61cd5ae2002c72cdc9e5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/1ba6669e24ce61cd5ae2002c72cdc9e5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/1ba6669e24ce61cd5ae2002c72cdc9e5.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47754614,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/0b316d5a66895118f9ee6b03a4b46bcd.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/0b316d5a66895118f9ee6b03a4b46bcd.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/0b316d5a66895118f9ee6b03a4b46bcd.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47754615,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/a5621592120bc239ad79a638b1ec8976.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/a5621592120bc239ad79a638b1ec8976.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/a5621592120bc239ad79a638b1ec8976.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1126
+      },
+      {
+        "pk": 47754616,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/dd8698496f12d1abb0d022ed979f2109.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/dd8698496f12d1abb0d022ed979f2109.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/dd8698496f12d1abb0d022ed979f2109.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47754617,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/ee60d1d96f97a692113dd70a6695c84d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/ee60d1d96f97a692113dd70a6695c84d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/ee60d1d96f97a692113dd70a6695c84d.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47754618,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/33384476ab4fd89de658f03464d2f4d6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/33384476ab4fd89de658f03464d2f4d6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/33384476ab4fd89de658f03464d2f4d6.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47754619,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/eb094daeb889c632d1929f18a67a0c5d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/eb094daeb889c632d1929f18a67a0c5d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/eb094daeb889c632d1929f18a67a0c5d.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1124
+      },
+      {
+        "pk": 47754620,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/a2090fef9c0b31199080feb9712819b5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/a2090fef9c0b31199080feb9712819b5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/a2090fef9c0b31199080feb9712819b5.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47754621,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/adabc87abe8c0f8e05394d92910bfa98.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/adabc87abe8c0f8e05394d92910bfa98.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/adabc87abe8c0f8e05394d92910bfa98.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47754622,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4001741460/image/ffb6dc7aed3f38bfeba7df215f180b8d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4001741460/image/ffb6dc7aed3f38bfeba7df215f180b8d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4001741460/image/ffb6dc7aed3f38bfeba7df215f180b8d.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      753587
+    ],
+    "agency": {
+      "name": "Alpine Immobilien AG",
+      "name_2": null,
+      "street": "Sägereistrasse 25",
+      "zipcode": "8152",
+      "city": "Glattbrugg",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2024/11/ni7rj22vfijv3qyglto5v3m3xne1f9jrb6lqkhwuendc4iky8y.png",
+        "url_org_logo_m": "/thumb/org/2024/11/ni7rj22vfijv3qyglto5v3m3xne1f9jrb6lqkhwuendc4iky8y.png?alias=org_logo_m&signature=_VKIIh1OT13SVbC6ohwPjyVVrezCFCfdtTjM5hu1J-A"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4001741460",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "140m² Büro in Biel/Bienne mieten",
+    "livingspace": 140
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1618.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/centralstrasse-4-2540-grenchen/85482084/",
+    "descarcat": "2026-08-17 12:39",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisfläche",
+        "praxisräume"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "schaufenster"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 85482084,
+    "slug": "centralstrasse-4-2540-grenchen",
+    "url": "/de/wohnung/centralstrasse-4-2540-grenchen/85482084/",
+    "short_url": "/85482084/",
+    "submit_url": "/de/listing/85482084/submit/",
+    "status": "act",
+    "created": "2025-11-04T13:39:14.418235+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "1206.04.2001",
+    "ref_property": "1206",
+    "ref_house": "04",
+    "ref_object": "2001",
+    "alternative_reference": "Geräumige Laden- oder Gewerbefläche mit grosser Schaufensterfront",
+    "price_display": 2450,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-11-04T13:39:14.502348+01:00",
+    "rent_net": 1900,
+    "rent_charges": 550,
+    "rent_gross": null,
+    "short_title": "185m² Büro",
+    "public_title": "Centralstrasse 4, 2540 Grenchen - CHF 2’450 inkl. NK pro Monat",
+    "pitch_title": "185m² Büro in Grenchen mieten",
+    "description_title": "Geräumige Büro- oder Praxisräume an zentraler Lage",
+    "description": "Wir vermieten eine Büro/- oder Praxisfläche von 105 m2 mit frisch renovierten Nebenräumen von 80m2 im EG.  \n  \nBei Bedarf Bedarf stehen im UG noch 74 m2 Lagerflächen zur Verfügung.  \nDie monatliche Nettomiete beläuft sich somit auf CHF 1'900.00 und die Nebenkosten-Akonto auf CHF 550.00.  \n  \nDas Objekt bietet Ihnen folgende Annehmlichkeiten:  \n\\- Fläche im EG mit grosser Schaufensterfront  \n\\- Sonnenstore vorhanden  \n\\- frisch renovierte Toilette mit Lavabo im EG  \n\\- neu sanierter Raum im Backoffice mit kleiner Teeküche  \n\\- 2 Lagerräume im EG  \n  \nDie Räume befinden sich an einer gut frequentierten Lage im Zentrum von Grenchen und bietet Ihnen vorzügliche Erreichbarkeit mit dem Auto und den Öffentlichen Verkehrsmitteln.  \n  \nSind Sie interessiert?  \nWir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 185,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 185,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "cable"
+      },
+      {
+        "name": "broadbandinternet"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Centralstrasse 4",
+    "zipcode": 2540,
+    "city": "Grenchen",
+    "public_address": "Centralstrasse 4, 2540 Grenchen",
+    "latitude": 47.19298089999999,
+    "longitude": 7.3959813,
+    "year_built": null,
+    "year_renovated": 2025,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 30980785,
+    "images": [
+      {
+        "pk": 30980785,
+        "caption": null,
+        "url": "/media/ff/2025/11/qwm87jw38j48n2b0x99mdk0vpqmqv325a3qwuo25aawl4z79xm.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/qwm87jw38j48n2b0x99mdk0vpqmqv325a3qwuo25aawl4z79xm.jpg?alias=thumb_m&signature=dcaBOPZVsYcPTm8WKbK3M_zk0B-PBBHOkVo4s2GT_m8",
+        "url_listing_search": "/thumb/ff/2025/11/qwm87jw38j48n2b0x99mdk0vpqmqv325a3qwuo25aawl4z79xm.jpg?alias=listing_search&signature=A_25ib_1_J-gouQa_uLOWAjI9NnsFaOMmPcvvHWWYPY",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 30980812,
+        "caption": null,
+        "url": "/media/ff/2025/11/a309dz8zc8xxlwt72chpwp73zdz1kd963o2pd1vtzeljkxrmy0.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/a309dz8zc8xxlwt72chpwp73zdz1kd963o2pd1vtzeljkxrmy0.jpg?alias=thumb_m&signature=WIn4IX1BlmvLcDfrTR1uGg96F4pXtIg7mSVCcV90eGE",
+        "url_listing_search": "/thumb/ff/2025/11/a309dz8zc8xxlwt72chpwp73zdz1kd963o2pd1vtzeljkxrmy0.jpg?alias=listing_search&signature=CAwZGI5XrHj7rczlGpj-hC-ycW99S7r4dDpjm2mnIEw",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 30980813,
+        "caption": null,
+        "url": "/media/ff/2025/11/cv1lgew1prm2x5xcuz3ho6zqwyhn5imwpvhn56i2rcbgihd98i.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/cv1lgew1prm2x5xcuz3ho6zqwyhn5imwpvhn56i2rcbgihd98i.jpg?alias=thumb_m&signature=r6tS037XvCV_o-vZ7nkcV_uJs4nMIU7otDOboa7zVfc",
+        "url_listing_search": "/thumb/ff/2025/11/cv1lgew1prm2x5xcuz3ho6zqwyhn5imwpvhn56i2rcbgihd98i.jpg?alias=listing_search&signature=CknqGAwX1ZR0haQw5VFfla6HS-cnm2actr-OdkvvI2s",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 30980814,
+        "caption": null,
+        "url": "/media/ff/2025/11/78l1ych6m9y85ueix20y97tlmiu9m5ii1v15iqax0f0gesjhru.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/78l1ych6m9y85ueix20y97tlmiu9m5ii1v15iqax0f0gesjhru.jpg?alias=thumb_m&signature=62xk5Sl9IHaJO1UBizohJYx3siXDFHuGAZx8HKXUXL0",
+        "url_listing_search": "/thumb/ff/2025/11/78l1ych6m9y85ueix20y97tlmiu9m5ii1v15iqax0f0gesjhru.jpg?alias=listing_search&signature=onXQ3VwwjxFgw8RLNQGITEoZHOINmTja7Lpi5VHCo_M",
+        "ordering": 4,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 30980823,
+        "caption": null,
+        "url": "/media/ff/2025/11/f11ydsjunlvwtge3hcy6fm75ilto8d0z5o7a7dji68qkkspyi9.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/f11ydsjunlvwtge3hcy6fm75ilto8d0z5o7a7dji68qkkspyi9.jpg?alias=thumb_m&signature=IYhVPKYaq-3giJ9eSFd44QsW7mfkk4ARCjTLscttdOE",
+        "url_listing_search": "/thumb/ff/2025/11/f11ydsjunlvwtge3hcy6fm75ilto8d0z5o7a7dji68qkkspyi9.jpg?alias=listing_search&signature=go9kcTGW6X0ZM5W5CKskvUOwpvZNvXe2LupCXhw_XR8",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 30980815,
+        "caption": null,
+        "url": "/media/ff/2025/11/n99ozl9vymnnxd44k9koddsxx4x68wracc3upe8l1mg6919mv9.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/n99ozl9vymnnxd44k9koddsxx4x68wracc3upe8l1mg6919mv9.jpg?alias=thumb_m&signature=BK5eNLDgS2glkJq4uM5_ZA8phZXo9YtI2noba52Il5I",
+        "url_listing_search": "/thumb/ff/2025/11/n99ozl9vymnnxd44k9koddsxx4x68wracc3upe8l1mg6919mv9.jpg?alias=listing_search&signature=Fgf_aQMXb7uVh_JNxPUePtHn0lh2YRRxB4K8s_YH6jQ",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [
+      620216
+    ],
+    "agency": {
+      "name": "BDO AG Solothurn",
+      "name_2": "",
+      "street": "",
+      "zipcode": "",
+      "city": "",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2021/04/0gzyev2e9ghkqpnay9quhf0p4ka41jqy2l7epjt59ttxxdn127.png",
+        "url_org_logo_m": "/thumb/org/2021/04/0gzyev2e9ghkqpnay9quhf0p4ka41jqy2l7epjt59ttxxdn127.png?alias=org_logo_m&signature=Ehs86dx7XCdcabuKR5NhHBYfBAICLj3xcbEC6uRqyu0"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "185m² Büro in Grenchen mieten",
+    "livingspace": 185
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1624.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/grand-rue-124-2720-tramelan/85971762/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büroraum",
+        "office",
+        "sitzungszimmer"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 85971762,
+    "slug": "grand-rue-124-2720-tramelan",
+    "url": "/de/wohnung/grand-rue-124-2720-tramelan/85971762/",
+    "short_url": "/85971762/",
+    "submit_url": "/de/listing/85971762/submit/",
+    "status": "act",
+    "created": "2026-04-21T10:31:24.846561+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "23660.01.420010",
+    "ref_property": "23660",
+    "ref_house": "01",
+    "ref_object": "420010",
+    "alternative_reference": null,
+    "price_display": 3700,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-04-24T16:07:11.272337+02:00",
+    "rent_net": 3250,
+    "rent_charges": 450,
+    "rent_gross": 3700,
+    "short_title": "260m² Büro",
+    "public_title": "Grand-Rue 124, 2720 Tramelan - CHF 3’700 inkl. NK pro Monat",
+    "pitch_title": "260m² Büro in Tramelan mieten",
+    "description_title": "Bureau situé au 2e étage - Grand Rue 122/124, Tramelan",
+    "description": "Au 2e étage du 122/124 Grand Rue à Tramelan, un bel espace de bureaux est à louer. Le bâtiment bénéficie d'un emplacement central et dispose d'un ascenseur pratique. \n\n  \n\n\nLumineux et fonctionnel, cet espace de bureau offre un cadre de travail agréable et convient parfaitement aux particuliers ou aux petites équipes. Grâce à son agencement judicieux, la surface peut être utilisée de manière flexible et aménagée selon vos besoins. \n\n  \n\n\nL'accès partagé à des espaces communs modernes, tels que des salles de réunion, un espace de détente et des sanitaires situés au même étage, est possible et apporte un confort supplémentaire au quotidien. \n\n  \n\n\nSa situation centrale garantit une très bonne accessibilité ainsi qu'un environnement professionnel pour votre entreprise. \n\n  \n\n\nNous nous tenons à votre disposition pour toute information complémentaire ou pour une visite des lieux. \n\n  \n\n\n  \n\n\n  \n\n\nIm 2. Obergeschoss an der Grand Rue 122/124 in Tramelan steht ein attraktiver Büroraum zur Vermietung. Das Gebäude ist zentral gelegen und verfügt über einen komfortablen Liftzugang. \n\n  \n\n\nDer helle und funktionale Büroraum bietet eine angenehme Arbeitsumgebung und eignet sich ideal für Einzelpersonen oder kleine Teams. Durch die gute Raumaufteilung lässt sich die Fläche flexibel nutzen und individuell einrichten. \n\n  \n\n\nDie Mitbenutzung von modernen Nebenflächen wie Sitzungszimmern, Aufenthaltsbereich sowie Sanitäranlagen im gleichen Geschoss ist möglich und sorgt für zusätzlichen Komfort im Arbeitsalltag. \n\n  \n\n\nDie zentrale Lage garantiert eine sehr gute Erreichbarkeit sowie ein professionelles Umfeld für Ihr Unternehmen. \n\n  \n\n\nGerne stehen wir für weitere Informationen oder eine Besichtigung zur Verfügung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 260,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 260,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Grand-Rue 124",
+    "zipcode": 2720,
+    "city": "Tramelan",
+    "public_address": "Grand-Rue 124, 2720 Tramelan",
+    "latitude": 47.2233244,
+    "longitude": 7.1004988,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 35398939,
+    "images": [
+      {
+        "pk": 35398939,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/04/2wg46dtxh7as5g0ea90w7lpg7ajjqmjqlleclpwl9e0oagzn87.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/2wg46dtxh7as5g0ea90w7lpg7ajjqmjqlleclpwl9e0oagzn87.jpg?alias=thumb_m&signature=a6X_zoSaFNcWOKFROhJcDEe0PIpeJwuBMBg90IXJe2M",
+        "url_listing_search": "/thumb/ff/2026/04/2wg46dtxh7as5g0ea90w7lpg7ajjqmjqlleclpwl9e0oagzn87.jpg?alias=listing_search&signature=OKB-pDIBowuNY8-OyTPMazFyTHx7bQOSXYjb9MUj47A",
+        "ordering": 1,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 35398940,
+        "caption": "Küche",
+        "url": "/media/ff/2026/04/kwq2ky8jixc7ugux9p3nvzoq8a10851oc5wkua0mfp4gkvcdy5.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/kwq2ky8jixc7ugux9p3nvzoq8a10851oc5wkua0mfp4gkvcdy5.jpg?alias=thumb_m&signature=Glcj2l4Kl4W5us7VP10-fFDZNVQmzLJDREJemdqoRgU",
+        "url_listing_search": "/thumb/ff/2026/04/kwq2ky8jixc7ugux9p3nvzoq8a10851oc5wkua0mfp4gkvcdy5.jpg?alias=listing_search&signature=6f228dTtACvdOC2Kw3MAbYRDzWfXf2UR-vxBf2C_bhM",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35398942,
+        "caption": "Bad/WC",
+        "url": "/media/ff/2026/04/9ljdc1nj13wtjfowt7o65t18jrspsyfwsrimjmszywyahplzk5.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/9ljdc1nj13wtjfowt7o65t18jrspsyfwsrimjmszywyahplzk5.jpg?alias=thumb_m&signature=iIopq6zhscg6odG51yon45Bo8lsXavsBbL8VeMiEJxw",
+        "url_listing_search": "/thumb/ff/2026/04/9ljdc1nj13wtjfowt7o65t18jrspsyfwsrimjmszywyahplzk5.jpg?alias=listing_search&signature=QYvlezoHZvLGsUXblbLHR-3g59ew_vafkXXAL9fXxMc",
+        "ordering": 3,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 35398943,
+        "caption": "Büroraum",
+        "url": "/media/ff/2026/04/fkendohd1ai6eda6b902w2rrr43tc2tt71ebj4bc4wk9rif3a4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/fkendohd1ai6eda6b902w2rrr43tc2tt71ebj4bc4wk9rif3a4.jpg?alias=thumb_m&signature=u6awD_lKb2H4AGmKG-RCxaztsF0iQOvX8rpsz9oHKtg",
+        "url_listing_search": "/thumb/ff/2026/04/fkendohd1ai6eda6b902w2rrr43tc2tt71ebj4bc4wk9rif3a4.jpg?alias=listing_search&signature=3Ztul2d8hjpLaNXh069CfRDbQqj9o8Y346KB2NiA0Rc",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35398945,
+        "caption": "Büroraum",
+        "url": "/media/ff/2026/04/iec6wzg4pl3is5c14n4kpg80ja80alao9qx9qvghrpxgt6e47e.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/iec6wzg4pl3is5c14n4kpg80ja80alao9qx9qvghrpxgt6e47e.jpg?alias=thumb_m&signature=Qxe02qzkIfgAPCo1V1HHsiv9H7_EU6BkpNVpROQXmjk",
+        "url_listing_search": "/thumb/ff/2026/04/iec6wzg4pl3is5c14n4kpg80ja80alao9qx9qvghrpxgt6e47e.jpg?alias=listing_search&signature=8d4Xzamhxf5C06kFhao7PPDcw7eM3OyUZYy5BQbGRWA",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35398947,
+        "caption": "Büroraum",
+        "url": "/media/ff/2026/04/90g72o86y6kmb96zwezue9hsp65d3bo9rm1etasjangnfgxvd7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/90g72o86y6kmb96zwezue9hsp65d3bo9rm1etasjangnfgxvd7.jpg?alias=thumb_m&signature=zq8FkpaZpszux5lkCNwLrtlGehoHMM78TcWQ0Hx4upY",
+        "url_listing_search": "/thumb/ff/2026/04/90g72o86y6kmb96zwezue9hsp65d3bo9rm1etasjangnfgxvd7.jpg?alias=listing_search&signature=0rKm-eoH_idqZGs6pza7adobgmIqdeFmlPx4xMeFOnA",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35398948,
+        "caption": "Büroraum",
+        "url": "/media/ff/2026/04/k0eyvorkyf9jzx7swv9cpc05ijn9390gohkp9649bo5ljh2fil.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/k0eyvorkyf9jzx7swv9cpc05ijn9390gohkp9649bo5ljh2fil.jpg?alias=thumb_m&signature=u31MxPajRwsOCAYY4r-S7MKf7iKgk04yp2hMWAPVS7M",
+        "url_listing_search": "/thumb/ff/2026/04/k0eyvorkyf9jzx7swv9cpc05ijn9390gohkp9649bo5ljh2fil.jpg?alias=listing_search&signature=BaJi6QMjLp_WQBVRBBRnXrRZM3h9oSWeZfM1khTex94",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35398950,
+        "caption": "Büroraum",
+        "url": "/media/ff/2026/04/ut9jcfbl9dggpjv0n5bvhtv4vxxkwj7ubq3bkvy2q538jpf6jk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/ut9jcfbl9dggpjv0n5bvhtv4vxxkwj7ubq3bkvy2q538jpf6jk.jpg?alias=thumb_m&signature=d1HXjcUCuXMWdXS1ZDI_eSClsOuqEykesy7bIIoRQOk",
+        "url_listing_search": "/thumb/ff/2026/04/ut9jcfbl9dggpjv0n5bvhtv4vxxkwj7ubq3bkvy2q538jpf6jk.jpg?alias=listing_search&signature=itfGMAA-BhCKbUHpRII8_MQYM86ZUSCCZ8WcxqsZUiQ",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35398951,
+        "caption": "Büroraum/Garderobe",
+        "url": "/media/ff/2026/04/g4z54ke3pgs20r75fuzsrbstj7gi8zt815q0yk78rzu3qouwpk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/g4z54ke3pgs20r75fuzsrbstj7gi8zt815q0yk78rzu3qouwpk.jpg?alias=thumb_m&signature=sUrO7xMWSCuAEhTW-hs6nJPbQKAjAP92GbVPDyJew54",
+        "url_listing_search": "/thumb/ff/2026/04/g4z54ke3pgs20r75fuzsrbstj7gi8zt815q0yk78rzu3qouwpk.jpg?alias=listing_search&signature=dSTCkNwx3wNzenLdLNr9fGuK-MXqU_w02gr2rg3AiP0",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 35398953,
+        "caption": "Büroraum",
+        "url": "/media/ff/2026/04/zkzfg5wuet8p9bcs5ol11m3feh113dwigkepe3um3d9ir3pkq4.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/zkzfg5wuet8p9bcs5ol11m3feh113dwigkepe3um3d9ir3pkq4.jpg?alias=thumb_m&signature=sRVcMt9FPp67LYKokh-bBlTmZcXFC97tbAhFKjldL0w",
+        "url_listing_search": "/thumb/ff/2026/04/zkzfg5wuet8p9bcs5ol11m3feh113dwigkepe3um3d9ir3pkq4.jpg?alias=listing_search&signature=W4ulApyeh4QOeByaIMw_cF2dlJvBmyGcv2HsPmD3SW4",
+        "ordering": 10,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 35398954,
+        "caption": "Büroraum",
+        "url": "/media/ff/2026/04/k04qcjb3ryuqq91yjc8kx69m5h53dpwuaaify9t3op5vegr6ep.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/k04qcjb3ryuqq91yjc8kx69m5h53dpwuaaify9t3op5vegr6ep.jpg?alias=thumb_m&signature=boobt3qe8FOwVekpKoxGFh7-Z3zt_kfRwk3QOyPDeng",
+        "url_listing_search": "/thumb/ff/2026/04/k04qcjb3ryuqq91yjc8kx69m5h53dpwuaaify9t3op5vegr6ep.jpg?alias=listing_search&signature=_tA6YCn9IFE91TQv8aCJBgcnuyNj30bA0bZPDz2hazY",
+        "ordering": 11,
+        "width": 1024,
+        "height": 682
+      },
+      {
+        "pk": 35398956,
+        "caption": "Korridor/Diele",
+        "url": "/media/ff/2026/04/vs9guvgwkx0vwokogouibzlutubo9whasdmg6m01u5mttsccvu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/04/vs9guvgwkx0vwokogouibzlutubo9whasdmg6m01u5mttsccvu.jpg?alias=thumb_m&signature=DGNvIX4Zwj5H6SDcC-pa1me5hO31OaaOZt-lJt3zcwc",
+        "url_listing_search": "/thumb/ff/2026/04/vs9guvgwkx0vwokogouibzlutubo9whasdmg6m01u5mttsccvu.jpg?alias=listing_search&signature=Fn6_0bimr9EoIjU_bBkfT9S0vBuq5IclqJcZPJ3dISo",
+        "ordering": 12,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [
+      716479
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "260m² Büro in Tramelan mieten",
+    "livingspace": 260
+  }
+}

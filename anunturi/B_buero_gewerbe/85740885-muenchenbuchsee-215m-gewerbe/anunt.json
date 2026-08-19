@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1708.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bernstrasse-48-3053-munchenbuchsee/85740885/",
+    "descarcat": "2026-08-17 12:29",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [
+        "therapie"
+      ],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "empfang",
+        "gewerbefläche",
+        "gewerberäume",
+        "gewerblich"
+      ],
+      "kw_retail": [
+        "bar",
+        "schaufenster"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 13
+  },
+  "raw": {
+    "pk": 85740885,
+    "slug": "bernstrasse-48-3053-munchenbuchsee",
+    "url": "/de/wohnung/bernstrasse-48-3053-munchenbuchsee/85740885/",
+    "short_url": "/85740885/",
+    "submit_url": "/de/listing/85740885/submit/",
+    "status": "act",
+    "created": "2026-01-30T17:47:23.513463+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..gh11p.pn3sw",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "gh11p.pn3sw",
+    "alternative_reference": null,
+    "price_display": 3000,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-01-30T17:47:36.145427+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": 3000,
+    "short_title": "215m² Gewerbe",
+    "public_title": "Bernstrasse 48, 3053 Münchenbuchsee - CHF 3’000",
+    "pitch_title": "215m² Gewerbe in Münchenbuchsee mieten",
+    "description_title": "Vielseitige 5-Zimmer-Gewerberäume an zentraler Lage in Münchenbuchsee",
+    "description": "Grosszügige Gewerberäume an Toplage in Münchenbuchsee (215 m²) \n\nAn zentraler und gut sichtbarer Lage an der **Bernstrasse 48 in 3053 Münchenbuchsee** vermieten wir vielseitig nutzbare Gewerberäume mit rund **215 m² im Erdgeschoss** . Die Fläche eignet sich ideal für **Praxis, Büro, Therapie, Dienstleistung oder ähnliche gewerbliche Nutzungen** . \n\nHighlights auf einen Blick \n\n  * Ca. **215 m² Gewerbefläche im Erdgeschoss**\n\n  * **5 flexibel nutzbare Räume** mit hochwertigem Parkettboden \n\n  * **Grosser, offener Bereich** mit professioneller Beleuchtung \n\n  * **Helle, weisse Wände** und angenehme Raumhöhen \n\n  * **2 WCs**\n\n  * **Schaufensterfront direkt an der Bernstrasse** mit guter Sichtbarkeit \n\n  * **Parkplätze auf Wunsch verfügbar** für Kunden oder Mitarbeitende \n\n  * **Bushaltestelle in ca. 3 Gehminuten** erreichbar \n\n\n\n\nDie Liegenschaft befindet sich in einer etablierten, ruhigen Gemeinde mit **sehr guter Verkehrsanbindung Richtung Bern** . Die sonnige Lage und die angenehme Atmosphäre schaffen optimale Bedingungen für konzentriertes Arbeiten und Kundenempfang. \n\n**Individueller Ausbau:** Ein Umbau oder eine Anpassung der Räumlichkeiten nach Mieterwunsch ist **nach Absprache möglich** . Der Mietzins pro m² und Jahr richtet sich nach dem gewählten Ausbaustandard.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 215,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 215,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bernstrasse 48",
+    "zipcode": 3053,
+    "city": "Münchenbuchsee",
+    "public_address": "Bernstrasse 48, 3053 Münchenbuchsee",
+    "latitude": 47.0161135,
+    "longitude": 7.455556400000001,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47403588,
+    "images": [
+      {
+        "pk": 47403588,
+        "caption": "modern office setup, black desks, black swivel chairs, white walls, large windows, plants, and monitors",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/324992e1bb68d05c5c79212d6ae19c8d.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/324992e1bb68d05c5c79212d6ae19c8d.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/324992e1bb68d05c5c79212d6ae19c8d.png",
+        "ordering": 1,
+        "width": 1500,
+        "height": 910
+      },
+      {
+        "pk": 47403603,
+        "caption": "Open room with parquet floor, windows, column, ceiling lamps",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/2ca2d29daf373a41ef3c885f213dfe07.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/2ca2d29daf373a41ef3c885f213dfe07.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/2ca2d29daf373a41ef3c885f213dfe07.png",
+        "ordering": 2,
+        "width": 1432,
+        "height": 985
+      },
+      {
+        "pk": 47403604,
+        "caption": "Open office with large windows, wooden desks, white walls, potted plants, office chairs",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/d501b573869872ddf657e5ef077c043d.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/d501b573869872ddf657e5ef077c043d.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/d501b573869872ddf657e5ef077c043d.png",
+        "ordering": 3,
+        "width": 1500,
+        "height": 906
+      },
+      {
+        "pk": 47403605,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/30987896d3029b36f8a6634904165294.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/30987896d3029b36f8a6634904165294.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/30987896d3029b36f8a6634904165294.png",
+        "ordering": 4,
+        "width": 1500,
+        "height": 908
+      },
+      {
+        "pk": 47403606,
+        "caption": "Desk, chair, bed, window, shelves, medical diagrams on the wall.",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/4feeb88ec1082693929bea1c4efe4757.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/4feeb88ec1082693929bea1c4efe4757.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/4feeb88ec1082693929bea1c4efe4757.png",
+        "ordering": 5,
+        "width": 1500,
+        "height": 898
+      },
+      {
+        "pk": 47403608,
+        "caption": "spacious, modern room with massage table, indoor plants, large windows with curtains, side table, mirror, wooden shelf with candles, lamps",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/1f2418c95b7c85a0a6ed2391d53ffa7d.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/1f2418c95b7c85a0a6ed2391d53ffa7d.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/1f2418c95b7c85a0a6ed2391d53ffa7d.png",
+        "ordering": 6,
+        "width": 1500,
+        "height": 895
+      },
+      {
+        "pk": 47403610,
+        "caption": "tiled floor, white walls, double windows with white curtains, single open door",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/df6a110e07ed32053dc2556408eb4519.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/df6a110e07ed32053dc2556408eb4519.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/df6a110e07ed32053dc2556408eb4519.png",
+        "ordering": 7,
+        "width": 1500,
+        "height": 905
+      },
+      {
+        "pk": 47403613,
+        "caption": "empty room with a massage table, large window, white furniture, white lamps, carpet, and towels on shelves",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/519f6f01c625b46faab6154f68dafccf.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/519f6f01c625b46faab6154f68dafccf.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/519f6f01c625b46faab6154f68dafccf.png",
+        "ordering": 8,
+        "width": 1500,
+        "height": 903
+      },
+      {
+        "pk": 47403616,
+        "caption": "Open space office with a desk, a few chairs, a carpet, a rug, a round table, a lamp, potted plants, and bookshelves.",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/3daf8edff43e7c4f719c11b25471a8dd.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/3daf8edff43e7c4f719c11b25471a8dd.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/3daf8edff43e7c4f719c11b25471a8dd.png",
+        "ordering": 9,
+        "width": 1500,
+        "height": 906
+      },
+      {
+        "pk": 47403620,
+        "caption": "Empty room with parquet flooring, large windows, and fluorescent ceiling lights",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/3106444a5f884ff4f5836befcd75c876.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/3106444a5f884ff4f5836befcd75c876.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/3106444a5f884ff4f5836befcd75c876.png",
+        "ordering": 10,
+        "width": 1429,
+        "height": 978
+      },
+      {
+        "pk": 47403625,
+        "caption": "A small enclosed bathroom stall with tiled walls and a white toilet",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/9c6a4b6803cb645f5e2bfb786a5818cf.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/9c6a4b6803cb645f5e2bfb786a5818cf.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/9c6a4b6803cb645f5e2bfb786a5818cf.png",
+        "ordering": 11,
+        "width": 806,
+        "height": 1017
+      },
+      {
+        "pk": 47403628,
+        "caption": "One living room, one kitchen, one bedroom, one bathroom, one balcony",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/73857bdbbe8ba8001e65d253d9961417.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/73857bdbbe8ba8001e65d253d9961417.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/73857bdbbe8ba8001e65d253d9961417.png",
+        "ordering": 12,
+        "width": 998,
+        "height": 1059
+      },
+      {
+        "pk": 47403631,
+        "caption": "small cubicle for toilet, wall is white tiled, white toilet bowl, grey floor, stainless steel trash can",
+        "url": "https://cdn.flatfox.ch/listings/v2/z914/4002885409/image/023f0544139c1d14d2c9d71a21550c92.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z914/4002885409/image/023f0544139c1d14d2c9d71a21550c92.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z914/4002885409/image/023f0544139c1d14d2c9d71a21550c92.png",
+        "ordering": 13,
+        "width": 716,
+        "height": 1026
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "LAYF GmbH",
+      "name_2": null,
+      "street": "Buckhauserstrasse 36",
+      "zipcode": "8048",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/5uhzmji3ues4axveell35djyxqxk9hfyokgj38qi1ut8dzbl6h.png",
+        "url_org_logo_m": "/thumb/org/2026/07/5uhzmji3ues4axveell35djyxqxk9hfyokgj38qi1ut8dzbl6h.png?alias=org_logo_m&signature=FVUQAP9OLDIG1zYuAQbrOR-h4NTZExjKDGj-_k3qPUo"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4002885409",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "215m² Gewerbe in Münchenbuchsee mieten",
+    "livingspace": 215
+  }
+}

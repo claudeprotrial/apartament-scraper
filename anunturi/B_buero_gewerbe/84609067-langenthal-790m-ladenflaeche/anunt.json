@@ -1,0 +1,204 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1654.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/spitalgasse-25-4900-langenthal/84609067/",
+    "descarcat": "2026-08-17 12:33",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "physiotherapie",
+        "praxen"
+      ],
+      "kw_praxis_slabe": [
+        "arzt"
+      ],
+      "kw_business": [
+        "dienstleistung",
+        "gewerbe"
+      ],
+      "kw_retail": [
+        "<type>",
+        "bar",
+        "ladenfläche",
+        "schaufenster",
+        "shop",
+        "verkaufsfläche"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 84609067,
+    "slug": "spitalgasse-25-4900-langenthal",
+    "url": "/de/wohnung/spitalgasse-25-4900-langenthal/84609067/",
+    "short_url": "/84609067/",
+    "submit_url": "/de/listing/84609067/submit/",
+    "status": "act",
+    "created": "2025-07-24T16:32:08.215140+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "SHOP",
+    "reference": "3000.3000.04.6001",
+    "ref_property": "3000",
+    "ref_house": "3000.04",
+    "ref_object": "6001",
+    "alternative_reference": "",
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "yearlym2",
+    "published": "2025-07-24T16:32:09.345102+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "790m² Ladenfläche",
+    "public_title": "Spitalgasse 25, 4900 Langenthal - auf Anfrage",
+    "pitch_title": "790m² Ladenfläche in Langenthal mieten",
+    "description_title": "Attraktive Gewerbe-& Verkaufsflächen an bester Lage in Langenthal",
+    "description": "An **prominenter Zentrumslage** in Langenthal bieten wir vielseitig nutzbare **Gewerbe und Verkaufsflächen** zur Miete an. Die lichtdurchfluteten Räume mit grossen **Glaskuben und Schaufensterfronten** eignen sich ideal für **Gesundheitsdienstleistungen** wie:  \n  \n\n*   Arztpraxen\n*   Physiotherapie\n*   Sportmedizin\n*   Weitere Gesundheits- oder Dienstleistungsangebote\n\nDie Flächen sind **flexibel unterteilbar** und lassen sich individuell auf Ihre Bedürfnisse anpassen. Auch eine Zusammenlegung mehrerer Einheiten ist möglich.  \n  \n**Top Standortvorteile:**  \n  \n\n*   Top-Lage: Direkt im Zentrum, neben der Berner Kantonalbank, McDonalds, Coop und weiteren Geschäften.\n*   Maximale Sichtbarkeit für Ihr Geschäft dank den grossen Schaufenster.\n*   Hohe Passantenfrequenz für optimale Sichtbarkeit und Werbewirkung\n*   Öffentliche Parkhäuser in unmittelbarer Nähe (nur 1 Minute Fussweg)\n\n**Flächen:**  \nLaden 1: 220.17m2  \nLaden 2: 84.95m2  \nLaden 3: 383.27m2",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 790,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 790,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Spitalgasse 25",
+    "zipcode": 4900,
+    "city": "Langenthal",
+    "public_address": "Spitalgasse 25, 4900 Langenthal",
+    "latitude": 47.21191150000001,
+    "longitude": 7.7905463,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2026-08-01",
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "https://www.agmento.ch/gewerbeangebot.php?id=12",
+    "live_viewing_url": "",
+    "cover_image": 30576901,
+    "images": [
+      {
+        "pk": 30576901,
+        "caption": null,
+        "url": "/media/ff/2025/10/xmnkg16pm64bilg95ian3ms7c93osqhs00bdje2irpjan0sui2.jpg",
+        "url_thumb_m": "/thumb/ff/2025/10/xmnkg16pm64bilg95ian3ms7c93osqhs00bdje2irpjan0sui2.jpg?alias=thumb_m&signature=Ay_jK3nF2xm4LnebsxczzmEHupIKcWs6scif-3lxfac",
+        "url_listing_search": "/thumb/ff/2025/10/xmnkg16pm64bilg95ian3ms7c93osqhs00bdje2irpjan0sui2.jpg?alias=listing_search&signature=ScWHaHQgXwJj-Tw04tknm1R-8SqjOm_fzhV_HWiY-LI",
+        "ordering": 1,
+        "width": 1248,
+        "height": 832
+      },
+      {
+        "pk": 22093025,
+        "caption": "",
+        "url": "/media/ff/2025/07/jpwqea1wcdjyybnhadz1pdk0excv89ielqogwtxk4jhxyexrk1.jpg",
+        "url_thumb_m": "/thumb/ff/2025/07/jpwqea1wcdjyybnhadz1pdk0excv89ielqogwtxk4jhxyexrk1.jpg?alias=thumb_m&signature=dp3IP5iJFQKIdsTGJ3yjAoQWpGeWRDUUP7zylkxbbQE",
+        "url_listing_search": "/thumb/ff/2025/07/jpwqea1wcdjyybnhadz1pdk0excv89ielqogwtxk4jhxyexrk1.jpg?alias=listing_search&signature=KdMLRHTEOVFlnM5zso-c8B-pqLqGkM5MgO9Q-6bLakk",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 22093026,
+        "caption": "",
+        "url": "/media/ff/2025/07/zk8g6exaow66mrxjq3vuw1iyrre3ssmxo6zbly8j6tgs73fw75.jpg",
+        "url_thumb_m": "/thumb/ff/2025/07/zk8g6exaow66mrxjq3vuw1iyrre3ssmxo6zbly8j6tgs73fw75.jpg?alias=thumb_m&signature=ES9rKSiQNSuK0gceoKoDuy_YC6282OGWfYxzsGQ4U-c",
+        "url_listing_search": "/thumb/ff/2025/07/zk8g6exaow66mrxjq3vuw1iyrre3ssmxo6zbly8j6tgs73fw75.jpg?alias=listing_search&signature=7XWikRKTOaAutIv-XKLbLf1gdP3N4lhy2KdOHLr0q5s",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1210
+      },
+      {
+        "pk": 22093027,
+        "caption": "",
+        "url": "/media/ff/2025/07/0r51o7xoin47ezmxuqdydam2jgyaznoe1dpbchk6x1fnr5sds4.jpg",
+        "url_thumb_m": "/thumb/ff/2025/07/0r51o7xoin47ezmxuqdydam2jgyaznoe1dpbchk6x1fnr5sds4.jpg?alias=thumb_m&signature=iHaW3jz23zToao-RjdSHUhvUbMTurPQy0CLNbDoc1PQ",
+        "url_listing_search": "/thumb/ff/2025/07/0r51o7xoin47ezmxuqdydam2jgyaznoe1dpbchk6x1fnr5sds4.jpg?alias=listing_search&signature=UzCS9Cpbqe9DJiUj2A4JUSyIY9h6Uncl-l6p2tO2Gnk",
+        "ordering": 4,
+        "width": 1500,
+        "height": 992
+      },
+      {
+        "pk": 22093028,
+        "caption": "",
+        "url": "/media/ff/2025/07/h2exy0x3f0gasdus4hqd5ioorg26iwm3871ck759yxfy0w445f.jpg",
+        "url_thumb_m": "/thumb/ff/2025/07/h2exy0x3f0gasdus4hqd5ioorg26iwm3871ck759yxfy0w445f.jpg?alias=thumb_m&signature=nklsbaa4v9JSiI6iSTHA5w-9JxiTacHe1GekGP1FUcg",
+        "url_listing_search": "/thumb/ff/2025/07/h2exy0x3f0gasdus4hqd5ioorg26iwm3871ck759yxfy0w445f.jpg?alias=listing_search&signature=IZJOrGqMLZDgVp6p4rBtQHxNjU8uU7D-18m9iu6Z4fM",
+        "ordering": 5,
+        "width": 1500,
+        "height": 977
+      },
+      {
+        "pk": 22093030,
+        "caption": "",
+        "url": "/media/ff/2025/07/zkz1aifn8pd6hcfl8iddqj60rt9b6ssxn0z0ddmf5z8ww43mjy.jpg",
+        "url_thumb_m": "/thumb/ff/2025/07/zkz1aifn8pd6hcfl8iddqj60rt9b6ssxn0z0ddmf5z8ww43mjy.jpg?alias=thumb_m&signature=5y5ETzuiZYEOuRP8_oEQgGTH6y1WDzK-x34iuekfjU0",
+        "url_listing_search": "/thumb/ff/2025/07/zkz1aifn8pd6hcfl8iddqj60rt9b6ssxn0z0ddmf5z8ww43mjy.jpg?alias=listing_search&signature=v69qw9-oOzwCxLnBCNFSHrOi38zzzFo3X0BS6URfIyM",
+        "ordering": 6,
+        "width": 1500,
+        "height": 946
+      },
+      {
+        "pk": 22093031,
+        "caption": "",
+        "url": "/media/ff/2025/07/lv6dw0flkbsbk1y64jexs7h73g0yifgrxo81k2cu0291yciygq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/07/lv6dw0flkbsbk1y64jexs7h73g0yifgrxo81k2cu0291yciygq.jpg?alias=thumb_m&signature=YgiSAYfgEHh6jA4d4-zZkzFpRW5yBg1V4kbGTffzPyI",
+        "url_listing_search": "/thumb/ff/2025/07/lv6dw0flkbsbk1y64jexs7h73g0yifgrxo81k2cu0291yciygq.jpg?alias=listing_search&signature=aCBgZ4SgPTH12oktBtCsIc-9If_T8duHDB-3yAUc_YM",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1060
+      },
+      {
+        "pk": 22093033,
+        "caption": "",
+        "url": "/media/ff/2025/07/j3h3vd1deafcd6luo28ncj6k1k0eqtkeywzqxwo71ulnu5w61g.jpg",
+        "url_thumb_m": "/thumb/ff/2025/07/j3h3vd1deafcd6luo28ncj6k1k0eqtkeywzqxwo71ulnu5w61g.jpg?alias=thumb_m&signature=pknOcqYw2IIagQ-vymCvt2Ucw6HoGFwGMDyB94E481E",
+        "url_listing_search": "/thumb/ff/2025/07/j3h3vd1deafcd6luo28ncj6k1k0eqtkeywzqxwo71ulnu5w61g.jpg?alias=listing_search&signature=TsBlz2uUd4v_y3yfr_f847mu6fapvByh-c7rmY0wYds",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1060
+      }
+    ],
+    "documents": [
+      450939
+    ],
+    "agency": {
+      "name": "AGMENTO Immobilien AG",
+      "name_2": "",
+      "street": "Eichengasse 3",
+      "zipcode": "4702",
+      "city": "Oensingen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2024/02/nbwweonisvalbtqnfvvcj35v2escmhjptgqp8oqcq87o4apxxq.png",
+        "url_org_logo_m": "/thumb/org/2024/02/nbwweonisvalbtqnfvvcj35v2escmhjptgqp8oqcq87o4apxxq.png?alias=org_logo_m&signature=kVh7lTAF2bv0v3WoflimtXVKZNsEeQ8G3TufT8KrRS0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "790m² Ladenfläche in Langenthal mieten",
+    "livingspace": 790
+  }
+}

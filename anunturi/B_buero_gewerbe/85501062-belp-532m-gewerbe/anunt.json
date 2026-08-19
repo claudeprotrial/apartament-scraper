@@ -1,0 +1,239 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1632.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/grubenstrasse-1-3123-belp/85501062/",
+    "descarcat": "2026-08-17 12:36",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerbe",
+        "sitzungszimmer"
+      ],
+      "kw_retail": [
+        "bar",
+        "cafe",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 85501062,
+    "slug": "grubenstrasse-1-3123-belp",
+    "url": "/de/wohnung/grubenstrasse-1-3123-belp/85501062/",
+    "short_url": "/85501062/",
+    "submit_url": "/de/listing/85501062/submit/",
+    "status": "act",
+    "created": "2025-11-10T15:23:09.737194+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "22870.01.400012",
+    "ref_property": "22870",
+    "ref_house": "01",
+    "ref_object": "400012",
+    "alternative_reference": "",
+    "price_display": 8560,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-11-10T15:23:11.146712+01:00",
+    "rent_net": 7460,
+    "rent_charges": 1100,
+    "rent_gross": null,
+    "short_title": "532m² Gewerbe",
+    "public_title": "Grubenstrasse 1, 3123 Belp - CHF 8’560 inkl. NK pro Monat",
+    "pitch_title": "532m² Gewerbe in Belp mieten",
+    "description_title": "Repräsentatives Büro mit Bahnhofsnähe und starker Präsenz",
+    "description": "In Belp finden Sie hohe Lebens- und Arbeitsqualität: Wir bieten Ihnen ideale Rahmenbedingungen für Ihr Unternehmen. Suchen Sie ein modernes Umfeld, eine zentrale Lage mit guter Sichtbarkeit, unmittelbare Nähe zum Bahnhof, ideales Strassennetz bestehender Infrastruktur? Ihre Lösung könnte wie folgt aussehen:  \n  \nWir bieten Ihnen ab sofort oder nach Vereinbarung:  \n  \n\n*   390m2 Alleinnutzung im EG _(gute Sichtbarkeit/Schaufester)_\n*   142m2 (Anteilsmässig von Total 206m2) an Gemeinschaftsanlagen wie **Eingangsbereich** , **Sitzungszimmer** , **WC-Anlagen** auf beiden Stockwerken, **Cafeteria inkl. Küche** im Obergeschoss und einer **Terrasse** zur Mitbenutzung mit dem bestehendem Mieter (Anzeiger Region Bern - ein \"Urbelper\")\n*   Einstellhallenplätze\n*   Lagerraum UG von 43m2\n*   Besucherparkplätze vorhanden\n*   Naherholungsgebiete\n*   Hervorragendes Netzwerk\n*   Aktuell Glastrennwände und Teppichboden\n\nDer Standort ist sowohl für Mitarbeitende als auch für Kunden ideal: Dank der guten ÖV-Anbindung ist eine unkomplizierte Anreise gewährleistet, während die vorhandenen Parkmöglichkeiten eine bequeme Erreichbarkeit mit dem Auto ermöglichen. Die gute Sichtbarkeit der Liegenschaft unterstützt zudem eine starke Präsenz Ihres Unternehmens. Einkaufsmöglichkeiten, Restaurants und diverse Dienstleistungsangebote befinden sich in unmittelbarer Umgebung und sorgen für zusätzlichen Komfort im Arbeitsalltag.  \n  \nIst Ihr Interesse geweckt, freuen wir uns über Ihre Kontaktaufnahme. Über die Onlinekontaktanfrage-Funktion erhalten Sie Auskunft zu den Besichtigungsmöglichkeiten.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 532,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 532,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Grubenstrasse 1",
+    "zipcode": 3123,
+    "city": "Belp",
+    "public_address": "Grubenstrasse 1, 3123 Belp",
+    "latitude": 46.8902613,
+    "longitude": 7.4972771,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 31156949,
+    "images": [
+      {
+        "pk": 31156949,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2025/11/bz1kb7ia7w8e102ry7kyh438mcnbqicg2b0336wq0jalom151e.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/bz1kb7ia7w8e102ry7kyh438mcnbqicg2b0336wq0jalom151e.jpg?alias=thumb_m&signature=Gw23ZggA50ZNymTZXkuiNkYf6VTLbKmsrG5ojoMoF40",
+        "url_listing_search": "/thumb/ff/2025/11/bz1kb7ia7w8e102ry7kyh438mcnbqicg2b0336wq0jalom151e.jpg?alias=listing_search&signature=MHe-0Oru6vFIziIzkLo5tttVvMT8gxhJApTW13w9_xY",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156950,
+        "caption": "Eingangsbereich",
+        "url": "/media/ff/2025/11/50kfej8p1pad09r6w0s2sr1tzuh1ou3nyu0e68lgddoloxeyzt.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/50kfej8p1pad09r6w0s2sr1tzuh1ou3nyu0e68lgddoloxeyzt.jpg?alias=thumb_m&signature=iYPRIQ8XJYLp8hH2udx6qNb8x1nEiv_UlBmD2YheH9Y",
+        "url_listing_search": "/thumb/ff/2025/11/50kfej8p1pad09r6w0s2sr1tzuh1ou3nyu0e68lgddoloxeyzt.jpg?alias=listing_search&signature=qr6CYQc-qaTmHir6EmG7wrUyUAhqcSCm9FgxzkfnhlU",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156951,
+        "caption": "Eingangsbereich",
+        "url": "/media/ff/2025/11/yyffxt1ltncxbpw67j1i27b0ib2kvqwuo9mowxjtzl4xh19esu.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/yyffxt1ltncxbpw67j1i27b0ib2kvqwuo9mowxjtzl4xh19esu.jpg?alias=thumb_m&signature=Uj360FougAwCR1xs3L6ppauRA4q1Kkvyx_weWsrjRqI",
+        "url_listing_search": "/thumb/ff/2025/11/yyffxt1ltncxbpw67j1i27b0ib2kvqwuo9mowxjtzl4xh19esu.jpg?alias=listing_search&signature=H-rLoEEDAmK7K6KpBl64lEBLLmUQbj_wmt-XNLrmxiA",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156952,
+        "caption": "Büroraum",
+        "url": "/media/ff/2025/11/2rikw979cnglw0sx7zc2nadgdeikqqekfsup3f7dg1192mfj3q.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/2rikw979cnglw0sx7zc2nadgdeikqqekfsup3f7dg1192mfj3q.jpg?alias=thumb_m&signature=HVJHTJrMt5r8sVyZsKqvvEefO45Yleu83Uv2vjDz5pA",
+        "url_listing_search": "/thumb/ff/2025/11/2rikw979cnglw0sx7zc2nadgdeikqqekfsup3f7dg1192mfj3q.jpg?alias=listing_search&signature=m2WU19dNiVYtP_i7HEGYzpBQ9GDpZK5qykmLdBpDoCI",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156953,
+        "caption": "Lagerraum",
+        "url": "/media/ff/2025/11/7vuj4d6rcai6sl21bsmn3525txfx0nohkr2unb3h3zowimnmkn.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/7vuj4d6rcai6sl21bsmn3525txfx0nohkr2unb3h3zowimnmkn.jpg?alias=thumb_m&signature=u7kzXWiH7LWwGqOORV0bDUkaOOQK0J026Rd26i0scGs",
+        "url_listing_search": "/thumb/ff/2025/11/7vuj4d6rcai6sl21bsmn3525txfx0nohkr2unb3h3zowimnmkn.jpg?alias=listing_search&signature=FVyVp3e8ju7DmG3RDUzkFNup1AjoP-eIQf7w2wMWZ7c",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156954,
+        "caption": "Lagerraum 2",
+        "url": "/media/ff/2025/11/e2n54dt2ctv4tgxibfozuccmft23rnn8cgycbr87ep4chbadih.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/e2n54dt2ctv4tgxibfozuccmft23rnn8cgycbr87ep4chbadih.jpg?alias=thumb_m&signature=wlDRd32S5KnB-iPKiwXgjovHmOBSyN2AYTVaM6DJi0M",
+        "url_listing_search": "/thumb/ff/2025/11/e2n54dt2ctv4tgxibfozuccmft23rnn8cgycbr87ep4chbadih.jpg?alias=listing_search&signature=ZK6M1W3WtnitMlHtVftpCWfOvnMixggkFzXb72IDl1o",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156955,
+        "caption": "Eigenes, mögliches Sitzungszimmer (bestehend)",
+        "url": "/media/ff/2025/11/cs7k2id3f3c4ncw75dmtfsoqx26nvpumcustiwo2x0jjwah876.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/cs7k2id3f3c4ncw75dmtfsoqx26nvpumcustiwo2x0jjwah876.jpg?alias=thumb_m&signature=ddtlMyYioHd8de40huS6P8Kq_a5Z_L3QV1T1duauGOM",
+        "url_listing_search": "/thumb/ff/2025/11/cs7k2id3f3c4ncw75dmtfsoqx26nvpumcustiwo2x0jjwah876.jpg?alias=listing_search&signature=EtJInHcE5Atl8AYAQ9IpT-CPbyDp-gqsKH8czYfTUwM",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156956,
+        "caption": "Sitzungszimmer zur Mitbenutzung",
+        "url": "/media/ff/2025/11/uq5u3cdbbifx8yztz4x1efw2p45cqtveldi6f2mj5azxof1blk.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/uq5u3cdbbifx8yztz4x1efw2p45cqtveldi6f2mj5azxof1blk.jpg?alias=thumb_m&signature=_U-9eMcolSRNzNDuUM2p1gEbCTC4PKbdPVamwH-qqQo",
+        "url_listing_search": "/thumb/ff/2025/11/uq5u3cdbbifx8yztz4x1efw2p45cqtveldi6f2mj5azxof1blk.jpg?alias=listing_search&signature=5SWL_dIvA9I0GBfj4ydxYSi9JrXb3dNGpI7Z04pUSDg",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156957,
+        "caption": "Cafeteria zur Mitbenutzung",
+        "url": "/media/ff/2025/11/keehowunzkkovcy045k8icdm6xqzes2uxrax3u6e61aqtqwicn.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/keehowunzkkovcy045k8icdm6xqzes2uxrax3u6e61aqtqwicn.jpg?alias=thumb_m&signature=LnxfvriQnT9nhQWFsRFge0wiS4UJOhc5mxtRrGpj6rM",
+        "url_listing_search": "/thumb/ff/2025/11/keehowunzkkovcy045k8icdm6xqzes2uxrax3u6e61aqtqwicn.jpg?alias=listing_search&signature=3Q2mrGu4XgOwEnEnJOJy853LzfPQ2yHhsfVM8-gX6EU",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156958,
+        "caption": "Toilettenraum zur Mitbenutzung",
+        "url": "/media/ff/2025/11/mwdkqsiyhe210cu1x7k0lxxiduyp2rryi50qfut7omx9i7jap5.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/mwdkqsiyhe210cu1x7k0lxxiduyp2rryi50qfut7omx9i7jap5.jpg?alias=thumb_m&signature=D8Ck6MRHO8S1nlnbqSEjIR77chy3rWEMRfHOT1yuBmM",
+        "url_listing_search": "/thumb/ff/2025/11/mwdkqsiyhe210cu1x7k0lxxiduyp2rryi50qfut7omx9i7jap5.jpg?alias=listing_search&signature=rxve-nU4oO6i2WuRTuobyI7goi2Bp-DdQY4-V_tifFU",
+        "ordering": 10,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156959,
+        "caption": "Mögliche Nutzung (Büro)",
+        "url": "/media/ff/2025/11/h277ymat31khve29bixd4k0hnu7gtyhlwvyt41ylbf4n7kkhwu.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/h277ymat31khve29bixd4k0hnu7gtyhlwvyt41ylbf4n7kkhwu.jpg?alias=thumb_m&signature=gJI6a-N2IkbKiJEpkR2YYIIVValAdBh05723CiG4f6U",
+        "url_listing_search": "/thumb/ff/2025/11/h277ymat31khve29bixd4k0hnu7gtyhlwvyt41ylbf4n7kkhwu.jpg?alias=listing_search&signature=ZJ3ZFmPgDvFT9VZGMNrnBBqFystiBZ9t3xQ0ErvyjTA",
+        "ordering": 11,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 31156960,
+        "caption": "Mögliche Nutzung (Büro)",
+        "url": "/media/ff/2025/11/2a7xsjiu5ua4mqf3dt1nqdw50me4boke7cqwxf4dr5m57nt2a1.jpg",
+        "url_thumb_m": "/thumb/ff/2025/11/2a7xsjiu5ua4mqf3dt1nqdw50me4boke7cqwxf4dr5m57nt2a1.jpg?alias=thumb_m&signature=Uaeoy-HmUANAUr_BPKPniucucgS5K_t0bqepM3YKNZk",
+        "url_listing_search": "/thumb/ff/2025/11/2a7xsjiu5ua4mqf3dt1nqdw50me4boke7cqwxf4dr5m57nt2a1.jpg?alias=listing_search&signature=RC3HRpLcHNdt2kQJqw1VQbkGaHYn_TTWQsOI8OlEyRs",
+        "ordering": 12,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [
+      623685
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": "",
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "532m² Gewerbe in Belp mieten",
+    "livingspace": 532
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1744.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/oberdorfstrasse-1-3855-brienz-be/86068287/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke",
+        "praxisräumlichkeiten",
+        "zahnarzt"
+      ],
+      "kw_praxis_slabe": [
+        "ärzt"
+      ],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbefläche",
+        "gewerberäume"
+      ],
+      "kw_retail": [
+        "bar",
+        "ladenlokal",
+        "verkaufsfläche"
+      ],
+      "kw_wohnen": [
+        "studio",
+        "wohnungen"
+      ]
+    },
+    "nr_imagini": 12
+  },
+  "raw": {
+    "pk": 86068287,
+    "slug": "oberdorfstrasse-1-3855-brienz-be",
+    "url": "/de/wohnung/oberdorfstrasse-1-3855-brienz-be/86068287/",
+    "short_url": "/86068287/",
+    "submit_url": "/de/listing/86068287/submit/",
+    "status": "act",
+    "created": "2026-05-28T18:06:06.104384+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": ".1754005.a4d762de-5aad-11f1-871a-069ae14c7a06",
+    "ref_property": "",
+    "ref_house": "1754005",
+    "ref_object": "a4d762de-5aad-11f1-871a-069ae14c7a06",
+    "alternative_reference": null,
+    "price_display": 3350,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-05-28T18:06:07.049231+02:00",
+    "rent_net": 3000,
+    "rent_charges": 350,
+    "rent_gross": 3350,
+    "short_title": "202m² Gewerbe",
+    "public_title": "Oberdorfstrasse 1, 3855 Brienz BE - CHF 3’350",
+    "pitch_title": "202m² Gewerbe in Brienz BE mieten",
+    "description_title": "vielfach nutzbare Gewerberäumlichkeiten an guter Verkehrslage",
+    "description": "unser Angebot: zu vermieten an bester Verkehrslage an der Hauptstrasse 105 / Oberdorfstrasse 1 in 3855 Brienz: \n\ndie ehemalige Rothornapotheke mit rund 200 m2 Gewerbefläche an bester Verkehrslage in Brienz nahe Schiffanlagestelle und Bahnstation Brüniglinie der Zentralbahn und Talstation der Brienzer Rothornbahn . \n\nEin schönes, helles Ladenlokal mit 133 m2 und diverse Nebenräume inkl. Besprechungszimmer und Personal-WC gehören dazu und können vielfältig genutzt werden. Zum Beispiel als Verkaufsfläche, für Büros oder als Praxisräumlichkeiten für eine Hausärztin oder einen Hausarzt oder für eine Zahnärztin oder einen Zahnarzt, wieder als Apotheke oder als Drogerie. \n\nDie Räumlichkeiten befinden sich in einem unter Denkmalschutz stehenden Holz-Blockhaus mit einer \"Laubsägelifassade\", 1778 erstellt und um 1900 erweitert. \n\n1996 - 1998 wurde das ganze Gebäude kernsaniert. \n\nDas heutige Wohn- und Geschäftshaus umfasst die ehemalige Rothornapotheke mit 2 Verkaufstheken im Erdgeschoss, eine 3.5-Zimmer-Wohnung im Obergeschoss, eine 4.5-Zimmer-Wohnung im Dachgeschoss sowie eine 1.5-Zimmer-Studiowohnung im Estrichgeschoss. Die Wohnungen sind aktuell alle vermietet. \n\nDie Gewerberäume umfassen praktisch das ganze Erdgeschoss. Der Zugang erfolgt von der Hauptstrasse 105 her. Alle Räume sind rollstuhlgängig ausgestaltet. \n\nSpeziell zu erwähnen gilt es die beleuchteten Verkaufsgondeln und Regale, die Gilgen-Türautomatik, die Bodenheizung und der Zentralstaubsauger für Reinigungsarbeiten. Neu steht ein Mitsubishi Klimagerät (Einbaukassette zum Kühlen im Sommer und zum Wärmen im Herbst/Winter/Frühling) zur Verfügung. Für Besprechungen und die Ausgabe von Getränken gibt es einen Brunnen und eine Kräuter-Bar mit Kühlschrank. Tee, Kaffee oder ein Glas Wein oder ein Glas Wasser waren bei den Kundinnen und Kunden oftmals äusserst willkommen. \n\nVor dem Eingang stehen bis auf Weiteres 2 Autoabstellplätze zur Verfügung. Auf der Westseite des Gebäudes befindet sich ein weiterer, markierter Abstellplatz. Bei Bedarf sollte es möglich sein, weitere Abstellplätze in der Nähe dazu zu mieten.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 202,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 202,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Oberdorfstrasse 1",
+    "zipcode": 3855,
+    "city": "Brienz BE",
+    "public_address": "Oberdorfstrasse 1, 3855 Brienz BE",
+    "latitude": 46.7542926,
+    "longitude": 8.0322469,
+    "year_built": 1778,
+    "year_renovated": 1996,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47629838,
+    "images": [
+      {
+        "pk": 47629838,
+        "caption": "Süd-Fassade",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/9e83957e52bc5b5b3f4eabf51951c332.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/9e83957e52bc5b5b3f4eabf51951c332.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/9e83957e52bc5b5b3f4eabf51951c332.jpg",
+        "ordering": 1,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629846,
+        "caption": "Süd-Ansicht mit Geschäftseingang / Ost-Ansicht",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/190f0fc49489fb998fa495492a494453.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/190f0fc49489fb998fa495492a494453.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/190f0fc49489fb998fa495492a494453.jpg",
+        "ordering": 2,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629849,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/c8c719c9373a8bb6198ef2cd8ff7872e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/c8c719c9373a8bb6198ef2cd8ff7872e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/c8c719c9373a8bb6198ef2cd8ff7872e.jpg",
+        "ordering": 3,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629852,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/c6f62933d91e25cd504d56637144de02.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/c6f62933d91e25cd504d56637144de02.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/c6f62933d91e25cd504d56637144de02.jpg",
+        "ordering": 4,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629856,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/beb1fa08817a3b0e684d7cc1c6abc988.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/beb1fa08817a3b0e684d7cc1c6abc988.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/beb1fa08817a3b0e684d7cc1c6abc988.jpg",
+        "ordering": 5,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629860,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/2b043a409797b749a8586435774f811a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/2b043a409797b749a8586435774f811a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/2b043a409797b749a8586435774f811a.jpg",
+        "ordering": 6,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629863,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/7d6d9a2f25a2087163ca3c404e42b3dc.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/7d6d9a2f25a2087163ca3c404e42b3dc.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/7d6d9a2f25a2087163ca3c404e42b3dc.jpg",
+        "ordering": 7,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629867,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/3bbda99d7d6ffa2aef84866e3af78008.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/3bbda99d7d6ffa2aef84866e3af78008.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/3bbda99d7d6ffa2aef84866e3af78008.jpg",
+        "ordering": 8,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629870,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/9833887d15a170b353372f201fe41586.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/9833887d15a170b353372f201fe41586.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/9833887d15a170b353372f201fe41586.jpg",
+        "ordering": 9,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629874,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/fb83747b6ba1f6083eca3290ba3ccd1f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/fb83747b6ba1f6083eca3290ba3ccd1f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/fb83747b6ba1f6083eca3290ba3ccd1f.jpg",
+        "ordering": 10,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629880,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/df1191804bb2855c160a233527d8363a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/df1191804bb2855c160a233527d8363a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/df1191804bb2855c160a233527d8363a.jpg",
+        "ordering": 11,
+        "width": 0,
+        "height": 0
+      },
+      {
+        "pk": 47629884,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx786873/4003195350/image/e506b290da47e2299fbd28b5185f03a2.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx786873/4003195350/image/e506b290da47e2299fbd28b5185f03a2.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx786873/4003195350/image/e506b290da47e2299fbd28b5185f03a2.jpg",
+        "ordering": 12,
+        "width": 0,
+        "height": 0
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Swiss Quality Immo GmbH",
+      "name_2": null,
+      "street": "Suldhaltenstrasse 31",
+      "zipcode": "3703",
+      "city": "Aeschi b. Spiez",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/qsardeuwcfdl37aiqtn8vhxay4nrjiug9m5wgeass3n50o0f7g.png",
+        "url_org_logo_m": "/thumb/org/2026/07/qsardeuwcfdl37aiqtn8vhxay4nrjiug9m5wgeass3n50o0f7g.png?alias=org_logo_m&signature=VnknRDqjF_vh_92ogLqPLxAiLM3fiGyxv_Nmtg6p5Ak"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003195350",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "202m² Gewerbe in Brienz BE mieten",
+    "livingspace": 202
+  }
+}

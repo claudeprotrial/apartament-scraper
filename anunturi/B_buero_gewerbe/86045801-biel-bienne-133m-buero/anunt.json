@@ -1,0 +1,210 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1636.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/zentralstrasse-63-c-2501-bielbienne/86045801/",
+    "descarcat": "2026-08-17 12:36",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "büroräume",
+        "dienstleistung",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "gastronomie",
+        "pub",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 86045801,
+    "slug": "zentralstrasse-63-c-2501-bielbienne",
+    "url": "/de/wohnung/zentralstrasse-63-c-2501-bielbienne/86045801/",
+    "short_url": "/86045801/",
+    "submit_url": "/de/listing/86045801/submit/",
+    "status": "act",
+    "created": "2026-05-19T17:49:34.315294+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "2863.4.1431",
+    "ref_property": "2863",
+    "ref_house": "4",
+    "ref_object": "1431",
+    "alternative_reference": null,
+    "price_display": 240,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-05-19T17:49:40.167457+02:00",
+    "rent_net": 240,
+    "rent_charges": 0,
+    "rent_gross": 240,
+    "short_title": "133m² Büro",
+    "public_title": "Zentralstrasse 63 C, 2501 Biel/Bienne - CHF 240",
+    "pitch_title": "133m² Büro in Biel/Bienne mieten",
+    "description_title": "Ausgebaute Bürofläche an zentraler Lage",
+    "description": "An zentraler Lage im Herzen von Biel, unmittelbar neben der Überbauung Centre Esplanade, steht diese kompakte, ausgebaute Bürofläche mit rund 133 m² im 4. Obergeschoss zur Vermietung. Die Räumlichkeiten sind funktional ausgebaut und bieten ideale Voraussetzungen für kleinere Unternehmen, Start-ups oder Projektteams.   \n  \nDie Fläche überzeugt durch einen praktischen Grundriss mit zwei Büroräumen, die sich flexibel nutzen lassen. Grosszügige Fenster sorgen für viel Tageslicht und schaffen eine angenehme Arbeitsumgebung.   \n  \nWeitere Vorteile:   \n\\- Bezugsbereite, ausgebaute Bürofläche   \n\\- Funktional ausgebaute Bürofläche   \n\\- Sanitäre Anlage direkt auf der Mietfläche   \n  \nLage:   \n\\- Direkt neben dem Kongresshaus Biel   \n\\- Unmittelbare Nähe zum Bahnhof Biel sowie naheliegende Autobahnanschluss   \n\\- Hervorragende Erreichbarkeit mit öffentlichen und privaten Verkehrsmitteln   \n\\- Einkaufs, Gastronomie und Dienstleistungsangebote in unmittelbarer Nähe   \n  \nUnsere Geschäftsimmobilien verfügen über flexible Grundrisse und lassen sich ganz nach Ihren Bedürfnissen gestalten. Unser erfahrenes Team unterstützt Sie, gemeinsam mit unseren externen Partnern für Planung und Bau, bei der Realisierung Ihrer Vorstellungen.   \n  \nAlpine ist ein familiengeführtes Immobilienunternehmen mit Sitz in Zürich und Berlin. Als Bestandshalter sind wir spezialisiert auf Büro- und Geschäftshäuser im Umfeld internationaler Flughäfen. Von der Entwicklung über die Vermietung bis zur Bewirtschaftung von Immobilien bietet Alpine alle Dienstleistungen aus einer Hand an.   \n  \nKontaktieren Sie uns und überzeugen Sie sich von unserem Angebot.   \n*************************   \n  \nSitué en plein coeur de Bienne, juste à côté du complexe Centre Esplanade, cet espace de bureaux compact et aménagé d'environ 133 m² est à louer au 4e étage. Les locaux sont aménagés de manière fonctionnelle et offrent des conditions idéales pour les petites entreprises, les start-ups ou les équipes de projet.   \n  \nL'espace séduit par son agencement pratique comprenant deux bureaux pouvant être utilisés de manière flexible. De grandes fenêtres laissent entrer beaucoup de lumière naturelle et créent un environnement de travail agréable.   \n  \nAutres avantages:   \n\\- Espace de bureau aménagé, prêt à être occupé   \n\\- Espace de bureau aménagé de manière fonctionnelle   \n\\- Sanitaires directement sur la surface louée   \n  \nSituation:   \n\\- Juste à côté du Palais des Congrès de Bienne   \n\\- À proximité immédiate de la gare de Bienne et d'un accès autoroutier   \n\\- Excellente accessibilité en transports publics et privés   \n\\- Commerces, restaurants et services à proximité immédiate   \n  \nNos immeubles commerciaux disposent de plans d'étage flexibles et peuvent être aménagés entièrement selon vos besoins. Notre équipe expérimentée, en collaboration avec nos partenaires externes spécialisés dans la planification et la construction, vous accompagne dans la concrétisation de vos projets.   \n  \nAlpine est une société immobilière familiale basée à Zurich et à Berlin. En tant que gestionnaire de portefeuille, nous sommes spécialisés dans les immeubles de bureaux et commerciaux situés à proximité d'aéroports internationaux. Du développement à la gestion immobilière en passant par la location, Alpine propose tous les services sous un même toit.   \n  \nContactez-nous et découvrez notre offre.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 133,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 133,
+    "number_of_rooms": null,
+    "floor": 4,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "garage"
+      },
+      {
+        "name": "view"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Zentralstrasse 63 C",
+    "zipcode": 2501,
+    "city": "Biel/Bienne",
+    "public_address": "Zentralstrasse 63 C, 2501 Biel/Bienne",
+    "latitude": 47.1360618,
+    "longitude": 7.247758,
+    "year_built": 1970,
+    "year_renovated": null,
+    "moving_date_type": "dat",
+    "moving_date": "2027-04-01",
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47120354,
+    "images": [
+      {
+        "pk": 47120354,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4003173504/image/7893023c6bd13ea51e1284b128ac5e7a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4003173504/image/7893023c6bd13ea51e1284b128ac5e7a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4003173504/image/7893023c6bd13ea51e1284b128ac5e7a.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47120367,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4003173504/image/cf88ee850fde39e71073756ce1fe6922.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4003173504/image/cf88ee850fde39e71073756ce1fe6922.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4003173504/image/cf88ee850fde39e71073756ce1fe6922.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47120380,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4003173504/image/cb40571754e44f539918c73ee58701c9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4003173504/image/cb40571754e44f539918c73ee58701c9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4003173504/image/cb40571754e44f539918c73ee58701c9.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47120387,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4003173504/image/82183c6d210a86d33007d60e1c3b1e43.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4003173504/image/82183c6d210a86d33007d60e1c3b1e43.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4003173504/image/82183c6d210a86d33007d60e1c3b1e43.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47120398,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4003173504/image/b35da6705010f5e1a2fb00b6481f64d8.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4003173504/image/b35da6705010f5e1a2fb00b6481f64d8.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4003173504/image/b35da6705010f5e1a2fb00b6481f64d8.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47120412,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4003173504/image/8e04b9e6d37511fcdd9e6bfe44ce8a19.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4003173504/image/8e04b9e6d37511fcdd9e6bfe44ce8a19.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4003173504/image/8e04b9e6d37511fcdd9e6bfe44ce8a19.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47120425,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4003173504/image/d06bf9d51141612b2b9953b9f1edadae.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4003173504/image/d06bf9d51141612b2b9953b9f1edadae.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4003173504/image/d06bf9d51141612b2b9953b9f1edadae.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 999
+      },
+      {
+        "pk": 47120432,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/z137ftp/4003173504/image/0b3895997b0936b4eb9f81783ca66a14.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/z137ftp/4003173504/image/0b3895997b0936b4eb9f81783ca66a14.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/z137ftp/4003173504/image/0b3895997b0936b4eb9f81783ca66a14.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1060
+      }
+    ],
+    "documents": [
+      743404
+    ],
+    "agency": {
+      "name": "Alpine Immobilien AG",
+      "name_2": null,
+      "street": "Sägereistrasse 25",
+      "zipcode": "8152",
+      "city": "Glattbrugg",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2024/11/ni7rj22vfijv3qyglto5v3m3xne1f9jrb6lqkhwuendc4iky8y.png",
+        "url_org_logo_m": "/thumb/org/2024/11/ni7rj22vfijv3qyglto5v3m3xne1f9jrb6lqkhwuendc4iky8y.png?alias=org_logo_m&signature=_VKIIh1OT13SVbC6ohwPjyVVrezCFCfdtTjM5hu1J-A"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003173504",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "133m² Büro in Biel/Bienne mieten",
+    "livingspace": 133
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1713.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bethlehemstrasse-36-3027-bern/1612621/",
+    "descarcat": "2026-08-17 12:29",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "dienstleistung",
+        "empfang",
+        "office",
+        "sitzungszimmer",
+        "werkstatt"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 20
+  },
+  "raw": {
+    "pk": 1612621,
+    "slug": "bethlehemstrasse-36-3027-bern",
+    "url": "/de/wohnung/bethlehemstrasse-36-3027-bern/1612621/",
+    "short_url": "/1612621/",
+    "submit_url": "/de/listing/1612621/submit/",
+    "status": "act",
+    "created": "2025-03-24T15:03:07.442379+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "210655..140003",
+    "ref_property": "210655",
+    "ref_house": "",
+    "ref_object": "140003",
+    "alternative_reference": null,
+    "price_display": 2995,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-05T11:39:32.815319+02:00",
+    "rent_net": 2445,
+    "rent_charges": 550,
+    "rent_gross": null,
+    "short_title": "125m² Büro",
+    "public_title": "Bethlehemstrasse 36, 3027 Bern - CHF 2’995 inkl. NK pro Monat",
+    "pitch_title": "125m² Büro in Bern mieten",
+    "description_title": "Attraktive Bürofläche an zentraler Lage",
+    "description": "An gut erreichbarer Lage in Bern-Bethlehem vermieten wir per sofort oder nach Vereinbarung eine vielseitig nutzbare Bürofläche im Erdgeschoss mit ca. 125 m².  \n  \nDie Räumlichkeiten überzeugen durch eine durchdachte Aufteilung und helle Arbeitsbereiche. Insgesamt stehen Ihnen 5 separate Büros, ein Sitzungszimmer, ein Vorraum sowie ein Gemeinschaftsraum mit kleiner Küche zur Verfügung. Damit eignet sich die Fläche ideal für KMU, Dienstleistungsunternehmen oder kreative Arbeitsgemeinschaften.  \n  \nPraktische Einbauschränke bieten zusätzlichen Stauraum und sorgen für Ordnung im Arbeitsalltag. Für den Komfort Ihrer Mitarbeitenden stehen zudem ein WC sowie eine Dusche zur Verfügung.  \n  \n**Highlights im Überblick:**  \n  \n\n*   ca. 125 m² Bürofläche im Erdgeschoss\n*   5 Büros + 1 Sitzungszimmer\n*   Gemeinschaftsraum mit kleiner Küche\n*   Vorraum / Empfangsbereich\n*   WC und Dusche vorhanden\n*   Einbauschränke für zusätzlichen Stauraum\n*   Helle Räume mit angenehmem Arbeitsklima\n\n**Beste Erreichbarkeit:**  \nDie Tramhaltestelle befindet sich direkt vor der Liegenschaft, wodurch eine optimale Anbindung gewährleistet ist. Einkaufsmöglichkeiten sind ebenfalls in unmittelbarer Nähe. Eine Migros-Filiale liegt direkt daneben.  \n  \n**Zusätzliche Möglichkeit:**  \nIn derselben Liegenschaft steht zudem eine Werkstattfläche in einem separaten Inserat zur Verfügung. Bei Interesse besteht die Möglichkeit, beide Objekte gemeinsam anzumieten, was insbesondere für Betriebe mit kombiniertem Büro- und Arbeitsflächenbedarf attraktiv ist.  \n  \n**Parkierung:**  \nBis zu 5 Parkplätze können bei Bedarf dazu gemietet werden.  \n  \nDie Liegenschaft befindet sich in einem gut erschlossenen Quartier mit optimaler Infrastruktur und kurzen Wegen.  \n  \nHaben wir Ihr Interesse geweckt? Gerne zeigen wir Ihnen diese vielseitige Bürofläche bei einer persönlichen Besichtigung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 125,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 125,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bethlehemstrasse 36",
+    "zipcode": 3027,
+    "city": "Bern",
+    "public_address": "Bethlehemstrasse 36, 3027 Bern",
+    "latitude": 46.9472999,
+    "longitude": 7.3947785,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 47530032,
+    "images": [
+      {
+        "pk": 47530032,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/06/olsvs5vq658moxzboxbk7t4ng17n7geqcmgna4qcngy5g7org1.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/olsvs5vq658moxzboxbk7t4ng17n7geqcmgna4qcngy5g7org1.jpg?alias=thumb_m&signature=MjMwCBucp9JtJbdjWOgAJd6TyiR1VTt8yeZ3fNJMud8",
+        "url_listing_search": "/thumb/ff/2026/06/olsvs5vq658moxzboxbk7t4ng17n7geqcmgna4qcngy5g7org1.jpg?alias=listing_search&signature=henXqZyIWx4UZCw3OrqIlnSiXvjPvWYmU0Xm21O-dOQ",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530073,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/zpptpa5a4g5geyafvett9fcnuyi6vlroqeka7e9tr1cgsf5sak.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/zpptpa5a4g5geyafvett9fcnuyi6vlroqeka7e9tr1cgsf5sak.jpg?alias=thumb_m&signature=WCvooRia5XUQqBqWGHsuXDb-yHBM9XKn_fF26ypTOHM",
+        "url_listing_search": "/thumb/ff/2026/06/zpptpa5a4g5geyafvett9fcnuyi6vlroqeka7e9tr1cgsf5sak.jpg?alias=listing_search&signature=u1UmyXTfB8PS5k4rxYmiJhby8EA9A57yYpFSykhiwyM",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530058,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/acpqbmrcspecpviiqooinig50ua9jwa52ykja2p0ysli85c144.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/acpqbmrcspecpviiqooinig50ua9jwa52ykja2p0ysli85c144.jpg?alias=thumb_m&signature=eX3K2IIArLs5eV8rPHYiD3NGjV4NZs5RPE3tHLQGE6E",
+        "url_listing_search": "/thumb/ff/2026/06/acpqbmrcspecpviiqooinig50ua9jwa52ykja2p0ysli85c144.jpg?alias=listing_search&signature=_6yIZl4T4_FtP2sbK5fWYVvTB4lb2rmO7S5c3Q4Oee8",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530061,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/bidysm6zov1nbl9y7tgspusbqrwtxtan0mcck62qgf0cjnl78i.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/bidysm6zov1nbl9y7tgspusbqrwtxtan0mcck62qgf0cjnl78i.jpg?alias=thumb_m&signature=U6NYlB1cs7utGJUrKy23WuCDtc8FtSDKj4MvIK8pILk",
+        "url_listing_search": "/thumb/ff/2026/06/bidysm6zov1nbl9y7tgspusbqrwtxtan0mcck62qgf0cjnl78i.jpg?alias=listing_search&signature=w1Gosa7xun0JYu6Hv3fofbmzKGnFJWEGlXU91zwNI0c",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530064,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/7gn4pbfy7sw0ajol1tkhrd1u67wlssc1h4hlivyuviifhlusr3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/7gn4pbfy7sw0ajol1tkhrd1u67wlssc1h4hlivyuviifhlusr3.jpg?alias=thumb_m&signature=t0Pf-V7XjtZfmDZ1SHc-m-s4IU9U_v-b_Q9UiL0RwZU",
+        "url_listing_search": "/thumb/ff/2026/06/7gn4pbfy7sw0ajol1tkhrd1u67wlssc1h4hlivyuviifhlusr3.jpg?alias=listing_search&signature=fvDxPVeLMi8b2KYPqsatkBsKxVcLTJfIAZegR-iMDaQ",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530069,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/btawdor5htxtnz5aa29m8jx1t43cafs1sdwxru5n5ce64gpxjl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/btawdor5htxtnz5aa29m8jx1t43cafs1sdwxru5n5ce64gpxjl.jpg?alias=thumb_m&signature=4xIj99YXeuJbdHxvcxrz6X-M3SezAPsxj-MtMaAQ29o",
+        "url_listing_search": "/thumb/ff/2026/06/btawdor5htxtnz5aa29m8jx1t43cafs1sdwxru5n5ce64gpxjl.jpg?alias=listing_search&signature=oTPyF0UE0dtRffkA3dHOm2PWWO3drUxeQBQP54qca7Q",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530066,
+        "caption": "Küche",
+        "url": "/media/ff/2026/06/fjwvwo5shyhwpmrsl7gplzvhmbr241wb9ggbitn4jymggac7m9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/fjwvwo5shyhwpmrsl7gplzvhmbr241wb9ggbitn4jymggac7m9.jpg?alias=thumb_m&signature=qcinJmhz4r5mq1OrVaklBJYSQezsT_-ZRN-af8Ticsw",
+        "url_listing_search": "/thumb/ff/2026/06/fjwvwo5shyhwpmrsl7gplzvhmbr241wb9ggbitn4jymggac7m9.jpg?alias=listing_search&signature=A6oUQtlib16lJZC633USGnheUOxPjt7Daj6QfIzTDOU",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530057,
+        "caption": "Gemeinschaftsraum",
+        "url": "/media/ff/2026/06/ciy71wzjdq8znvwz8u3zeavu6rog7aizd11c3brjvd08yidztc.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/ciy71wzjdq8znvwz8u3zeavu6rog7aizd11c3brjvd08yidztc.jpg?alias=thumb_m&signature=jJHAIPTBawgchq5aEN9kBlDRboCjlArlNFHrG3oPiWs",
+        "url_listing_search": "/thumb/ff/2026/06/ciy71wzjdq8znvwz8u3zeavu6rog7aizd11c3brjvd08yidztc.jpg?alias=listing_search&signature=IR4JFlmS0dSIAurFrmfiw228PIY4g3M9hgVg6bzgUUk",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530053,
+        "caption": "Korridor",
+        "url": "/media/ff/2026/06/3bug755fs1lxdc8tj0u0qaelm9ns272my0q58zb17ou9re4kun.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/3bug755fs1lxdc8tj0u0qaelm9ns272my0q58zb17ou9re4kun.jpg?alias=thumb_m&signature=KQqFyvket7Jd0CARjpu6gdw9WsM7qKt_hjXKyhVXkmI",
+        "url_listing_search": "/thumb/ff/2026/06/3bug755fs1lxdc8tj0u0qaelm9ns272my0q58zb17ou9re4kun.jpg?alias=listing_search&signature=hjtL__6RrqNoQg_wNq4fDbM1F5S4g5CVoAT4UlW3ML8",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530054,
+        "caption": "Korridor",
+        "url": "/media/ff/2026/06/y6r6ql51k1z6y0lr0ieda2lmdqq5cjui54bqrma77ui3zbpgzi.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/y6r6ql51k1z6y0lr0ieda2lmdqq5cjui54bqrma77ui3zbpgzi.jpg?alias=thumb_m&signature=w0jKUcyQ49y762NDseWJIq3CwRFodRvO60V6i_G7H-0",
+        "url_listing_search": "/thumb/ff/2026/06/y6r6ql51k1z6y0lr0ieda2lmdqq5cjui54bqrma77ui3zbpgzi.jpg?alias=listing_search&signature=Pkp7OOatjjJDtl3xUMUI0wdrKHz1UkSq8r6rGOTJDRU",
+        "ordering": 10,
+        "width": 1000,
+        "height": 1500
+      },
+      {
+        "pk": 47530065,
+        "caption": "Korridor",
+        "url": "/media/ff/2026/06/y5gop10ix3li16upd0mkg01d56f5cnnxd2ky4nihl2ko4zyflm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/y5gop10ix3li16upd0mkg01d56f5cnnxd2ky4nihl2ko4zyflm.jpg?alias=thumb_m&signature=85Adfqd9AI77NPmnmPhQZG10Depc7LLCQ1BovuJh4cM",
+        "url_listing_search": "/thumb/ff/2026/06/y5gop10ix3li16upd0mkg01d56f5cnnxd2ky4nihl2ko4zyflm.jpg?alias=listing_search&signature=VVG2P-ZyyvqmRStmPjy6cTZ-8qO8c8lVcWk4E0AiPbk",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530072,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/6vaj4zcikca0hb6a4ph29zhw1nrhxv8lmau72omzeo4sr0ktyj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/6vaj4zcikca0hb6a4ph29zhw1nrhxv8lmau72omzeo4sr0ktyj.jpg?alias=thumb_m&signature=Gr0Mx5jfNy-ZBoSaCip7XDE2NPPMDnbNnxLcgkDL-OI",
+        "url_listing_search": "/thumb/ff/2026/06/6vaj4zcikca0hb6a4ph29zhw1nrhxv8lmau72omzeo4sr0ktyj.jpg?alias=listing_search&signature=v6sQQhycO5cF_cIDEfDKXE5TRpyqx6o_F189HD2Lu08",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530062,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/l2e3u4owwfk4ezljy3cycffen2ylqhs6nsoapuxxa1f8o76tw9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/l2e3u4owwfk4ezljy3cycffen2ylqhs6nsoapuxxa1f8o76tw9.jpg?alias=thumb_m&signature=Hzcq8dQyZNxkGR-U7kn92ccKnkb_Ob0MHDMpnFgaI9M",
+        "url_listing_search": "/thumb/ff/2026/06/l2e3u4owwfk4ezljy3cycffen2ylqhs6nsoapuxxa1f8o76tw9.jpg?alias=listing_search&signature=M0b1XDeLDNepAOori__QOs5DF_2poNbaeJ6K00Sxxo8",
+        "ordering": 13,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530068,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/ic9asaa00260qjy6a716wcecns00y5a9uahrm7snoj31uk9q0y.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/ic9asaa00260qjy6a716wcecns00y5a9uahrm7snoj31uk9q0y.jpg?alias=thumb_m&signature=hSgCneFZjxdr0p76WFBSCyxtNGR53nS7UaTxsGLnTbM",
+        "url_listing_search": "/thumb/ff/2026/06/ic9asaa00260qjy6a716wcecns00y5a9uahrm7snoj31uk9q0y.jpg?alias=listing_search&signature=nSQlfahDL-jGwfYCx62nozL-m8geylmX0Nriqvl8juE",
+        "ordering": 14,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530063,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/nbe2732x0heyyr2f80zf33jtwujq5idaekkmftgdb7wa5xs90a.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/nbe2732x0heyyr2f80zf33jtwujq5idaekkmftgdb7wa5xs90a.jpg?alias=thumb_m&signature=HWkCPZc4YQQ2-Ih0fQPUQuaU07jJk_CHbwLCMkVyqXg",
+        "url_listing_search": "/thumb/ff/2026/06/nbe2732x0heyyr2f80zf33jtwujq5idaekkmftgdb7wa5xs90a.jpg?alias=listing_search&signature=ztNo_Qo-2Wn-UaKFnPF1EoToZqYJv7AYoGAUkeX97c4",
+        "ordering": 15,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530070,
+        "caption": "Büro",
+        "url": "/media/ff/2026/06/qetobni3cievhpwpm9qjo6pnsmrtf7o2egariylwhdp2n3uc9l.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/qetobni3cievhpwpm9qjo6pnsmrtf7o2egariylwhdp2n3uc9l.jpg?alias=thumb_m&signature=nJk_Mr92qZYVs0pR3birtdewatTJjtmimTIuYdZ2FTA",
+        "url_listing_search": "/thumb/ff/2026/06/qetobni3cievhpwpm9qjo6pnsmrtf7o2egariylwhdp2n3uc9l.jpg?alias=listing_search&signature=97H1QjKh1pCQcWB0qvwJQnGHlpfcwiGAfErufMLS6O0",
+        "ordering": 16,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530067,
+        "caption": "Sitzungszimmer",
+        "url": "/media/ff/2026/06/9pv81sigcmnk2oczt7cim9atwxovup3ayc5cl4vps279x5dwys.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/9pv81sigcmnk2oczt7cim9atwxovup3ayc5cl4vps279x5dwys.jpg?alias=thumb_m&signature=gKEb34dzirfxRAP1SZvng_Q9VqaznKTnFm0n6Owqk7M",
+        "url_listing_search": "/thumb/ff/2026/06/9pv81sigcmnk2oczt7cim9atwxovup3ayc5cl4vps279x5dwys.jpg?alias=listing_search&signature=7xYgs7cMU9QKuEs3O0xoyi9z3wWLLEs2sQsfBvmp5yY",
+        "ordering": 17,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530060,
+        "caption": "Vorraum",
+        "url": "/media/ff/2026/06/biu4wv6pdmsws0sntvirrxfymstjfxndb42vs1abv51igv9i6s.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/biu4wv6pdmsws0sntvirrxfymstjfxndb42vs1abv51igv9i6s.jpg?alias=thumb_m&signature=IrGGhwcQ8Tpb5DfrdhSFLUzsXm5EKgxe4hTOke9NPLY",
+        "url_listing_search": "/thumb/ff/2026/06/biu4wv6pdmsws0sntvirrxfymstjfxndb42vs1abv51igv9i6s.jpg?alias=listing_search&signature=AI5pF3G1_pEm0xXJtaho8h_t0trW3AjPf3uettWbTTA",
+        "ordering": 18,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530071,
+        "caption": "Vorraum",
+        "url": "/media/ff/2026/06/oz9v9dxxbebwukblef9nubthtgc8f5i55rptorpmouehqwj7sj.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/oz9v9dxxbebwukblef9nubthtgc8f5i55rptorpmouehqwj7sj.jpg?alias=thumb_m&signature=iPoK-C2hd4zt9aU9aHmRFkXG6ud-kyu24GbewZhTlp8",
+        "url_listing_search": "/thumb/ff/2026/06/oz9v9dxxbebwukblef9nubthtgc8f5i55rptorpmouehqwj7sj.jpg?alias=listing_search&signature=SiHnGo_5o_WaZmL98GIMcnuIvD-M3srl44sFuowmxuk",
+        "ordering": 19,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47530056,
+        "caption": "WC",
+        "url": "/media/ff/2026/06/jjsakl3qtn75b6n73v9df8bvnsqah16j05w07ahzkw5teut7il.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/jjsakl3qtn75b6n73v9df8bvnsqah16j05w07ahzkw5teut7il.jpg?alias=thumb_m&signature=ezhvuxeMH2yRYPG7kJRy8_1JS27nLxEu9DBx7104MBo",
+        "url_listing_search": "/thumb/ff/2026/06/jjsakl3qtn75b6n73v9df8bvnsqah16j05w07ahzkw5teut7il.jpg?alias=listing_search&signature=KcwYP9ksVFhzJjhsjWyyZY2GOQr5Rh6jMgPcx403WL4",
+        "ordering": 20,
+        "width": 1000,
+        "height": 1500
+      },
+      {
+        "pk": 36318961,
+        "caption": "Dusche",
+        "url": "/media/ff/2026/06/xs5m7ma98vfzmg5rs1fv1p1sk7y3jzmvtxwlzgtt0jv5fycrlm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/xs5m7ma98vfzmg5rs1fv1p1sk7y3jzmvtxwlzgtt0jv5fycrlm.jpg?alias=thumb_m&signature=4d9PvOpQOCiH1DAjaxpbq2WZmdjBSrJvhLNk76uHStk",
+        "url_listing_search": "/thumb/ff/2026/06/xs5m7ma98vfzmg5rs1fv1p1sk7y3jzmvtxwlzgtt0jv5fycrlm.jpg?alias=listing_search&signature=cXvntpV9b5uiwozAwpD2-O2oUV4BMBVW2ZCZc7Mw4Y0",
+        "ordering": 21,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      706628
+    ],
+    "agency": {
+      "name": "",
+      "name_2": "",
+      "street": "",
+      "zipcode": null,
+      "city": "",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png",
+        "url_org_logo_m": "/thumb/org/2025/12/fm8moxxr48qjctym5981j7k2exr7l061khl2z0e0auxozbxt8y.png?alias=org_logo_m&signature=F7dlhFceZMsw_sykCkbNggMJEfravWk0lq2YXPFWE2M"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "125m² Büro in Bern mieten",
+    "livingspace": 125
+  }
+}

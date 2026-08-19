@@ -1,0 +1,233 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1678.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bahnhofstrasse-7-3550-langnau/1240070/",
+    "descarcat": "2026-08-17 12:31",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisfläche",
+        "praxisräumlichkeiten"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 9
+  },
+  "raw": {
+    "pk": 1240070,
+    "slug": "bahnhofstrasse-7-3550-langnau",
+    "url": "/de/wohnung/bahnhofstrasse-7-3550-langnau/1240070/",
+    "short_url": "/1240070/",
+    "submit_url": "/de/listing/1240070/submit/",
+    "status": "act",
+    "created": "2024-06-17T16:25:14.465398+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "Langnau.898.DG NG",
+    "ref_property": "Langnau",
+    "ref_house": "898",
+    "ref_object": "DG NG",
+    "alternative_reference": "",
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "yearlym2",
+    "published": "2024-06-17T16:25:15.106617+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "145m² Büro",
+    "public_title": "Bahnhofstrasse 7, 3550 Langnau - auf Anfrage",
+    "pitch_title": "145m² Büro in Langnau mieten",
+    "description_title": "Ihre Büro- / Praxisräumlichkeiten verdienen die beste Lage!",
+    "description": "Direkt neben der Postfiliale in Langnau i. E. vermieten wir im Dachgeschoss (2. OG) im Nebengebäude schöne Büro- / Praxisflächen. Die Räumlichkeiten und Fassade werden vor Mietbeginn neu saniert, damit Sie Ihr Geschäft optimal präsentieren können. Folgende Vorteile zeichnen diesen Standort aus:  \n  \n\n*   Büro- / Praxisräumlichkeit 145 m2 verfügbar\n*   Viele Blaue-Zone Parkplätze vor der Liegenschaft\n*   Zug- und Busbahnhof gegenüber der Liegenschaft\n*   private Parkmöglichkeiten für Mitarbeitende vorhanden\n*   Ausbau bis Rohbau 1 fertig, alles Weitere wird durch den künftigen Mieter auf seinen eigenen Wunsch erstellt\n*   weitere Mietfläche von 321 m2 im 1. Obergeschoss des Hauptgebäudes kann dazu gemietet werden\n\nRealisieren Sie noch heute den idealen Standort für Ihr Geschäft und kontaktieren Sie uns für eine unverbindliche Besichtigung. Wir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 145,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 145,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "view"
+      },
+      {
+        "name": "washingmachine"
+      },
+      {
+        "name": "stonefloor"
+      },
+      {
+        "name": "broadbandinternet"
+      },
+      {
+        "name": "tumbler"
+      },
+      {
+        "name": "parquetflooring"
+      },
+      {
+        "name": "cable"
+      },
+      {
+        "name": "dishwasher"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Bahnhofstrasse 7",
+    "zipcode": 3550,
+    "city": "Langnau",
+    "public_address": "Bahnhofstrasse 7, 3550 Langnau",
+    "latitude": 46.9392466,
+    "longitude": 7.785555899999999,
+    "year_built": null,
+    "year_renovated": 2024,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 10325359,
+    "images": [
+      {
+        "pk": 10325359,
+        "caption": "",
+        "url": "/media/ff/2024/11/r57nj04c5sjy64dpl1x8hzdxvlqu2zt3h1kc5ue8mlognepwbh.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/r57nj04c5sjy64dpl1x8hzdxvlqu2zt3h1kc5ue8mlognepwbh.jpg?alias=thumb_m&signature=uSSYgcfRmplaS8IGp-kAL4VJOT0S5Io4Ay0m3xrYggM",
+        "url_listing_search": "/thumb/ff/2024/11/r57nj04c5sjy64dpl1x8hzdxvlqu2zt3h1kc5ue8mlognepwbh.jpg?alias=listing_search&signature=nnheujEZeTzXHtYW4JrZWHilHjPa7Q5ek4N6N66waYQ",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10325360,
+        "caption": "",
+        "url": "/media/ff/2024/11/6er9lqxd6sr5ewbczuelynr9ljmarl7rj5hixta4qe476klzjy.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/6er9lqxd6sr5ewbczuelynr9ljmarl7rj5hixta4qe476klzjy.jpg?alias=thumb_m&signature=kGiJrQPpLCkzMozX1EQz8xBxFPmrWY-b7FKIjqLqPWU",
+        "url_listing_search": "/thumb/ff/2024/11/6er9lqxd6sr5ewbczuelynr9ljmarl7rj5hixta4qe476klzjy.jpg?alias=listing_search&signature=Nhyv18hlgQ_HWOkPcsOf9hEHJWfFCqQhG2AExe1ZfwQ",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10325361,
+        "caption": "",
+        "url": "/media/ff/2024/11/6y71v7804eohx4j3f0n64xs3rb0knufyr4h9alnxioc66tuhk6.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/6y71v7804eohx4j3f0n64xs3rb0knufyr4h9alnxioc66tuhk6.jpg?alias=thumb_m&signature=VpXPC3ytC7LeLm3gqTI1tJV_xFlKTQBy59WAPkmyX_Y",
+        "url_listing_search": "/thumb/ff/2024/11/6y71v7804eohx4j3f0n64xs3rb0knufyr4h9alnxioc66tuhk6.jpg?alias=listing_search&signature=CUjfY0WvEiWmhjlEZXXCldhKK8oVwpcxOQoqbuvuPQI",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10325362,
+        "caption": "",
+        "url": "/media/ff/2024/11/ia860dmcnxv1igj7bisfyugd6bfpz1e1vnbbp3x3u0qh9ejeuy.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/ia860dmcnxv1igj7bisfyugd6bfpz1e1vnbbp3x3u0qh9ejeuy.jpg?alias=thumb_m&signature=QsUpVyo3ezuzQZyWLJvQyG0XV65lWjyQAFUNy79BbUY",
+        "url_listing_search": "/thumb/ff/2024/11/ia860dmcnxv1igj7bisfyugd6bfpz1e1vnbbp3x3u0qh9ejeuy.jpg?alias=listing_search&signature=TrjD2L9NPt1afLRI5SQOqWUt3TLf2cGCM1savNoITkI",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10325364,
+        "caption": "",
+        "url": "/media/ff/2024/11/epcdcmbnefiprkb3njtj4vrrvlq9epbl1dmbrilwkk14ji6dcg.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/epcdcmbnefiprkb3njtj4vrrvlq9epbl1dmbrilwkk14ji6dcg.jpg?alias=thumb_m&signature=Krrmbrd3q9GaW2Jv3ggwS5dnU3XOmevvG6jhXiY5Eno",
+        "url_listing_search": "/thumb/ff/2024/11/epcdcmbnefiprkb3njtj4vrrvlq9epbl1dmbrilwkk14ji6dcg.jpg?alias=listing_search&signature=0mif7Fs-XGkshxrmUEMEEQtjvrTKHT0OxUPMYBgYU5k",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 10325376,
+        "caption": "",
+        "url": "/media/ff/2024/11/6yrpl260ctenfle1xwphcsfy0lsir0h0zdzxfuesq4m0s05cxm.jpg",
+        "url_thumb_m": "/thumb/ff/2024/11/6yrpl260ctenfle1xwphcsfy0lsir0h0zdzxfuesq4m0s05cxm.jpg?alias=thumb_m&signature=rkTqHwVbvreJP3WJQAr_El1bCFj2cads72gDEKESgfQ",
+        "url_listing_search": "/thumb/ff/2024/11/6yrpl260ctenfle1xwphcsfy0lsir0h0zdzxfuesq4m0s05cxm.jpg?alias=listing_search&signature=EoaS6oiMOfDdiTyNSQZUHRccRuFYPICaBbk21tRjrkM",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 12064462,
+        "caption": "",
+        "url": "/media/ff/2025/02/yng2f73z8zo7e74x37tmdk51zd6hahyja2zftd9abeo81kbv67.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/yng2f73z8zo7e74x37tmdk51zd6hahyja2zftd9abeo81kbv67.jpg?alias=thumb_m&signature=Xezo4xx86wHMUCRhfm3IKCcbuw29UiebuCKGArgQVPc",
+        "url_listing_search": "/thumb/ff/2025/02/yng2f73z8zo7e74x37tmdk51zd6hahyja2zftd9abeo81kbv67.jpg?alias=listing_search&signature=ZvIh5n6jejAs6oYeqTSl16xY8g7nh9uNDC6sEErZ780",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 12064463,
+        "caption": "",
+        "url": "/media/ff/2025/02/436w5upldilonidzlhq7ko234ty2tulgmkequ6kh25o00fm7wu.jpg",
+        "url_thumb_m": "/thumb/ff/2025/02/436w5upldilonidzlhq7ko234ty2tulgmkequ6kh25o00fm7wu.jpg?alias=thumb_m&signature=A0UBRM6qklZizC5AG3yAOSkwuLdPwERZAWeDKs2uohg",
+        "url_listing_search": "/thumb/ff/2025/02/436w5upldilonidzlhq7ko234ty2tulgmkequ6kh25o00fm7wu.jpg?alias=listing_search&signature=QWy2Rm1QS1WLiItCxR-cQf8TY9Vm2JH9lahmK8kgQz8",
+        "ordering": 8,
+        "width": 1500,
+        "height": 844
+      },
+      {
+        "pk": 9312529,
+        "caption": "",
+        "url": "/media/ff/2024/06/vxcnanehuymaq70o87xbaaj69w6uzkjb3pj11nnldwqnl79wpi.png",
+        "url_thumb_m": "/thumb/ff/2024/06/vxcnanehuymaq70o87xbaaj69w6uzkjb3pj11nnldwqnl79wpi.png?alias=thumb_m&signature=r9JfkF5LNDvaJ15Iwglc4FJ5S7xsWHuPATL_a3oG9xY",
+        "url_listing_search": "/thumb/ff/2024/06/vxcnanehuymaq70o87xbaaj69w6uzkjb3pj11nnldwqnl79wpi.png?alias=listing_search&signature=bqZjDQPggR1MjTgj5uodUIp0ax9gV8zPH1Z_u_52Mgc",
+        "ordering": 9,
+        "width": 1228,
+        "height": 770
+      }
+    ],
+    "documents": [
+      234293
+    ],
+    "agency": {
+      "name": "Post Immobilien M&S AG",
+      "name_2": "",
+      "street": "Wankdorfallee 4",
+      "zipcode": "3030",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/04/apge1c1lritqkir7hu9nsg1hpf4cj2johxr2mat17zzl0x523f.jpg",
+        "url_org_logo_m": "/thumb/org/2023/04/apge1c1lritqkir7hu9nsg1hpf4cj2johxr2mat17zzl0x523f.jpg?alias=org_logo_m&signature=KTgSxCwtrfi4_kIVBbhgomTDUBYjTt4Iju2VIig5HvA"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "145m² Büro in Langnau mieten",
+    "livingspace": 145
+  }
+}

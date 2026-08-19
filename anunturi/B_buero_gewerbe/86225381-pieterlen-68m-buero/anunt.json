@@ -1,0 +1,188 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1652.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/auf-anfrage-1-2542-pieterlen/86225381/",
+    "descarcat": "2026-08-17 12:34",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "dienstleistung",
+        "office"
+      ],
+      "kw_retail": [
+        "gastronomie"
+      ],
+      "kw_wohnen": [
+        "studio"
+      ]
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 86225381,
+    "slug": "auf-anfrage-1-2542-pieterlen",
+    "url": "/de/wohnung/auf-anfrage-1-2542-pieterlen/86225381/",
+    "short_url": "/86225381/",
+    "submit_url": "/de/listing/86225381/submit/",
+    "status": "act",
+    "created": "2026-07-29T09:48:26.749888+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "6758150.6758150.",
+    "ref_property": "6758150",
+    "ref_house": "6758150",
+    "ref_object": "",
+    "alternative_reference": null,
+    "price_display": 1240,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-29T09:48:27.630868+02:00",
+    "rent_net": 990,
+    "rent_charges": 250,
+    "rent_gross": 1240,
+    "short_title": "68m² Büro",
+    "public_title": "Auf Anfrage 1, 2542 Pieterlen - CHF 1’240",
+    "pitch_title": "68m² Büro in Pieterlen mieten",
+    "description_title": "Hochwertige Bürofläche an zentraler Lage",
+    "description": "Helles Büro mit moderner Ausstattung   \n  \nDieses gepflegte Büro bietet auf kompakter Fläche ein angenehmes und funktionales Arbeitsumfeld. Der helle Raum sorgt für eine freundliche Atmosphäre und schafft ideale Voraussetzungen für konzentriertes und effizientes Arbeiten.   \nDie moderne Ausstattung ist zeitgemäss und praktisch gestaltet, sodass ein komfortabler Arbeitsalltag gewährleistet ist.   \nDank der zentralen Lage profitieren Sie von einer sehr guten Anbindung an den öffentlichen Verkehr sowie kurzen Wegen zu Einkaufsmöglichkeiten und Gastronomie. Das Büro eignet sich ideal für Einzelunternehmer, Berater, Kreative oder kleine Dienstleistungsbetriebe, die eine praktische und gut gelegene Arbeitsfläche suchen.   \n  \nDieses ImmoSky-Angebot bietet folgende *Mehr Leistung*:   \n\\+ Heller, repräsentativer Raum mit grossen Fensterflächen   \n\\+ Optional mit zusätzlichem Meetingraum   \n\\+ Hochwertiger Holzboden   \n\\+ Eigenes WC   \n\\+ Genügend Parkmöglichkeiten   \n\\+ Grosszügiges Kellerabteil   \n\\+ Separater Eingangsbereich   \n.. und vieles mehr!   \n  \nEin Ort, der Produktivität und Wohlbefinden verbindet perfekt für einen erfolgreichen Arbeitsalltag.   \nDiese Räumlichkeiten bieten die perfekte Basis für individuelle Geschäftsideen in einem professionellen Rahmen ob Büro, Praxis, Studio oder Beratungsraum. Kontaktieren Sie uns für weitere Informationen oder einen Besichtigungstermin.   \n  \n(Das Verkaufsdossier wird in der Regel innert maximal 24 Stunden an Sie versendet, bitte prüfen Sie auch Ihren SPAM Ordner.)",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 68,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 68,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "petsallowed"
+      },
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Auf Anfrage 1",
+    "zipcode": 2542,
+    "city": "Pieterlen",
+    "public_address": "Auf Anfrage 1, 2542 Pieterlen",
+    "latitude": 47.1714011,
+    "longitude": 7.317576,
+    "year_built": 1920,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": "https://www.immosky.ch",
+    "live_viewing_url": null,
+    "cover_image": 48585102,
+    "images": [
+      {
+        "pk": 48585102,
+        "caption": "Viel Platz für Ihr Business",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346399/image/68462d7d8b9ca607e6cc2ab5800a31b2.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346399/image/68462d7d8b9ca607e6cc2ab5800a31b2.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346399/image/68462d7d8b9ca607e6cc2ab5800a31b2.jpg",
+        "ordering": 1,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585103,
+        "caption": "Ihr neues Büro zum Durchstarten",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346399/image/47bf0dea3e0b819240b90549e29e23a5.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346399/image/47bf0dea3e0b819240b90549e29e23a5.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346399/image/47bf0dea3e0b819240b90549e29e23a5.jpg",
+        "ordering": 2,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585104,
+        "caption": "Mehr als genug Platz",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346399/image/17a57f16aede50c932569ac270cdf08b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346399/image/17a57f16aede50c932569ac270cdf08b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346399/image/17a57f16aede50c932569ac270cdf08b.jpg",
+        "ordering": 3,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585105,
+        "caption": "Eingang Gewerbe",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346399/image/4e92da9573c4f803dc577a3c6d65849f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346399/image/4e92da9573c4f803dc577a3c6d65849f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346399/image/4e92da9573c4f803dc577a3c6d65849f.jpg",
+        "ordering": 4,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585106,
+        "caption": "WC Gewerbe",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346399/image/caddd140765f25d68a115382767a81e0.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346399/image/caddd140765f25d68a115382767a81e0.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346399/image/caddd140765f25d68a115382767a81e0.jpg",
+        "ordering": 5,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585107,
+        "caption": "Aussenbereich",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346399/image/6abc04bf6c4677bf145d06e28f391149.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346399/image/6abc04bf6c4677bf145d06e28f391149.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346399/image/6abc04bf6c4677bf145d06e28f391149.jpg",
+        "ordering": 6,
+        "width": 1200,
+        "height": 800
+      },
+      {
+        "pk": 48585108,
+        "caption": "Kennen Sie den Wert Ihrer Immobilie?",
+        "url": "https://cdn.flatfox.ch/listings/v2/x243chsky/4003346399/image/68811d9a0f2efc5a00b85ad8c2a32a21.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/x243chsky/4003346399/image/68811d9a0f2efc5a00b85ad8c2a32a21.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/x243chsky/4003346399/image/68811d9a0f2efc5a00b85ad8c2a32a21.jpg",
+        "ordering": 7,
+        "width": 1200,
+        "height": 675
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "ImmoSky AG - Dübendorf",
+      "name_2": null,
+      "street": "Hochbordstrasse 1",
+      "zipcode": "3018",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/08/5pxdlwmbagt53rwf0yprfrqwwnj1ikpbemx0731la79y8sn0a9.jpg",
+        "url_org_logo_m": "/thumb/org/2026/08/5pxdlwmbagt53rwf0yprfrqwwnj1ikpbemx0731la79y8sn0a9.jpg?alias=org_logo_m&signature=llwB1mv7e3U8jAxlZdudhDQdvEin91Yk0gREMgseSkY"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003346399",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "68m² Büro in Pieterlen mieten",
+    "livingspace": 68
+  }
+}

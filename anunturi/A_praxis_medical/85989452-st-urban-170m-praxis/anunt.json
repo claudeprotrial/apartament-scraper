@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1716.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/obertor-6-4915-st-urban/85989452/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen",
+        "praxisräumlichkeiten"
+      ],
+      "kw_praxis_slabe": [
+        "<type>"
+      ],
+      "kw_business": [
+        "atelier",
+        "büro-",
+        "büroräume",
+        "gewerbe",
+        "gewerblich"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 17
+  },
+  "raw": {
+    "pk": 85989452,
+    "slug": "obertor-6-4915-st-urban",
+    "url": "/de/wohnung/obertor-6-4915-st-urban/85989452/",
+    "short_url": "/85989452/",
+    "submit_url": "/de/listing/85989452/submit/",
+    "status": "act",
+    "created": "2026-04-27T18:10:03.216551+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "PRACTICE",
+    "reference": "..8hpsk.5p423",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "8hpsk.5p423",
+    "alternative_reference": null,
+    "price_display": 1980,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-04-27T18:10:18.141337+02:00",
+    "rent_net": 1710,
+    "rent_charges": 270,
+    "rent_gross": 1980,
+    "short_title": "170m² Praxis",
+    "public_title": "Obertor 6, 4915 St. Urban - CHF 1’980",
+    "pitch_title": "170m² Praxis in St. Urban mieten",
+    "description_title": "Repräsentative 6.5-Zimmer Büroräume / Atelier / Praxis in historischem Klostergebäude",
+    "description": "***** Beachten sie den 360°-Rundgang oben *****\n\nEntdecken Sie diese grosszügigen Büro- / Gewerbe- / Atelier- oder Praxisräumlichkeiten mit 6.5 Zimmern und 170 m² Nutzfläche in der Umgebung des ehemaligen Klosters in St. Urban. \n\nVerfügbar ab sofort oder nach Vereinbarung. \n\nDie Räumlichkeiten verfügen über: \n\n  * Grosszügige und helle Räume mit Parkett \n\n  * 3 Meter Raumhöhe \n\n  * WC Anlage mit 2 WCs / Lavabo / Spiegel \n\n  * Steckdosen in sämtlichen Räumen \n\n  * Flexible Räumlichkeiten \n\n\n\n\nAussenparkplätze können für CHF 60.00 / Monat dazu gemietet werden. \n\n**Lage und Anbindung:** Die Räumlichkeiten befinden sich in ruhiger Lage und sind dennoch hervorragend angebunden. Der Bahnhof St. Urban ist nur 8 Gehminuten entfernt, die Bushaltestelle \"Klinik\" erreichen Sie in 2 Minuten zu Fuss. Das Schulhaus liegt 6 Gehminuten entfernt. \n\nDie Lage ist sonnig und bietet eine ruhige Arbeitsatmosphäre. \n\nDiese vielseitigen Räumlichkeiten eignen sich ideal für verschiedene Bürokonzepte, Praxen oder andere gewerbliche Nutzungen. Die Kombination aus historischem Charme und praktischer Ausstattung macht diese Immobilie zu einer attraktiven Lösung für Ihr Unternehmen.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 170,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 170,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "balconygarden"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Obertor 6",
+    "zipcode": 4915,
+    "city": "St. Urban",
+    "public_address": "Obertor 6, 4915 St. Urban",
+    "latitude": 47.2304422,
+    "longitude": 7.8402278,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": "https://my.matterport.com/show/?m=NXpE5VgpuoQ",
+    "website_url": "https://www.negri-immobilien.ch",
+    "live_viewing_url": null,
+    "cover_image": 47214961,
+    "images": [
+      {
+        "pk": 47214961,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/9512b3e761084cd7b77f94c3bdfc7ca6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/9512b3e761084cd7b77f94c3bdfc7ca6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/9512b3e761084cd7b77f94c3bdfc7ca6.jpg",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47214964,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/127a03a0a64ce3a8a65e0fb12b71ea8c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/127a03a0a64ce3a8a65e0fb12b71ea8c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/127a03a0a64ce3a8a65e0fb12b71ea8c.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47214967,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/3e67ce818e3ed4a6e097bd0f738bcff1.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/3e67ce818e3ed4a6e097bd0f738bcff1.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/3e67ce818e3ed4a6e097bd0f738bcff1.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47214968,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/12ec71a7a003ed28ad186794ed072617.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/12ec71a7a003ed28ad186794ed072617.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/12ec71a7a003ed28ad186794ed072617.jpg",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47214981,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/6267d4f545d5bd866d34e0bbd73a160c.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/6267d4f545d5bd866d34e0bbd73a160c.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/6267d4f545d5bd866d34e0bbd73a160c.jpg",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215005,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/b52f66f39a7a8633ec7bc2a05005a0f4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/b52f66f39a7a8633ec7bc2a05005a0f4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/b52f66f39a7a8633ec7bc2a05005a0f4.jpg",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215008,
+        "caption": "Completely empty room with white walls, wooden floor, and an arched window.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/0bcba14b1b3d0bd7017a7d9cc0c92645.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/0bcba14b1b3d0bd7017a7d9cc0c92645.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/0bcba14b1b3d0bd7017a7d9cc0c92645.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215011,
+        "caption": "Empty room with hardwood floors, white walls, and two doors leading to other rooms.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/0aa6a494e2381d4579e22d8bb4416f07.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/0aa6a494e2381d4579e22d8bb4416f07.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/0aa6a494e2381d4579e22d8bb4416f07.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215013,
+        "caption": "A small bathroom with white tiles, a toilet, a sink, and a mirror. The sink has a faucet and a soap dispenser. The mirror is mounted on the wall above the sink. The toilet is located in a corner of the room. The room has a window with a view of the outsid",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/bd77e1cdcf1663863ec78ed21d7cde35.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/bd77e1cdcf1663863ec78ed21d7cde35.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/bd77e1cdcf1663863ec78ed21d7cde35.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215015,
+        "caption": "Bathroom with white sink, faucet, mirror, and hand dryer on tiled walls.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/60e96c05cc10e3bcc819aecbb59724aa.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/60e96c05cc10e3bcc819aecbb59724aa.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/60e96c05cc10e3bcc819aecbb59724aa.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 2250
+      },
+      {
+        "pk": 47215018,
+        "caption": "A small, white bathroom with a toilet, sink, and toilet paper holder.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/2d06a4e5cb85f8501d293ec371ca1de6.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/2d06a4e5cb85f8501d293ec371ca1de6.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/2d06a4e5cb85f8501d293ec371ca1de6.jpg",
+        "ordering": 11,
+        "width": 1500,
+        "height": 2250
+      },
+      {
+        "pk": 47215020,
+        "caption": "Completely empty room with wooden floors and white walls. No furniture or equipment.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/29a78910a8be66aaf010c561b3685d53.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/29a78910a8be66aaf010c561b3685d53.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/29a78910a8be66aaf010c561b3685d53.jpg",
+        "ordering": 12,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215024,
+        "caption": "Empty room with hardwood floors, white walls, arched window, and two doors.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/39130a7bde72878b8d1eefc910650531.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/39130a7bde72878b8d1eefc910650531.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/39130a7bde72878b8d1eefc910650531.jpg",
+        "ordering": 13,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215028,
+        "caption": "An empty room with wooden floors and beige walls. There are two doors, one open and one closed, and a power outlet on the wall. The room has a ceiling with a pipe and a square hole in the floor.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/b4e9e8fcf12fa535618993c7e6f324d7.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/b4e9e8fcf12fa535618993c7e6f324d7.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/b4e9e8fcf12fa535618993c7e6f324d7.jpg",
+        "ordering": 14,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215031,
+        "caption": "Reduit",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/cd165b2037eba45c9843cb0116becc36.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/cd165b2037eba45c9843cb0116becc36.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/cd165b2037eba45c9843cb0116becc36.jpg",
+        "ordering": 15,
+        "width": 1500,
+        "height": 2250
+      },
+      {
+        "pk": 47215036,
+        "caption": "Completely empty room with white walls, wooden floor, and a white door.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/1967a7929db6395d2e8c76bbeff4e95a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/1967a7929db6395d2e8c76bbeff4e95a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/1967a7929db6395d2e8c76bbeff4e95a.jpg",
+        "ordering": 16,
+        "width": 1500,
+        "height": 1000
+      },
+      {
+        "pk": 47215040,
+        "caption": "Empty room with wooden floors, white walls, and a window. No furniture or equipment.",
+        "url": "https://cdn.flatfox.ch/listings/v2/q139/4003118209/image/038f62b2c8def11bfe6468e99f927345.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/q139/4003118209/image/038f62b2c8def11bfe6468e99f927345.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/q139/4003118209/image/038f62b2c8def11bfe6468e99f927345.jpg",
+        "ordering": 17,
+        "width": 1500,
+        "height": 1000
+      }
+    ],
+    "documents": [
+      717566
+    ],
+    "agency": {
+      "name": "NEGRI Immobilien AG",
+      "name_2": null,
+      "street": "Untere Brühlstrasse 52",
+      "zipcode": "4800",
+      "city": "Zofingen",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/q05d1y6rbsilvsam5b5tdskrrick5r7szkjopagz7p0uyrz0ei.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/q05d1y6rbsilvsam5b5tdskrrick5r7szkjopagz7p0uyrz0ei.jpg?alias=org_logo_m&signature=IQbP30vYmaSGbpJ_0c_6v1UUw5PXpNYcyO5_B7643z8"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003118209",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "170m² Praxis in St. Urban mieten",
+    "livingspace": 170
+  }
+}

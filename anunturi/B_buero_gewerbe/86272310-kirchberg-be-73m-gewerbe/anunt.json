@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1680.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/solothurnstrasse-4-3422-kirchberg-be/86272310/",
+    "descarcat": "2026-08-17 12:31",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerbe",
+        "gewerblich"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 86272310,
+    "slug": "solothurnstrasse-4-3422-kirchberg-be",
+    "url": "/de/wohnung/solothurnstrasse-4-3422-kirchberg-be/86272310/",
+    "short_url": "/86272310/",
+    "submit_url": "/de/listing/86272310/submit/",
+    "status": "act",
+    "created": "2026-08-14T08:56:07.776145+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..elbbc.zldje",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "elbbc.zldje",
+    "alternative_reference": null,
+    "price_display": 1190,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-08-14T08:56:07.915450+02:00",
+    "rent_net": 885,
+    "rent_charges": 305,
+    "rent_gross": 1190,
+    "short_title": "73m² Gewerbe",
+    "public_title": "Solothurnstrasse 4, 3422 Kirchberg BE - CHF 1’190",
+    "pitch_title": "73m² Gewerbe in Kirchberg BE mieten",
+    "description_title": "Viusitigi Gschäftsrümlechkeite im Härze vo Chiuberg",
+    "description": "Mitten im Zentrum von Kirchberg BE vermieten wir attraktive und vielseitig nutzbare Gewerberäumlichkeiten mit rund 73 m² Nutzfläche im Erdgeschoss. \n\nDie Fläche eignet sich ideal für Büro, Praxis, Beratung, Dienstleistung oder andere gewerbliche Nutzungen. Dank des praktischen Grundrisses, der grosszügigen Fensterflächen und des ebenerdigen Zugangs bieten die Räumlichkeiten ein angenehmes und freundliches Arbeitsumfeld. \n\n**Das erwartet Sie:**\n\n  * ca. 73 m² Nutzfläche im Erdgeschoss \n\n  * helle und gepflegte Räumlichkeiten \n\n  * praktischer, flexibel nutzbarer Grundriss \n\n  * Sitzungs-/Besprechungsbereich \n\n  * eigene Toilette \n\n  * ebenerdiger Zugang \n\n  * zentrale und gut sichtbare Lage \n\n  * sehr gute Erreichbarkeit mit dem öffentlichen Verkehr \n\n  * Einkaufsmöglichkeiten, Restaurants, Banken, Post und weitere Dienstleistungen in unmittelbarer Nähe \n\n\n\n\nDie zentrale Lage macht den Standort sowohl für Mitarbeitende als auch für Kundschaft besonders attraktiv. \n\n**Parkiere**\n\nBei Bedarf können zusätzlich zwei Einstellhallenplätze für je CHF 105.– pro Monat dazu gemietet werden. \n\n**Dr Gwunger gweckt?**\n\nDann freuen wir uns auf Ihre Kontaktaufnahme. Gerne zeigen wir Ihnen die Räumlichkeiten bei einer persönlichen Besichtigung und lassen Sie sich selbst von diesem vielseitigen Standort überzeugen.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 73,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 73,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Solothurnstrasse 4",
+    "zipcode": 3422,
+    "city": "Kirchberg BE",
+    "public_address": "Solothurnstrasse 4, 3422 Kirchberg BE",
+    "latitude": 47.0857894,
+    "longitude": 7.584606599999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48934217,
+    "images": [
+      {
+        "pk": 48934217,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h269412/4003383559/image/e6f7ffcd5fe0b7a2a443d65402ffacaf.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h269412/4003383559/image/e6f7ffcd5fe0b7a2a443d65402ffacaf.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h269412/4003383559/image/e6f7ffcd5fe0b7a2a443d65402ffacaf.png",
+        "ordering": 1,
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "pk": 48934218,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h269412/4003383559/image/de65549d07727136913c7d8d5f4aeacb.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h269412/4003383559/image/de65549d07727136913c7d8d5f4aeacb.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h269412/4003383559/image/de65549d07727136913c7d8d5f4aeacb.png",
+        "ordering": 2,
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "pk": 48934219,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h269412/4003383559/image/9cdc5b58ea726ce57be0b7ba25c9101d.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h269412/4003383559/image/9cdc5b58ea726ce57be0b7ba25c9101d.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h269412/4003383559/image/9cdc5b58ea726ce57be0b7ba25c9101d.png",
+        "ordering": 3,
+        "width": 1086,
+        "height": 1448
+      },
+      {
+        "pk": 48934220,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h269412/4003383559/image/3828ea8eec8cb5f125fafccad1959092.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h269412/4003383559/image/3828ea8eec8cb5f125fafccad1959092.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h269412/4003383559/image/3828ea8eec8cb5f125fafccad1959092.png",
+        "ordering": 4,
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "pk": 48934221,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h269412/4003383559/image/3c89eba40f0e1e04e45d650708269fd5.png",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h269412/4003383559/image/3c89eba40f0e1e04e45d650708269fd5.png",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h269412/4003383559/image/3c89eba40f0e1e04e45d650708269fd5.png",
+        "ordering": 5,
+        "width": 1448,
+        "height": 1086
+      },
+      {
+        "pk": 48934222,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/h269412/4003383559/image/cfcd6a9c094492b4d03397c89cede36d.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/h269412/4003383559/image/cfcd6a9c094492b4d03397c89cede36d.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/h269412/4003383559/image/cfcd6a9c094492b4d03397c89cede36d.jpg",
+        "ordering": 6,
+        "width": 884,
+        "height": 1035
+      }
+    ],
+    "documents": [
+      785157
+    ],
+    "agency": {
+      "name": "Mühlemann Immobilien AG",
+      "name_2": null,
+      "street": "Solothurnstrasse 6",
+      "zipcode": "3422",
+      "city": "Kirchberg BE",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/06/vthlk9g1sfivuslm0almq09o5pmitc91eudfs3deat3lsl3qrm.jpg",
+        "url_org_logo_m": "/thumb/org/2026/06/vthlk9g1sfivuslm0almq09o5pmitc91eudfs3deat3lsl3qrm.jpg?alias=org_logo_m&signature=7iefn4wyw5RhbMUI54iIelZyTAG-CVsGfxEMQ_97n5o"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003383559",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "73m² Gewerbe in Kirchberg BE mieten",
+    "livingspace": 73
+  }
+}

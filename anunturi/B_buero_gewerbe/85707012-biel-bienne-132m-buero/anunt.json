@@ -1,0 +1,144 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1636.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/jakob-stampfli-strasse-4-2502-bielbienne/85707012/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbefläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "laden"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 2
+  },
+  "raw": {
+    "pk": 85707012,
+    "slug": "jakob-stampfli-strasse-4-2502-bielbienne",
+    "url": "/de/wohnung/jakob-stampfli-strasse-4-2502-bielbienne/85707012/",
+    "short_url": "/85707012/",
+    "submit_url": "/de/listing/85707012/submit/",
+    "status": "act",
+    "created": "2026-01-21T10:11:28.654698+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..155w6.704eg",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "155w6.704eg",
+    "alternative_reference": null,
+    "price_display": 200,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-01-21T10:11:33.151293+01:00",
+    "rent_net": 180,
+    "rent_charges": 20,
+    "rent_gross": 200,
+    "short_title": "132m² Büro",
+    "public_title": "Jakob-Stämpfli-Strasse 4, 2502 Biel/Bienne - CHF 200",
+    "pitch_title": "132m² Büro in Biel/Bienne mieten",
+    "description_title": "Gewerberäumlichkeiten im Hauser-Park - EXKLUSIV!",
+    "description": "Sie suchen geeignete Gewerberäumlichkeiten für Ihren Gewerbebetrieb, wollen einen Laden, Physio oder eine Praxis eröffnen oder suchen helle und moderne Räume für Ihr neues Büro? Dann haben wir das Richtige für Sie. \n\nIm Hauserpark an der Schüss, eine der markantesten Liegenschaften Biels, sind von 132 m2 bis gesamthaft 278 m2 im oberen Stockwerk der Liegenschaft zu vermieten. \n\n**Die Gewerbeflächen sind exklusiv und punkten mit diversen Highlights:**\n\n\\- mietbar als Gesamtfläche von 278 m2 oder unterteilbar in 132 m2 und 146m2 \n\n\\- klimatisierte und besonders hohe helle Räume \n\n\\- grossen Fensterfronten \n\n\\- Personal- und Warenlift \n\n\\- attraktiver und gepflegter Innenhof \n\n**zur Lage:**\n\n\\- ruhige Lage direkt an der Schüss und neben dem Stadtpark \n\n\\- wenige Gehminuten ins Stadtzentrum \n\n\\- nahe der Autobahn und dem Omegaareal \n\n\\- ÖV direkt vor der Liegenschaft \n\n\\- Parkmöglichkeiten vorhanden \n\nVor allem die repräsentativen Büros mit Sicht auf das Schüsswehr und den Stadtpark würden sich hervorragend für den Hauptsitz einer Firma eignen. In den hinteren Räumen ist Gewerbe aller Art denkbar. \n\nHaben wir Ihr Interesse geweckt? Dann melden Sie sich noch heute für eine Besichtigung vor Ort bei uns. Wir freuen uns auf Ihre Kontaktaufnahme! \n\n**Nettomietzins: CHF 180.- /m2 p. a + MWST**",
+    "surface_living": null,
+    "surface_property": 132,
+    "surface_usable": 132,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 132,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "garage"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Jakob-Stämpfli-Strasse 4",
+    "zipcode": 2502,
+    "city": "Biel/Bienne",
+    "public_address": "Jakob-Stämpfli-Strasse 4, 2502 Biel/Bienne",
+    "latitude": 47.1427117,
+    "longitude": 7.2570145,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47414105,
+    "images": [
+      {
+        "pk": 47414105,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002857497/image/8657c77052ad01357eeed1bac97e94b9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002857497/image/8657c77052ad01357eeed1bac97e94b9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002857497/image/8657c77052ad01357eeed1bac97e94b9.jpg",
+        "ordering": 1,
+        "width": 1024,
+        "height": 747
+      },
+      {
+        "pk": 47414106,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx275310/4002857497/image/bddc472f4bbc3565a2556678ffdfc875.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx275310/4002857497/image/bddc472f4bbc3565a2556678ffdfc875.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx275310/4002857497/image/bddc472f4bbc3565a2556678ffdfc875.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      }
+    ],
+    "documents": [
+      661966,
+      661967,
+      661968
+    ],
+    "agency": {
+      "name": "PS Immobilien AG",
+      "name_2": null,
+      "street": "Paul-Emile-Brandt-Strasse 2",
+      "zipcode": "2502",
+      "city": "Biel",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/knbwu3twpw9a6bvrzdxpzp0zdcmht9krydfes0guypwwtvxnns.png",
+        "url_org_logo_m": "/thumb/org/2026/07/knbwu3twpw9a6bvrzdxpzp0zdcmht9krydfes0guypwwtvxnns.png?alias=org_logo_m&signature=Qhc9Bh18X67wgS1rPC6_XBAn8T8qS6--jp9a9-R_aKg"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4002857497",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "132m² Büro in Biel/Bienne mieten",
+    "livingspace": 132
+  }
+}

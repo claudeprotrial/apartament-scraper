@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1656.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/hauptstrasse-144-3855-brienz-be/85602999/",
+    "descarcat": "2026-08-17 12:33",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [
+        "therapie"
+      ],
+      "kw_business": [
+        "büro",
+        "dienstleistung"
+      ],
+      "kw_retail": [
+        "<type>",
+        "bar",
+        "ladenfläche",
+        "restaurant",
+        "shop"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 85602999,
+    "slug": "hauptstrasse-144-3855-brienz-be",
+    "url": "/de/wohnung/hauptstrasse-144-3855-brienz-be/85602999/",
+    "short_url": "/85602999/",
+    "submit_url": "/de/listing/85602999/submit/",
+    "status": "act",
+    "created": "2025-12-15T14:36:35.013961+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "SHOP",
+    "reference": "WE 890..Geschäft 185 m2",
+    "ref_property": "WE 890",
+    "ref_house": "",
+    "ref_object": "Geschäft 185 m2",
+    "alternative_reference": "",
+    "price_display": 189,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2025-12-15T14:48:41.511397+01:00",
+    "rent_net": 170,
+    "rent_charges": 19,
+    "rent_gross": null,
+    "short_title": "185m² Ladenfläche",
+    "public_title": "Hauptstrasse 144, 3855 Brienz BE - CHF 189 inkl. NK pro m² / Jahr",
+    "pitch_title": "185m² Ladenfläche in Brienz BE mieten",
+    "description_title": "Beste Lage: Top Geschäftslokal in Brienz",
+    "description": "Grosszügiges, helles und komplett ausgebautes Geschäftslokal von 185 m² im Erdgeschoss:  \n  \n\n*   Beste Lage direkt bei den Touristenströmen zwischen Bahnhof, Schiffländte, Brienzer Rothornbahn, Postautostation und Tourismusbüro.\n*   Gute Passantenlage dank vielen Geschäftslokalen in unmittelbarer Umgebung (Post, Banken, Coop, diverse Detaillisten und Restaurants).\n*   Ideale Fläche für Ihr Business: Verkauf, Souveniers, Dienstleistungen, Büro, IT, Schulungen, Praxis, Fitness, Therapien, etc.\n*   Einladender Kundeneingang mit automatischer Schiebetüre\n*   Helle Räume mit viel Tageslicht, rundherum Fenster mit prächtiger See- und Bergsicht (Gitter werden entfernt).\n*   Grosszügige Fläche ohne Zwischenwände. Daher sind der Nutzung kaum Grenzen gesetzt.\n*   WC-Anlage im EG\n*   Sanft und frisch renoviert 2026\n*   Kundenparkplätze direkt vor dem Eingang\n*   Bei Bedarf können 1-2 Mitarbeiter-Parkplätze dazu gemietet werden\n\nAttraktiver Mietzins!  \nMietzins: CHF 2'620.-/Monat  \nNebenkosten: CHF 300.-/Monat  \n8.1% MWST: CHF 236.-/Monat  \nTotal: CHF 3'156.-/Monat  \n  \nMietzins und Nebenkosten unterliegen der MWST. Diese kann von MWST-pflichtigen Mietern zurückgefordert werden und fällt somit wieder weg. Das Mietzinsdepot von 6 Monatsmieten kann auch als Bankgarantie geleistet werden.  \n  \nFür eine Besichtigung vor Ort stehen wir gerne zur Verfügung. Wir freuen uns auf Ihren Anruf.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 185,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 185,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "view"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Hauptstrasse 144",
+    "zipcode": 3855,
+    "city": "Brienz BE",
+    "public_address": "Hauptstrasse 144, 3855 Brienz BE",
+    "latitude": 46.7546358,
+    "longitude": 8.0376012,
+    "year_built": null,
+    "year_renovated": 2026,
+    "moving_date_type": "dat",
+    "moving_date": "2026-12-01",
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "",
+    "live_viewing_url": "",
+    "cover_image": 32088621,
+    "images": [
+      {
+        "pk": 32088621,
+        "caption": null,
+        "url": "/media/ff/2025/12/6t2zpz04n59audqt52h22otisfvdwjsazz88qjwpmijbzfa1ig.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/6t2zpz04n59audqt52h22otisfvdwjsazz88qjwpmijbzfa1ig.jpg?alias=thumb_m&signature=7nk0_D9RHrjp1GK41B87c8aLwJ2Djx-9swIAvd3k4-U",
+        "url_listing_search": "/thumb/ff/2025/12/6t2zpz04n59audqt52h22otisfvdwjsazz88qjwpmijbzfa1ig.jpg?alias=listing_search&signature=rHuVj57stX4u6GAqd6UGmN3579Du9XZJ_Yl4PENgjMs",
+        "ordering": 1,
+        "width": 1119,
+        "height": 839
+      },
+      {
+        "pk": 32088606,
+        "caption": null,
+        "url": "/media/ff/2025/12/cyo2wog33i1p8v2i9gzcaofx8eq3sckb1xy4oonq559h2g48ft.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/cyo2wog33i1p8v2i9gzcaofx8eq3sckb1xy4oonq559h2g48ft.jpg?alias=thumb_m&signature=hXrwdU8pmXOEdYVL5Nnw-dP4yVkBMBN37N6Zm6-9T5c",
+        "url_listing_search": "/thumb/ff/2025/12/cyo2wog33i1p8v2i9gzcaofx8eq3sckb1xy4oonq559h2g48ft.jpg?alias=listing_search&signature=p6Q0qI8r3F-IMAcPnuOjV_lc-8xIupc8DRSIQR4ZoWM",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 32088627,
+        "caption": null,
+        "url": "/media/ff/2025/12/yfyud2toy9vzt2lcla45v3y6qkyk19w8uh1mirwexakcw3mwos.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/yfyud2toy9vzt2lcla45v3y6qkyk19w8uh1mirwexakcw3mwos.jpg?alias=thumb_m&signature=UuQh6Q9hsK5kgfuw3WUGceLejsK6TGnqQIPIAsWJ11Q",
+        "url_listing_search": "/thumb/ff/2025/12/yfyud2toy9vzt2lcla45v3y6qkyk19w8uh1mirwexakcw3mwos.jpg?alias=listing_search&signature=5nD7H857BEeuLVeBoQ9_AENm0Jb73qA8RRyuiSHdttk",
+        "ordering": 3,
+        "width": 1119,
+        "height": 839
+      },
+      {
+        "pk": 32088628,
+        "caption": null,
+        "url": "/media/ff/2025/12/vn0p4fwbm4u7cwwa6efly4ns4opdv5fn2okuzgw9ml6qbnhgx7.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/vn0p4fwbm4u7cwwa6efly4ns4opdv5fn2okuzgw9ml6qbnhgx7.jpg?alias=thumb_m&signature=_B-OwcUxRNttZpIJIVq4prLBP1oEdJEQ5hPz-hmRN2I",
+        "url_listing_search": "/thumb/ff/2025/12/vn0p4fwbm4u7cwwa6efly4ns4opdv5fn2okuzgw9ml6qbnhgx7.jpg?alias=listing_search&signature=7nyA0iXRxWsDA9n2A_VZFP2ppnpN8eMfNZOKUMkFKWQ",
+        "ordering": 4,
+        "width": 1119,
+        "height": 839
+      },
+      {
+        "pk": 32088626,
+        "caption": null,
+        "url": "/media/ff/2025/12/so2dp78je2bugvjqy05vruol9fh4wghbe3riztev5jwj5uu68d.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/so2dp78je2bugvjqy05vruol9fh4wghbe3riztev5jwj5uu68d.jpg?alias=thumb_m&signature=kc7wxEQ13sLKYfuNN6FENpg4FSQVoRq0F-jUbmc-_9g",
+        "url_listing_search": "/thumb/ff/2025/12/so2dp78je2bugvjqy05vruol9fh4wghbe3riztev5jwj5uu68d.jpg?alias=listing_search&signature=x3rcrWwSDaijnX2QdN3u1tKUyqW3OUA1J4jiGzKBh68",
+        "ordering": 5,
+        "width": 1119,
+        "height": 839
+      },
+      {
+        "pk": 32088607,
+        "caption": null,
+        "url": "/media/ff/2025/12/9m7pc6ihn1awvo41he1jsv2wcucm9nx6z0a4t1r1c6v9z9z43d.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/9m7pc6ihn1awvo41he1jsv2wcucm9nx6z0a4t1r1c6v9z9z43d.jpg?alias=thumb_m&signature=9PRbLpI83AEUqvXMpfRO4OOukzzgjwopi0ogwVpaHC0",
+        "url_listing_search": "/thumb/ff/2025/12/9m7pc6ihn1awvo41he1jsv2wcucm9nx6z0a4t1r1c6v9z9z43d.jpg?alias=listing_search&signature=2-IrpZwwxB_wSf15Cqcc2nORmsgej1aXNis_ypLgILc",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1112
+      },
+      {
+        "pk": 32088608,
+        "caption": null,
+        "url": "/media/ff/2025/12/5mi4k70iaoivhcw9s032v8xjexen7e5re6tarnj2odk9vo8tv1.jpg",
+        "url_thumb_m": "/thumb/ff/2025/12/5mi4k70iaoivhcw9s032v8xjexen7e5re6tarnj2odk9vo8tv1.jpg?alias=thumb_m&signature=utRtqGxOVRC7oJM6ANyqgAu6lsLYtDBB1YHCwzZJbYE",
+        "url_listing_search": "/thumb/ff/2025/12/5mi4k70iaoivhcw9s032v8xjexen7e5re6tarnj2odk9vo8tv1.jpg?alias=listing_search&signature=UjiPwshfDu9P-tvWWeJYYt2rwCrjs-oMFxgLMtwPH5Q",
+        "ordering": 7,
+        "width": 1119,
+        "height": 839
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "Post Immobilien M&S AG",
+      "name_2": "",
+      "street": "Wankdorfallee 4",
+      "zipcode": "3030",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2023/04/apge1c1lritqkir7hu9nsg1hpf4cj2johxr2mat17zzl0x523f.jpg",
+        "url_org_logo_m": "/thumb/org/2023/04/apge1c1lritqkir7hu9nsg1hpf4cj2johxr2mat17zzl0x523f.jpg?alias=org_logo_m&signature=KTgSxCwtrfi4_kIVBbhgomTDUBYjTt4Iju2VIig5HvA"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "185m² Ladenfläche in Brienz BE mieten",
+    "livingspace": 185
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1619.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/solothurnstrasse-35-3322-schonbuhl-urtenen/86044540/",
+    "descarcat": "2026-08-17 12:39",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke",
+        "podologie",
+        "ärztezentrum"
+      ],
+      "kw_praxis_slabe": [
+        "therapie"
+      ],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "gewerbefläche",
+        "gewerberaum",
+        "office",
+        "werkstatt"
+      ],
+      "kw_retail": [
+        "bar",
+        "bäckerei",
+        "laden",
+        "restaurant",
+        "shop"
+      ],
+      "kw_wohnen": [
+        "studio"
+      ]
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 86044540,
+    "slug": "solothurnstrasse-35-3322-schonbuhl-urtenen",
+    "url": "/de/wohnung/solothurnstrasse-35-3322-schonbuhl-urtenen/86044540/",
+    "short_url": "/86044540/",
+    "submit_url": "/de/listing/86044540/submit/",
+    "status": "act",
+    "created": "2026-05-19T12:14:41.485305+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "..2117",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "2117",
+    "alternative_reference": null,
+    "price_display": 1551,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-05-19T12:14:42.508384+02:00",
+    "rent_net": 1351,
+    "rent_charges": 200,
+    "rent_gross": 1551,
+    "short_title": "144m² Büro",
+    "public_title": "Solothurnstrasse 35, 3322 Schönbühl-Urtenen - CHF 1’551 inkl. NK pro Monat",
+    "pitch_title": "144m² Büro in Schönbühl-Urtenen mieten",
+    "description_title": "Lichtdurchflutete, vielseitig nutzbare Gewerberaum, Büro an zentraler Lage",
+    "description": "An der Solothurnstrassse in Schönbühl-Urtenen vermieten nach Vereinbarung eine Gewerbefläche im 1.OG.   \n  \nHighlights:   \n\\- Offene Fläche mit 144m2 und 3.3m Höhe   \n\\- Einzige Gewerbefläche im Gebäude   \n\\- Die Fläche kann bei Bedarf unterteilt werden   \n\\- Hervorragende Anbindung an ÖV und Autobahn   \n\\- Nebenkosten pauschal   \n\\- Kein Lift   \n  \nDiese Gewerbefläche bietet:   \n\\- Ganzer Tag sehr hell/sonnig   \n\\- Grosszügige Fensterfront mit Storen   \n\\- Glasfaser-Internet   \n\\- Separates WC mit Dusche und Fenster zur Mitbenützung   \n\\- Velounterstand   \n\\- In unmittelbarer Nähe finden Sie: Post, Restaurants, Bäckereien, Shoppyland, Coop, Bioladen, Apotheke, Autobahn, Tankstelle, Natur, Ärztezentrum, Schule, Kirche, usw.   \n  \nIdeal z.B. für:   \n\\- Büro, kreativ Schaffende (Grafik, Architektur, Fotostudio, Versicherung, usw.)   \n\\- Ausstellungsraum, Gemeinschaftsbüro, Startups   \n\\- Seminare, Workshops, Therapieraum, Nails-Center, Podologie   \n\\- Lager, Werkstatt   \n  \nBis zu drei Aussenparkplätze können für je CHF 60.00 / Mt. dazu gemietet werden.   \n  \nWir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 144,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 144,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Solothurnstrasse 35",
+    "zipcode": 3322,
+    "city": "Schönbühl-Urtenen",
+    "public_address": "Solothurnstrasse 35, 3322 Schönbühl-Urtenen",
+    "latitude": 47.0249584,
+    "longitude": 7.5011716,
+    "year_built": 1967,
+    "year_renovated": 1992,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 35935066,
+    "images": [
+      {
+        "pk": 35935066,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/05/nw8ahys3ml4f1oj4sbje0ivvpdh903bfuqekhivc93fspgw3np.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/nw8ahys3ml4f1oj4sbje0ivvpdh903bfuqekhivc93fspgw3np.jpg?alias=thumb_m&signature=M021lVUl-8TD7IbDLb_81NbbV2UmXRnF1CMExT48fX0",
+        "url_listing_search": "/thumb/ff/2026/05/nw8ahys3ml4f1oj4sbje0ivvpdh903bfuqekhivc93fspgw3np.jpg?alias=listing_search&signature=LBmn00HCgVMMmr6G_b8UpF4JShWga6EMzfFAz7t073s",
+        "ordering": 1,
+        "width": 1417,
+        "height": 1063
+      },
+      {
+        "pk": 35935067,
+        "caption": "Aussenansicht",
+        "url": "/media/ff/2026/05/seanje58s9lhvplxajegd6420i6wflaxl9rbwmlcxw5pw168em.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/seanje58s9lhvplxajegd6420i6wflaxl9rbwmlcxw5pw168em.jpg?alias=thumb_m&signature=YRRr9XtntzIVDHAADUzlYPaF-qOriD-h-M3mFWIh9Zg",
+        "url_listing_search": "/thumb/ff/2026/05/seanje58s9lhvplxajegd6420i6wflaxl9rbwmlcxw5pw168em.jpg?alias=listing_search&signature=tjWG2A1E83zXPG5wXRr5IczAKlxchA-iOZDBeQ36k3k",
+        "ordering": 2,
+        "width": 480,
+        "height": 640
+      },
+      {
+        "pk": 35935068,
+        "caption": "Innenansicht",
+        "url": "/media/ff/2026/05/oyhlx855z2z4xvwxhulc9e5oupn1vykufui9bzrv9afz0hgc75.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/oyhlx855z2z4xvwxhulc9e5oupn1vykufui9bzrv9afz0hgc75.jpg?alias=thumb_m&signature=d6PAjMcWGFygGETz7GcD2wswyArzdhAyEr-wOnIDSf4",
+        "url_listing_search": "/thumb/ff/2026/05/oyhlx855z2z4xvwxhulc9e5oupn1vykufui9bzrv9afz0hgc75.jpg?alias=listing_search&signature=_ZC43ntSa3tjqgXd6sVVDuYKuvl7eBmOoN2fPj6jfrM",
+        "ordering": 3,
+        "width": 1417,
+        "height": 1063
+      },
+      {
+        "pk": 35935069,
+        "caption": "Innenansicht",
+        "url": "/media/ff/2026/05/pn5wahanrikcjxajrw80o7j5zu5n3aa6mtbn5p85zxtaq2dhag.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/pn5wahanrikcjxajrw80o7j5zu5n3aa6mtbn5p85zxtaq2dhag.jpg?alias=thumb_m&signature=Z4xO8DGVUSgvGbZrrZHzfzHdjwvDqYtucKAvfVwUWaI",
+        "url_listing_search": "/thumb/ff/2026/05/pn5wahanrikcjxajrw80o7j5zu5n3aa6mtbn5p85zxtaq2dhag.jpg?alias=listing_search&signature=-7H2UzDHCicU9SM46dbgd1fOjJEHGuaHxy3HdXjTMyA",
+        "ordering": 4,
+        "width": 1417,
+        "height": 1063
+      },
+      {
+        "pk": 35935070,
+        "caption": "Innenansicht",
+        "url": "/media/ff/2026/05/le7x5v359pq2bioqut2w5y80yefa6arllu3daiy4yefzr0kveg.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/le7x5v359pq2bioqut2w5y80yefa6arllu3daiy4yefzr0kveg.jpg?alias=thumb_m&signature=8Ad_oKoy7GMsgCmhRPvff0zqrDu5405Q_ubGCB6LFvA",
+        "url_listing_search": "/thumb/ff/2026/05/le7x5v359pq2bioqut2w5y80yefa6arllu3daiy4yefzr0kveg.jpg?alias=listing_search&signature=VeMU4EqFMBS2S7hTL6TJUNWo_qqSrqhGifQ3wN2_Hts",
+        "ordering": 5,
+        "width": 1417,
+        "height": 1064
+      },
+      {
+        "pk": 35935071,
+        "caption": "Innenansicht",
+        "url": "/media/ff/2026/05/m4nfhhmhc8vn3r3vsgi1zuuf1qpbbw2t1if8bqw4urqcwyd07y.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/m4nfhhmhc8vn3r3vsgi1zuuf1qpbbw2t1if8bqw4urqcwyd07y.jpg?alias=thumb_m&signature=tzeu4uuvSjmQ15gtYKSpG-doBldxeC6-v3NAJXjjz0M",
+        "url_listing_search": "/thumb/ff/2026/05/m4nfhhmhc8vn3r3vsgi1zuuf1qpbbw2t1if8bqw4urqcwyd07y.jpg?alias=listing_search&signature=jFHBBdcLChCjOrRTVCEcoaEXy091g3cU-PlLM3K45Kg",
+        "ordering": 6,
+        "width": 480,
+        "height": 640
+      },
+      {
+        "pk": 35935072,
+        "caption": "Bad",
+        "url": "/media/ff/2026/05/d41izb2z7pdfyn808bjiw460uhltvrwntgqdcl765w5hy2jpv7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/05/d41izb2z7pdfyn808bjiw460uhltvrwntgqdcl765w5hy2jpv7.jpg?alias=thumb_m&signature=e-pz1fy0um3AJvULtbYtif88eSiuDlJXbjFBQD92W6U",
+        "url_listing_search": "/thumb/ff/2026/05/d41izb2z7pdfyn808bjiw460uhltvrwntgqdcl765w5hy2jpv7.jpg?alias=listing_search&signature=dDLkjK_pySeQplNMSFEAZ2M00NQu0xx8SrLkkp8caws",
+        "ordering": 7,
+        "width": 1417,
+        "height": 1060
+      }
+    ],
+    "documents": [
+      728651
+    ],
+    "agency": {
+      "name": null,
+      "name_2": null,
+      "street": "Laupenstrasse 19",
+      "zipcode": "3001",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2017/10/6peni9fymo2cc61786gar305ykswouj2ocxop0wmxv0jck0arl.png",
+        "url_org_logo_m": "/thumb/org/2017/10/6peni9fymo2cc61786gar305ykswouj2ocxop0wmxv0jck0arl.png?alias=org_logo_m&signature=0BCWhew-1bZpPau6YIglRjORUrFMhgC2uy01MG4JEAA"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "144m² Büro in Schönbühl-Urtenen mieten",
+    "livingspace": 144
+  }
+}

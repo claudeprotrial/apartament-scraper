@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1721.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/aarbergergasse-33-3011-bern/1717613/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisräume"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "gewerbefläche",
+        "office",
+        "sitzungszimmer"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 1717613,
+    "slug": "aarbergergasse-33-3011-bern",
+    "url": "/de/wohnung/aarbergergasse-33-3011-bern/1717613/",
+    "short_url": "/1717613/",
+    "submit_url": "/de/listing/1717613/submit/",
+    "status": "act",
+    "created": "2025-05-18T20:43:59.858204+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "7631..1022",
+    "ref_property": "7631",
+    "ref_house": "",
+    "ref_object": "1022",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2025-05-18T20:43:59.946937+02:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "Büro",
+    "public_title": "Aarbergergasse 33, 3011 Bern - auf Anfrage",
+    "pitch_title": "Büro in Bern mieten",
+    "description_title": "Flexibel einteilbare Büroflächen in der Altstadt Bern",
+    "description": "Die Mieträume befinden sich an der Aarbergergasse 33/35, 3 Gehminuten ab dem Hauptbahnhof zu erreichen.   \n  \nSind Sie auf der Suche nach flexibel einteilbaren Gewerbeflächen mit gemeinschaftlicher Nutzung von Office, Sitzungszimmer, Küche und WC's? Die entsprechenden Flächen ab ca. 15 m2 (exkl. Anteil gemeischaftlich genutzter Teil) bis ca. 234 m2 befinden sich im 2.OG und eignen sich sehr gut für Büro- oder Praxisräume. Die Flächen sind über Treppe oder Lift (rollstuhlgängig) erreichbar. Zurzeit besteht ein Mieterausbau (grundsätzlich Rohbaumiete).   \n  \n\\- Damen- und Herrentoilette   \n\\- Ausbau oder Teilausbau können übernommen werden   \n\\- Zusätzlicher Lagerraum von 10.5 m2 kann dazugemietet werden   \n  \nFür Fragen und eine unverbindliche Besichtigung stehen wir Ihnen gerne zur Verfügung.   \n  \nWir freuen uns auf Ihre Kontaktaufnahme.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Aarbergergasse 33",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Aarbergergasse 33, 3011 Bern",
+    "latitude": 46.9495137,
+    "longitude": 7.4425754,
+    "year_built": 1903,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 13675560,
+    "images": [
+      {
+        "pk": 13675560,
+        "caption": "IMG_1982",
+        "url": "/media/ff/2025/05/dw3uq4jlkuzo98333lcwnj5dhgf1d033gr3oomv2ipxhguz8ga.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/dw3uq4jlkuzo98333lcwnj5dhgf1d033gr3oomv2ipxhguz8ga.jpg?alias=thumb_m&signature=7az1yjic4EuZTaNInkOIEz4uUkPleZURyyv01i_2lVE",
+        "url_listing_search": "/thumb/ff/2025/05/dw3uq4jlkuzo98333lcwnj5dhgf1d033gr3oomv2ipxhguz8ga.jpg?alias=listing_search&signature=ktzJ_OY-Ux_hXjwMVyZM4UGEjh4ymj2lOkgfevcqbSs",
+        "ordering": 1,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 13675561,
+        "caption": "IMG_1991",
+        "url": "/media/ff/2025/05/pjt5vlmigejgua30k5q6l6xtq7oacpge4nx4llxtcvtrmnunts.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/pjt5vlmigejgua30k5q6l6xtq7oacpge4nx4llxtcvtrmnunts.jpg?alias=thumb_m&signature=dMC-8d-dyxLBiVA4TyOt4eROfo_nF1LusFb686XOmos",
+        "url_listing_search": "/thumb/ff/2025/05/pjt5vlmigejgua30k5q6l6xtq7oacpge4nx4llxtcvtrmnunts.jpg?alias=listing_search&signature=-viBn9qOcFyh-Em0tuBauuVHBX-8gVSTrvUvYHR0Y0g",
+        "ordering": 2,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 13511196,
+        "caption": "IMG_1970",
+        "url": "/media/ff/2025/05/w8wg90wfyvbb5qi6wu498gx8fveprvho3rbh8wqs4jpz6g2liu.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/w8wg90wfyvbb5qi6wu498gx8fveprvho3rbh8wqs4jpz6g2liu.jpg?alias=thumb_m&signature=W_-_9jqjDJ2euAlQbzeNAOaYJvGlpbq_quLBJhIMblg",
+        "url_listing_search": "/thumb/ff/2025/05/w8wg90wfyvbb5qi6wu498gx8fveprvho3rbh8wqs4jpz6g2liu.jpg?alias=listing_search&signature=iyUq9nvn8cHEtDmfCTCN7EUilfuCfoDqCu12UIq7oDU",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 13511197,
+        "caption": "IMG_1969",
+        "url": "/media/ff/2025/05/gdlf2896aep2vl6jbynqc265cynl3olrd9z7x7mpckqlaeodaf.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/gdlf2896aep2vl6jbynqc265cynl3olrd9z7x7mpckqlaeodaf.jpg?alias=thumb_m&signature=GoiT9H5VSSCa8fLgzFQwU7u96M5T4F-sA36ppB_SsFQ",
+        "url_listing_search": "/thumb/ff/2025/05/gdlf2896aep2vl6jbynqc265cynl3olrd9z7x7mpckqlaeodaf.jpg?alias=listing_search&signature=F04ItPS309OnFkLC9pcDcbQ_yIoK1diVnjLTLUUAuF0",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 13511198,
+        "caption": "IMG_1967",
+        "url": "/media/ff/2025/05/i8s7maqgubc5huidlf33tgmst88btmx3sjepcr84l6jflz6ibc.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/i8s7maqgubc5huidlf33tgmst88btmx3sjepcr84l6jflz6ibc.jpg?alias=thumb_m&signature=XwLpE8XRieR91CoJ3n4xumGGjrpcnzVZs0m-9CAIkBw",
+        "url_listing_search": "/thumb/ff/2025/05/i8s7maqgubc5huidlf33tgmst88btmx3sjepcr84l6jflz6ibc.jpg?alias=listing_search&signature=oto0zQIF4ZuArw9C_Co8aNbC0RqZv-IjgrDSwq_Ou-Y",
+        "ordering": 5,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 13511199,
+        "caption": "IMG_1965",
+        "url": "/media/ff/2025/05/82fas2vpld6ex2iuy4q6hennh2ctvf3vbhm2z41fk857q6womo.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/82fas2vpld6ex2iuy4q6hennh2ctvf3vbhm2z41fk857q6womo.jpg?alias=thumb_m&signature=GsKpm6YAzKcptUYmrZ7e5tAPmf6uWMN8nt89WqI4WvA",
+        "url_listing_search": "/thumb/ff/2025/05/82fas2vpld6ex2iuy4q6hennh2ctvf3vbhm2z41fk857q6womo.jpg?alias=listing_search&signature=_HlKLdlvenSnVZVcP1AcdESjHAeXu-fD5jYjy7yMBPI",
+        "ordering": 6,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 13511200,
+        "caption": "IMG_1957",
+        "url": "/media/ff/2025/05/jb4uw07m2zqu95nknh1g3q5lou6me68rnasuhr8xn09c84b0y6.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/jb4uw07m2zqu95nknh1g3q5lou6me68rnasuhr8xn09c84b0y6.jpg?alias=thumb_m&signature=2bffStL3ODtPEZGPvYVk7Q7vvvxQ7PQUrwF8FJqBRcQ",
+        "url_listing_search": "/thumb/ff/2025/05/jb4uw07m2zqu95nknh1g3q5lou6me68rnasuhr8xn09c84b0y6.jpg?alias=listing_search&signature=jbGEEzCAqpfoxcx4rINz0NLFwF7dSfIbmqGWq-aZUFI",
+        "ordering": 7,
+        "width": 1125,
+        "height": 1500
+      },
+      {
+        "pk": 13511201,
+        "caption": "IMG_1959",
+        "url": "/media/ff/2025/05/etrg3tv8dhzmvwd9k7480xiz8clw1sx3uzlr9sesoffrgg5naq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/etrg3tv8dhzmvwd9k7480xiz8clw1sx3uzlr9sesoffrgg5naq.jpg?alias=thumb_m&signature=V0QZWVXK6LNHpyrSOLbNK6CzeX0QbvLAHlurCMmwuDM",
+        "url_listing_search": "/thumb/ff/2025/05/etrg3tv8dhzmvwd9k7480xiz8clw1sx3uzlr9sesoffrgg5naq.jpg?alias=listing_search&signature=NLYjWvMPZEXTEmmUy3lEiWWlaRh1uARHFweFBKX4otE",
+        "ordering": 8,
+        "width": 1125,
+        "height": 1500
+      }
+    ],
+    "documents": [
+      278451
+    ],
+    "agency": {
+      "name": "BDO AG Bern",
+      "name_2": null,
+      "street": null,
+      "zipcode": null,
+      "city": null,
+      "country": null,
+      "logo": {
+        "url": "/media/org/2021/04/0gzyev2e9ghkqpnay9quhf0p4ka41jqy2l7epjt59ttxxdn127.png",
+        "url_org_logo_m": "/thumb/org/2021/04/0gzyev2e9ghkqpnay9quhf0p4ka41jqy2l7epjt59ttxxdn127.png?alias=org_logo_m&signature=Ehs86dx7XCdcabuKR5NhHBYfBAICLj3xcbEC6uRqyu0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Büro in Bern mieten",
+    "livingspace": null
+  }
+}

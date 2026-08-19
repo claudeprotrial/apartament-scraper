@@ -1,0 +1,183 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1620.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/oelirain-1-2540-grenchen/85777423/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen",
+        "praxisfläche"
+      ],
+      "kw_praxis_slabe": [
+        "beauty",
+        "kosmetik",
+        "therapie"
+      ],
+      "kw_business": [
+        "<type>",
+        "agentur",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 85777423,
+    "slug": "oelirain-1-2540-grenchen",
+    "url": "/de/wohnung/oelirain-1-2540-grenchen/85777423/",
+    "short_url": "/85777423/",
+    "submit_url": "/de/listing/85777423/submit/",
+    "status": "act",
+    "created": "2026-02-12T13:22:53.929072+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "10245.1.1001",
+    "ref_property": "10245",
+    "ref_house": "1",
+    "ref_object": "1001",
+    "alternative_reference": null,
+    "price_display": 1890,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-02-12T13:22:54.994661+01:00",
+    "rent_net": 1590,
+    "rent_charges": 300,
+    "rent_gross": 1890,
+    "short_title": "100m² Gewerbe",
+    "public_title": "Oelirain 1, 2540 Grenchen - CHF 1’890 inkl. NK pro Monat",
+    "pitch_title": "100m² Gewerbe in Grenchen mieten",
+    "description_title": "ATTRAKTIVE BÜRO/PRAXISFLÄCHE - 2x NETTOMIETZINS GESCHENKT",
+    "description": "**Attraktive Gewerbefläche für Praxis, Büro oder Dienstleistung mit 100 m 2 an moderner Wohnlage in Grenchen.**\n\n**Nutzen Sie die Gelegenheit und profitieren Sie von 2 geschenkten Nettomietzinsen zum Start Ihres neuen Geschäftsstandorts.**\n\nAn der Überbauung Oelirain 1 in Grenchen vermieten wir per sofort eine helle und flexibel nutzbare Gewerbefläche mit rund 100 m2. Die Räumlichkeiten überzeugen durch einen modernen Ausbaustandard, grosszügige Fensterflächen und vielseitige Nutzungsmöglichkeiten. \n\nDie Fläche eignet sich ideal für Dienstleistungsbetriebe, Beratungsunternehmen, Treuhandbüros, Agenturen, Therapiepraxen, Kosmetik und Beautyangebote oder andere kundenorientierte Geschäftskonzepte. \n\n**Ihre Vorteile auf einen Blick:**\n\n  * Helle und freundliche Räumlichkeiten mit viel Tageslicht \n  * Flexible Nutzungsmöglichkeiten für Büro,Praxis oder Dienstleistungsbetriebe \n  * Moderner Ausbaustandard \n  * Plattenboden in sämtlichen Räumen \n  * Fussbodenheizung \n  * Separate Lüftungsanlage für ein angenehmes Raumklima \n  * Elektrische Raffstoren \n  * Moderne Nasszelle (WC) \n  * Praktische Einbauschränke \n  * Eigener Aussensitzplatz \n  * Besucherfreundliche Erreichbarkeit \n  * Tiefgaragenparkplätze verfügbar \n\n\n\nDie Gewerbefläche befindet sich in einer modernen Wohnüberbauung und profitiert von einem attraktiven Umfeld mit potenzieller Kundschaft direkt vor Ort. \n\nZur Überbauung gehören Tiefgaragenparkplätze, die für CHF 130.00 pro Monat zusätzlich angemietet werden können. \n\nFür weitere Fragen steht Ihnen Frau de Castro gerne zur Verfügung: 079 278 68 17",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 100,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 100,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "balconygarden"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Oelirain 1",
+    "zipcode": 2540,
+    "city": "Grenchen",
+    "public_address": "Oelirain 1, 2540 Grenchen",
+    "latitude": 47.1972298,
+    "longitude": 7.3948548,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 33606878,
+    "images": [
+      {
+        "pk": 33606878,
+        "caption": "",
+        "url": "/media/ff/2026/02/wyfh9zcfuryu9cjyxi6p19uxfinaxd1r4dksjx36ia75tiok6v.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/wyfh9zcfuryu9cjyxi6p19uxfinaxd1r4dksjx36ia75tiok6v.jpg?alias=thumb_m&signature=OGu15jL49xZb9oUngN0CEyoGU214UyoTkc2QCtu9wMg",
+        "url_listing_search": "/thumb/ff/2026/02/wyfh9zcfuryu9cjyxi6p19uxfinaxd1r4dksjx36ia75tiok6v.jpg?alias=listing_search&signature=zL1YNRe0m0XtzvuA-lEPEf4lqbp3xY05CyJORd4VLDI",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 33606877,
+        "caption": "",
+        "url": "/media/ff/2026/02/2wiwacduxesi2kdkng6js28wwxk0128f9ngr141s10aez579m6.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/2wiwacduxesi2kdkng6js28wwxk0128f9ngr141s10aez579m6.jpg?alias=thumb_m&signature=6ZJxjPLj5PApY06lAidZQaCjcLDNitTug5fK2kdX1tQ",
+        "url_listing_search": "/thumb/ff/2026/02/2wiwacduxesi2kdkng6js28wwxk0128f9ngr141s10aez579m6.jpg?alias=listing_search&signature=whMg-I1eSyY9lZRC9m94_z_80UFyB5giPQ01FDXbAbQ",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 33606879,
+        "caption": "",
+        "url": "/media/ff/2026/02/0hxkv2v0dwemgoq6y6uvromaga606kpwqaihc2s37zzsyzs1gq.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/0hxkv2v0dwemgoq6y6uvromaga606kpwqaihc2s37zzsyzs1gq.jpg?alias=thumb_m&signature=AMjr9E-wFb2K9sGcU7L2Fv-dCLqdMiDNper_2fTRmXo",
+        "url_listing_search": "/thumb/ff/2026/02/0hxkv2v0dwemgoq6y6uvromaga606kpwqaihc2s37zzsyzs1gq.jpg?alias=listing_search&signature=3bC1iwZFG1un-daoCGbJFENFhIoy9bUF0EqyhE3T8ro",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 33606880,
+        "caption": "",
+        "url": "/media/ff/2026/02/1n261801fqkqqz3uwalf9xaw09v3sdsgwve6y1eq22k0hbipkv.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/1n261801fqkqqz3uwalf9xaw09v3sdsgwve6y1eq22k0hbipkv.jpg?alias=thumb_m&signature=ybLKR83nBdUgG-EpFe5ghZgjjxsOYk2dnpz5_0XCULg",
+        "url_listing_search": "/thumb/ff/2026/02/1n261801fqkqqz3uwalf9xaw09v3sdsgwve6y1eq22k0hbipkv.jpg?alias=listing_search&signature=27TWyusTZ472LTsvqN2LaY44zSe4Myt_jb5l7j33GNs",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 33606882,
+        "caption": "",
+        "url": "/media/ff/2026/02/89axh56iu1hx3hp5nt710iukteauiupfshw9e58lqsvf41mj18.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/89axh56iu1hx3hp5nt710iukteauiupfshw9e58lqsvf41mj18.jpg?alias=thumb_m&signature=ks68wd_Mv6C85HeAKueJpH5n88n7O3fPvhdXepntZZc",
+        "url_listing_search": "/thumb/ff/2026/02/89axh56iu1hx3hp5nt710iukteauiupfshw9e58lqsvf41mj18.jpg?alias=listing_search&signature=LsE0DwcV73LWrXdgHl5tcwJp_LH_8Kh0VmTdbWZzL5I",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 33606883,
+        "caption": "",
+        "url": "/media/ff/2026/02/yv2u6frvrq3t1wrlj7qga7kq69q9ctbhoagdc2ljh22oxx1b4t.jpg",
+        "url_thumb_m": "/thumb/ff/2026/02/yv2u6frvrq3t1wrlj7qga7kq69q9ctbhoagdc2ljh22oxx1b4t.jpg?alias=thumb_m&signature=6eDz-cCxuBvL2k9kW2tdB4qJDAE_dojtJc0uufYHAOQ",
+        "url_listing_search": "/thumb/ff/2026/02/yv2u6frvrq3t1wrlj7qga7kq69q9ctbhoagdc2ljh22oxx1b4t.jpg?alias=listing_search&signature=3Ls4WFudruskBqac6E5h315Lqi-6jm0AgEMcp_EZB_0",
+        "ordering": 6,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "documents": [],
+    "agency": {
+      "name": "VIVIQ",
+      "name_2": null,
+      "street": "Lerchenstrasse 24",
+      "zipcode": "8045",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2024/10/jbomvz1twtauykb1ok0c5xw0s5ojx3jr9ao6b0sg47llcp6pf8.png",
+        "url_org_logo_m": "/thumb/org/2024/10/jbomvz1twtauykb1ok0c5xw0s5ojx3jr9ao6b0sg47llcp6pf8.png?alias=org_logo_m&signature=Z7d_R1rF6rmvK6ShZc9g966grveYVwRvjp0dtkeOX9o"
+      }
+    },
+    "reserved": false,
+    "state": "SO",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "100m² Gewerbe in Grenchen mieten",
+    "livingspace": 100
+  }
+}

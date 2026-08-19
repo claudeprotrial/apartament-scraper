@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1728.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/landorfstrasse-12-3098-koniz/1401053/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxen"
+      ],
+      "kw_praxis_slabe": [
+        "arzt"
+      ],
+      "kw_business": [
+        "<type>",
+        "büro",
+        "dienstleistung",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 1401053,
+    "slug": "landorfstrasse-12-3098-koniz",
+    "url": "/de/wohnung/landorfstrasse-12-3098-koniz/1401053/",
+    "short_url": "/1401053/",
+    "submit_url": "/de/listing/1401053/submit/",
+    "status": "act",
+    "created": "2024-11-21T02:10:30.712592+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "21360.01.6002",
+    "ref_property": "21360",
+    "ref_house": "01",
+    "ref_object": "6002",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "monthly",
+    "published": "2024-11-21T02:10:30.936348+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "144m² Gewerbe",
+    "public_title": "Landorfstrasse 12, 3098 Köniz - auf Anfrage",
+    "pitch_title": "144m² Gewerbe in Köniz mieten",
+    "description_title": "Attraktive Gewerbefläche (Kita, Arztpraxen, Physio, Verkauf, Büro)",
+    "description": "Zentral gelegen in Köniz bietet Ihnen diese 143m2 Gewerbefläche die Möglichkeit, Ihre individuellen Geschäftsideen umzusetzen. Die Liegenschaft befindet sich an verkehrstechnisch vorteilhafter Lage und ist einfach über den Autobahnanschluss Bern-Niederwangen oder die Bushaltestelle Köniz Weiermatt zu erreichen.   \n  \nDie Gewerbe- und Dienstleistungsfläche ist hochwertig ausgebaut. Das beinhaltet fertige Boden- und Wandbeläge (Keramikplatten), fertig ausgebaute Toilettenanlage, eine Teeküche mit Mikrowelle sowie die Elektrogrundinstallation (Bodensteckdosen und Strom bis in den Objektverteilerkasten geführt). Auch die Senkrecht-Stoffmarkisen für die Beschattung der raumhohen Fenster sind bauseits bereits vorhanden.   \n  \n**Gut fürs Geschäft:**   \n\\- flexible Nutzungsmöglichkeiten   \n\\- direkter Zugang von aussen   \n\\- vorhandener Wandbelag   \n\\- vorhandene elektrische Installationen   \n\\- Toilettenanlagen   \n\\- grosse Fensterfronten   \n\\- auf Wunsch Einstellplatz für CHF 140.00 pro Monat   \n  \n**Ihre Vorteile mit Regimo Business:**   \n1\\. Individuelle Mietpreis- und Vertragsmodelle   \n2\\. Beratung und Unterstützung bei der Umbau- und Einrichtungsplanung durch ausgewiesene Spezialisten.   \n3\\. Persönliche Betreuung und hohe Flexibilität im Hinblick auf Mieterwünsche während der gesamten Vertragsdauer.   \n  \nHaben wir Ihr Interesse geweckt? Dann zögern Sie nicht und kontaktieren Sie uns, um einen individuellen Besichtigungstermin zu vereinbaren.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 144,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 144,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Landorfstrasse 12",
+    "zipcode": 3098,
+    "city": "Köniz",
+    "public_address": "Landorfstrasse 12, 3098 Köniz",
+    "latitude": 46.9230752,
+    "longitude": 7.412576999999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 12121114,
+    "images": [
+      {
+        "pk": 12121114,
+        "caption": "Gebäude",
+        "url": "/media/ff/2025/03/9da3ksu19nfpkiqoc0vyu95f0l8mbu5qi39f5fg0uuxknd7i3g.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/9da3ksu19nfpkiqoc0vyu95f0l8mbu5qi39f5fg0uuxknd7i3g.jpg?alias=thumb_m&signature=PbZsNsu0o3MyI8yqe1TAve8gxerqbbVkyuRyJaI3F58",
+        "url_listing_search": "/thumb/ff/2025/03/9da3ksu19nfpkiqoc0vyu95f0l8mbu5qi39f5fg0uuxknd7i3g.jpg?alias=listing_search&signature=qYUmvhyfDG3T_7bCTKP_ovWJt6-PFdluRfQGfW1ANAI",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12121115,
+        "caption": "Gewerbefläche",
+        "url": "/media/ff/2025/03/shek2frynu0wdenhbplsem8qzqudv7rr4lo25x40km77cy0zb4.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/shek2frynu0wdenhbplsem8qzqudv7rr4lo25x40km77cy0zb4.jpg?alias=thumb_m&signature=mTNYkcmdOeRcGSKG3NZMbRZo698a1pj85KZMVUZftwc",
+        "url_listing_search": "/thumb/ff/2025/03/shek2frynu0wdenhbplsem8qzqudv7rr4lo25x40km77cy0zb4.jpg?alias=listing_search&signature=r_IBRfxMrt54Kf-LzbSxeCQjiK1cAmrOpEbry0GzkXA",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12283986,
+        "caption": "Gewerbefläche Staging",
+        "url": "/media/ff/2025/03/3cxdn4ko9sfyeaecpsyu9d9xj0ulh6tpjfwd39vjav58w2grch.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/3cxdn4ko9sfyeaecpsyu9d9xj0ulh6tpjfwd39vjav58w2grch.jpg?alias=thumb_m&signature=bNvSw5PZtN9e3RNtvQP8Eu-fhB0QhX9RDCnbTq8bGpY",
+        "url_listing_search": "/thumb/ff/2025/03/3cxdn4ko9sfyeaecpsyu9d9xj0ulh6tpjfwd39vjav58w2grch.jpg?alias=listing_search&signature=ojACp2Wb9leWyg0unUYYsaetJ2NBGmnZv8GGrEej3kg",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12283987,
+        "caption": "Gewerbefläche Staging",
+        "url": "/media/ff/2025/03/kityzm2oye4uhmpdqtmjrhdotu4g3wtyh336q5uat927bxdwbt.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/kityzm2oye4uhmpdqtmjrhdotu4g3wtyh336q5uat927bxdwbt.jpg?alias=thumb_m&signature=cpk-S8aGWwvjX-_obBztLnGqM5iOjEWXnfpT_BMnR8Y",
+        "url_listing_search": "/thumb/ff/2025/03/kityzm2oye4uhmpdqtmjrhdotu4g3wtyh336q5uat927bxdwbt.jpg?alias=listing_search&signature=lIkIUhLBgp_n_Ef5SQfMVJPzvYmStcnyHYpaKzYFphQ",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12283988,
+        "caption": "Gewerbefläche Staging",
+        "url": "/media/ff/2025/03/0y5zqtlp2ucaaa2bucj26qbl5xv0hnemchcrwgl324lcmd71tf.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/0y5zqtlp2ucaaa2bucj26qbl5xv0hnemchcrwgl324lcmd71tf.jpg?alias=thumb_m&signature=OzVCqX6h0hU6W-BqZXY_vfU9olJgrABz7k2sOVGWOWM",
+        "url_listing_search": "/thumb/ff/2025/03/0y5zqtlp2ucaaa2bucj26qbl5xv0hnemchcrwgl324lcmd71tf.jpg?alias=listing_search&signature=tYsrtnfA0u3_o_A5kZ5MYdME_7xYX2xaZw4n_g3h-iE",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12121117,
+        "caption": "Gewerbefläche",
+        "url": "/media/ff/2025/03/0xd722ej4v2eiwd62phi06isskcj4tvvld0l77kbb6oxr75uq2.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/0xd722ej4v2eiwd62phi06isskcj4tvvld0l77kbb6oxr75uq2.jpg?alias=thumb_m&signature=4OJWS4_SzLFcJiUUCd2iHn-1HGqB-VXAZ9r6sfT6eKw",
+        "url_listing_search": "/thumb/ff/2025/03/0xd722ej4v2eiwd62phi06isskcj4tvvld0l77kbb6oxr75uq2.jpg?alias=listing_search&signature=KAcRvaD7ufMrbOU_DgYyeqU-6PRq7pq8b_wxahHSoRU",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12121123,
+        "caption": "Gewerbefläche",
+        "url": "/media/ff/2025/03/zgw304ky82akpqiey5ue94b6vmqktv71furva72qal482y0bxj.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/zgw304ky82akpqiey5ue94b6vmqktv71furva72qal482y0bxj.jpg?alias=thumb_m&signature=aYK5z_F6x04O2AoU29H99LJaWGd9c-y9Gyjlmev98CA",
+        "url_listing_search": "/thumb/ff/2025/03/zgw304ky82akpqiey5ue94b6vmqktv71furva72qal482y0bxj.jpg?alias=listing_search&signature=sWT-leXL4p1DeSderGEDP7XEVFwvDiK6WVD09olz7mY",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12121125,
+        "caption": "Teeküche und Nasszelle",
+        "url": "/media/ff/2025/03/qgjwwglxqgriwjdcr3l9vtanhi08uzl0qaprprspurikvem0lt.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/qgjwwglxqgriwjdcr3l9vtanhi08uzl0qaprprspurikvem0lt.jpg?alias=thumb_m&signature=g2eoZlWGRxHAwyEtSLKmO2k2rRVYNCoPo88xJ_ruZBw",
+        "url_listing_search": "/thumb/ff/2025/03/qgjwwglxqgriwjdcr3l9vtanhi08uzl0qaprprspurikvem0lt.jpg?alias=listing_search&signature=rxBTZe_5U4b4gbm023RpYLll8hPflXurKxqevMJHpoE",
+        "ordering": 8,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12121129,
+        "caption": "Teeküche",
+        "url": "/media/ff/2025/03/hz15lp6kfik8d6bgeub9e5i57xlk6oqe1nr22a8vm5cjv5airk.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/hz15lp6kfik8d6bgeub9e5i57xlk6oqe1nr22a8vm5cjv5airk.jpg?alias=thumb_m&signature=AVJKgAm9-Imx2nLbcGfkwTlWF9AsAYkP87xyCi2mzPA",
+        "url_listing_search": "/thumb/ff/2025/03/hz15lp6kfik8d6bgeub9e5i57xlk6oqe1nr22a8vm5cjv5airk.jpg?alias=listing_search&signature=n3YOMOMWUrc-H_Ql8gQpOW_5JseXQNYNVwf6dNTqG_M",
+        "ordering": 9,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 12121127,
+        "caption": "Nasszelle WC",
+        "url": "/media/ff/2025/03/4avkwg0pdxe9fin1x9o5hdbvwac8o6slp9a7n0z8gtt7jc5u9f.jpg",
+        "url_thumb_m": "/thumb/ff/2025/03/4avkwg0pdxe9fin1x9o5hdbvwac8o6slp9a7n0z8gtt7jc5u9f.jpg?alias=thumb_m&signature=NMaf0qY0WB5X1Ph50oCYXblvtp2V3VnP7Kvg5EhuqI0",
+        "url_listing_search": "/thumb/ff/2025/03/4avkwg0pdxe9fin1x9o5hdbvwac8o6slp9a7n0z8gtt7jc5u9f.jpg?alias=listing_search&signature=trIJ4maue_admTMu6BUqp7mNZ2WF6N1KKfg0y9bJPvY",
+        "ordering": 10,
+        "width": 1024,
+        "height": 683
+      }
+    ],
+    "documents": [
+      238386
+    ],
+    "agency": {
+      "name": "Regimo Bern",
+      "name_2": null,
+      "street": "Thunstrasse 32",
+      "zipcode": "3005",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2021/12/2dnnxk3molu2gs3rl9kmq3gnnvyiinqss6ecdwlui5net3gago.png",
+        "url_org_logo_m": "/thumb/org/2021/12/2dnnxk3molu2gs3rl9kmq3gnnvyiinqss6ecdwlui5net3gago.png?alias=org_logo_m&signature=kzSOc6Nsvbq-rPa4B2ObOeHKVrzCtkRo1-Qv4x0RmH0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "144m² Gewerbe in Köniz mieten",
+    "livingspace": 144
+  }
+}

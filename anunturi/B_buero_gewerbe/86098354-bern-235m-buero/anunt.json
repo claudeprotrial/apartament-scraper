@@ -1,0 +1,229 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1724.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/wangenstrasse-86a-3018-bern/86098354/",
+    "descarcat": "2026-08-17 12:28",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "einzelbüro",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 11
+  },
+  "raw": {
+    "pk": 86098354,
+    "slug": "wangenstrasse-86a-3018-bern",
+    "url": "/de/wohnung/wangenstrasse-86a-3018-bern/86098354/",
+    "short_url": "/86098354/",
+    "submit_url": "/de/listing/86098354/submit/",
+    "status": "act",
+    "created": "2026-06-08T20:31:38.754593+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "37360.11.Büro (2)",
+    "ref_property": "37360",
+    "ref_house": "11",
+    "ref_object": "Büro (2)",
+    "alternative_reference": "",
+    "price_display": 3809,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-08T23:59:00.754837+02:00",
+    "rent_net": null,
+    "rent_charges": 780,
+    "rent_gross": 3809,
+    "short_title": "235m² Büro",
+    "public_title": "Wangenstrasse 86a, 3018 Bern - CHF 3’809 inkl. NK pro Monat",
+    "pitch_title": "235m² Büro in Bern mieten",
+    "description_title": "Raum für Ideen, Wachstum und Zusammenarbeit - Büro nahe Stadt Bern",
+    "description": "Diese attraktive Bürofläche mit rund 245 m² bietet viel Platz für moderne Arbeitswelten. Dank der grosszügigen Fensterflächen auf 3 Seiten profitieren Sie von einem hellen und angenehmen Arbeitsumfeld.  \n  \nDie Mietfläche kann flexibel unterteilt und auf die Bedürfnisse Ihres Unternehmens angepasst werden – von offenen Arbeitsbereichen bis hin zu Besprechungs- oder Einzelbüros. Die WC-Anlagen befinden sich auf der Etage und stehen zur Mitbenutzung mit 1 weiteren Büromieter zur Verfügung.  \n  \n**Highlights:**  \n\n*   Helle, frisch sanierte Arbeitsräume\n*   Flexible Unterteilungsmöglichkeiten\n*   Teeküche vorhanden\n*   Neue & bereits eingebaute Teppichbodenplatten (Doppelboden für IT-Verkabelung)\n*   **Bezug:** ab sofort oder nach Vereinbarung\n*   **Erreichbarkeit öV:** wenige Gehminuten vom Bahnhof Bümpliz Süd\n*   **Erreichbarkeit Auto:** Autobahnanschluss Niederwangen in direkter Nähe\n*   Einstellhallenplätze für CHF 140.–/Monat verfügbar\n\nInteressiert? Besuchen Sie unsere Projetwebsite unter **https://w86a.ch/** und finden Sie viele weitere Informationen. Bei Fragen oder zur Vereinbarung eines Besichtigungstermins stehen wir sehr gerne zur Verfügung.  \n  \n_Alle Angaben sind unverbindlich. Änderungen bleiben bis zur Bauvollendung vorbehalten. Die Büros werden unmöbliert vermietet._",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 235,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 235,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "garage"
+      },
+      {
+        "name": "lift"
+      },
+      {
+        "name": "broadbandinternet"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Wangenstrasse 86a",
+    "zipcode": 3018,
+    "city": "Bern",
+    "public_address": "Wangenstrasse 86a, 3018 Bern",
+    "latitude": 46.9339557,
+    "longitude": 7.3866302,
+    "year_built": null,
+    "year_renovated": 2026,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": "",
+    "tour_url": "",
+    "website_url": "https://www.w86a.ch/",
+    "live_viewing_url": "",
+    "cover_image": 48928636,
+    "images": [
+      {
+        "pk": 48928636,
+        "caption": null,
+        "url": "/media/ff/2026/08/dpdw3tl4oz52ybiq7auu2nr2o4371cdh08kkbvty8ys4bp3esf.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/dpdw3tl4oz52ybiq7auu2nr2o4371cdh08kkbvty8ys4bp3esf.jpg?alias=thumb_m&signature=V3SX1ADBUi_-3oMRu0KToJG4brrw_3L_E4d9T5d2vPU",
+        "url_listing_search": "/thumb/ff/2026/08/dpdw3tl4oz52ybiq7auu2nr2o4371cdh08kkbvty8ys4bp3esf.jpg?alias=listing_search&signature=JzQHvj8__3dmKU2s_WsKrQ5ExecXHd0dwtgWZjbrAjs",
+        "ordering": 1,
+        "width": 1500,
+        "height": 1026
+      },
+      {
+        "pk": 48928634,
+        "caption": null,
+        "url": "/media/ff/2026/08/3oejnfbsai0kghx4zblu4232iwe1muujw3586cdi0k393dh1w7.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/3oejnfbsai0kghx4zblu4232iwe1muujw3586cdi0k393dh1w7.jpg?alias=thumb_m&signature=1LZHaBV--YRZ3HACgYk0wkRnw3dl7aRJygZ0WvW_YBU",
+        "url_listing_search": "/thumb/ff/2026/08/3oejnfbsai0kghx4zblu4232iwe1muujw3586cdi0k393dh1w7.jpg?alias=listing_search&signature=wF8zXMyrk7qkkNWvsU4y6l3zumS2NM8Q-w-euCSwehc",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 48928627,
+        "caption": null,
+        "url": "/media/ff/2026/08/2hm1zdgq6lvl6c10cbales4qn4wlck86bqoza634g0af7yl7hw.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/2hm1zdgq6lvl6c10cbales4qn4wlck86bqoza634g0af7yl7hw.jpg?alias=thumb_m&signature=nQwc9ChwATGmJEmrdYP3Z2UH56lM4h0_tRiPZs6i4aU",
+        "url_listing_search": "/thumb/ff/2026/08/2hm1zdgq6lvl6c10cbales4qn4wlck86bqoza634g0af7yl7hw.jpg?alias=listing_search&signature=VhZITsCpqgRnPjF3nowwWh3BJswMP8SHP1u9CvbItFQ",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 48928628,
+        "caption": null,
+        "url": "/media/ff/2026/08/qfpu1juy8ty3m4j8ypaa2i1q1kavozvnfmkdc8u72hzmaitx5m.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/qfpu1juy8ty3m4j8ypaa2i1q1kavozvnfmkdc8u72hzmaitx5m.jpg?alias=thumb_m&signature=RXrVCY7bRifuiNdPNZpovNqvK0MsVoaK4ov9h__RT9M",
+        "url_listing_search": "/thumb/ff/2026/08/qfpu1juy8ty3m4j8ypaa2i1q1kavozvnfmkdc8u72hzmaitx5m.jpg?alias=listing_search&signature=OWYfkfwySHXFmXTVcH1LS9RW7GqS5KTBUPO626400qI",
+        "ordering": 4,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 48928630,
+        "caption": null,
+        "url": "/media/ff/2026/08/gnvner5sxz89lzq9hc04we02zlbdsyn853aipm1ncy669kvieu.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/gnvner5sxz89lzq9hc04we02zlbdsyn853aipm1ncy669kvieu.jpg?alias=thumb_m&signature=4d38CijUGwn9BV6dmQliN_DUQLGsm6co2wNcaOqiJ1c",
+        "url_listing_search": "/thumb/ff/2026/08/gnvner5sxz89lzq9hc04we02zlbdsyn853aipm1ncy669kvieu.jpg?alias=listing_search&signature=R8PiOYWaQ-Gy9y4-v2BI_-kIy-UKXvp0x5Xy_sL7Vis",
+        "ordering": 5,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 48928625,
+        "caption": null,
+        "url": "/media/ff/2026/08/p4kxw4jiwg8ri661al5xcd59eqzv20vnbl3sttne3znppirzd2.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/p4kxw4jiwg8ri661al5xcd59eqzv20vnbl3sttne3znppirzd2.jpg?alias=thumb_m&signature=b1K6d42uKcrLJpsMetlsRzUvgy2elepVfJR5l02sbXY",
+        "url_listing_search": "/thumb/ff/2026/08/p4kxw4jiwg8ri661al5xcd59eqzv20vnbl3sttne3znppirzd2.jpg?alias=listing_search&signature=N-kjuVD4csWHwYC2Zva21ZrNQRDyI1GcwycmlbaLIQM",
+        "ordering": 6,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 48928629,
+        "caption": null,
+        "url": "/media/ff/2026/08/wtnbyk5klxx9c3zjmtkamejvczuyh91s2cxd3cyl6zliey9fno.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/wtnbyk5klxx9c3zjmtkamejvczuyh91s2cxd3cyl6zliey9fno.jpg?alias=thumb_m&signature=TJIoBbPjKDaA4unS1mihW3WOEG1oIeQCwPUSwAtVzF8",
+        "url_listing_search": "/thumb/ff/2026/08/wtnbyk5klxx9c3zjmtkamejvczuyh91s2cxd3cyl6zliey9fno.jpg?alias=listing_search&signature=ETQzftImliTcY6rn4h-jH98RBa9hHSUoLeqKjb1u7lM",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 48928638,
+        "caption": null,
+        "url": "/media/ff/2026/08/nwwxd1z2lzdcdqijhq7v03uy9lntkn7irnxanhl959zjsdcffk.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/nwwxd1z2lzdcdqijhq7v03uy9lntkn7irnxanhl959zjsdcffk.jpg?alias=thumb_m&signature=XBRKdDiD6TwXnBfLbdIlCGNS5nzumJTZJdkjALrMi5M",
+        "url_listing_search": "/thumb/ff/2026/08/nwwxd1z2lzdcdqijhq7v03uy9lntkn7irnxanhl959zjsdcffk.jpg?alias=listing_search&signature=1RK3Ei1sLkzi5gjU2lQp3TgHjBHLhuD_dh4GUa9t5Jk",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 48928626,
+        "caption": null,
+        "url": "/media/ff/2026/08/qlur2dv5g2t7dzmn62xm3ip3d8qnduzblojtz3ewcvo6ungm2u.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/qlur2dv5g2t7dzmn62xm3ip3d8qnduzblojtz3ewcvo6ungm2u.jpg?alias=thumb_m&signature=G7qn74gVSVx-FJbrnoz_nre1zWXItTDbn2ycJ_qQjMk",
+        "url_listing_search": "/thumb/ff/2026/08/qlur2dv5g2t7dzmn62xm3ip3d8qnduzblojtz3ewcvo6ungm2u.jpg?alias=listing_search&signature=PDUKQ9Jj9qR5ukeZ5pNVe2Idikq6QIiN5Y8mLjXSkjY",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1001
+      },
+      {
+        "pk": 48928632,
+        "caption": null,
+        "url": "/media/ff/2026/08/aq9t5l9xdbiqruvajhfacyh52ijhse5hxgvnzwq0xqzouf1j93.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/aq9t5l9xdbiqruvajhfacyh52ijhse5hxgvnzwq0xqzouf1j93.jpg?alias=thumb_m&signature=6cfa-7BluIOS8KFBamrBwD6TA7XSR5e9i7m3uf_LzTs",
+        "url_listing_search": "/thumb/ff/2026/08/aq9t5l9xdbiqruvajhfacyh52ijhse5hxgvnzwq0xqzouf1j93.jpg?alias=listing_search&signature=BthmxZKQINhUxVuz5cTEKIiQj-a0YvtG5lKndEJbO2I",
+        "ordering": 10,
+        "width": 1500,
+        "height": 995
+      },
+      {
+        "pk": 48928637,
+        "caption": null,
+        "url": "/media/ff/2026/08/v7oq88p0q89lhfq9pzuvm48sbac22fv6qx8059dw1f366g559g.jpg",
+        "url_thumb_m": "/thumb/ff/2026/08/v7oq88p0q89lhfq9pzuvm48sbac22fv6qx8059dw1f366g559g.jpg?alias=thumb_m&signature=fYhBxea6nb6qtImn-msUTre_hjL0DUvI5rAQjQJobNQ",
+        "url_listing_search": "/thumb/ff/2026/08/v7oq88p0q89lhfq9pzuvm48sbac22fv6qx8059dw1f366g559g.jpg?alias=listing_search&signature=ELFOSanhU2ZtIGA-UgIO_NTuSM81pXU_PmMHLD9TC8M",
+        "ordering": 11,
+        "width": 1500,
+        "height": 1026
+      }
+    ],
+    "documents": [
+      741440
+    ],
+    "agency": {
+      "name": "Privera AG",
+      "name_2": "",
+      "street": "Worbstrasse 142",
+      "zipcode": "3073",
+      "city": "Gümligen",
+      "country": "",
+      "logo": {
+        "url": "/media/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png",
+        "url_org_logo_m": "/thumb/org/2017/07/217d266p7pdacwema0tjzxe1ohx5ee75nwaf376wqvimekk7y1.png?alias=org_logo_m&signature=AShB2wTW9RgBQlL5EayIx5KA4p6RhJExHnOr31HV8GA"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "235m² Büro in Bern mieten",
+    "livingspace": 235
+  }
+}

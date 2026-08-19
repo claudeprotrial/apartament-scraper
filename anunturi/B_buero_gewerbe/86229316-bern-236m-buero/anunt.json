@@ -1,0 +1,169 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1652.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/spitalgasse-1820-3011-bern/86229316/",
+    "descarcat": "2026-08-17 12:34",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "bürofläche",
+        "office"
+      ],
+      "kw_retail": [
+        "bar",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 6
+  },
+  "raw": {
+    "pk": 86229316,
+    "slug": "spitalgasse-1820-3011-bern",
+    "url": "/de/wohnung/spitalgasse-1820-3011-bern/86229316/",
+    "short_url": "/86229316/",
+    "submit_url": "/de/listing/86229316/submit/",
+    "status": "act",
+    "created": "2026-07-30T13:45:12.930825+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "47163.hbre.10013-10602",
+    "ref_property": "47163",
+    "ref_house": "hbre",
+    "ref_object": "10013-10602",
+    "alternative_reference": null,
+    "price_display": 3795,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-07-30T13:45:13.036786+02:00",
+    "rent_net": 3345,
+    "rent_charges": 450,
+    "rent_gross": 3795,
+    "short_title": "236m² Büro",
+    "public_title": "Spitalgasse 18/20, 3011 Bern - CHF 3’795",
+    "pitch_title": "236m² Büro in Bern mieten",
+    "description_title": "Altstadtflair trifft modernes Arbeiten",
+    "description": "Suchen Sie eine zentrale und lichtdurchflutete Bürofläche inmitten der lebhaften Stadt Bern? Dann haben wir genau das Richtige für Sie! \n\nNach Vereinbarung steht Ihnen im 6. und 7. Obergeschoss der Liegenschaft Spitalgasse 18/20 ein grosszügiges, helles Büro auf zwei Etagen mit einer Fläche von 236 m² zur Verfügung. Die Räumlichkeiten werden im Rohbau übergeben und bieten dadurch viel Gestaltungsspielraum für einen individuellen Ausbau nach eigenen Bedürfnissen. \n\nDas Büro überzeugt durch seine zentrale Lage inmitten der Stadt Bern und bietet gleichzeitig eine ruhige Atmosphäre dank der Ausrichtung zum Innenhof. Die hervorragende Erreichbarkeit, kombiniert mit der Nähe zu öffentlichen Verkehrsmitteln, Geschäften und zahlreichen Restaurants, macht diesen Standort besonders attraktiv. \n\n**Ihre Vorteile auf einen Blick:**\n\n  * Helle und freundliche Räumlichkeiten \n  * Zentral gelegen mit bester Anbindung \n  * Individueller Ausbau möglich \n  * Offene Raumaufteilung \n  * Charmantes und historisches Umfeld \n\n\n\nBitte beachten Sie, dass die Mietfläche nicht barrierefrei zugänglich ist. \n\nHaben wir Ihr Interesse geweckt? Gerne stehen wir Ihnen für eine Besichtigung oder weitere Informationen zur Verfügung. Wir freuen uns auf Ihre Kontaktaufnahme!",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 236,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 236,
+    "number_of_rooms": null,
+    "floor": 6,
+    "attributes": [],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Spitalgasse 18/20",
+    "zipcode": 3011,
+    "city": "Bern",
+    "public_address": "Spitalgasse 18/20, 3011 Bern",
+    "latitude": 46.94827859999999,
+    "longitude": 7.4425953,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 48441712,
+    "images": [
+      {
+        "pk": 48441712,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/haumon/4003349905/image/18a67a84759a80a06565f8f2b3ff7d91.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/haumon/4003349905/image/18a67a84759a80a06565f8f2b3ff7d91.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/haumon/4003349905/image/18a67a84759a80a06565f8f2b3ff7d91.jpg",
+        "ordering": 1,
+        "width": 1920,
+        "height": 1280
+      },
+      {
+        "pk": 48441713,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/haumon/4003349905/image/2dcbc43de4bd54a39c9ec63806b23cc4.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/haumon/4003349905/image/2dcbc43de4bd54a39c9ec63806b23cc4.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/haumon/4003349905/image/2dcbc43de4bd54a39c9ec63806b23cc4.jpg",
+        "ordering": 2,
+        "width": 1526,
+        "height": 1080
+      },
+      {
+        "pk": 48441714,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/haumon/4003349905/image/4187dc17565a6b1832baaa760ef4db0a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/haumon/4003349905/image/4187dc17565a6b1832baaa760ef4db0a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/haumon/4003349905/image/4187dc17565a6b1832baaa760ef4db0a.jpg",
+        "ordering": 3,
+        "width": 1526,
+        "height": 855
+      },
+      {
+        "pk": 48441715,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/haumon/4003349905/image/0d9473e5492f817ab2e4b3a7867b9263.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/haumon/4003349905/image/0d9473e5492f817ab2e4b3a7867b9263.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/haumon/4003349905/image/0d9473e5492f817ab2e4b3a7867b9263.jpg",
+        "ordering": 4,
+        "width": 736,
+        "height": 1080
+      },
+      {
+        "pk": 48441716,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/haumon/4003349905/image/1ee35853f0e90a79252b944997865bb3.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/haumon/4003349905/image/1ee35853f0e90a79252b944997865bb3.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/haumon/4003349905/image/1ee35853f0e90a79252b944997865bb3.jpg",
+        "ordering": 5,
+        "width": 1526,
+        "height": 881
+      },
+      {
+        "pk": 48441717,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/haumon/4003349905/image/7d9ad54d41a52a415a8124965adfbf89.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/haumon/4003349905/image/7d9ad54d41a52a415a8124965adfbf89.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/haumon/4003349905/image/7d9ad54d41a52a415a8124965adfbf89.jpg",
+        "ordering": 6,
+        "width": 1526,
+        "height": 942
+      }
+    ],
+    "documents": [
+      771865
+    ],
+    "agency": {
+      "name": "H&B Real Estate AG",
+      "name_2": null,
+      "street": "Lagerstrasse 107",
+      "zipcode": "8004",
+      "city": "Zürich",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/07/avq773jc7ff9jstskppn003394b9r2701hw6t16fp9r2ph1xvb.jpg",
+        "url_org_logo_m": "/thumb/org/2026/07/avq773jc7ff9jstskppn003394b9r2701hw6t16fp9r2ph1xvb.jpg?alias=org_logo_m&signature=OTbQwO7Oi0EsWYvMe7ynJGRIsOHMYByzK0Bw6LHUiwc"
+      }
+    },
+    "reserved": false,
+    "state": null,
+    "country": "CH",
+    "smg_id": "4003349905",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "236m² Büro in Bern mieten",
+    "livingspace": 236
+  }
+}

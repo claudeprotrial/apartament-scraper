@@ -1,0 +1,149 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1644.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/stationsstrasse-12-3097-liebefeld/85665691/",
+    "descarcat": "2026-08-17 12:35",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxis"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "dienstleistung",
+        "gewerbefläche",
+        "grossraumbüro"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 3
+  },
+  "raw": {
+    "pk": 85665691,
+    "slug": "stationsstrasse-12-3097-liebefeld",
+    "url": "/de/wohnung/stationsstrasse-12-3097-liebefeld/85665691/",
+    "short_url": "/85665691/",
+    "submit_url": "/de/listing/85665691/submit/",
+    "status": "act",
+    "created": "2026-01-08T02:11:50.212263+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..922_26201.01.6014",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "922_26201.01.6014",
+    "alternative_reference": null,
+    "price_display": 185,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2026-01-08T02:11:51.015751+01:00",
+    "rent_net": 185,
+    "rent_charges": null,
+    "rent_gross": 185,
+    "short_title": "400m² Gewerbe",
+    "public_title": "Stationsstrasse 12, 3097 Liebefeld - CHF 185 inkl. NK pro m² / Jahr",
+    "pitch_title": "400m² Gewerbe in Liebefeld mieten",
+    "description_title": "Attraktive 400m2 Gewerbefläche mit Gestaltungsfreiheit an idealer Lage",
+    "description": "Das Geschäftshaus befindet sich an sehr gut erschlossener Lage. Der Hauptbahnhof Bern ist in rund 10 Minuten erreichbar. Zudem profitieren Sie von hervorragenden Anbindungen an den öffentlichen sowie den privaten Verkehr. Der nahegelegene Autobahnanschluss Bern-Bümpliz gewährleistet eine optimale Erreichbarkeit für den Individualverkehr.   \n  \nDie zur Vermietung stehende Gewerbefläche wird im Rohbauzustand als Rohbaumiete angeboten und bietet maximale Gestaltungsfreiheit. Der Innenausbau erfolgt durch den Mieter und kann individuell an die gewünschte Nutzung angepasst werden. Die Fläche eignet sich ideal für Büro-, Praxis- oder Dienstleistungsnutzungen.   \n  \n**Gut fürs Geschäft:**   \n\\- Flexibel organisierbar: Einzel- und Grossraumbüros    \n\\- Helle und grosszügige Flächen   \n\\- Vielfältige Nutzungsmöglichkeiten   \n  \nEinstellhallen- sowie Aussenabstellplätze stehen zur Verfügung und können bei Bedarf zusätzlich gemietet werden.   \n  \nDer Mietzins versteht sich zzgl. MwSt.   \n  \n**Ihre Vorteile mit Regimo Business:**   \n1\\. Individuelle Mietpreis- und Vertragsmodelle   \n2\\. Beratung und Unterstützung bei der Umbau- und Einrichtungsplanung durch ausgewiesene Spezialisten.   \n3\\. Persönliche Betreuung und hohe Flexibilität im Hinblick auf Mieterwünsche während der gesamten Vertragsdauer.   \n  \nHaben wir Ihr Interesse geweckt? Dann zögern Sie nicht und kontaktieren Sie uns, um einen individuellen Besichtigungstermin zu vereinbaren.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 400,
+    "surface_usable_minimum": null,
+    "volume": 0,
+    "space_display": 400,
+    "number_of_rooms": null,
+    "floor": 1,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "parkingspace"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Stationsstrasse 12",
+    "zipcode": 3097,
+    "city": "Liebefeld",
+    "public_address": "Stationsstrasse 12, 3097 Liebefeld",
+    "latitude": 46.9308653,
+    "longitude": 7.4187559,
+    "year_built": 1987,
+    "year_renovated": 2018,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 32647419,
+    "images": [
+      {
+        "pk": 32647419,
+        "caption": "Gebäude",
+        "url": "/media/ff/2026/01/wwdqm7llzhnhtn0bd28rwusonz2oycb931nros4jc7hnzdci39.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/wwdqm7llzhnhtn0bd28rwusonz2oycb931nros4jc7hnzdci39.jpg?alias=thumb_m&signature=N4CTFx7tfbD7SUcXVMlsfORwYraBTx_YbPB9uYGnE00",
+        "url_listing_search": "/thumb/ff/2026/01/wwdqm7llzhnhtn0bd28rwusonz2oycb931nros4jc7hnzdci39.jpg?alias=listing_search&signature=CR4SJlGesNOxxr3wdOP6Gk5NUX1_FbzSjgqYE-San28",
+        "ordering": 1,
+        "width": 1024,
+        "height": 684
+      },
+      {
+        "pk": 32647420,
+        "caption": "Gebäude",
+        "url": "/media/ff/2026/01/jbadnnexfqq3n48tcl96w09k63pa19pfgl5uwe0clky6ueelh9.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/jbadnnexfqq3n48tcl96w09k63pa19pfgl5uwe0clky6ueelh9.jpg?alias=thumb_m&signature=gOe-HSqL5hU5RaX3JIT13RjvFUfsC9utA-6lVSxdPLM",
+        "url_listing_search": "/thumb/ff/2026/01/jbadnnexfqq3n48tcl96w09k63pa19pfgl5uwe0clky6ueelh9.jpg?alias=listing_search&signature=9_sKPo6EYuEhS-aQGNMYmAJlqQ_IrIMd5pjhh6myREE",
+        "ordering": 2,
+        "width": 1024,
+        "height": 684
+      },
+      {
+        "pk": 32647421,
+        "caption": "Grundrissplan",
+        "url": "/media/ff/2026/01/akyjsgp4nak4unewljl6jfmvdyjdupswv9w049tgz8wkhjsxht.jpg",
+        "url_thumb_m": "/thumb/ff/2026/01/akyjsgp4nak4unewljl6jfmvdyjdupswv9w049tgz8wkhjsxht.jpg?alias=thumb_m&signature=gOubw_SDzg0fV0C7UPWHoc425e1RRQrtj0raFcZXH-E",
+        "url_listing_search": "/thumb/ff/2026/01/akyjsgp4nak4unewljl6jfmvdyjdupswv9w049tgz8wkhjsxht.jpg?alias=listing_search&signature=IA-QEz0LFJJ2zfoiSTlHDSMstJ3pIPpmor7khsstmHA",
+        "ordering": 3,
+        "width": 1024,
+        "height": 724
+      }
+    ],
+    "documents": [
+      653784
+    ],
+    "agency": {
+      "name": "Regimo Bern",
+      "name_2": null,
+      "street": "Thunstrasse 32",
+      "zipcode": "3005",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2021/12/2dnnxk3molu2gs3rl9kmq3gnnvyiinqss6ecdwlui5net3gago.png",
+        "url_org_logo_m": "/thumb/org/2021/12/2dnnxk3molu2gs3rl9kmq3gnnvyiinqss6ecdwlui5net3gago.png?alias=org_logo_m&signature=kzSOc6Nsvbq-rPa4B2ObOeHKVrzCtkRo1-Qv4x0RmH0"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "400m² Gewerbe in Liebefeld mieten",
+    "livingspace": 400
+  }
+}

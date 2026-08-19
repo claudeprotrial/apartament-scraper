@@ -1,0 +1,225 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1657.0,
+    "regiune": "Cantonul Berna",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/bruggstrasse-2-2503-bielbienne/86076998/",
+    "descarcat": "2026-08-17 12:33",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "apotheke",
+        "praxisräume"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "büroräume",
+        "gewerbe"
+      ],
+      "kw_retail": [
+        "ladenfläche",
+        "verkaufsfläche"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 10
+  },
+  "raw": {
+    "pk": 86076998,
+    "slug": "bruggstrasse-2-2503-bielbienne",
+    "url": "/de/wohnung/bruggstrasse-2-2503-bielbienne/86076998/",
+    "short_url": "/86076998/",
+    "submit_url": "/de/listing/86076998/submit/",
+    "status": "act",
+    "created": "2026-06-01T13:26:15.247386+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "..4tsg5.ycexn",
+    "ref_property": "",
+    "ref_house": "",
+    "ref_object": "4tsg5.ycexn",
+    "alternative_reference": null,
+    "price_display": 6900,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2026-06-01T13:26:17.182214+02:00",
+    "rent_net": 6000,
+    "rent_charges": 900,
+    "rent_gross": 6900,
+    "short_title": "Gewerbe",
+    "public_title": "Brüggstrasse 2, 2503 Biel/Bienne - CHF 6’900",
+    "pitch_title": "Gewerbe in Biel/Bienne mieten",
+    "description_title": "Apothekenräumlichkeiten-Verkaufsfläche und Büros, Brüggstrasse 2 Biel",
+    "description": "Wir vermieten an der Brüggstrasse 2 in Biel Verkaufs- und Bürofläche im EG und 1. OG. Die Mietfläche eignet sich als Verkaufs-, Praxis-, oder Bürofläche. Intern sind diese mit einem eigenen Lift erschlossen. Im Erdgeschoss befindet sich die Verkaufsfläche. Im 1. Obergeschoss Büro- und Praxisräume sowie ein Aufenthaltsraum mit Kochnische. Die Büroräume wurden im 2020 neu gestrichen und ein neuer Boden verlegt. Im Untergeschoss sind Garderoben und Lagerräume eingerichtet. Grundsätzlich wird die Ladenfläche im Rohbau vermietet und ein Bezug kann nach Absprache mit der jetzigen Mieterin, Medbase, erfolgen. Allfällige Übernahme von Inventar und Ausbau kann allenfalls angefragt werden. \n\nMietzins für die gesamte Einheit über drei Etagen inkl. Aussenparkplätze auf der Nordseite der Liegenschaft beträgt netto CHF 6'000.-- mtl. + HK/NK CHF 900.--.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": null,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": null,
+    "number_of_rooms": null,
+    "floor": null,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "parkingspace"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Brüggstrasse 2",
+    "zipcode": 2503,
+    "city": "Biel/Bienne",
+    "public_address": "Brüggstrasse 2, 2503 Biel/Bienne",
+    "latitude": 47.1320096,
+    "longitude": 7.251956099999999,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 47608871,
+    "images": [
+      {
+        "pk": 47608871,
+        "caption": "image/jpeg",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/26665d5d2b8ac19ad5d82013376fece9.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/26665d5d2b8ac19ad5d82013376fece9.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/26665d5d2b8ac19ad5d82013376fece9.jpg",
+        "ordering": 1,
+        "width": 1153,
+        "height": 1573
+      },
+      {
+        "pk": 47608876,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/5284d23de5ddd4211ba4fe81ac8b1d32.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/5284d23de5ddd4211ba4fe81ac8b1d32.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/5284d23de5ddd4211ba4fe81ac8b1d32.jpg",
+        "ordering": 2,
+        "width": 1500,
+        "height": 1290
+      },
+      {
+        "pk": 47608880,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/e0f9e1c3f6e2bc3140dc161ba539c44f.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/e0f9e1c3f6e2bc3140dc161ba539c44f.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/e0f9e1c3f6e2bc3140dc161ba539c44f.jpg",
+        "ordering": 3,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47608883,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/86f6a4e7f6ca31ab81ff7e3f03a8b25e.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/86f6a4e7f6ca31ab81ff7e3f03a8b25e.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/86f6a4e7f6ca31ab81ff7e3f03a8b25e.jpg",
+        "ordering": 4,
+        "width": 615,
+        "height": 407
+      },
+      {
+        "pk": 47608887,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/17978a80c475a54845f5f0a157281c2b.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/17978a80c475a54845f5f0a157281c2b.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/17978a80c475a54845f5f0a157281c2b.jpg",
+        "ordering": 5,
+        "width": 714,
+        "height": 1132
+      },
+      {
+        "pk": 47608897,
+        "caption": "",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/7f571cf43f9ab31343eb4dc1c8785672.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/7f571cf43f9ab31343eb4dc1c8785672.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/7f571cf43f9ab31343eb4dc1c8785672.jpg",
+        "ordering": 6,
+        "width": 714,
+        "height": 1132
+      },
+      {
+        "pk": 47608902,
+        "caption": "The image shows a small office or dining area with a round glass-top table and two black leather chairs. The room has white walls and hardwood floors, and there is a plant and a framed picture on the wall. The room appears to be part of a larger apartment",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/82f490f7dab7d7a9203fc4e368a49445.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/82f490f7dab7d7a9203fc4e368a49445.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/82f490f7dab7d7a9203fc4e368a49445.jpg",
+        "ordering": 7,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47608905,
+        "caption": "A room with a white desk, two black chairs, a white leather chair, a white side table, a floor lamp, and a window with blinds.",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/70ab7dc1c30043d12e9f3ea405520298.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/70ab7dc1c30043d12e9f3ea405520298.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/70ab7dc1c30043d12e9f3ea405520298.jpg",
+        "ordering": 8,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47608910,
+        "caption": "small office room with desk, computer, telephone, shelves, radiator, printer, door",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/cb5d46ba424b7810a72f10b78c73764a.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/cb5d46ba424b7810a72f10b78c73764a.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/cb5d46ba424b7810a72f10b78c73764a.jpg",
+        "ordering": 9,
+        "width": 1500,
+        "height": 1125
+      },
+      {
+        "pk": 47608915,
+        "caption": "Small bathroom with white tiled floor, white walls, toilet, toilet paper holder, tissue box, and a trash bin.",
+        "url": "https://cdn.flatfox.ch/listings/v2/isx65024/4003204019/image/2a0621c6d3ef972331ac40ab4b2e3b99.jpg",
+        "url_thumb_m": "https://cdn.flatfox.ch/t_size_m/listings/v2/isx65024/4003204019/image/2a0621c6d3ef972331ac40ab4b2e3b99.jpg",
+        "url_listing_search": "https://cdn.flatfox.ch/t_listing_card_716x390/listings/v2/isx65024/4003204019/image/2a0621c6d3ef972331ac40ab4b2e3b99.jpg",
+        "ordering": 10,
+        "width": 1500,
+        "height": 2000
+      }
+    ],
+    "documents": [
+      749959,
+      749960
+    ],
+    "agency": {
+      "name": "ROTH Immobilien Management AG",
+      "name_2": null,
+      "street": "Florastrasse 30",
+      "zipcode": "2502",
+      "city": "Biel/Bienne",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2026/05/iw5l9vv2w7tckb7bon12gpj30dtbab0m6kmzd3ua06s6j3uslw.jpg",
+        "url_org_logo_m": "/thumb/org/2026/05/iw5l9vv2w7tckb7bon12gpj30dtbab0m6kmzd3ua06s6j3uslw.jpg?alias=org_logo_m&signature=lbecF4iza-ejEjxDvzGn1mA2-CKHd2mJi_XUg5xTK4Y"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "4003204019",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "Gewerbe in Biel/Bienne mieten",
+    "livingspace": null
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "categorie": "A_praxis_medical",
+    "categorie_label": "Praxis / cabinet medical / terapie",
+    "scor": 1784.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/konizstrasse-60-3008-bern/1698652/",
+    "descarcat": "2026-08-17 12:25",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "arztpraxis",
+        "physiotherapie",
+        "praxisfläche"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "bürofläche",
+        "dienstleistung",
+        "gewerbefläche",
+        "office",
+        "praxisfläche"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 1698652,
+    "slug": "konizstrasse-60-3008-bern",
+    "url": "/de/wohnung/konizstrasse-60-3008-bern/1698652/",
+    "short_url": "/1698652/",
+    "submit_url": "/de/listing/1698652/submit/",
+    "status": "act",
+    "created": "2025-05-09T10:36:10.868483+02:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "14980.01.420010",
+    "ref_property": "14980",
+    "ref_house": "01",
+    "ref_object": "420010",
+    "alternative_reference": null,
+    "price_display": 14300,
+    "price_display_type": "TOTAL",
+    "price_unit": "monthly",
+    "published": "2025-05-09T16:15:44.682176+02:00",
+    "rent_net": 12800,
+    "rent_charges": 1500,
+    "rent_gross": 14300,
+    "short_title": "668m² Büro",
+    "public_title": "Könizstrasse 60, 3008 Bern - CHF 14’300 inkl. NK pro Monat",
+    "pitch_title": "668m² Büro in Bern mieten",
+    "description_title": "Gesundheit im Zentrum - Praxisfläche mit Synergiepotenzial",
+    "description": "An der Könizstrasse 60 in 3008 Bern wird per Oktober 2025 oder nach Vereinbarung im 2. Obergeschoss eine helle und vielseitig nutzbare **Gewerbefläche von 667m2** frei. Die Liegenschaft überzeugt durch eine hervorragende Erreichbarkeit, moderne Infrastruktur und eine vielseitige Nutzungsmöglichkeit - besonders ideal für eine **Arztpraxis** , aber auch bestens geeignet als **Büro- oder Dienstleistungsfläche** .   \n  \n\n\n**Ihre Vorteile auf einen Blick:**\n\n  * **Optimale Erreichbarkeit:** Nur rund **5 Minuten ab Autobahnausfahrt Bern-Bümpliz** entfernt - ideal für Patienten und Mitarbeitende. \n\n  * **Sehr gute ÖV-Anbindung:** Ab **Bahnhof Bern** in ca. **10 Minuten mit der Buslinie 17 oder Tramlinie 6**\n\n  * **Attraktive Umgebung:** **Rundumblick ins Freie** für ein angenehmes Arbeits- und Patientenklima. \n\n  * **Infrastruktur vor Ort:**\n\n    * **Warenlift** mit direktem Zugang zur Mietfläche \n\n    * **Voi Migros** im Erdgeschoss - perfekte Nahversorgung \n\n    * **Dachterrasse** zur Mitbenutzung - ideal für Pausen \n\n    * **13 Einstellhallenplätze** können zusätzlich gemietet werden \n\n  * **Innenausstattung:**\n\n    * **Flexibler Grundriss** \\- individuell anpassbar an Ihre Bedürfnisse \n\n    * **Teeküche** , **Dusche** sowie separate **Mitarbeiter- und Kundentoiletten**\n\n  * **Nachbarschaft:** Bereits heute befindet sich in der Liegenschaft eine etablierte Physiotherapie - ideale Voraussetzungen für Synergien im Gesundheitswesen. \n\n\n\n\nOb Sie eine moderne **Arztpraxis** , eine **Therapieeinrichtung** oder eine **ruhige, gut erreichbare Bürofläche** realisieren möchten - diese Fläche bietet Ihnen den idealen Rahmen für Ihre Tätigkeit. \n\n  \n\n\n**Kontaktieren Sie uns** für weitere Informationen oder eine unverbindliche Besichtigung - wir freuen uns auf Ihre Anfrage.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 668,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 668,
+    "number_of_rooms": null,
+    "floor": 2,
+    "attributes": [
+      {
+        "name": "accessiblewithwheelchair"
+      },
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Könizstrasse 60",
+    "zipcode": 3008,
+    "city": "Bern",
+    "public_address": "Könizstrasse 60, 3008 Bern",
+    "latitude": 46.9412174,
+    "longitude": 7.4185889,
+    "year_built": null,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 13253773,
+    "images": [
+      {
+        "pk": 13253773,
+        "caption": "10470-Kanizstrasse_60-3.jpg",
+        "url": "/media/ff/2025/05/hlvj9d2opbcfadciuxunc83wj9bygthe3r5dpobk5i7rf37kec.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/hlvj9d2opbcfadciuxunc83wj9bygthe3r5dpobk5i7rf37kec.jpg?alias=thumb_m&signature=oYym9RvTQQ-v8J2X3XFK-rTLPi9S_7fSn15PrH8_7dQ",
+        "url_listing_search": "/thumb/ff/2025/05/hlvj9d2opbcfadciuxunc83wj9bygthe3r5dpobk5i7rf37kec.jpg?alias=listing_search&signature=S_aiIw3f6m2U5LA23SpBlUyLNn4dxJBkdXpHMw9zKlM",
+        "ordering": 1,
+        "width": 1024,
+        "height": 685
+      },
+      {
+        "pk": 13253774,
+        "caption": "Buero_2.jpg",
+        "url": "/media/ff/2025/05/d85j9o931ny3ft09wk4pojisk8j2bb3j17wj78amyhrtf4flx0.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/d85j9o931ny3ft09wk4pojisk8j2bb3j17wj78amyhrtf4flx0.jpg?alias=thumb_m&signature=Pz_YiiUUcv-vYMjIkCsltndSaG_VrtHU7qWmhXqWDHI",
+        "url_listing_search": "/thumb/ff/2025/05/d85j9o931ny3ft09wk4pojisk8j2bb3j17wj78amyhrtf4flx0.jpg?alias=listing_search&signature=gAFBHK3sE1-cPCrb9vJOrGFYUj8_g_iJz377mIMhrL0",
+        "ordering": 2,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 13253775,
+        "caption": "Buero_1.jpg",
+        "url": "/media/ff/2025/05/v7ocee2706kwqio4i5wt13lk57ju0088lsp4mntnu9herjycnv.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/v7ocee2706kwqio4i5wt13lk57ju0088lsp4mntnu9herjycnv.jpg?alias=thumb_m&signature=TTB6ux_J2uGH2QIxYgL6-M4wr2bwlxofUtLBlrAZWK0",
+        "url_listing_search": "/thumb/ff/2025/05/v7ocee2706kwqio4i5wt13lk57ju0088lsp4mntnu9herjycnv.jpg?alias=listing_search&signature=I-NKtYQk2l_Ro6MUs6DjfNLEqMK0KJIWhH2bnsiOiBk",
+        "ordering": 3,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 13253776,
+        "caption": "Eingangsbereich.jpg",
+        "url": "/media/ff/2025/05/qfbld1zo13titlgga9tno2ucymltyb6pze6abtktn3sbudjgkq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/qfbld1zo13titlgga9tno2ucymltyb6pze6abtktn3sbudjgkq.jpg?alias=thumb_m&signature=4BKYPHvwZiFgCXAD054kgRTgqhjSyt2ZdUOBdz47mDs",
+        "url_listing_search": "/thumb/ff/2025/05/qfbld1zo13titlgga9tno2ucymltyb6pze6abtktn3sbudjgkq.jpg?alias=listing_search&signature=acdGQ8GXCcNa5YAOPv3MeMN8ZHWxXD-J-N9Qs0GXDxs",
+        "ordering": 4,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 13253777,
+        "caption": "Pausenraum.jpg",
+        "url": "/media/ff/2025/05/09sl8upvdxhry94fpe3y39r8w7oivjgyvs2cjqh51ce4447ydj.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/09sl8upvdxhry94fpe3y39r8w7oivjgyvs2cjqh51ce4447ydj.jpg?alias=thumb_m&signature=LhoV3J3_UXHMb8PtmnTKrbn0AjbMrWH-ypJw_KqNsx0",
+        "url_listing_search": "/thumb/ff/2025/05/09sl8upvdxhry94fpe3y39r8w7oivjgyvs2cjqh51ce4447ydj.jpg?alias=listing_search&signature=nc0FSYfMvlpJ7vN9ZPNtBXfcuneGU_enMsxmDO_GW8Q",
+        "ordering": 5,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 13253778,
+        "caption": "Teekueche.jpg",
+        "url": "/media/ff/2025/05/kuv3vwjagnbob7xfj58ffkl9bmvxn7dt5eucbjddyt0bozuwul.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/kuv3vwjagnbob7xfj58ffkl9bmvxn7dt5eucbjddyt0bozuwul.jpg?alias=thumb_m&signature=Mu_02A-BMbc1K4ZsITYElkAa6e4pNWtn1hYNVOgVG_M",
+        "url_listing_search": "/thumb/ff/2025/05/kuv3vwjagnbob7xfj58ffkl9bmvxn7dt5eucbjddyt0bozuwul.jpg?alias=listing_search&signature=5wc2XoGyNdvi4gXofvH68Xa_cFx10Fzg32NUB0bXUTU",
+        "ordering": 6,
+        "width": 1024,
+        "height": 768
+      },
+      {
+        "pk": 13253779,
+        "caption": "Kundentoilette.jpg",
+        "url": "/media/ff/2025/05/vaphnhfr1aqd069kxjp2zxr9i6seee8fspzymeia6r3air1ojt.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/vaphnhfr1aqd069kxjp2zxr9i6seee8fspzymeia6r3air1ojt.jpg?alias=thumb_m&signature=NK6GCjpZ_YjyUha5x8BaEOXGhdv7pIfrhXy3rT8C9ik",
+        "url_listing_search": "/thumb/ff/2025/05/vaphnhfr1aqd069kxjp2zxr9i6seee8fspzymeia6r3air1ojt.jpg?alias=listing_search&signature=4in-x0XDgPELQ-Ht6pIkKm0xnM_eglei-wUpMIJ_W0E",
+        "ordering": 7,
+        "width": 768,
+        "height": 1024
+      },
+      {
+        "pk": 13253780,
+        "caption": "Terrasse.jpg",
+        "url": "/media/ff/2025/05/e6np951ruza3ty0wm7uuyl9fqq2oxs9otcogcyb0tup7svzkqq.jpg",
+        "url_thumb_m": "/thumb/ff/2025/05/e6np951ruza3ty0wm7uuyl9fqq2oxs9otcogcyb0tup7svzkqq.jpg?alias=thumb_m&signature=FQBagzSmnl5htGIRV4zgIF6hr7YNm1rt3rsbbUQnGyE",
+        "url_listing_search": "/thumb/ff/2025/05/e6np951ruza3ty0wm7uuyl9fqq2oxs9otcogcyb0tup7svzkqq.jpg?alias=listing_search&signature=VO0dxZ4kWLUcP4NCQHrfP1mYYggVT2rQG0ho6UR1NU4",
+        "ordering": 8,
+        "width": 1024,
+        "height": 768
+      }
+    ],
+    "documents": [
+      274871
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "668m² Büro in Bern mieten",
+    "livingspace": 668
+  }
+}

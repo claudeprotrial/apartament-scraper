@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1750.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/falkenhoheweg-12a-3012-bern/1482177/",
+    "descarcat": "2026-08-17 12:27",
+    "cuvinte_cheie": {
+      "praxis_relevant": true,
+      "kw_praxis": [
+        "praxisraum",
+        "praxisräumlichkeiten"
+      ],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "office"
+      ],
+      "kw_retail": [
+        "bar"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 8
+  },
+  "raw": {
+    "pk": 1482177,
+    "slug": "falkenhoheweg-12a-3012-bern",
+    "url": "/de/wohnung/falkenhoheweg-12a-3012-bern/1482177/",
+    "short_url": "/1482177/",
+    "submit_url": "/de/listing/1482177/submit/",
+    "status": "act",
+    "created": "2025-01-07T16:30:01.153464+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "OFFICE",
+    "reference": "12750.01.390010",
+    "ref_property": "12750",
+    "ref_house": "01",
+    "ref_object": "390010",
+    "alternative_reference": null,
+    "price_display": null,
+    "price_display_type": null,
+    "price_unit": "yearlym2",
+    "published": "2025-01-29T12:11:08.692615+01:00",
+    "rent_net": null,
+    "rent_charges": null,
+    "rent_gross": null,
+    "short_title": "87m² Büro",
+    "public_title": "Falkenhöheweg 12a, 3012 Bern - auf Anfrage",
+    "pitch_title": "87m² Büro in Bern mieten",
+    "description_title": "IHRE NEUE GESCHÄFTSLOKALITÄT IN DER LÄNGGASSE",
+    "description": "Der Liegenschaft liegt an ruhiger und zentraler Lage. Der Bahnhof Bern (Welle 7) ist innert 6 Gehminuten und die Bushaltestelle \"Universität\" innert 3 Gehminuten erreichbar.   \n  \nDie Räumlichkeiten im Tief-Parterre bieten Ihnen Folgendes:   \n  \n\\- gute Raumaufteilung (5 Zimmer)   \n\\- WC mit Lavabo   \n\\- Parkettböden in allen Zimmern   \n\\- Kellerabteil   \n\\- Parkmöglichkeiten vorhanden   \n  \nDas Mietobjekt wird im aktuellen Zustand vermietet und kann als Büro- oder Praxisraum genutzt werden (bisher Praxisräumlichkeiten). Allfällige Änderungen am Ausbau können geprüft werden.   \n  \nWir freuen uns auf Ihre Kontaktaufnahme und stehen Ihnen bei Fragen gerne zur Verfügung.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 87,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 87,
+    "number_of_rooms": null,
+    "floor": 0,
+    "attributes": [
+      {
+        "name": "lift"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Falkenhöheweg 12a",
+    "zipcode": 3012,
+    "city": "Bern",
+    "public_address": "Falkenhöheweg 12a, 3012 Bern",
+    "latitude": 46.9504695,
+    "longitude": 7.433363200000001,
+    "year_built": 1959,
+    "year_renovated": null,
+    "moving_date_type": "imm",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 37205034,
+    "images": [
+      {
+        "pk": 37205034,
+        "caption": "3260-Falkenhoeheweg_12a-2.png",
+        "url": "/media/ff/2026/06/mifb83vauk85nru08zr2yy4cu436opfifepybj4oj7tmzbp54c.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/mifb83vauk85nru08zr2yy4cu436opfifepybj4oj7tmzbp54c.jpg?alias=thumb_m&signature=3a17s4A62_5rCcPumnHS8Nl1FJa9XzkD3K4TYJ6YfrY",
+        "url_listing_search": "/thumb/ff/2026/06/mifb83vauk85nru08zr2yy4cu436opfifepybj4oj7tmzbp54c.jpg?alias=listing_search&signature=rzCYsXNPXb6iMAPRzX5Q6RRIPP4UMNtKtgAbaU9ptLc",
+        "ordering": 1,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205038,
+        "caption": "3260-Falkenhoeheweg_12a-3.jpg",
+        "url": "/media/ff/2026/06/fcrs9sw38a6ng8k0wfudnivrdei0sgh88a0o1d0258sok51trp.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/fcrs9sw38a6ng8k0wfudnivrdei0sgh88a0o1d0258sok51trp.jpg?alias=thumb_m&signature=3H7vJI3amtEeCjCLRtJZzLsnS8ObcRPo7p8lHzdAMxI",
+        "url_listing_search": "/thumb/ff/2026/06/fcrs9sw38a6ng8k0wfudnivrdei0sgh88a0o1d0258sok51trp.jpg?alias=listing_search&signature=rFIXTUbHkoKqnLUF0stLRuiIazeyemLuz0i6P1XNtoM",
+        "ordering": 2,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205041,
+        "caption": "DSC_3227.JPG",
+        "url": "/media/ff/2026/06/y8yccb9e5067d1ezrufp8ed1ocfcqp3zezxtba98dk0n4swfwi.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/y8yccb9e5067d1ezrufp8ed1ocfcqp3zezxtba98dk0n4swfwi.jpg?alias=thumb_m&signature=mErcuCDhywUPrOVEHE9D2yfw1IzX-baB1TbzoyX3x2M",
+        "url_listing_search": "/thumb/ff/2026/06/y8yccb9e5067d1ezrufp8ed1ocfcqp3zezxtba98dk0n4swfwi.jpg?alias=listing_search&signature=l-ff-GTZ4Zq_lLDTDv0hQHgs-1Zhcpn6181r32-jJMc",
+        "ordering": 3,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205042,
+        "caption": "Eingangsbereich.JPG",
+        "url": "/media/ff/2026/06/7f72m23ugh5war6w4kyr5gnynua18svkqwx12nwgpus9auw9lm.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/7f72m23ugh5war6w4kyr5gnynua18svkqwx12nwgpus9auw9lm.jpg?alias=thumb_m&signature=JynCcTebKCN4VSlKXUlIX2Y-j1py5DiD01UB4TboCug",
+        "url_listing_search": "/thumb/ff/2026/06/7f72m23ugh5war6w4kyr5gnynua18svkqwx12nwgpus9auw9lm.jpg?alias=listing_search&signature=n96BT_1PI4GiUofER_Tp3M1Y2FvHmySdWtG1HEoq0Nw",
+        "ordering": 4,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205046,
+        "caption": "Büro.JPG",
+        "url": "/media/ff/2026/06/sty1w5vj93lcuj3djqpsw1loeo4b1lrwfgjvcczl8v9c08gxos.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/sty1w5vj93lcuj3djqpsw1loeo4b1lrwfgjvcczl8v9c08gxos.jpg?alias=thumb_m&signature=fHdghlFTJ_osd6vWKJyGQBOj2dYSMtTWqYLTyn_XLRY",
+        "url_listing_search": "/thumb/ff/2026/06/sty1w5vj93lcuj3djqpsw1loeo4b1lrwfgjvcczl8v9c08gxos.jpg?alias=listing_search&signature=jlVuKVMYtSbx3uqUbjHqslak7dPQ2O10N7o60fUMTZY",
+        "ordering": 5,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205047,
+        "caption": "Büro_3257.JPG",
+        "url": "/media/ff/2026/06/w9z2b85tncwf1cr6qh8yp7ae6p748r6x652ouevghqm8bgaur3.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/w9z2b85tncwf1cr6qh8yp7ae6p748r6x652ouevghqm8bgaur3.jpg?alias=thumb_m&signature=2bUB7tVkHWLsq_jPkSGfjRlU6v9sVjjt-zxx5dTfoTQ",
+        "url_listing_search": "/thumb/ff/2026/06/w9z2b85tncwf1cr6qh8yp7ae6p748r6x652ouevghqm8bgaur3.jpg?alias=listing_search&signature=fzWmqEoLkew-Wj1V-irlk86Q0MHLP3uME77-cHUUaAE",
+        "ordering": 6,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205048,
+        "caption": "Gang.JPG",
+        "url": "/media/ff/2026/06/mtig2z528igr71gdjg1jw0nkh3m6b68gw72cx6kn1xlg9uv660.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/mtig2z528igr71gdjg1jw0nkh3m6b68gw72cx6kn1xlg9uv660.jpg?alias=thumb_m&signature=amanIJKZPMSJFaiFjxqdfHodpReSbUJcXeU79J9zG_E",
+        "url_listing_search": "/thumb/ff/2026/06/mtig2z528igr71gdjg1jw0nkh3m6b68gw72cx6kn1xlg9uv660.jpg?alias=listing_search&signature=D8UCmD66IsqI6X69OIWmU6xR-IqIKsY-p-dAH5RsTPo",
+        "ordering": 7,
+        "width": 1024,
+        "height": 683
+      },
+      {
+        "pk": 37205049,
+        "caption": "WC.JPG",
+        "url": "/media/ff/2026/06/7wz6dkwt87w18vwawqyzu6k57m8ywzf7h5dcgudzrdc1rtybfl.jpg",
+        "url_thumb_m": "/thumb/ff/2026/06/7wz6dkwt87w18vwawqyzu6k57m8ywzf7h5dcgudzrdc1rtybfl.jpg?alias=thumb_m&signature=QAZyCJNxpV9uW3yHsgMTBz5xwCRCpm2AhUUtAjpCCbQ",
+        "url_listing_search": "/thumb/ff/2026/06/7wz6dkwt87w18vwawqyzu6k57m8ywzf7h5dcgudzrdc1rtybfl.jpg?alias=listing_search&signature=rSMkcjhMpM-2hoVRWmasksmv8Yoi3Mgk9iZTI4HsJJc",
+        "ordering": 8,
+        "width": 1024,
+        "height": 641
+      }
+    ],
+    "documents": [
+      253566
+    ],
+    "agency": {
+      "name": "Von Graffenried AG Liegenschaften",
+      "name_2": null,
+      "street": "Marktgass-Passage 3",
+      "zipcode": "3011",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png",
+        "url_org_logo_m": "/thumb/org/2022/03/bon7m0k3ydohl65h6iguincp8m1ndc5yd3qseh9h0mst97wuo3.png?alias=org_logo_m&signature=tS9zM8Jto6aSmg0vps4yeTKUueZLepE9t1xU5a7a0io"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "87m² Büro in Bern mieten",
+    "livingspace": 87
+  }
+}

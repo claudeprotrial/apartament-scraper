@@ -1,0 +1,187 @@
+{
+  "meta": {
+    "categorie": "B_buero_gewerbe",
+    "categorie_label": "Birou / gewerbe / atelier / coworking",
+    "scor": 1622.0,
+    "regiune": "Berna (oraș)",
+    "in_bern": true,
+    "sursa": "flatfox.ch",
+    "url": "https://flatfox.ch/de/wohnung/laupenstr-37-3008-bern/521746/",
+    "descarcat": "2026-08-17 12:38",
+    "cuvinte_cheie": {
+      "praxis_relevant": false,
+      "kw_praxis": [],
+      "kw_praxis_slabe": [],
+      "kw_business": [
+        "<type>",
+        "büro-",
+        "gewerbefläche"
+      ],
+      "kw_retail": [
+        "bar",
+        "café",
+        "restaurant"
+      ],
+      "kw_wohnen": []
+    },
+    "nr_imagini": 7
+  },
+  "raw": {
+    "pk": 521746,
+    "slug": "laupenstr-37-3008-bern",
+    "url": "/de/wohnung/laupenstr-37-3008-bern/521746/",
+    "short_url": "/521746/",
+    "submit_url": "/de/listing/521746/submit/",
+    "status": "act",
+    "created": "2021-12-20T14:48:10.463696+01:00",
+    "offer_type": "RENT",
+    "object_category": "INDUSTRY",
+    "object_type": "COMMERCIAL",
+    "reference": "0003.02.0901",
+    "ref_property": "0003",
+    "ref_house": "02",
+    "ref_object": "0901",
+    "alternative_reference": null,
+    "price_display": 275,
+    "price_display_type": "M2",
+    "price_unit": "yearlym2",
+    "published": "2024-03-08T13:43:20.200159+01:00",
+    "rent_net": 240,
+    "rent_charges": 35,
+    "rent_gross": 275,
+    "short_title": "194m² Gewerbe",
+    "public_title": "Laupenstr. 37, 3008 Bern - CHF 275 inkl. NK pro m² / Jahr",
+    "pitch_title": "194m² Gewerbe in Bern mieten",
+    "description_title": "Ihre neue Büro- / Gewerbefläche nähe Bahnhof Bern",
+    "description": "Sie sind auf der Suche nach geeigneten Büro- / Gewerberäumlichkeiten in der Stadt Bern? \n\nAn der Laupenstrasse 37 in Bern vermieten wir eine Fläche mit rund 194 m2. Das Gebäude wurde im 2024/2025 umfassend saniert und die Fläche befindet sich daher in einem Top-Zustand. \n\n  \n\n\nDie Fläche liegt in der Nähe des Hauptbahnhofs, in Richtung Inselspital, und ist hervorragend an den öffentlichen Verkehr angebunden. \n\n**  \n**\n\nDie Fläche wird im Rohbau vermietet und ist bereit für Ihren individuellen Mieterausbau. \n\n  \n\n\nSanitäranlagen sind bereits im Grundausbau enthalten. Im Zuge der Sanierung wurde in der Liegenschaft eine Grundklimatisierung verbaut. Es besteht daher die Möglichkeit, die Mietfläche mit einem Kühlsystem auszustatten.   \n\n\n  \n\n\nDas Gebäude ist rollstuhlgerecht und die Flächen sind mit einem Personenlift erschlossen. \n\n**  \n**\n\nIn der Umgebung finden Sie zahlreiche Restaurants, Cafés und Geschäfte, die das Arbeitsumfeld bereichern.   \n\n\n**  \n**\n\nEinstellplätze mit oder ohne Ladestation können dazu gemietet werden. \n\n  \n\n\nHinweis: Bei den Fotos handelt es sich um die vergleichbare Fläche im 3.OG. Die Visualisierungen zeigen einen möglichen Ausbau.",
+    "surface_living": null,
+    "surface_property": null,
+    "surface_usable": 194,
+    "surface_usable_minimum": null,
+    "volume": null,
+    "space_display": 194,
+    "number_of_rooms": null,
+    "floor": -1,
+    "attributes": [
+      {
+        "name": "lift"
+      },
+      {
+        "name": "accessiblewithwheelchair"
+      }
+    ],
+    "is_furnished": false,
+    "is_temporary": false,
+    "is_selling_furniture": false,
+    "is_swap": false,
+    "street": "Laupenstr. 37",
+    "zipcode": 3008,
+    "city": "Bern",
+    "public_address": "Laupenstr. 37, 3008 Bern",
+    "latitude": 46.9472779,
+    "longitude": 7.4314254,
+    "year_built": null,
+    "year_renovated": 2024,
+    "moving_date_type": "agr",
+    "moving_date": null,
+    "video_url": null,
+    "tour_url": null,
+    "website_url": null,
+    "live_viewing_url": null,
+    "cover_image": 16751555,
+    "images": [
+      {
+        "pk": 16751555,
+        "caption": "Visualisierung_Bern_GF_VS1.jpg",
+        "url": "/media/ff/2025/06/6pbmx62bpr9puqk8icorxzc3r3092hidxhki6hskgqqcwvu298.jpg",
+        "url_thumb_m": "/thumb/ff/2025/06/6pbmx62bpr9puqk8icorxzc3r3092hidxhki6hskgqqcwvu298.jpg?alias=thumb_m&signature=1mk5WHKJG_hPs0eOeSKXdEXEkY5_7wC7URKCzqk-ncM",
+        "url_listing_search": "/thumb/ff/2025/06/6pbmx62bpr9puqk8icorxzc3r3092hidxhki6hskgqqcwvu298.jpg?alias=listing_search&signature=4q62QFKvTSN083onZgsKYATpJrsmbzZL8WgCRFL-G_s",
+        "ordering": 1,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 16751556,
+        "caption": "Visualisierung_Bern_GF_VS3.jpg",
+        "url": "/media/ff/2025/06/bael3yq923pcwffzh5vjokzdy58ryx4qqx2se4toztngfijl5b.jpg",
+        "url_thumb_m": "/thumb/ff/2025/06/bael3yq923pcwffzh5vjokzdy58ryx4qqx2se4toztngfijl5b.jpg?alias=thumb_m&signature=hr-ORs-QcUyMzgaT_3BvEFSwzjXHmg0R5R6OrbKzbrE",
+        "url_listing_search": "/thumb/ff/2025/06/bael3yq923pcwffzh5vjokzdy58ryx4qqx2se4toztngfijl5b.jpg?alias=listing_search&signature=kwsHKFqQV4hbsAqotSdSpHRBl-YiRI4IRvmespWC3_s",
+        "ordering": 2,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 16751557,
+        "caption": "GF-Bern-Gewerbeflaeche-7.jpg",
+        "url": "/media/ff/2025/06/pmwjx6wr4n0syun3oqh85yiyheo4ymo7tgbz254i7uvoiorsua.jpg",
+        "url_thumb_m": "/thumb/ff/2025/06/pmwjx6wr4n0syun3oqh85yiyheo4ymo7tgbz254i7uvoiorsua.jpg?alias=thumb_m&signature=k44ByjBMYWpo8tqUlQhvFSkX5GCW73Z64UtmKdhZ_DI",
+        "url_listing_search": "/thumb/ff/2025/06/pmwjx6wr4n0syun3oqh85yiyheo4ymo7tgbz254i7uvoiorsua.jpg?alias=listing_search&signature=WankRcFUXk1su57qwyHddYs1XhH4JGZg_icS2nOXnX0",
+        "ordering": 3,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 16751558,
+        "caption": "GF-Bern-Gewerbeflaeche-9.jpg",
+        "url": "/media/ff/2025/06/42lnspzw405koze4ehh66e68x4ww2f8waqvntdmanay6tnhkrp.jpg",
+        "url_thumb_m": "/thumb/ff/2025/06/42lnspzw405koze4ehh66e68x4ww2f8waqvntdmanay6tnhkrp.jpg?alias=thumb_m&signature=QjvTRobGZZpVRsrq3OTrn6lAtcfroDXT_DenApTnf0o",
+        "url_listing_search": "/thumb/ff/2025/06/42lnspzw405koze4ehh66e68x4ww2f8waqvntdmanay6tnhkrp.jpg?alias=listing_search&signature=Dcuqpd6e42FwSXo12tMIDAw7NPa5Qnr_2nlmuCLnxA0",
+        "ordering": 4,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 16751559,
+        "caption": "GF-Bern-WC-1.jpg",
+        "url": "/media/ff/2025/06/116u61258u75r23qvjnfn4rzfvkuu3cun7j2kax3jvst1wbz22.jpg",
+        "url_thumb_m": "/thumb/ff/2025/06/116u61258u75r23qvjnfn4rzfvkuu3cun7j2kax3jvst1wbz22.jpg?alias=thumb_m&signature=e01xHMJx8vgJSDLt20L3FquuRKUEX_wtr3z8UUX9acU",
+        "url_listing_search": "/thumb/ff/2025/06/116u61258u75r23qvjnfn4rzfvkuu3cun7j2kax3jvst1wbz22.jpg?alias=listing_search&signature=tKDYmENP64S0f4yWtQVg_iYa0n4N78Z1u9WjCSgPgK8",
+        "ordering": 5,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 16751560,
+        "caption": "GF-Bern-WC-2.jpg",
+        "url": "/media/ff/2025/06/uu2e8nv7vwfa8coljzdvhs0d06t7mit40gpoezi58z2ub4o7mw.jpg",
+        "url_thumb_m": "/thumb/ff/2025/06/uu2e8nv7vwfa8coljzdvhs0d06t7mit40gpoezi58z2ub4o7mw.jpg?alias=thumb_m&signature=WPp5qZUvU65vVxn5Ojn7cOv96kvexlAcYFbKJkIDLss",
+        "url_listing_search": "/thumb/ff/2025/06/uu2e8nv7vwfa8coljzdvhs0d06t7mit40gpoezi58z2ub4o7mw.jpg?alias=listing_search&signature=ofRLdvu3dKZb43hRtxk7DI_1k3o1O-R8r9qfVnTzUQA",
+        "ordering": 6,
+        "width": 1024,
+        "height": 576
+      },
+      {
+        "pk": 16751561,
+        "caption": "Drohne-8.jpg",
+        "url": "/media/ff/2025/06/5a1fhjep9wh6m45bs75vfb77q3z1q0369wmw3oubhukhllsq7i.jpg",
+        "url_thumb_m": "/thumb/ff/2025/06/5a1fhjep9wh6m45bs75vfb77q3z1q0369wmw3oubhukhllsq7i.jpg?alias=thumb_m&signature=T0fCv0-lcxtDUwOeB9-f3e4emp7b07Ml03jP5Xp69Xc",
+        "url_listing_search": "/thumb/ff/2025/06/5a1fhjep9wh6m45bs75vfb77q3z1q0369wmw3oubhukhllsq7i.jpg?alias=listing_search&signature=fnapcnlsLpyxHmcyqcjbDaBNZRt0I1-u00Yg6jrJaYU",
+        "ordering": 7,
+        "width": 1024,
+        "height": 576
+      }
+    ],
+    "documents": [
+      344558
+    ],
+    "agency": {
+      "name": "Allianz Suisse Immobilien AG",
+      "name_2": null,
+      "street": "Effingerstrasse 34",
+      "zipcode": "3001",
+      "city": "Bern",
+      "country": "CH",
+      "logo": {
+        "url": "/media/org/2019/04/b6olf9kdpe1v8m0w5il1kzxiizgd2120uk2ito7hyblo60u05k.png",
+        "url_org_logo_m": "/thumb/org/2019/04/b6olf9kdpe1v8m0w5il1kzxiizgd2120uk2ito7hyblo60u05k.png?alias=org_logo_m&signature=ekn9ZggwPb--mq1mZhrbziWmYBuM20ZKEgSSQuwRjqo"
+      }
+    },
+    "reserved": false,
+    "state": "BE",
+    "country": "CH",
+    "smg_id": "",
+    "flatfox_priority_exclusive_until": null,
+    "rent_title": "194m² Gewerbe in Bern mieten",
+    "livingspace": 194
+  }
+}
