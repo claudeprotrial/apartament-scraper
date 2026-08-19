@@ -30,6 +30,10 @@ a{color:var(--accent)}
 /* ---- bara de sus ---- */
 header{position:sticky;top:0;z-index:20;background:var(--bg);
   border-bottom:1px solid var(--line);padding:14px 20px 12px}
+/* Pe ecrane inguste sau scunde controalele se aseaza pe multe randuri, iar un
+   antet lipit ajunge mai inalt decat fereastra si acopera tot. Il lasam sa
+   plece la derulare. */
+@media (max-width:700px),(max-height:620px){header{position:static}}
 .top{display:flex;align-items:baseline;gap:14px;flex-wrap:wrap;margin-bottom:11px}
 h1{font-size:17px;margin:0;letter-spacing:-.01em}
 .sub{color:var(--ink3);font-size:13px}
